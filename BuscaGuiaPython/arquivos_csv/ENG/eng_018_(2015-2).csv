@@ -1,0 +1,2563 @@
+Disciplina,Turma,Coleg.,Vagas Ofe,Dia,Horário,Docente
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENG001 - MECANICA GERAL I,10100.0,105.0,45.0,SEG,14:50 às 16:40,Bruno da Cunha Diniz
+,,,,QUA,14:50 às 15:45,Bruno da Cunha Diniz
+,,,,,15:45 às 16:40,Bruno da Cunha Diniz
+,20200.0,189.0,2.0,SEG,14:50 às 16:40,Ailton de Sousa Silveira Lima Junior
+,,107.0,10.0,,,Ailton de Sousa Silveira Lima Junior
+,,190.0,20.0,,,Ailton de Sousa Silveira Lima Junior
+,,189.0,2.0,QUA,14:50 às 15:45,Ailton de Sousa Silveira Lima Junior
+,,107.0,10.0,,,Ailton de Sousa Silveira Lima Junior
+,,190.0,20.0,,,Ailton de Sousa Silveira Lima Junior
+,,107.0,10.0,,15:45 às 16:40,Ailton de Sousa Silveira Lima Junior
+,,189.0,2.0,,,Ailton de Sousa Silveira Lima Junior
+,,190.0,20.0,,,Ailton de Sousa Silveira Lima Junior
+,30300.0,103.0,45.0,SEG,16:40 às 18:30,Lourenco Gobira Alves
+,,,,QUA,16:40 às 17:35,Lourenco Gobira Alves
+,,,,,17:35 às 18:30,Lourenco Gobira Alves
+,40400.0,105.0,15.0,SEG,16:40 às 18:30,Jayann Ismar Lira Almeida
+,,107.0,15.0,,,Jayann Ismar Lira Almeida
+,,190.0,15.0,,,Jayann Ismar Lira Almeida
+,,,,QUA,16:40 às 17:35,Jayann Ismar Lira Almeida
+,,105.0,15.0,,,Jayann Ismar Lira Almeida
+,,107.0,15.0,,,Jayann Ismar Lira Almeida
+,,105.0,15.0,,17:35 às 18:30,Jayann Ismar Lira Almeida
+,,107.0,15.0,,,Jayann Ismar Lira Almeida
+,,190.0,15.0,,,Jayann Ismar Lira Almeida
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENG002 - MECANICA GERAL II,10100.0,105.0,20.0,TER,10:40 às 12:30,Carlos Arthur Mattos Teixeira Cavalcante
+,,107.0,10.0,,,Carlos Arthur Mattos Teixeira Cavalcante
+,,103.0,10.0,,,Carlos Arthur Mattos Teixeira Cavalcante
+,,107.0,10.0,QUI,10:40 às 11:35,Carlos Arthur Mattos Teixeira Cavalcante
+,,105.0,20.0,,,Carlos Arthur Mattos Teixeira Cavalcante
+,,103.0,10.0,,,Carlos Arthur Mattos Teixeira Cavalcante
+,,,,,11:35 às 12:30,Carlos Arthur Mattos Teixeira Cavalcante
+,,107.0,10.0,,,Carlos Arthur Mattos Teixeira Cavalcante
+,,105.0,20.0,,,Carlos Arthur Mattos Teixeira Cavalcante
+,20200.0,105.0,45.0,TER,07:00 às 08:50,Carlos Arthur Mattos Teixeira Cavalcante
+,,,,QUI,07:00 às 08:50,Carlos Arthur Mattos Teixeira Cavalcante
+,30300.0,107.0,5.0,TER,07:00 às 08:50,Lourenco Gobira Alves
+,,103.0,40.0,,,Lourenco Gobira Alves
+,,107.0,5.0,QUI,07:00 às 08:50,Lourenco Gobira Alves
+,,103.0,40.0,,,Lourenco Gobira Alves
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENG003 - ELETRICIDADE,10100.0,105.0,5.0,SEG,16:40 às 18:30,Ana Rita dos Santos Barbosa
+,,106.0,5.0,,,Ana Rita dos Santos Barbosa
+,,103.0,10.0,,,Ana Rita dos Santos Barbosa
+,,106.0,5.0,QUA,16:40 às 18:30,Ana Rita dos Santos Barbosa
+,,103.0,10.0,,,Ana Rita dos Santos Barbosa
+,,105.0,5.0,,,Ana Rita dos Santos Barbosa
+,20200.0,102.0,45.0,TER,10:40 às 12:30,Antonio Santos Sanchez
+,,,,QUI,10:40 às 12:30,Antonio Santos Sanchez
+,30300.0,106.0,45.0,TER,10:40 às 12:30,Manoel Messias Silva Junior
+,,,,QUI,10:40 às 12:30,Manoel Messias Silva Junior
+,40400.0,103.0,20.0,TER,13:00 às 14:50,Antonio Santos Sanchez
+,,106.0,5.0,,,Antonio Santos Sanchez
+,,107.0,25.0,,,Antonio Santos Sanchez
+,,,,QUI,13:00 às 14:50,Antonio Santos Sanchez
+,,106.0,5.0,,,Antonio Santos Sanchez
+,,103.0,20.0,,,Antonio Santos Sanchez
+,50500.0,102.0,45.0,TER,14:50 às 16:40,Antonio Santos Sanchez
+,,,,QUI,14:50 às 16:40,Antonio Santos Sanchez
+,60600.0,190.0,5.0,TER,14:50 às 16:40,Ademario Jose de Carvalho Neto
+,,105.0,35.0,,,Ademario Jose de Carvalho Neto
+,,190.0,5.0,QUI,14:50 às 16:40,Ademario Jose de Carvalho Neto
+,,105.0,35.0,,,Ademario Jose de Carvalho Neto
+,70700.0,185.0,10.0,TER,18:30 às 20:20,Ana Rita dos Santos Barbosa
+,,,,QUI,18:30 às 20:20,Ana Rita dos Santos Barbosa
+,80800.0,188.0,35.0,TER,20:20 às 22:10,Andre Luiz de Carvalho Valente
+,,185.0,8.0,,,Andre Luiz de Carvalho Valente
+,,189.0,7.0,,,Andre Luiz de Carvalho Valente
+,,,,QUI,20:20 às 22:10,Andre Luiz de Carvalho Valente
+,,188.0,35.0,,,Andre Luiz de Carvalho Valente
+,,185.0,8.0,,,Andre Luiz de Carvalho Valente
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENG006 - ENGENHARIA E SEGURANÇA DE TRÁFEGO,10100.0,102.0,30.0,SEG,08:50 às 10:40,Elio Santana Fontes
+,,,,QUA,08:50 às 10:40,Elio Santana Fontes
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENG008 - FENOMENOS DE TRANSPORTE I-A,10100.0,106.0,45.0,SEG,16:40 às 18:30,Luiz Mario Nelson de Gois
+,,190.0,1.0,,,Luiz Mario Nelson de Gois
+,,189.0,1.0,,,Luiz Mario Nelson de Gois
+,,113.0,3.0,,,Luiz Mario Nelson de Gois
+,,190.0,1.0,QUA,16:40 às 18:30,Luiz Mario Nelson de Gois
+,,189.0,1.0,,,Luiz Mario Nelson de Gois
+,,106.0,45.0,,,Luiz Mario Nelson de Gois
+,,113.0,3.0,,,Luiz Mario Nelson de Gois
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENG009 - CONTROLE DE PROCESSOS QUÍMICOS,10100.0,106.0,45.0,SEG,18:30 às 20:20,Leizer Schnitman
+,,,,QUA,18:30 às 20:20,Leizer Schnitman
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENG012 - BARRAGENS DE TERRA,10100.0,102.0,30.0,SEG,07:00 às 08:50,Luis Edmundo Prado de Campos
+,,,,QUA,07:00 às 08:50,Luis Edmundo Prado de Campos
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENG015 - ECOLOGIA APLICADA E CONTROLE DA POLUICAO,10100.0,107.0,45.0,TER,13:00 às 14:50,Jose Mauricio Sousa Fiuza
+,,106.0,1.0,,,Jose Mauricio Sousa Fiuza
+,,,,QUI,13:00 às 14:50,Jose Mauricio Sousa Fiuza
+,,107.0,45.0,,,Jose Mauricio Sousa Fiuza
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENG021 - MECANICA DAS ESTRUTURAS,10100.0,101.0,45.0,TER,08:50 às 10:40,Cesare Fiorini
+,,,,QUI,08:50 às 10:40,Cesare Fiorini
+,20200.0,101.0,1.0,TER,16:40 às 18:30,Salvatore Verde
+,,,,QUI,16:40 às 18:30,Salvatore Verde
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENG022 - MATERIAIS DE CONSTRUÇÃO,10100.0,101.0,20.0,SEG,07:00 às 08:50,Ana Cristian Alves de Magalhaes
+,,,,QUA,07:00 às 08:50,Ana Cristian Alves de Magalhaes
+,,,,SEX,07:00 às 08:50,Ana Cristian Alves de Magalhaes
+,10200.0,101.0,20.0,SEG,07:00 às 08:50,Ana Cristian Alves de Magalhaes
+,,,,QUA,07:00 às 08:50,Ana Cristian Alves de Magalhaes
+,,,,SEX,07:00 às 08:50,Cleber Marcos Ribeiro Dias
+,20300.0,101.0,20.0,SEG,08:50 às 10:40,Ana Cristian Alves de Magalhaes
+,,,,QUA,08:50 às 10:40,Ana Cristian Alves de Magalhaes
+,,,,SEX,08:50 às 10:40,Ana Cristian Alves de Magalhaes
+,20400.0,101.0,20.0,SEG,08:50 às 10:40,Ana Cristian Alves de Magalhaes
+,,,,QUA,08:50 às 10:40,Ana Cristian Alves de Magalhaes
+,,,,SEX,08:50 às 10:40,Cleber Marcos Ribeiro Dias
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENG023 - TECNICAS CONSTRUTIVAS I,10100.0,101.0,45.0,TER,10:40 às 12:30,Ricardo Fernandes Carvalho
+,,,,QUI,10:40 às 12:30,Ricardo Fernandes Carvalho
+,20200.0,101.0,45.0,TER,16:40 às 18:30,Ricardo Fernandes Carvalho
+,,,,QUI,16:40 às 18:30,Ricardo Fernandes Carvalho
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENG024 - TÉCNICAS CONSTRUTIVAS II,10100.0,101.0,45.0,TER,08:50 às 10:40,Jardel Pereira Goncalves
+,,,,QUI,08:50 às 10:40,Jardel Pereira Goncalves
+,20200.0,101.0,45.0,TER,13:00 às 14:50,Jardel Pereira Goncalves
+,,,,QUI,13:00 às 14:50,Jardel Pereira Goncalves
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENG025 - INTRODUCAO AOS SISTEMAS ESTRUTURAIS,10100.0,101.0,45.0,SEG,07:00 às 08:50,Giada Claudia Bettazzi
+,,,,QUA,07:00 às 08:50,Giada Claudia Bettazzi
+,,,,SEX,07:00 às 08:50,Giada Claudia Bettazzi
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENG027 - SANEAMENTO E SAUDE,10000.0,207.0,50.0,SEX,08:50 às 11:35,Jose Mauricio Sousa Fiuza
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENG032 - INSTRUMENTAÇÃO APLIC. À INDÚSTRIA DO PETRÓLEO E GÁS NATURAL,10100.0,189.0,2.0,TER,20:20 às 22:10,Docente Concursado
+,,188.0,40.0,,,Docente Concursado
+,,106.0,8.0,,,Docente Concursado
+,,188.0,40.0,QUI,20:20 às 22:10,Docente Concursado
+,,189.0,2.0,,,Docente Concursado
+,,106.0,8.0,,,Docente Concursado
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENG033 - INTRODUÇÃO À ENGENHARIA MECANICA,10100.0,105.0,45.0,SEX,08:50 às 10:40,Abel Ribeiro de Jesus
+,,,,,10:40 às 11:35,Abel Ribeiro de Jesus
+,20200.0,190.0,10.0,SEX,17:35 às 18:30,Fernando Gois dos Santos Filho
+,,189.0,25.0,,,Fernando Gois dos Santos Filho
+,,105.0,10.0,,,Fernando Gois dos Santos Filho
+,,,,,18:30 às 20:20,Fernando Gois dos Santos Filho
+,,189.0,25.0,,,Fernando Gois dos Santos Filho
+,,190.0,10.0,,,Fernando Gois dos Santos Filho
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENG034 - TRABALHO DE CONCLUSAO DE CURSO,10100.0,105.0,3.0,CMB,00:00 às 23:00,Abel Ribeiro de Jesus
+,20200.0,105.0,3.0,CMB,00:00 às 23:00,Ailton de Sousa Silveira Lima Junior
+,30300.0,105.0,3.0,CMB,00:00 às 23:00,Aline Silva
+,40400.0,105.0,3.0,CMB,00:00 às 23:00,Carlos Arthur Mattos Teixeira Cavalcante
+,50500.0,105.0,3.0,CMB,00:00 às 23:00,Bruno da Cunha Diniz
+,60600.0,105.0,3.0,CMB,00:00 às 23:00,Lourenco Gobira Alves
+,70700.0,105.0,3.0,CMB,00:00 às 23:00,Fernando Gois dos Santos Filho
+,80800.0,105.0,3.0,CMB,00:00 às 23:00,Jayann Ismar Lira Almeida
+,90900.0,105.0,3.0,CMB,00:00 às 23:00,Julio Augusto Mendes da Silva
+,101000.0,105.0,3.0,CMB,00:00 às 23:00,Marco Tulio Santana Alves
+,111100.0,105.0,3.0,CMB,00:00 às 23:00,Paula Frassinetti Cavalcante
+,131300.0,105.0,3.0,CMB,00:00 às 23:00,Geraldo Nunes de Queiroz
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENG036 - INTROD. AO ESTUDO DA DINAMICA E DESEMPENHO DOS AUTOMOVEIS,10100.0,105.0,25.0,SEG,08:50 às 10:40,Ailton de Sousa Silveira Lima Junior
+,,,,QUA,08:50 às 09:45,Ailton de Sousa Silveira Lima Junior
+,,,,,09:45 às 10:40,Ailton de Sousa Silveira Lima Junior
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENG037 - PLANEJAMENTO E CONTROLE DA PRODUCAO,10100.0,188.0,15.0,SEG,18:30 às 20:20,Salvador Avila Filho
+,,185.0,30.0,,,Salvador Avila Filho
+,,188.0,15.0,QUA,18:30 às 19:25,Salvador Avila Filho
+,,185.0,30.0,,,Salvador Avila Filho
+,,188.0,15.0,,19:25 às 20:20,Salvador Avila Filho
+,,185.0,30.0,,,Salvador Avila Filho
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENG039 - GESTÃO DA QUALIDADE NA ENGENHARIA,10100.0,185.0,30.0,TER,20:20 às 22:10,Anselmo Alves Bandeira
+,,189.0,10.0,,,Anselmo Alves Bandeira
+,,190.0,5.0,,,Anselmo Alves Bandeira
+,,185.0,30.0,QUI,20:20 às 21:15,Anselmo Alves Bandeira
+,,190.0,5.0,,,Anselmo Alves Bandeira
+,,189.0,10.0,,,Anselmo Alves Bandeira
+,,190.0,5.0,,21:15 às 22:10,Anselmo Alves Bandeira
+,,189.0,10.0,,,Anselmo Alves Bandeira
+,,185.0,30.0,,,Anselmo Alves Bandeira
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENG040 - GESTÃO EMPREENDEDORA DA ENGENHARIA,10100.0,189.0,15.0,SEX,18:30 às 19:25,Abel Ribeiro de Jesus
+,,185.0,30.0,,,Abel Ribeiro de Jesus
+,,189.0,15.0,,19:25 às 22:10,Abel Ribeiro de Jesus
+,,185.0,30.0,,,Abel Ribeiro de Jesus
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENG041 - MATERIAIS DE CONSTRUCAO MECANICA I,10100.0,105.0,60.0,TER,13:00 às 14:50,Carlos Alberto Caldas de Sousa
+,,,,QUI,13:00 às 14:50,Carlos Alberto Caldas de Sousa
+,20200.0,185.0,40.0,SEG,18:30 às 20:20,Manuel de Almeida Barreto Filho
+,,,,QUA,18:30 às 20:20,Manuel de Almeida Barreto Filho
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENG042 - MATERIAIS DE CONSTRUCAO MECANICA II,10100.0,105.0,45.0,TER,14:50 às 16:40,Carlos Alberto Caldas de Sousa
+,,,,QUI,14:50 às 16:40,Carlos Alberto Caldas de Sousa
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENG044 - PROSPECÇÃO GEOLÓGICA E GEOFÍSICA DE PETROLÉO,10100.0,103.0,45.0,SEG,16:40 às 18:30,Docente Substituto a Contratar
+,,,,QUA,16:40 às 18:30,Docente Substituto a Contratar
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENG045 - INTRODUÇÃO Á ENGENHARIA DE PETRÓLEO,10100.0,103.0,45.0,SEG,14:50 às 16:40,Ana Cristina Morais da Silva
+,,,,QUA,14:50 às 16:40,Ana Cristina Morais da Silva
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENG047 - ENGENHARIA DE RESERVATÓRIOS E AVALIAÇÃO II,10100.0,103.0,30.0,SEG,07:00 às 08:50,Luiz Carlos Lobato dos Santos
+,,,,QUA,07:00 às 08:50,Luiz Carlos Lobato dos Santos
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENG048 - NOÇÕES DE PERFILAGEM,10100.0,103.0,45.0,TER,16:40 às 18:30,Docente Substituto a Contratar
+,,,,QUI,16:40 às 18:30,Docente Substituto a Contratar
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENG049 - PERFURAÇÃO E COMPLETAÇÃO DE POÇOS,10100.0,103.0,45.0,SEG,08:50 às 10:40,Ana Cristina Morais da Silva
+,,,,QUA,08:50 às 10:40,Ana Cristina Morais da Silva
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENG050 - ENGENHARIA DE PRODUÇÃO I,10100.0,103.0,45.0,SEG,10:40 às 12:30,George Simonelli
+,,,,QUA,10:40 às 12:30,George Simonelli
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENG051 - ENGENHARIA DE PRODUÇÃO II,10100.0,103.0,45.0,SEG,13:00 às 14:50,George Simonelli
+,,,,QUA,13:00 às 14:50,George Simonelli
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENG055 - ESTÁGIO SUPERVISIONADO EM PETRÓLEO,1.0,103.0,5.0,CMB,00:00 às 23:00,Ana Cristina Morais da Silva
+,2.0,103.0,5.0,CMB,00:00 às 23:00,Ana Cristina Morais da Silva
+,3.0,103.0,5.0,CMB,00:00 às 23:00,Luiz Carlos Lobato dos Santos
+,4.0,103.0,5.0,CMB,00:00 às 23:00,Luiz Carlos Lobato dos Santos
+,5.0,103.0,5.0,CMB,00:00 às 23:00,George Simonelli
+,6.0,103.0,1.0,CMB,00:00 às 23:00,Docente Substituto a Contratar
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENG056 - TRABALHO FINAL DE GRADUAÇÃO,1.0,103.0,5.0,CMB,00:00 às 23:00,Ana Cristina Morais da Silva
+,2.0,103.0,5.0,CMB,00:00 às 23:00,Ana Cristina Morais da Silva
+,3.0,103.0,5.0,CMB,00:00 às 23:00,Luiz Carlos Lobato dos Santos
+,4.0,103.0,5.0,CMB,00:00 às 23:00,Luiz Carlos Lobato dos Santos
+,5.0,103.0,5.0,CMB,00:00 às 23:00,George Simonelli
+,6.0,103.0,1.0,CMB,00:00 às 23:00,Docente Substituto a Contratar
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENG110 - RESISTENCIA DOS MATERIAIS III,10100.0,105.0,45.0,SEG,14:50 às 16:40,Joao Augusto de Lima Rocha
+,,,,QUA,14:50 às 16:40,Joao Augusto de Lima Rocha
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENG114 - HIPERESTATICA,10100.0,102.0,45.0,TER,08:50 às 10:40,Docente não informado pelo Departamento
+,,,,QUI,08:50 às 10:40,Docente não informado pelo Departamento
+,20200.0,102.0,45.0,TER,16:40 às 18:30,Monica Cristina Cardoso da Guarda
+,,,,QUI,16:40 às 18:30,Monica Cristina Cardoso da Guarda
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENG118 - ESTRUTURAS DE CONCRETO ARMADO I,10100.0,102.0,45.0,TER,07:00 às 08:50,Daniel de Souza Machado
+,,,,QUI,07:00 às 08:50,Tatiana Bittencourt Dumet
+,20200.0,102.0,45.0,TER,14:50 às 16:40,Paulo Roberto do Rio de Almeida Braga
+,,,,QUI,14:50 às 16:40,Cereno de Freitas Diniz Goncalves Muniz
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENG119 - ESTRUTURAS DE CONCRETO ARMADO II,10100.0,102.0,45.0,TER,10:40 às 12:30,Paulo Roberto do Rio de Almeida Braga
+,,,,QUI,10:40 às 12:30,Paulo Roberto do Rio de Almeida Braga
+,20200.0,102.0,45.0,TER,13:00 às 14:50,Paulo Roberto do Rio de Almeida Braga
+,,,,QUI,13:00 às 14:50,Paulo Roberto do Rio de Almeida Braga
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENG128 - TOPOGRAFIA,10100.0,107.0,14.0,TER,13:00 às 14:50,Ana Regina Torres Ferreira Teles
+,,189.0,1.0,,,Ana Regina Torres Ferreira Teles
+,,103.0,25.0,,,Ana Regina Torres Ferreira Teles
+,,107.0,14.0,QUI,13:00 às 14:50,Ana Regina Torres Ferreira Teles
+,,103.0,25.0,,,Ana Regina Torres Ferreira Teles
+,,189.0,1.0,,,Ana Regina Torres Ferreira Teles
+,,,,SEX,13:00 às 13:55,Ana Regina Torres Ferreira Teles
+,,107.0,14.0,,,Ana Regina Torres Ferreira Teles
+,,103.0,25.0,,,Ana Regina Torres Ferreira Teles
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENG134 - PLANEJAMENTO E ECONOMIA DOS TRANSPORTES,10100.0,102.0,15.0,QUA,18:30 às 20:20,Docente Substituto a Contratar
+,,197.0,30.0,,,Docente Substituto a Contratar
+,,,,SEX,18:30 às 20:20,Docente Substituto a Contratar
+,,102.0,15.0,,,Docente Substituto a Contratar
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENG136 - HIDRAULICA,10100.0,107.0,15.0,SEG,08:50 às 10:40,Andre Luiz Andrade Simoes
+,,103.0,7.0,,,Andre Luiz Andrade Simoes
+,,102.0,23.0,,,Andre Luiz Andrade Simoes
+,,107.0,15.0,QUA,08:50 às 10:40,Andre Luiz Andrade Simoes
+,,103.0,7.0,,,Andre Luiz Andrade Simoes
+,,102.0,23.0,,,Andre Luiz Andrade Simoes
+,20200.0,107.0,5.0,SEG,08:50 às 10:40,Lafayette Dantas da Luz
+,,103.0,13.0,,,Lafayette Dantas da Luz
+,,102.0,22.0,,,Lafayette Dantas da Luz
+,,103.0,13.0,QUA,08:50 às 10:40,Lafayette Dantas da Luz
+,,102.0,22.0,,,Lafayette Dantas da Luz
+,,107.0,5.0,,,Lafayette Dantas da Luz
+,30300.0,102.0,35.0,SEG,16:40 às 18:30,Andre Luiz Andrade Simoes
+,,107.0,10.0,,,Andre Luiz Andrade Simoes
+,,102.0,35.0,QUA,16:40 às 18:30,Andre Luiz Andrade Simoes
+,,107.0,10.0,,,Andre Luiz Andrade Simoes
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENG137 - OBRAS HIDRÁULICAS,10100.0,102.0,21.0,SEG,07:00 às 08:50,Renavan Andrade Sobrinho
+,,107.0,24.0,,,Renavan Andrade Sobrinho
+,,102.0,21.0,QUA,07:00 às 08:50,Renavan Andrade Sobrinho
+,,107.0,24.0,,,Renavan Andrade Sobrinho
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENG169 - ELEMENTOS DE MÁQUINAS E MOTORES,10100.0,102.0,25.0,TER,16:40 às 18:30,Docente não informado pelo Departamento
+,,107.0,15.0,,,Docente não informado pelo Departamento
+,,102.0,25.0,QUI,16:40 às 17:35,Docente não informado pelo Departamento
+,,107.0,15.0,,,Docente não informado pelo Departamento
+,,102.0,25.0,,17:35 às 18:30,Docente não informado pelo Departamento
+,,107.0,15.0,,,Docente não informado pelo Departamento
+,20200.0,102.0,15.0,TER,18:30 às 20:20,Docente não informado pelo Departamento
+,,103.0,30.0,,,Docente não informado pelo Departamento
+,,102.0,15.0,QUI,18:30 às 19:25,Docente não informado pelo Departamento
+,,103.0,30.0,,,Docente não informado pelo Departamento
+,,102.0,15.0,,19:25 às 20:20,Docente não informado pelo Departamento
+,,103.0,30.0,,,Docente não informado pelo Departamento
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENG176 - REFRIGERACAO E AR CONDICIONADO,10100.0,105.0,25.0,TER,20:20 às 22:10,Docente não informado pelo Departamento
+,,,,QUI,20:20 às 21:15,Docente não informado pelo Departamento
+,,,,,21:15 às 22:10,Docente não informado pelo Departamento
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENG179 - PROJETO E PLANEJAMENTO INDUSTRIAL,10100.0,188.0,15.0,TER,18:30 às 20:20,Anselmo Alves Bandeira
+,,185.0,30.0,,,Anselmo Alves Bandeira
+,,188.0,15.0,QUI,18:30 às 19:25,Anselmo Alves Bandeira
+,,185.0,30.0,,,Anselmo Alves Bandeira
+,,188.0,15.0,,19:25 às 20:20,Anselmo Alves Bandeira
+,,185.0,30.0,,,Anselmo Alves Bandeira
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENG185 - OPERACOES UNITARIAS DA INDUSTRIA QUIMICA II,10100.0,106.0,45.0,TER,14:50 às 16:40,Luiz Mario Nelson de Gois
+,,,,QUI,14:50 às 16:40,Luiz Mario Nelson de Gois
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENG207 - METROLOGIA INDUSTRIAL,10100.0,105.0,45.0,QUA,16:40 às 18:30,Pedro Cardoso da Silva Neto
+,,,,SEX,16:40 às 18:30,Pedro Cardoso da Silva Neto
+,20200.0,190.0,4.0,TER,18:30 às 20:20,Renato de Castro Vivas
+,,189.0,11.0,,,Renato de Castro Vivas
+,,185.0,30.0,,,Renato de Castro Vivas
+,,190.0,4.0,QUI,18:30 às 19:25,Renato de Castro Vivas
+,,185.0,30.0,,,Renato de Castro Vivas
+,,189.0,11.0,,,Renato de Castro Vivas
+,,,,,19:25 às 20:20,Renato de Castro Vivas
+,,185.0,30.0,,,Renato de Castro Vivas
+,,190.0,4.0,,,Renato de Castro Vivas
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENG213 - SISTEMAS URBANOS DE ESGOTOS,10100.0,107.0,40.0,SEG,16:40 às 18:30,Virgilio Bandeira Chagas Neto
+,,,,QUA,16:40 às 18:30,Virgilio Bandeira Chagas Neto
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENG216 - PAVIMENTAÇÃO,10100.0,102.0,30.0,SEG,07:00 às 08:50,Elio Santana Fontes
+,,,,SEX,07:00 às 08:50,Luis Edmundo Prado de Campos
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENG220 - MAQUINAS OPERATRIZES,10100.0,105.0,45.0,QUA,20:20 às 22:10,Pedro Cardoso da Silva Neto
+,,,,SEX,20:20 às 22:10,Pedro Cardoso da Silva Neto
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENG228 - METALURGIA FÍSICA CORROSÃO PINTURA E PROTEÇÃO CATÓDICA,10100.0,105.0,25.0,SEG,16:40 às 18:30,Docente não informado pelo Departamento
+,,,,QUA,16:40 às 18:30,Docente não informado pelo Departamento
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENG229 - APLICAÇÕES INDUSTRIAIS DA COMPUTAÇÃO,10100.0,105.0,5.0,TER,18:30 às 20:20,Docente não informado pelo Departamento
+,,,,QUI,18:30 às 20:20,Docente não informado pelo Departamento
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENG231 - TUBULAÇÕES INDUSTRIAIS,10100.0,106.0,10.0,SEG,18:30 às 20:20,Docente não informado pelo Departamento
+,,105.0,15.0,,,Docente não informado pelo Departamento
+,,,,QUA,18:30 às 19:25,Docente não informado pelo Departamento
+,,106.0,10.0,,,Docente não informado pelo Departamento
+,,105.0,15.0,,19:25 às 20:20,Docente não informado pelo Departamento
+,,106.0,10.0,,,Docente não informado pelo Departamento
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENG232 - EQUIPAMENTOS INDUSTRIAIS I,10100.0,105.0,25.0,SEX,20:20 às 22:10,Fernando Gois dos Santos Filho
+,,,,SAB,10:40 às 12:30,Fernando Gois dos Santos Filho
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENG233 - INSTRUMENTAÇÃO E CONTROLE,10100.0,105.0,25.0,TER,20:20 às 22:10,Docente não informado pelo Departamento
+,,,,QUI,20:20 às 21:15,Docente não informado pelo Departamento
+,,,,,21:15 às 22:10,Docente não informado pelo Departamento
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENG237 - INSPEÇÃO DE EQUIPAMENTOS,10100.0,105.0,15.0,SEG,20:20 às 22:10,Docente não informado pelo Departamento
+,,185.0,5.0,,,Docente não informado pelo Departamento
+,,106.0,5.0,,,Docente não informado pelo Departamento
+,,185.0,5.0,QUA,20:20 às 22:10,Docente não informado pelo Departamento
+,,106.0,5.0,,,Docente não informado pelo Departamento
+,,105.0,15.0,,,Docente não informado pelo Departamento
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENG247 - INTRODUÇÃO A MINERAÇÃO,10100.0,103.0,45.0,SEG,07:00 às 08:50,Jose Baptista de Oliveira Junior
+,,,,QUA,07:00 às 08:50,Jose Baptista de Oliveira Junior
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENG248 - INTRODUCAO AO TRATAMENTO DE MINERIOS,10100.0,103.0,45.0,TER,14:50 às 16:40,Erisvaldo Bitencourt de Jesus
+,,,,QUI,14:50 às 16:40,Erisvaldo Bitencourt de Jesus
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENG251 - PROCESSOS UNITARIOS EM MINERIOS,10100.0,103.0,15.0,SEG,08:50 às 10:40,Luiz Rogerio Pinho de Andrade Lima
+,,,,,10:40 às 11:35,Luiz Rogerio Pinho de Andrade Lima
+,,,,QUA,08:50 às 11:35,Luiz Rogerio Pinho de Andrade Lima
+,10200.0,103.0,15.0,SEG,08:50 às 10:40,Luiz Rogerio Pinho de Andrade Lima
+,,,,,10:40 às 11:35,Luiz Rogerio Pinho de Andrade Lima
+,,,,QUA,08:50 às 11:35,Erisvaldo Bitencourt de Jesus
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENG253 - PROTEÇÃO DO MEIO AMBIENTE E HIGIENE,10100.0,103.0,45.0,SEG,18:30 às 20:20,Docente Substituto a Contratar
+,,,,QUA,18:30 às 19:25,Docente Substituto a Contratar
+,,,,,19:25 às 20:20,Docente Substituto a Contratar
+,,,,SEX,18:30 às 20:20,Docente Substituto a Contratar
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENG254 - LAVRA A CÉU ABERTO,10100.0,103.0,45.0,SEX,13:00 às 15:45,Luis Rodrigo Cosme Rodrigues Costa
+,,,,SAB,08:50 às 11:35,Luis Rodrigo Cosme Rodrigues Costa
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENG255 - LAVRA SUBTERRANEA,10100.0,103.0,45.0,SEG,16:40 às 18:30,Docente Substituto a Contratar
+,,,,QUA,16:40 às 17:35,Docente Substituto a Contratar
+,,,,,17:35 às 18:30,Docente Substituto a Contratar
+,,,,SEX,16:40 às 18:30,Docente Substituto a Contratar
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENG256 - MÉTODOS DE ADMINISTRAÇÃO DE MINAS,10100.0,103.0,45.0,TER,14:50 às 16:40,Jose Barbosa Filho
+,,,,QUI,14:50 às 16:40,Jose Barbosa Filho
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENG257 - VIABILIDADE DE EXPLORAÇÃO DAS MINAS,10100.0,103.0,45.0,SEG,14:50 às 16:40,Jose Barbosa Filho
+,,,,QUA,14:50 às 16:40,Jose Barbosa Filho
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENG258 - PROJETOS DE MINERACAO,262626.0,103.0,5.0,CMB,00:00 às 23:00,Jose Baptista de Oliveira Junior
+,272727.0,103.0,5.0,CMB,00:00 às 23:00,Jose Barbosa Filho
+,282828.0,103.0,5.0,CMB,00:00 às 23:00,Luiz Rogerio Pinho de Andrade Lima
+,292929.0,103.0,5.0,CMB,00:00 às 23:00,Luis Rodrigo Cosme Rodrigues Costa
+,303030.0,103.0,5.0,CMB,00:00 às 23:00,Jose Baptista de Oliveira Junior
+,313131.0,103.0,5.0,CMB,00:00 às 23:00,Jose Barbosa Filho
+,323232.0,103.0,5.0,CMB,00:00 às 23:00,Luiz Rogerio Pinho de Andrade Lima
+,333333.0,103.0,5.0,CMB,00:00 às 23:00,Luis Rodrigo Cosme Rodrigues Costa
+,343434.0,103.0,5.0,CMB,00:00 às 23:00,Erisvaldo Bitencourt de Jesus
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENG260 - ESCAVAÇÃO DE TÚNEIS E POÇOS,10100.0,103.0,45.0,SEX,07:00 às 08:50,Luis Rodrigo Cosme Rodrigues Costa
+,,,,SAB,07:00 às 08:50,Luis Rodrigo Cosme Rodrigues Costa
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENG268 - MECÂNICA DAS ROCHAS I A,10100.0,110.0,2.0,SEG,13:00 às 14:50,Paulo Gustavo Cavalcante Lins
+,,103.0,20.0,,,Paulo Gustavo Cavalcante Lins
+,,102.0,23.0,,,Paulo Gustavo Cavalcante Lins
+,,110.0,2.0,QUA,13:00 às 14:50,Paulo Gustavo Cavalcante Lins
+,,103.0,20.0,,,Paulo Gustavo Cavalcante Lins
+,,102.0,23.0,,,Paulo Gustavo Cavalcante Lins
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENG269 - CIÊNCIAS DO AMBIENTE,10100.0,106.0,10.0,SEG,13:00 às 14:50,Jose Mauricio Sousa Fiuza
+,,105.0,7.0,,,Jose Mauricio Sousa Fiuza
+,,104.0,10.0,,,Jose Mauricio Sousa Fiuza
+,,103.0,8.0,,,Jose Mauricio Sousa Fiuza
+,,102.0,10.0,,,Jose Mauricio Sousa Fiuza
+,,105.0,7.0,,,Alexsandro Fiscina de Santana
+,,104.0,10.0,,,Alexsandro Fiscina de Santana
+,,103.0,8.0,,,Alexsandro Fiscina de Santana
+,,102.0,10.0,,,Alexsandro Fiscina de Santana
+,,106.0,10.0,,,Alexsandro Fiscina de Santana
+,,,,QUA,13:00 às 14:50,Jose Mauricio Sousa Fiuza
+,,105.0,7.0,,,Jose Mauricio Sousa Fiuza
+,,104.0,10.0,,,Jose Mauricio Sousa Fiuza
+,,103.0,8.0,,,Jose Mauricio Sousa Fiuza
+,,102.0,10.0,,,Jose Mauricio Sousa Fiuza
+,,106.0,10.0,,,Alexsandro Fiscina de Santana
+,,105.0,7.0,,,Alexsandro Fiscina de Santana
+,,104.0,10.0,,,Alexsandro Fiscina de Santana
+,,103.0,8.0,,,Alexsandro Fiscina de Santana
+,,102.0,10.0,,,Alexsandro Fiscina de Santana
+,20200.0,106.0,6.0,TER,08:50 às 10:40,Severino Soares Agra Filho
+,,105.0,8.0,,,Severino Soares Agra Filho
+,,104.0,6.0,,,Severino Soares Agra Filho
+,,103.0,5.0,,,Severino Soares Agra Filho
+,,102.0,20.0,,,Severino Soares Agra Filho
+,,106.0,6.0,QUI,08:50 às 10:40,Severino Soares Agra Filho
+,,105.0,8.0,,,Severino Soares Agra Filho
+,,104.0,6.0,,,Severino Soares Agra Filho
+,,103.0,5.0,,,Severino Soares Agra Filho
+,,102.0,20.0,,,Severino Soares Agra Filho
+,70700.0,194.0,5.0,SEG,18:30 às 20:20,Alexsandro Fiscina de Santana
+,,188.0,10.0,,,Alexsandro Fiscina de Santana
+,,186.0,5.0,,,Alexsandro Fiscina de Santana
+,,185.0,21.0,,,Alexsandro Fiscina de Santana
+,,103.0,4.0,,,Alexsandro Fiscina de Santana
+,,194.0,5.0,QUA,18:30 às 20:20,Alexsandro Fiscina de Santana
+,,188.0,10.0,,,Alexsandro Fiscina de Santana
+,,186.0,5.0,,,Alexsandro Fiscina de Santana
+,,185.0,21.0,,,Alexsandro Fiscina de Santana
+,,103.0,4.0,,,Alexsandro Fiscina de Santana
+,80800.0,194.0,5.0,SEG,20:20 às 22:10,Alexsandro Fiscina de Santana
+,,186.0,40.0,,,Alexsandro Fiscina de Santana
+,,194.0,5.0,QUA,20:20 às 22:10,Alexsandro Fiscina de Santana
+,,186.0,40.0,,,Alexsandro Fiscina de Santana
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENG271 - QUALIDADE DA AGUA II,10100.0,107.0,20.0,SEG,14:50 às 16:40,Louisa Wessels Perelo
+,,,,QUA,14:50 às 16:40,Louisa Wessels Perelo
+,10200.0,107.0,20.0,SEG,14:50 às 16:40,Louisa Wessels Perelo
+,,,,SEX,14:50 às 16:40,Louisa Wessels Perelo
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENG273 - INSTALAÇÕES HIDRÁULICAS SANITÁRIAS E PREDIAIS,10100.0,107.0,21.0,TER,07:00 às 08:50,Renavan Andrade Sobrinho
+,,102.0,24.0,,,Renavan Andrade Sobrinho
+,,107.0,21.0,QUI,07:00 às 08:50,Renavan Andrade Sobrinho
+,,102.0,24.0,,,Renavan Andrade Sobrinho
+,20200.0,107.0,5.0,TER,20:20 às 22:10,Renavan Andrade Sobrinho
+,,102.0,40.0,,,Renavan Andrade Sobrinho
+,,107.0,5.0,QUI,20:20 às 22:10,Renavan Andrade Sobrinho
+,,102.0,40.0,,,Renavan Andrade Sobrinho
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENG275 - TRATAMENTO DE ÁGUAS DE ABASTECIMENTO,10100.0,107.0,45.0,TER,16:40 às 18:30,Luciano Matos Queiroz
+,,,,QUI,16:40 às 18:30,Luciano Matos Queiroz
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENG281 - ORGANIZACAO E ADMINISTRACAO DE SERVICOS DE SANEAMENTO,10100.0,107.0,30.0,SEG,16:40 às 18:30,Patricia Campos Borja
+,,,,QUA,16:40 às 18:30,Patricia Campos Borja
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENG285 - RESISTENCIA DOS MATERIAIS I A,10100.0,102.0,45.0,SEG,07:00 às 08:50,Cesare Fiorini
+,,,,QUA,07:00 às 08:50,Cesare Fiorini
+,,,,SEX,07:00 às 08:50,Cesare Fiorini
+,20200.0,105.0,45.0,SEG,07:00 às 08:50,Armando Sa Ribeiro Junior
+,,,,QUA,07:00 às 08:50,Armando Sa Ribeiro Junior
+,,,,SEX,07:00 às 08:50,Armando Sa Ribeiro Junior
+,30300.0,102.0,45.0,SEG,13:00 às 14:50,Alexandre de Macedo Wahrhaftig
+,,,,QUA,13:00 às 14:50,Alexandre de Macedo Wahrhaftig
+,,,,SEX,13:00 às 14:50,Alexandre de Macedo Wahrhaftig
+,40400.0,103.0,45.0,SEG,14:50 às 16:40,Alexandre de Macedo Wahrhaftig
+,,,,QUA,14:50 às 16:40,Alexandre de Macedo Wahrhaftig
+,,,,SEX,14:50 às 16:40,Alexandre de Macedo Wahrhaftig
+,50500.0,190.0,2.0,SEG,14:50 às 16:40,Cesare Fiorini
+,,189.0,2.0,,,Cesare Fiorini
+,,105.0,21.0,,,Cesare Fiorini
+,,190.0,2.0,QUA,14:50 às 16:40,Cesare Fiorini
+,,189.0,2.0,,,Cesare Fiorini
+,,105.0,21.0,,,Cesare Fiorini
+,,190.0,2.0,SEX,14:50 às 16:40,Cesare Fiorini
+,,189.0,2.0,,,Cesare Fiorini
+,,105.0,21.0,,,Cesare Fiorini
+,60600.0,107.0,31.0,SEG,16:40 às 18:30,Joao Augusto de Lima Rocha
+,,,,QUA,16:40 às 18:30,Joao Augusto de Lima Rocha
+,,,,SEX,16:40 às 18:30,Joao Augusto de Lima Rocha
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENG288 - ESTÁGIO EM ENGENHARIA SANITÁRIA E AMBIENTAL,10001.0,107.0,15.0,SEX,08:50 às 10:40,Andre Luiz Andrade Simoes
+,,,,CMB,00:00 às 00:00,Andre Luiz Andrade Simoes
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENG295 - HIGIENE E SEGURANÇA NO TRABALHO,10100.0,107.0,12.0,TER,16:40 às 18:30,Enete Souza de Medeiros
+,,106.0,3.0,,,Enete Souza de Medeiros
+,,104.0,15.0,,,Enete Souza de Medeiros
+,,102.0,15.0,,,Enete Souza de Medeiros
+,,107.0,12.0,QUI,16:40 às 18:30,Enete Souza de Medeiros
+,,106.0,3.0,,,Enete Souza de Medeiros
+,,104.0,15.0,,,Enete Souza de Medeiros
+,,102.0,15.0,,,Enete Souza de Medeiros
+,20200.0,107.0,12.0,TER,18:30 às 20:20,Enete Souza de Medeiros
+,,106.0,3.0,,,Enete Souza de Medeiros
+,,104.0,30.0,,,Enete Souza de Medeiros
+,,107.0,12.0,QUI,18:30 às 20:20,Enete Souza de Medeiros
+,,106.0,3.0,,,Enete Souza de Medeiros
+,,104.0,30.0,,,Enete Souza de Medeiros
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENG296 - CONSTRUCAO CIVIL I,10100.0,102.0,45.0,SEG,10:40 às 12:30,Docente Concursado
+,,,,QUA,10:40 às 12:30,Docente Concursado
+,20200.0,107.0,10.0,SEG,14:50 às 16:40,Elaine Pinto Varela Alberte
+,,102.0,35.0,,,Elaine Pinto Varela Alberte
+,,107.0,10.0,QUA,14:50 às 16:40,Elaine Pinto Varela Alberte
+,,102.0,35.0,,,Elaine Pinto Varela Alberte
+,30300.0,107.0,35.0,TER,14:50 às 16:40,Elaine Pinto Varela Alberte
+,,,,QUI,14:50 às 16:40,Elaine Pinto Varela Alberte
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENG297 - CONSTRUCAO CIVIL II,10100.0,102.0,45.0,SEG,08:50 às 10:40,Dayana Bastos Costa
+,,,,QUA,08:50 às 10:40,Dayana Bastos Costa
+,20200.0,102.0,45.0,SEG,13:00 às 14:50,Dayana Bastos Costa
+,,,,QUA,13:00 às 14:50,Dayana Bastos Costa
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENG298 - ESTÁTICA DAS CONSTRUÇÕES,10100.0,102.0,45.0,SEG,07:00 às 08:50,Daniel de Souza Machado
+,,,,QUA,07:00 às 08:50,Daniel de Souza Machado
+,20200.0,107.0,15.0,SEG,16:40 às 18:30,Daniel de Souza Machado
+,,102.0,30.0,,,Daniel de Souza Machado
+,,107.0,15.0,QUA,16:40 às 18:30,Daniel de Souza Machado
+,,102.0,30.0,,,Daniel de Souza Machado
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENG299 - CONSTRUÇÕES DE AÇO,10100.0,102.0,45.0,SEG,07:00 às 08:50,Cereno de Freitas Diniz Goncalves Muniz
+,,,,QUA,07:00 às 08:50,Cereno de Freitas Diniz Goncalves Muniz
+,20200.0,102.0,45.0,SEG,13:00 às 14:50,Alberto Borges Vieira Junior
+,,,,QUA,13:00 às 14:50,Alberto Borges Vieira Junior
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENG300 - CONSTRUÇÕES DE MADEIRAS,10100.0,102.0,30.0,TER,08:50 às 10:40,Sandro Fabio Cesar
+,,,,QUI,08:50 às 10:40,Sandro Fabio Cesar
+,20200.0,102.0,30.0,TER,13:00 às 14:50,Sandro Fabio Cesar
+,,,,QUI,13:00 às 14:50,Sandro Fabio Cesar
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENG301 - RESISTENCIA DOS MATERIAIS II A,10100.0,107.0,10.0,SEG,08:50 às 10:40,Cereno de Freitas Diniz Goncalves Muniz
+,,102.0,35.0,,,Cereno de Freitas Diniz Goncalves Muniz
+,,107.0,10.0,QUA,08:50 às 10:40,Cereno de Freitas Diniz Goncalves Muniz
+,,102.0,35.0,,,Cereno de Freitas Diniz Goncalves Muniz
+,20200.0,107.0,10.0,TER,07:00 às 08:50,Giada Claudia Bettazzi
+,,102.0,35.0,,,Giada Claudia Bettazzi
+,,107.0,10.0,QUI,07:00 às 08:50,Giada Claudia Bettazzi
+,,102.0,35.0,,,Giada Claudia Bettazzi
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENG302 - ESTÁGIO EM ENGENHARIA CIVIL,1.0,102.0,45.0,CMB,00:00 às 23:00,Docente Concursado
+,2.0,102.0,45.0,TER,18:30 às 20:20,Docente Substituto a Contratar
+,,,,QUI,18:30 às 20:20,Docente Substituto a Contratar
+,,,,CMB,00:00 às 00:00,Docente Substituto a Contratar
+,3.0,102.0,45.0,TER,07:00 às 08:50,Elaine Pinto Varela Alberte
+,,,,CMB,00:00 às 00:00,Elaine Pinto Varela Alberte
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENG303 - SANEAMENTO BÁSICO,10100.0,102.0,45.0,SEG,14:50 às 16:40,Virgilio Bandeira Chagas Neto
+,,,,QUA,14:50 às 16:40,Virgilio Bandeira Chagas Neto
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENG304 - PROJETO DE ESTRADAS,10100.0,190.0,3.0,SEG,07:00 às 08:50,Elmo Lopes Felzemburg
+,,107.0,2.0,,,Elmo Lopes Felzemburg
+,,102.0,30.0,,,Elmo Lopes Felzemburg
+,,190.0,3.0,QUA,07:00 às 08:50,Elmo Lopes Felzemburg
+,,107.0,2.0,,,Elmo Lopes Felzemburg
+,,102.0,30.0,,,Elmo Lopes Felzemburg
+,20200.0,102.0,30.0,SEG,08:50 às 10:40,Elmo Lopes Felzemburg
+,,,,QUA,08:50 às 10:40,Elmo Lopes Felzemburg
+,30300.0,102.0,30.0,SEG,16:40 às 18:30,Silvia Camargo Fernandes Miranda
+,,,,QUA,16:40 às 18:30,Denise Maria da Silva Ribeiro
+,40400.0,194.0,15.0,SEG,18:30 às 20:20,Elmo Lopes Felzemburg
+,,102.0,15.0,,,Elmo Lopes Felzemburg
+,,194.0,15.0,QUA,18:30 às 20:20,Denise Maria da Silva Ribeiro
+,,102.0,15.0,,,Denise Maria da Silva Ribeiro
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENG305 - CONSTRUÇÃO DE ESTRADAS,10100.0,102.0,45.0,TER,07:00 às 08:50,Marcelo de Melo Correa
+,,,,QUI,07:00 às 08:50,Marcelo de Melo Correa
+,20200.0,102.0,45.0,TER,14:50 às 16:40,Elio Santana Fontes
+,,,,QUI,14:50 às 16:40,Elio Santana Fontes
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENG306 - AR COMPRIMIDO,10100.0,105.0,25.0,TER,16:40 às 18:30,Docente não informado pelo Departamento
+,,,,QUI,16:40 às 17:35,Docente não informado pelo Departamento
+,,,,,17:35 às 18:30,Docente não informado pelo Departamento
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENG308 - SISTEMAS DE GARANTIA DA QUALIDADE,10100.0,190.0,5.0,TER,18:30 às 20:20,Ava Santana Barbosa
+,,189.0,5.0,,,Ava Santana Barbosa
+,,185.0,30.0,,,Ava Santana Barbosa
+,,107.0,5.0,,,Ava Santana Barbosa
+,,190.0,5.0,QUI,18:30 às 19:25,Ava Santana Barbosa
+,,189.0,5.0,,,Ava Santana Barbosa
+,,185.0,30.0,,,Ava Santana Barbosa
+,,107.0,5.0,,,Ava Santana Barbosa
+,,190.0,5.0,,19:25 às 20:20,Ava Santana Barbosa
+,,189.0,5.0,,,Ava Santana Barbosa
+,,185.0,30.0,,,Ava Santana Barbosa
+,,107.0,5.0,,,Ava Santana Barbosa
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENG309 - FENOMENOS DE TRANSPORTE III,10100.0,105.0,45.0,TER,16:40 às 18:30,Cristiano Hora de Oliveira Fontes
+,,,,QUI,16:40 às 18:30,Cristiano Hora de Oliveira Fontes
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENG312 - PROJETOS MECANICOS I,10100.0,105.0,45.0,TER,14:50 às 17:35,Roberto Cesar Fernandes Sacramento
+,,,,QUI,14:50 às 17:35,Roberto Cesar Fernandes Sacramento
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENG314 - PROCESSOS DE FABRICACAO I,10100.0,105.0,45.0,SEG,18:30 às 20:20,Marcelo de Barros Alonso
+,,,,QUA,18:30 às 20:20,Marcelo de Barros Alonso
+,,,,SEX,18:30 às 20:20,Marcelo de Barros Alonso
+,20200.0,189.0,5.0,SEG,20:20 às 22:10,Marcelo de Barros Alonso
+,,188.0,15.0,,,Marcelo de Barros Alonso
+,,105.0,1.0,,,Marcelo de Barros Alonso
+,,189.0,5.0,QUA,20:20 às 22:10,Marcelo de Barros Alonso
+,,188.0,15.0,,,Marcelo de Barros Alonso
+,,105.0,1.0,,,Marcelo de Barros Alonso
+,,189.0,5.0,SEX,20:20 às 22:10,Marcelo de Barros Alonso
+,,188.0,15.0,,,Marcelo de Barros Alonso
+,,105.0,1.0,,,Marcelo de Barros Alonso
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENG315 - PROCESSOS DE FABRICACAO II,10100.0,105.0,13.0,SEG,10:40 às 12:30,Docente não informado pelo Departamento
+,,,,,13:00 às 14:50,Docente não informado pelo Departamento
+,,,,SEX,10:40 às 12:30,Aline Silva
+,10200.0,105.0,13.0,QUA,10:40 às 12:30,Aline Silva
+,,,,,13:00 às 14:50,Aline Silva
+,,,,SEX,10:40 às 12:30,Aline Silva
+,10300.0,105.0,13.0,SEX,10:40 às 12:30,Aline Silva
+,,,,,13:00 às 16:40,Docente não informado pelo Departamento
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENG318 - SISTEMAS FLUIDOMECANICOS,10100.0,105.0,45.0,TER,18:30 às 20:20,Jurandir Santos Brito
+,,,,QUI,18:30 às 20:20,Jurandir Santos Brito
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENG319 - SISTEMAS TERMICOS,10100.0,105.0,45.0,SEG,18:30 às 22:10,Julio Augusto Mendes da Silva
+,,,,QUA,18:30 às 20:20,Julio Augusto Mendes da Silva
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENG320 - TRANSPORTE MECANICO,10100.0,105.0,45.0,SEG,14:50 às 16:40,Roberto Cesar Fernandes Sacramento
+,,,,QUA,14:50 às 16:40,Roberto Cesar Fernandes Sacramento
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENG323 - TERMODINÂMICA APLICADA I,10100.0,105.0,45.0,TER,13:00 às 14:50,Miguel Angel Iglesias Duro
+,,,,QUI,13:00 às 14:50,Miguel Angel Iglesias Duro
+,20200.0,105.0,15.0,TER,14:50 às 16:40,Rosana Lopes Lima Fialho
+,,103.0,30.0,,,Rosana Lopes Lima Fialho
+,,105.0,15.0,QUI,14:50 às 16:40,Rosana Lopes Lima Fialho
+,,103.0,30.0,,,Rosana Lopes Lima Fialho
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENG324 - TERMODINÂMICA APLICADA II,10100.0,105.0,45.0,TER,14:50 às 16:40,Ednildo Andrade Torres
+,,,,QUI,14:50 às 16:40,Ednildo Andrade Torres
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENG352 - SANEAMENTO AMBIENTAL,10100.0,107.0,30.0,SEG,14:50 às 16:40,Vivien Luciane Viaro
+,,106.0,1.0,,,Vivien Luciane Viaro
+,,107.0,30.0,QUA,14:50 às 16:40,Vivien Luciane Viaro
+,,106.0,1.0,,,Vivien Luciane Viaro
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENG353 - CALCULO DE REATORES,10100.0,106.0,45.0,SEG,14:50 às 16:40,Carlos Augusto de Moraes Pires
+,,,,QUA,14:50 às 16:40,Carlos Augusto de Moraes Pires
+,20200.0,106.0,45.0,TER,18:30 às 20:20,Luiz Antonio Magalhaes Pontes
+,,,,QUI,18:30 às 20:20,Luiz Antonio Magalhaes Pontes
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENG358 - FENOMENOS DE TRANSPORTE II,10000.0,106.0,45.0,SEG,08:50 às 10:40,Cristiano Hora de Oliveira Fontes
+,,,,QUA,08:50 às 10:40,Cristiano Hora de Oliveira Fontes
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENG360 - MATERIAIS DE CONSTRUCAO E QUIPAMENTOS DA INDUSTRIA QUIMICA,10100.0,106.0,45.0,SEG,16:40 às 18:30,Manuel de Almeida Barreto Filho
+,,,,QUA,16:40 às 18:30,Manuel de Almeida Barreto Filho
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENG363 - PROJETO E PLANEJAMENTO DA INDÚSTRIA QUÍMICA II-A,10100.0,106.0,45.0,SEG,14:50 às 16:40,Docente Substituto a Contratar
+,,,,QUA,14:50 às 16:40,Docente Substituto a Contratar
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENG364 - PRODUCAO E TRANSPORTE DE CALOR,10100.0,106.0,45.0,TER,16:40 às 18:30,Silvio Alexandre Beisl Vieira de Melo
+,,,,QUI,16:40 às 18:30,Silvio Alexandre Beisl Vieira de Melo
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENG369 - ESTÁGIO INDUSTRIAL EM ENGENHARIA QUIMICA,1.0,106.0,45.0,CMB,00:00 às 23:00,Regina Ferreira Vianna
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENG370 - FENÔMENOS DE TRANSPORTES I,10100.0,102.0,45.0,TER,08:50 às 10:40,Daniela Araujo Costa
+,,,,QUI,08:50 às 10:40,Daniela Araujo Costa
+,20200.0,107.0,4.0,TER,08:50 às 10:40,Herbert Pereira de Oliveira
+,,105.0,6.0,,,Herbert Pereira de Oliveira
+,,103.0,35.0,,,Herbert Pereira de Oliveira
+,,107.0,4.0,QUI,08:50 às 10:40,Herbert Pereira de Oliveira
+,,105.0,6.0,,,Herbert Pereira de Oliveira
+,,103.0,35.0,,,Herbert Pereira de Oliveira
+,30300.0,190.0,5.0,TER,10:40 às 12:30,Herbert Pereira de Oliveira
+,,107.0,10.0,,,Herbert Pereira de Oliveira
+,,104.0,30.0,,,Herbert Pereira de Oliveira
+,,190.0,5.0,QUI,10:40 às 12:30,Herbert Pereira de Oliveira
+,,107.0,10.0,,,Herbert Pereira de Oliveira
+,,104.0,30.0,,,Herbert Pereira de Oliveira
+,40400.0,189.0,5.0,TER,10:40 às 12:30,Elaine Christine de Magalhaes Cabral Alb
+,,105.0,10.0,,,Elaine Christine de Magalhaes Cabral Alb
+,,104.0,30.0,,,Elaine Christine de Magalhaes Cabral Alb
+,,189.0,5.0,QUI,10:40 às 12:30,Elaine Christine de Magalhaes Cabral Alb
+,,105.0,10.0,,,Elaine Christine de Magalhaes Cabral Alb
+,,104.0,30.0,,,Elaine Christine de Magalhaes Cabral Alb
+,50500.0,102.0,45.0,TER,13:00 às 14:50,Daniela Araujo Costa
+,,,,QUI,13:00 às 14:50,Daniela Araujo Costa
+,60600.0,190.0,7.0,TER,14:50 às 16:40,Mauricio Alvarez Munoz
+,,189.0,8.0,,,Mauricio Alvarez Munoz
+,,107.0,30.0,,,Mauricio Alvarez Munoz
+,,190.0,7.0,QUI,14:50 às 16:40,Mauricio Alvarez Munoz
+,,189.0,8.0,,,Mauricio Alvarez Munoz
+,,107.0,30.0,,,Mauricio Alvarez Munoz
+,70700.0,105.0,45.0,TER,16:40 às 18:30,Marcio Luis Ferreira Nascimento
+,,,,QUI,16:40 às 18:30,Marcio Luis Ferreira Nascimento
+,80800.0,190.0,2.0,TER,20:20 às 22:10,Luiz Antonio Magalhaes Pontes
+,,186.0,40.0,,,Luiz Antonio Magalhaes Pontes
+,,190.0,2.0,QUI,20:20 às 22:10,Luiz Antonio Magalhaes Pontes
+,,186.0,40.0,,,Luiz Antonio Magalhaes Pontes
+,90900.0,194.0,25.0,TER,20:20 às 22:10,Mauricio Alvarez Munoz
+,,107.0,5.0,,,Mauricio Alvarez Munoz
+,,105.0,5.0,,,Mauricio Alvarez Munoz
+,,104.0,5.0,,,Mauricio Alvarez Munoz
+,,103.0,5.0,,,Mauricio Alvarez Munoz
+,,194.0,25.0,QUI,20:20 às 22:10,Mauricio Alvarez Munoz
+,,107.0,5.0,,,Mauricio Alvarez Munoz
+,,105.0,5.0,,,Mauricio Alvarez Munoz
+,,104.0,5.0,,,Mauricio Alvarez Munoz
+,,103.0,5.0,,,Mauricio Alvarez Munoz
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENG371 - HIDROLOGIA,10100.0,107.0,10.0,SEG,10:40 às 12:30,Yvonilde Dantas Pinto Medeiros
+,,102.0,35.0,,,Yvonilde Dantas Pinto Medeiros
+,,107.0,10.0,QUA,10:40 às 12:30,Yvonilde Dantas Pinto Medeiros
+,,102.0,35.0,,,Yvonilde Dantas Pinto Medeiros
+,20200.0,107.0,5.0,SEG,16:40 às 18:30,Bruno Jardim da Silva
+,,102.0,40.0,,,Bruno Jardim da Silva
+,,107.0,5.0,QUA,16:40 às 18:30,Bruno Jardim da Silva
+,,102.0,40.0,,,Bruno Jardim da Silva
+,30300.0,194.0,15.0,SEG,18:30 às 20:20,Bruno Jardim da Silva
+,,107.0,5.0,,,Bruno Jardim da Silva
+,,103.0,5.0,,,Bruno Jardim da Silva
+,,102.0,10.0,,,Bruno Jardim da Silva
+,,194.0,15.0,QUA,18:30 às 20:20,Bruno Jardim da Silva
+,,107.0,5.0,,,Bruno Jardim da Silva
+,,103.0,5.0,,,Bruno Jardim da Silva
+,,102.0,10.0,,,Bruno Jardim da Silva
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENG372 - PROCESSOS UNITÁRIOS DA INDÚSTRIA QUÍMICA I,10100.0,106.0,45.0,SEG,10:40 às 12:30,Regina Ferreira Vianna
+,,,,QUA,10:40 às 12:30,Regina Ferreira Vianna
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENG374 - ESTÁGIO INDUSTRIAL,1.0,105.0,20.0,CMB,00:00 às 23:00,Geraldo Nunes de Queiroz
+,2.0,105.0,20.0,CMB,00:00 às 23:00,Jurandir Santos Brito
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENG383 - DRENAGEM URBANA,10100.0,107.0,15.0,SEG,20:20 às 22:10,Bruno Jardim da Silva
+,,102.0,30.0,,,Bruno Jardim da Silva
+,,107.0,15.0,QUA,20:20 às 22:10,Bruno Jardim da Silva
+,,102.0,30.0,,,Bruno Jardim da Silva
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+"ENG384 - LIXO, RESIDUOS SOLIDOS E LIMPEZA PUBLICA",10100.0,107.0,20.0,SEG,14:50 às 16:40,Viviana Maria Zanta
+,,,,QUA,14:50 às 16:40,Viviana Maria Zanta
+,,,,CMB,00:00 às 00:00,Viviana Maria Zanta
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENG389 - MÉTODOS COMPUTACIONAIS NA ENGENHARIA CIVIL,10100.0,102.0,20.0,SEG,14:50 às 16:40,Paulo Gustavo Cavalcante Lins
+,,,,QUA,14:50 às 16:40,Paulo Gustavo Cavalcante Lins
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENG396 - TERMODINAMICA I,10100.0,106.0,45.0,TER,16:40 às 18:30,Miguel Angel Iglesias Duro
+,,,,QUI,16:40 às 18:30,Miguel Angel Iglesias Duro
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENG420 - TOPICOS ESPECIAIS EM ENGENHARIA QUIMICA.,10000.0,106.0,45.0,TER,08:50 às 10:40,Docente não informado pelo Departamento
+,,,,QUI,08:50 às 10:40,Docente não informado pelo Departamento
+,,,,CMB,00:00 às 00:00,Silvio Alexandre Beisl Vieira de Melo
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENG421 - FENOMENOS DE TRANSPORTE III,10100.0,106.0,45.0,SEG,14:50 às 16:40,Samuel Luporini
+,,,,QUA,14:50 às 16:40,Samuel Luporini
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENG426 - OPERACOES UNITARIAS DA INDUSTRIA QUIMICA I,10000.0,113.0,6.0,SEG,07:00 às 08:50,Samuel Luporini
+,,106.0,41.0,,,Samuel Luporini
+,,113.0,6.0,QUA,07:00 às 08:50,Samuel Luporini
+,,106.0,41.0,,,Samuel Luporini
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENG427 - TERMODINAMICA II,10000.0,106.0,45.0,TER,08:50 às 10:40,Silvana Mattedi e Silva
+,,,,QUI,08:50 às 10:40,Silvana Mattedi e Silva
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENG428 - DESATIVAÇÃO DE EMPREEND.MINEIROS E RECUP.DE ÁREAS DEGRADADAS,10100.0,103.0,30.0,SEG,08:50 às 10:40,Jose Baptista de Oliveira Junior
+,,,,QUA,08:50 às 10:40,Jose Baptista de Oliveira Junior
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENG432 - MANUFATURA ASSISTIDA POR COMPUTADOR,10100.0,185.0,45.0,SEG,20:20 às 22:10,Joao Thiago de Guimaraes Anchieta e Arau
+,,,,QUA,20:20 às 22:10,Joao Thiago de Guimaraes Anchieta e Arau
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENG433 - MOTORES DE COMBUSTÃO INTERNA,10100.0,105.0,25.0,TER,14:50 às 16:40,Julio Augusto Mendes da Silva
+,,,,QUI,14:50 às 16:40,Julio Augusto Mendes da Silva
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENG439 - INTRODUÇÃO À ENGENHARIA ELÉTRICA,10000.0,190.0,2.0,QUA,08:50 às 10:40,Paulo Roberto Ferreira de Moura Bastos
+,,189.0,3.0,,,Paulo Roberto Ferreira de Moura Bastos
+,,104.0,45.0,,,Paulo Roberto Ferreira de Moura Bastos
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENG441 - FADIGA,10000.0,105.0,45.0,SEG,13:00 às 14:50,Jayann Ismar Lira Almeida
+,,,,QUA,13:00 às 14:50,Jayann Ismar Lira Almeida
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENG442 - MECANISMOS,10000.0,105.0,45.0,SEG,16:40 às 18:30,Paula Frassinetti Cavalcante
+,,,,QUA,16:40 às 18:30,Paula Frassinetti Cavalcante
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENG443 - CONTROLE DE VIBRAÇÕES,10100.0,105.0,30.0,SEG,14:50 às 16:40,Paula Frassinetti Cavalcante
+,,,,QUA,14:50 às 16:40,Paula Frassinetti Cavalcante
+,20200.0,105.0,30.0,SEG,14:50 às 16:40,Marco Tulio Santana Alves
+,,,,QUA,14:50 às 16:40,Marco Tulio Santana Alves
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENG444 - ELEMENTOS DE MÁQUINAS I,10100.0,105.0,45.0,TER,16:40 às 17:35,Bruno da Cunha Diniz
+,,,,,17:35 às 18:30,Bruno da Cunha Diniz
+,,,,QUI,16:40 às 17:35,Bruno da Cunha Diniz
+,,,,,17:35 às 18:30,Bruno da Cunha Diniz
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENG445 - ELEMENTOS DE MÁQUINAS II,10100.0,105.0,45.0,SEG,16:40 às 18:30,Marco Tulio Santana Alves
+,,,,QUA,16:40 às 18:30,Marco Tulio Santana Alves
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENG446 - INTRODUÇÃO Á ENGENHARIA CIVIL,10000.0,102.0,45.0,TER,10:40 às 12:30,Docente Concursado
+,20000.0,190.0,6.0,TER,16:40 às 18:30,Docente Concursado
+,,102.0,45.0,,,Docente Concursado
+,30000.0,190.0,10.0,SEG,10:40 às 12:30,Emerson de Andrade Marques Ferreira
+,,102.0,35.0,,,Emerson de Andrade Marques Ferreira
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENG447 - METODOLOGIA CIENTIFICA I,10000.0,102.0,45.0,TER,10:40 às 12:30,Paulo Gustavo Cavalcante Lins
+,20000.0,194.0,3.0,TER,16:40 às 18:30,Paulo Gustavo Cavalcante Lins
+,,190.0,1.0,,,Paulo Gustavo Cavalcante Lins
+,,189.0,1.0,,,Paulo Gustavo Cavalcante Lins
+,,102.0,45.0,,,Paulo Gustavo Cavalcante Lins
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENGA47 - TECNOLOGIA DOS MATERIAIS PARA A ENGENHARIA ELÉTRICA,10000.0,186.0,10.0,TER,08:50 às 10:40,Manoel Messias Silva Junior
+,,104.0,40.0,,,Manoel Messias Silva Junior
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENGA49 - ISOSTÁTICA,10100.0,102.0,45.0,SEG,07:00 às 08:50,Maerbal Bittencourt Marinho
+,,,,QUA,07:00 às 08:50,Maerbal Bittencourt Marinho
+,,,,SEX,07:00 às 08:50,Maerbal Bittencourt Marinho
+,20200.0,102.0,45.0,SEG,16:40 às 18:30,Maerbal Bittencourt Marinho
+,,,,QUA,16:40 às 18:30,Maerbal Bittencourt Marinho
+,,,,SEX,16:40 às 18:30,Maerbal Bittencourt Marinho
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENGA50 - TOPOGRAFIA - A,10100.0,197.0,30.0,TER,20:20 às 22:10,Silvia Camargo Fernandes Miranda
+,,,,QUI,20:20 às 22:10,Jose Lazaro de Carvalho Santos
+,20200.0,102.0,30.0,TER,07:00 às 08:50,Elmo Leonardo Xavier Tanajura
+,,,,QUI,07:00 às 08:50,Elmo Leonardo Xavier Tanajura
+,30300.0,190.0,3.0,TER,08:50 às 10:40,Elmo Leonardo Xavier Tanajura
+,,102.0,30.0,,,Elmo Leonardo Xavier Tanajura
+,,190.0,3.0,QUI,08:50 às 10:40,Elmo Leonardo Xavier Tanajura
+,,102.0,30.0,,,Elmo Leonardo Xavier Tanajura
+,40400.0,194.0,5.0,TER,10:40 às 12:30,Elmo Leonardo Xavier Tanajura
+,,102.0,25.0,,,Elmo Leonardo Xavier Tanajura
+,,194.0,5.0,QUI,10:40 às 12:30,Elmo Leonardo Xavier Tanajura
+,,102.0,25.0,,,Elmo Leonardo Xavier Tanajura
+,50500.0,189.0,2.0,TER,14:50 às 16:40,Ana Regina Torres Ferreira Teles
+,,102.0,28.0,,,Ana Regina Torres Ferreira Teles
+,,189.0,2.0,QUI,14:50 às 16:40,Ana Regina Torres Ferreira Teles
+,,102.0,28.0,,,Ana Regina Torres Ferreira Teles
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENGA51 - MATERIAIS DE CONSTRUÇÃO I - A,10100.0,102.0,45.0,SEG,07:00 às 08:50,Cleber Marcos Ribeiro Dias
+,,,,QUA,07:00 às 08:50,Cleber Marcos Ribeiro Dias
+,20200.0,102.0,45.0,SEG,08:50 às 10:40,Daniel Veras Ribeiro
+,,,,QUA,08:50 às 10:40,Daniel Veras Ribeiro
+,30300.0,102.0,45.0,TER,16:40 às 18:30,Antonio Freitas da Silva Filho
+,,,,QUI,16:40 às 18:30,Antonio Freitas da Silva Filho
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENGA52 - GEOPROCESSAMENTO,10100.0,286.0,1.0,TER,07:00 às 08:50,Fabiola Andrade Souza
+,,226.0,1.0,,,Fabiola Andrade Souza
+,,102.0,30.0,,,Fabiola Andrade Souza
+,,286.0,1.0,QUI,07:00 às 08:50,Fabiola Andrade Souza
+,,226.0,1.0,,,Fabiola Andrade Souza
+,,102.0,30.0,,,Fabiola Andrade Souza
+,20200.0,190.0,2.0,TER,08:50 às 10:40,Suzana Daniela Rocha Santos e Silva
+,,102.0,30.0,,,Suzana Daniela Rocha Santos e Silva
+,,190.0,2.0,QUI,08:50 às 10:40,Suzana Daniela Rocha Santos e Silva
+,,102.0,30.0,,,Suzana Daniela Rocha Santos e Silva
+,30300.0,190.0,10.0,SEG,18:30 às 20:20,Michael Heimer
+,,102.0,20.0,,,Michael Heimer
+,,190.0,10.0,QUA,18:30 às 20:20,Michael Heimer
+,,102.0,20.0,,,Michael Heimer
+,40400.0,107.0,4.0,TER,16:40 às 18:30,Docente Substituto a Contratar
+,,102.0,30.0,,,Docente Substituto a Contratar
+,,107.0,4.0,QUI,16:40 às 18:30,Docente Substituto a Contratar
+,,102.0,30.0,,,Docente Substituto a Contratar
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENGA53 - MATERIAIS DE CONSTRUÇÃO II - A,10100.0,102.0,30.0,TER,07:00 às 08:50,Antonio Sergio Ramos da Silva
+,,,,QUI,07:00 às 08:50,Antonio Sergio Ramos da Silva
+,20200.0,102.0,15.0,TER,08:50 às 10:40,Vanessa Silveira Silva
+,,,,QUI,08:50 às 10:40,Vanessa Silveira Silva
+,20300.0,102.0,15.0,TER,08:50 às 10:40,Vanessa Silveira Silva
+,,,,QUI,08:50 às 10:40,Cleber Marcos Ribeiro Dias
+,30400.0,102.0,15.0,TER,14:50 às 16:40,Antonio Freitas da Silva Filho
+,,,,QUI,14:50 às 16:40,Antonio Freitas da Silva Filho
+,30500.0,102.0,15.0,TER,14:50 às 16:40,Antonio Freitas da Silva Filho
+,,,,QUI,14:50 às 16:40,Cleber Marcos Ribeiro Dias
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENGA54 - MECÂNICA DOS SOLOS I,10100.0,102.0,15.0,SEG,08:50 às 10:40,Evangelista Cardoso Fonseca
+,,,,QUA,08:50 às 09:45,Evangelista Cardoso Fonseca
+,,,,,09:45 às 10:40,Evangelista Cardoso Fonseca
+,10200.0,102.0,15.0,SEG,08:50 às 10:40,Evangelista Cardoso Fonseca
+,,,,QUA,08:50 às 09:45,Evangelista Cardoso Fonseca
+,,,,,09:45 às 10:40,Roberto Bastos Guimaraes
+,20300.0,102.0,15.0,SEG,10:40 às 12:30,Evangelista Cardoso Fonseca
+,,,,QUA,10:40 às 11:35,Evangelista Cardoso Fonseca
+,,,,,11:35 às 12:30,Evangelista Cardoso Fonseca
+,20400.0,102.0,15.0,SEG,10:40 às 12:30,Evangelista Cardoso Fonseca
+,,,,QUA,10:40 às 11:35,Evangelista Cardoso Fonseca
+,,,,,11:35 às 12:30,Roberto Bastos Guimaraes
+,30500.0,102.0,15.0,SEG,13:00 às 14:50,Sandro Lemos Machado
+,,,,QUA,13:00 às 13:55,Sandro Lemos Machado
+,,,,,13:55 às 14:50,Sandro Lemos Machado
+,30600.0,102.0,15.0,SEG,13:00 às 14:50,Sandro Lemos Machado
+,,,,QUA,13:00 às 13:55,Sandro Lemos Machado
+,,,,,13:55 às 14:50,Luis Edmundo Prado de Campos
+,40700.0,107.0,15.0,TER,14:50 às 16:40,Joao Carlos Baptista Jorge da Silva
+,,,,QUI,14:50 às 15:45,Joao Carlos Baptista Jorge da Silva
+,,,,,15:45 às 16:40,Joao Carlos Baptista Jorge da Silva
+,40800.0,107.0,10.0,TER,14:50 às 16:40,Joao Carlos Baptista Jorge da Silva
+,,103.0,5.0,,,Joao Carlos Baptista Jorge da Silva
+,,107.0,10.0,QUI,14:50 às 15:45,Joao Carlos Baptista Jorge da Silva
+,,103.0,5.0,,,Joao Carlos Baptista Jorge da Silva
+,,107.0,10.0,,15:45 às 16:40,Luis Edmundo Prado de Campos
+,,103.0,5.0,,,Luis Edmundo Prado de Campos
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENGA55 - MECÂNICA DOS SOLOS II,10100.0,102.0,15.0,SEG,10:40 às 12:30,Luis Edmundo Prado de Campos
+,,,,QUA,10:40 às 11:35,Luis Edmundo Prado de Campos
+,,,,,11:35 às 12:30,Luis Edmundo Prado de Campos
+,10200.0,102.0,15.0,SEG,10:40 às 12:30,Luis Edmundo Prado de Campos
+,,,,QUA,10:40 às 11:35,Luis Edmundo Prado de Campos
+,,,,,11:35 às 12:30,Sandro Lemos Machado
+,20300.0,102.0,15.0,TER,10:40 às 12:30,Roberto Bastos Guimaraes
+,,,,QUI,10:40 às 11:35,Roberto Bastos Guimaraes
+,,,,,11:35 às 12:30,Roberto Bastos Guimaraes
+,20400.0,102.0,15.0,TER,10:40 às 12:30,Roberto Bastos Guimaraes
+,,,,QUI,10:40 às 11:35,Roberto Bastos Guimaraes
+,,,,,11:35 às 12:30,Luis Edmundo Prado de Campos
+,30500.0,102.0,15.0,TER,13:00 às 14:50,Joao Carlos Baptista Jorge da Silva
+,,,,QUI,13:00 às 13:55,Joao Carlos Baptista Jorge da Silva
+,,,,,13:55 às 14:50,Joao Carlos Baptista Jorge da Silva
+,30600.0,102.0,15.0,TER,13:00 às 14:50,Joao Carlos Baptista Jorge da Silva
+,,,,QUI,13:00 às 13:55,Joao Carlos Baptista Jorge da Silva
+,,,,,13:55 às 14:50,Evangelista Cardoso Fonseca
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENGA56 - FUNDAÇÕES - A,10100.0,102.0,30.0,TER,10:40 às 12:30,Luciene de Moraes Eirado Lima
+,,,,QUI,10:40 às 12:30,Luciene de Moraes Eirado Lima
+,20200.0,102.0,30.0,TER,16:40 às 18:30,Luciene de Moraes Eirado Lima
+,,,,QUI,16:40 às 18:30,Luciene de Moraes Eirado Lima
+,30300.0,102.0,30.0,TER,08:50 às 10:40,Luciene de Moraes Eirado Lima
+,,,,QUI,08:50 às 10:40,Luciene de Moraes Eirado Lima
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENGA57 - ADMINISTRAÇÃO APLICADA À ENGENHARIA CIVIL,10000.0,102.0,45.0,TER,08:50 às 10:40,Emerson de Andrade Marques Ferreira
+,,,,QUI,08:50 às 10:40,Emerson de Andrade Marques Ferreira
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENGA58 - ECONOMIA APLICADA À ENGENHARIA CIVIL,10000.0,102.0,45.0,SEG,14:50 às 16:40,Emerson de Andrade Marques Ferreira
+,,,,QUA,14:50 às 16:40,Emerson de Andrade Marques Ferreira
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENGA61 - SISTEMAS DE REVESTIMENTOS EM ARGAMASSA PARA EDIFICAÇÕES,10100.0,102.0,25.0,TER,08:50 às 10:40,Antonio Sergio Ramos da Silva
+,,,,QUI,08:50 às 10:40,Antonio Sergio Ramos da Silva
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENGA62 - LOGÍSTICA DE TRANSPORTES,10100.0,197.0,40.0,TER,18:30 às 20:20,Sergio Fraga Santos Faria
+,,,,QUI,18:30 às 20:20,Sergio Fraga Santos Faria
+,20200.0,185.0,30.0,TER,20:20 às 22:10,Sergio Fraga Santos Faria
+,,,,QUI,20:20 às 22:10,Sergio Fraga Santos Faria
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENGC24 - SINAIS E SISTEMAS I,10000.0,186.0,8.0,SEG,08:50 às 10:40,Bernardo Ordonez
+,,104.0,42.0,,,Bernardo Ordonez
+,,186.0,8.0,QUA,08:50 às 10:40,Bernardo Ordonez
+,,104.0,42.0,,,Bernardo Ordonez
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENGC25 - ANALISE DE CIRCUITOS II,10000.0,186.0,5.0,SEG,07:00 às 08:50,Fabiano Fragoso Costa
+,,104.0,45.0,,,Fabiano Fragoso Costa
+,,186.0,5.0,QUA,07:00 às 08:50,Fabiano Fragoso Costa
+,,104.0,45.0,,,Fabiano Fragoso Costa
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENGC26 - SISTEMAS LÓGICOS,10000.0,186.0,5.0,QUI,08:50 às 10:40,Edson Pinto Santana
+,,104.0,45.0,,,Edson Pinto Santana
+,20000.0,186.0,45.0,QUI,18:30 às 20:20,Wagner Luiz Alves de Oliveira
+,,104.0,5.0,,,Wagner Luiz Alves de Oliveira
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENGC27 - SISTEMAS DE COMUNICAÇÕES I,10000.0,104.0,45.0,TER,13:00 às 14:50,Antonio Carlos Lopes Fernandes Junior
+,,,,QUI,13:00 às 14:50,Antonio Carlos Lopes Fernandes Junior
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENGC28 - LABORATÓRIO INTEGRADO I,100.0,104.0,12.0,SEX,07:00 às 08:50,Edson Pinto Santana
+,200.0,104.0,12.0,SEX,07:00 às 08:50,Ana Rita dos Santos Barbosa
+,300.0,104.0,12.0,TER,08:50 às 10:40,Marcio Fontana
+,400.0,104.0,12.0,TER,08:50 às 10:40,Antonio Carlos Lopes Fernandes Junior
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENGC29 - METODOLOGIA E EXPRESSÃO DO CONHECIMENTO CIENTÍFICO,10000.0,194.0,5.0,TER,07:00 às 08:50,Antonio Carlos Lopes Fernandes Junior
+,,190.0,5.0,,,Antonio Carlos Lopes Fernandes Junior
+,,189.0,5.0,,,Antonio Carlos Lopes Fernandes Junior
+,,104.0,40.0,,,Antonio Carlos Lopes Fernandes Junior
+,,194.0,5.0,QUI,07:00 às 08:50,Antonio Carlos Lopes Fernandes Junior
+,,190.0,5.0,,,Antonio Carlos Lopes Fernandes Junior
+,,189.0,5.0,,,Antonio Carlos Lopes Fernandes Junior
+,,104.0,40.0,,,Antonio Carlos Lopes Fernandes Junior
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENGC30 - MECÂNICA DOS SÓLIDOS,10000.0,104.0,45.0,TER,07:00 às 08:50,Armando Sa Ribeiro Junior
+,,,,QUI,07:00 às 08:50,Armando Sa Ribeiro Junior
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENGC31 - TERMODINÂMICA,10000.0,104.0,45.0,TER,16:40 às 18:30,Rosana Lopes Lima Fialho
+,,,,QUI,16:40 às 18:30,Rosana Lopes Lima Fialho
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENGC32 - ANÁLISE DE CIRCUITOS I,10000.0,190.0,3.0,SEG,18:30 às 20:20,Fabiano Fragoso Costa
+,,186.0,42.0,,,Fabiano Fragoso Costa
+,,104.0,5.0,,,Fabiano Fragoso Costa
+,,190.0,3.0,QUA,18:30 às 20:20,Fabiano Fragoso Costa
+,,186.0,42.0,,,Fabiano Fragoso Costa
+,,104.0,5.0,,,Fabiano Fragoso Costa
+,20000.0,190.0,3.0,TER,10:40 às 12:30,Luciana Martinez
+,,186.0,5.0,,,Luciana Martinez
+,,104.0,42.0,,,Luciana Martinez
+,,190.0,3.0,QUI,10:40 às 12:30,Luciana Martinez
+,,186.0,5.0,,,Luciana Martinez
+,,104.0,42.0,,,Luciana Martinez
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENGC33 - SINAIS E SISTEMAS II,10000.0,186.0,5.0,SEG,10:40 às 12:30,Humberto Xavier de Araujo
+,,104.0,45.0,,,Humberto Xavier de Araujo
+,,186.0,5.0,QUA,10:40 às 12:30,Humberto Xavier de Araujo
+,,104.0,45.0,,,Humberto Xavier de Araujo
+,20000.0,186.0,35.0,SEG,18:30 às 20:20,Tito Luis Maia Santos
+,,104.0,10.0,,,Tito Luis Maia Santos
+,,186.0,35.0,QUA,18:30 às 20:20,Tito Luis Maia Santos
+,,104.0,10.0,,,Tito Luis Maia Santos
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENGC34 - ELETROMAGNETISMO APLICADO,10000.0,104.0,50.0,QUA,10:40 às 12:30,Antonio Cezar de Castro Lima
+,,,,SEX,10:40 às 12:30,Antonio Cezar de Castro Lima
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENGC35 - MODELAGEM E ANÁLISE DE SISTEMAS DINÂMICOS,10000.0,104.0,50.0,SEG,16:40 às 18:30,Humberto Xavier de Araujo
+,,,,QUA,16:40 às 18:30,Humberto Xavier de Araujo
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENGC36 - DISPOSITIVOS DE CONVERSÃO ELETROMECÂNICA I,10000.0,104.0,45.0,SEG,18:30 às 20:20,Aurino Almeida Filho
+,,,,QUA,18:30 às 20:20,Aurino Almeida Filho
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENGC37 - LABORATÓRIO INTEGRADO II,100.0,190.0,2.0,QUI,08:50 às 10:40,Antonio Carlos Lopes Fernandes Junior
+,,104.0,10.0,,,Antonio Carlos Lopes Fernandes Junior
+,200.0,104.0,12.0,QUI,08:50 às 10:40,Luciana Martinez
+,300.0,104.0,12.0,SEX,13:00 às 14:50,Ademario Jose de Carvalho Neto
+,400.0,104.0,12.0,SEX,13:00 às 14:50,Docente não informado pelo Departamento
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENGC38 - LABORATÓRIO INTEGRADO III,100.0,189.0,2.0,TER,07:00 às 08:50,Ana Isabela Araujo Cunha
+,,104.0,10.0,,,Ana Isabela Araujo Cunha
+,,189.0,2.0,QUI,07:00 às 08:50,Ana Isabela Araujo Cunha
+,,104.0,10.0,,,Ana Isabela Araujo Cunha
+,200.0,104.0,12.0,TER,07:00 às 08:50,Edson Pinto Santana
+,,,,QUI,07:00 às 08:50,Edson Pinto Santana
+,300.0,104.0,12.0,TER,13:00 às 14:50,Marcio Fontana
+,,,,QUI,13:00 às 14:50,Marcio Fontana
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENGC39 - LABORATÓRIO INTEGRADO IV,100.0,104.0,12.0,SEG,13:00 às 14:50,Antonio Cezar de Castro Lima
+,,,,QUA,13:00 às 14:50,Antonio Cezar de Castro Lima
+,200.0,104.0,12.0,SEG,13:00 às 14:50,Robson Nunes de Lima
+,,,,QUA,13:00 às 14:50,Robson Nunes de Lima
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENGC40 - ELETRÔNICA DIGITAL,10000.0,186.0,35.0,QUA,18:30 às 20:20,Wagner Luiz Alves de Oliveira
+,,104.0,5.0,,,Wagner Luiz Alves de Oliveira
+,20000.0,186.0,5.0,SEX,08:50 às 10:40,Marcio Fontana
+,,104.0,40.0,,,Marcio Fontana
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENGC41 - DISPOSITIVOS ELETRÔNICOS,10000.0,186.0,5.0,TER,08:50 às 10:40,Ana Isabela Araujo Cunha
+,,104.0,45.0,,,Ana Isabela Araujo Cunha
+,,186.0,5.0,QUI,08:50 às 10:40,Ana Isabela Araujo Cunha
+,,104.0,45.0,,,Ana Isabela Araujo Cunha
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENGC42 - SISTEMAS DE CONTROLE I,10000.0,104.0,50.0,SEG,14:50 às 16:40,Tito Luis Maia Santos
+,,,,QUA,14:50 às 16:40,Tito Luis Maia Santos
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENGC43 - DISPOSITIVOS DE CONVERSÃO ELETROMECÂNICA II,10000.0,104.0,45.0,SEG,18:30 às 20:20,Kleber Freire da Silva
+,,,,QUA,18:30 às 20:20,Kleber Freire da Silva
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENGC44 - SISTEMAS DE POTÊNCIA I,10000.0,104.0,45.0,TER,14:50 às 16:40,Niraldo Roberto Ferreira
+,,,,QUI,14:50 às 16:40,Niraldo Roberto Ferreira
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENGC45 - INSTALAÇÕES E EQUIPAMENTOS ELETRICOS I,10000.0,104.0,40.0,TER,16:40 às 18:30,Niraldo Roberto Ferreira
+,,103.0,10.0,,,Niraldo Roberto Ferreira
+,,104.0,40.0,QUI,16:40 às 18:30,Niraldo Roberto Ferreira
+,,103.0,10.0,,,Niraldo Roberto Ferreira
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENGC46 - SÍNTESE DE CIRCUITOS,10000.0,104.0,45.0,SEX,13:00 às 14:50,Robson Nunes de Lima
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENGC47 - TRANSMISSÃO E DISTRIBUIÇÃO DE ENERGIA ELÉTRICA,10000.0,104.0,45.0,TER,16:40 às 18:30,Andre Luiz de Carvalho Valente
+,,,,QUI,16:40 às 18:30,Fernando Augusto Moreira
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENGC48 - ELETRÔNICA DE POTÊNCIA,10000.0,104.0,45.0,TER,14:50 às 16:40,Andre Pires Nobrega Tahim
+,,,,QUI,14:50 às 16:40,Andre Pires Nobrega Tahim
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENGC49 - MEDIÇÃO DE GRANDEZAS FÍSICAS,10000.0,104.0,45.0,TER,14:50 às 16:40,Antonio Cezar de Castro Lima
+,,,,QUI,14:50 às 16:40,Antonio Cezar de Castro Lima
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENGC50 - SISTEMAS MICROPROCESSADOS,10000.0,186.0,5.0,SEG,08:50 às 10:40,Augusto Cesar Pinto Loureiro da Costa
+,,104.0,45.0,,,Augusto Cesar Pinto Loureiro da Costa
+,,186.0,5.0,QUA,08:50 às 10:40,Augusto Cesar Pinto Loureiro da Costa
+,,104.0,45.0,,,Augusto Cesar Pinto Loureiro da Costa
+,20000.0,186.0,45.0,SEG,20:20 às 22:10,Paulo Cesar Machado de Abreu Farias
+,,104.0,5.0,,,Paulo Cesar Machado de Abreu Farias
+,,186.0,45.0,QUA,20:20 às 22:10,Paulo Cesar Machado de Abreu Farias
+,,104.0,5.0,,,Paulo Cesar Machado de Abreu Farias
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENGC51 - ELETRÔNICA ANALÓGICA,10000.0,104.0,45.0,SEG,07:00 às 08:50,Amauri Oliveira
+,,,,QUA,07:00 às 08:50,Amauri Oliveira
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENGC52 - GERAÇÃO DE ENERGIA ELETRICA,10000.0,104.0,45.0,SEG,16:40 às 18:30,Paulo Roberto Ferreira de Moura Bastos
+,,,,QUA,16:40 às 18:30,Paulo Roberto Ferreira de Moura Bastos
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENGC53 - LABORATORIO INTEGRADO V,100.0,104.0,12.0,SEG,14:50 às 16:40,Marcela Silva Novo
+,,,,QUA,14:50 às 16:40,Marcela Silva Novo
+,200.0,104.0,12.0,SEG,14:50 às 16:40,Paulo Roberto Ferreira de Moura Bastos
+,,,,QUA,14:50 às 16:40,Aurino Almeida Filho
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENGC54 - LABORATORIO INTEGRADO VI,100.0,104.0,12.0,SEG,16:40 às 18:30,Aurino Almeida Filho
+,,,,QUA,16:40 às 18:30,Aurino Almeida Filho
+,200.0,104.0,12.0,SEG,16:40 às 18:30,Bernardo Ordonez
+,,,,QUA,16:40 às 18:30,Bernardo Ordonez
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENGC55 - LABORATORIO INTEGRADO VII,100.0,104.0,12.0,SEG,18:30 às 20:20,Jes de Jesus Fiais Cerqueira
+,200.0,104.0,12.0,SEG,18:30 às 20:20,Eduardo Furtado de Simas Filho
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENGC56 - TRABALHO FINAL DE GRADUAÇAO,100.0,104.0,3.0,CMB,00:00 às 23:00,Amauri Oliveira
+,200.0,104.0,3.0,CMB,00:00 às 23:00,Ana Isabela Araujo Cunha
+,300.0,104.0,3.0,CMB,00:00 às 23:00,Andre Gustavo Scolari Conceicao
+,400.0,104.0,3.0,CMB,00:00 às 23:00,Andre Luiz de Carvalho Valente
+,500.0,104.0,3.0,CMB,00:00 às 23:00,Antonio Carlos Lopes Fernandes Junior
+,600.0,104.0,3.0,CMB,00:00 às 23:00,Amauri Oliveira
+,700.0,104.0,3.0,CMB,00:00 às 23:00,Ana Isabela Araujo Cunha
+,800.0,104.0,3.0,CMB,00:00 às 23:00,Andre Gustavo Scolari Conceicao
+,900.0,104.0,3.0,CMB,00:00 às 23:00,Andre Luiz de Carvalho Valente
+,1000.0,104.0,3.0,CMB,00:00 às 23:00,Andre Pires Nobrega Tahim
+,1100.0,104.0,3.0,CMB,00:00 às 23:00,Antonio Carlos Lopes Fernandes Junior
+,1200.0,104.0,3.0,CMB,00:00 às 23:00,Antonio Cezar de Castro Lima
+,1300.0,104.0,3.0,CMB,00:00 às 23:00,Augusto Cesar Pinto Loureiro da Costa
+,1400.0,104.0,3.0,CMB,00:00 às 23:00,Aurino Almeida Filho
+,1500.0,104.0,3.0,CMB,00:00 às 23:00,Bernardo Ordonez
+,1600.0,104.0,3.0,CMB,00:00 às 23:00,Cristiane Correa Paim
+,1700.0,104.0,33.0,CMB,00:00 às 23:00,Daniel Barbosa
+,1800.0,104.0,3.0,CMB,00:00 às 23:00,Edson Pinto Santana
+,1900.0,104.0,3.0,CMB,00:00 às 23:00,Eduardo Furtado de Simas Filho
+,2000.0,104.0,3.0,CMB,00:00 às 23:00,Fabiano Fragoso Costa
+,2100.0,104.0,3.0,CMB,00:00 às 23:00,Fernando Augusto Moreira
+,2200.0,104.0,3.0,CMB,00:00 às 23:00,Humberto Xavier de Araujo
+,2300.0,104.0,3.0,CMB,00:00 às 23:00,Jes de Jesus Fiais Cerqueira
+,2400.0,104.0,3.0,CMB,00:00 às 23:00,Karcius Day Rosario Assis
+,2500.0,104.0,3.0,CMB,00:00 às 23:00,Luciana Martinez
+,2600.0,104.0,3.0,CMB,00:00 às 23:00,Marcela Silva Novo
+,2700.0,104.0,3.0,CMB,00:00 às 23:00,Niraldo Roberto Ferreira
+,2800.0,104.0,3.0,CMB,00:00 às 23:00,Paulo Cesar Machado de Abreu Farias
+,2900.0,104.0,3.0,CMB,00:00 às 23:00,Paulo Roberto Ferreira de Moura Bastos
+,3000.0,104.0,3.0,CMB,00:00 às 23:00,Robson Nunes de Lima
+,3100.0,104.0,3.0,CMB,00:00 às 23:00,Tito Luis Maia Santos
+,3200.0,104.0,3.0,CMB,00:00 às 23:00,Vitaly Felix Rodriguez Esquerre
+,3300.0,104.0,3.0,CMB,00:00 às 23:00,Wagner Luiz Alves de Oliveira
+,3600.0,104.0,3.0,CMB,00:00 às 23:00,Antonio Cezar de Castro Lima
+,3700.0,104.0,3.0,CMB,00:00 às 23:00,Aurino Almeida Filho
+,3800.0,104.0,3.0,CMB,00:00 às 23:00,Bernardo Ordonez
+,3900.0,104.0,3.0,CMB,00:00 às 23:00,Daniel Barbosa
+,4000.0,104.0,3.0,CMB,00:00 às 23:00,Edson Pinto Santana
+,4100.0,104.0,3.0,CMB,00:00 às 23:00,Eduardo Furtado de Simas Filho
+,4200.0,104.0,3.0,CMB,00:00 às 23:00,Fabiano Fragoso Costa
+,4300.0,104.0,3.0,CMB,00:00 às 23:00,Fernando Augusto Moreira
+,4400.0,104.0,3.0,CMB,00:00 às 23:00,Humberto Xavier de Araujo
+,4500.0,104.0,3.0,CMB,00:00 às 23:00,Jes de Jesus Fiais Cerqueira
+,4600.0,104.0,3.0,CMB,00:00 às 23:00,Fabiano Fragoso Costa
+,4700.0,104.0,3.0,CMB,00:00 às 23:00,Kleber Freire da Silva
+,4800.0,104.0,3.0,CMB,00:00 às 23:00,Luciana Martinez
+,4900.0,104.0,3.0,CMB,00:00 às 23:00,Marcela Silva Novo
+,5000.0,104.0,3.0,CMB,00:00 às 23:00,Marcio Fontana
+,5100.0,104.0,3.0,CMB,00:00 às 23:00,Niraldo Roberto Ferreira
+,5200.0,104.0,3.0,CMB,00:00 às 23:00,Paulo Cesar Machado de Abreu Farias
+,5300.0,104.0,3.0,CMB,00:00 às 23:00,Paulo Roberto Ferreira de Moura Bastos
+,5400.0,104.0,3.0,CMB,00:00 às 23:00,Robson Nunes de Lima
+,5500.0,104.0,3.0,CMB,00:00 às 23:00,Tito Luis Maia Santos
+,5600.0,104.0,3.0,CMB,00:00 às 23:00,Wagner Luiz Alves de Oliveira
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENGC57 - ESTAGIO CURRICULAR EM ENGENHARIA ELETRICA,100.0,104.0,5.0,CMB,00:00 às 23:00,Amauri Oliveira
+,200.0,104.0,5.0,CMB,00:00 às 23:00,Ana Isabela Araujo Cunha
+,300.0,104.0,5.0,CMB,00:00 às 23:00,Andre Gustavo Scolari Conceicao
+,400.0,104.0,5.0,CMB,00:00 às 23:00,Andre Luiz de Carvalho Valente
+,500.0,104.0,5.0,CMB,00:00 às 23:00,Andre Pires Nobrega Tahim
+,600.0,104.0,5.0,CMB,00:00 às 23:00,Antonio Carlos Lopes Fernandes Junior
+,700.0,104.0,5.0,CMB,00:00 às 23:00,Antonio Cezar de Castro Lima
+,800.0,104.0,5.0,CMB,00:00 às 23:00,Augusto Cesar Pinto Loureiro da Costa
+,900.0,104.0,5.0,CMB,00:00 às 23:00,Aurino Almeida Filho
+,1000.0,104.0,5.0,CMB,00:00 às 23:00,Bernardo Ordonez
+,1100.0,104.0,5.0,CMB,00:00 às 23:00,Cristiane Correa Paim
+,1200.0,104.0,5.0,CMB,00:00 às 23:00,Daniel Barbosa
+,1300.0,104.0,5.0,CMB,00:00 às 23:00,Edson Pinto Santana
+,1400.0,104.0,5.0,CMB,00:00 às 23:00,Eduardo Furtado de Simas Filho
+,1500.0,104.0,5.0,CMB,00:00 às 23:00,Fabiano Fragoso Costa
+,1600.0,104.0,5.0,CMB,00:00 às 23:00,Fernando Augusto Moreira
+,1700.0,104.0,5.0,CMB,00:00 às 23:00,Humberto Xavier de Araujo
+,1800.0,104.0,5.0,CMB,00:00 às 23:00,Jes de Jesus Fiais Cerqueira
+,1900.0,104.0,5.0,CMB,00:00 às 23:00,Karcius Day Rosario Assis
+,2000.0,104.0,5.0,CMB,00:00 às 23:00,Kleber Freire da Silva
+,2100.0,104.0,5.0,CMB,00:00 às 23:00,Luciana Martinez
+,2200.0,104.0,5.0,CMB,00:00 às 23:00,Marcela Silva Novo
+,2300.0,104.0,5.0,CMB,00:00 às 23:00,Marcio Fontana
+,2400.0,104.0,5.0,CMB,00:00 às 23:00,Niraldo Roberto Ferreira
+,2500.0,104.0,5.0,CMB,00:00 às 23:00,Paulo Cesar Machado de Abreu Farias
+,2600.0,104.0,5.0,CMB,00:00 às 23:00,Paulo Roberto Ferreira de Moura Bastos
+,2700.0,104.0,5.0,CMB,00:00 às 23:00,Robson Nunes de Lima
+,2800.0,104.0,5.0,CMB,00:00 às 23:00,Tito Luis Maia Santos
+,2900.0,104.0,5.0,CMB,00:00 às 23:00,Vitaly Felix Rodriguez Esquerre
+,3000.0,104.0,5.0,CMB,00:00 às 23:00,Wagner Luiz Alves de Oliveira
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENGC68 - INSTALAÇOES E EQUIPAMENTOS ELETRICOS II,10000.0,104.0,30.0,SEG,20:20 às 22:10,Daniel Barbosa
+,,,,QUA,20:20 às 22:10,Kleber Freire da Silva
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENGC70 - PROTEÇAO DE SISTEMAS ELETRICOS,10000.0,104.0,30.0,SEG,18:30 às 20:20,Daniel Barbosa
+,,,,QUA,18:30 às 20:20,Daniel Barbosa
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENGC71 - SISTEMAS DE POTENCIA II,10000.0,104.0,30.0,SEG,16:40 às 18:30,Daniel Barbosa
+,,,,QUA,16:40 às 18:30,Daniel Barbosa
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENGC72 - SISTEMAS DE POTENCIA III,10000.0,104.0,30.0,SEG,18:30 às 20:20,Andre Luiz de Carvalho Valente
+,,,,QUA,18:30 às 20:20,Andre Luiz de Carvalho Valente
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENGC73 - ENGENHARIA ECONOMICA,10000.0,104.0,30.0,TER,18:30 às 20:20,Paulo Roberto Ferreira de Moura Bastos
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENGC74 - ACIONAMENTOS ELETRICOS,10000.0,104.0,30.0,SEG,16:40 às 18:30,Kleber Freire da Silva
+,,,,QUA,16:40 às 18:30,Kleber Freire da Silva
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENGC99 - INTRODUÇÃO À ENGENHARIA QUÌMICA,10100.0,106.0,23.0,TER,13:00 às 14:50,Docente não informado pelo Departamento
+,,,,,14:50 às 16:40,Elaine Christine de Magalhaes Cabral Alb
+,,,,QUI,14:50 às 16:40,Elaine Christine de Magalhaes Cabral Alb
+,10200.0,106.0,22.0,TER,14:50 às 16:40,Elaine Christine de Magalhaes Cabral Alb
+,,,,QUI,13:00 às 14:50,Docente não informado pelo Departamento
+,,,,,14:50 às 16:40,Elaine Christine de Magalhaes Cabral Alb
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENGD01 - MÉTODOS COMPUTACIONAIS NA ENGENHARIA,10100.0,190.0,5.0,TER,10:40 às 12:30,Yuri Guerrieri Pereira
+,,189.0,5.0,,,Yuri Guerrieri Pereira
+,,106.0,45.0,,,Yuri Guerrieri Pereira
+,,190.0,5.0,SEX,10:40 às 12:30,Yuri Guerrieri Pereira
+,,189.0,5.0,,,Yuri Guerrieri Pereira
+,,106.0,45.0,,,Yuri Guerrieri Pereira
+,20200.0,190.0,3.0,TER,20:20 às 22:10,Docente Substituto a Contratar
+,,189.0,5.0,,,Docente Substituto a Contratar
+,,185.0,35.0,,,Docente Substituto a Contratar
+,,106.0,5.0,,,Docente Substituto a Contratar
+,,190.0,3.0,QUI,20:20 às 22:10,Docente Substituto a Contratar
+,,189.0,5.0,,,Docente Substituto a Contratar
+,,185.0,35.0,,,Docente Substituto a Contratar
+,,106.0,5.0,,,Docente Substituto a Contratar
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENGD02 - ESTATÍSTICA NA ENGENHARIA,10100.0,190.0,5.0,TER,16:40 às 18:30,Docente não informado pelo Departamento
+,,106.0,40.0,,,Docente não informado pelo Departamento
+,,190.0,5.0,QUI,16:40 às 18:30,Docente não informado pelo Departamento
+,,106.0,40.0,,,Docente não informado pelo Departamento
+,20200.0,188.0,45.0,TER,18:30 às 20:20,Karla Patricia Santos Oliveira Rodriguez
+,,,,QUI,18:30 às 20:20,Karla Patricia Santos Oliveira Rodriguez
+,30300.0,189.0,5.0,TER,20:20 às 22:10,Karla Patricia Santos Oliveira Rodriguez
+,,185.0,25.0,,,Karla Patricia Santos Oliveira Rodriguez
+,,106.0,15.0,,,Karla Patricia Santos Oliveira Rodriguez
+,,189.0,5.0,QUI,20:20 às 22:10,Karla Patricia Santos Oliveira Rodriguez
+,,185.0,25.0,,,Karla Patricia Santos Oliveira Rodriguez
+,,106.0,15.0,,,Karla Patricia Santos Oliveira Rodriguez
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENGD03 - LABORATÓRIO DE ENGENHARIA QUÍMICA,100.0,106.0,15.0,TER,14:50 às 16:40,Yuri Guerrieri Pereira
+,,,,QUI,14:50 às 16:40,Yuri Guerrieri Pereira
+,200.0,106.0,15.0,TER,14:50 às 16:40,Marcos Fabio de Jesus
+,,,,QUI,14:50 às 16:40,Marcos Fabio de Jesus
+,300.0,106.0,15.0,TER,14:50 às 16:40,Daniela Araujo Costa
+,,,,QUI,14:50 às 16:40,Daniela Araujo Costa
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENGD04 - MÉTODOS MATEMÁTICOS E COMPUTACIONAIS NA ENGENHARIA,10100.0,106.0,45.0,SEG,08:50 às 10:40,Leizer Schnitman
+,,,,QUA,08:50 às 10:40,Leizer Schnitman
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENGD05 - MECÂNICA DOS SÓLIDOS APLICADA A PLANTAS INDUSTRIAIS,10000.0,106.0,45.0,TER,10:40 às 12:30,Armando Sa Ribeiro Junior
+,,,,QUI,10:40 às 12:30,Armando Sa Ribeiro Junior
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENGD06 - ENGENHARIA ECONÔMICA E GESTÃO,10100.0,190.0,2.0,SEG,16:40 às 18:30,Herbert Pereira de Oliveira
+,,113.0,2.0,,,Herbert Pereira de Oliveira
+,,106.0,41.0,,,Herbert Pereira de Oliveira
+,,190.0,2.0,QUA,16:40 às 18:30,Herbert Pereira de Oliveira
+,,113.0,2.0,,,Herbert Pereira de Oliveira
+,,106.0,41.0,,,Herbert Pereira de Oliveira
+,20200.0,189.0,2.0,SEG,18:30 às 20:20,Marcus Vinicius Americano da Costa Filho
+,,188.0,41.0,,,Marcus Vinicius Americano da Costa Filho
+,,113.0,2.0,,,Marcus Vinicius Americano da Costa Filho
+,,189.0,2.0,QUA,18:30 às 20:20,Marcus Vinicius Americano da Costa Filho
+,,188.0,41.0,,,Marcus Vinicius Americano da Costa Filho
+,,113.0,2.0,,,Marcus Vinicius Americano da Costa Filho
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENGD07 - OPERAÇÃO E SEGURANÇA DE PLANTAS INDUSTRIAIS,10100.0,106.0,45.0,SEG,16:40 às 18:30,Silvio Alexandre Beisl Vieira de Melo
+,,,,QUA,16:40 às 18:30,Silvio Alexandre Beisl Vieira de Melo
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENGD16 - ESTUDOS ESPECIAIS EM ENGENHARIA QUIMICA I,10000.0,106.0,30.0,CMB,00:00 às 23:00,Mauricio Alvarez Munoz
+,20000.0,106.0,30.0,CMB,00:00 às 23:00,Ednildo Andrade Torres
+,30000.0,188.0,30.0,CMB,00:00 às 23:00,Marcelo Embirucu de Souza
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENGF13 - TRABALHO DE CONCLUSÃO DE CURSO DE ENG. SANITÁRIA E AMBIENTAL,10100.0,107.0,5.0,CMB,00:00 às 23:00,Alexsandro Fiscina de Santana
+,20200.0,107.0,5.0,CMB,00:00 às 23:00,Iara Brandao de Oliveira
+,30300.0,107.0,5.0,CMB,00:00 às 23:00,Jose Mauricio Sousa Fiuza
+,40400.0,107.0,5.0,CMB,00:00 às 23:00,Luciano Matos Queiroz
+,50500.0,107.0,5.0,CMB,00:00 às 23:00,Marcia Mara de Oliveira Marinho
+,60600.0,107.0,5.0,CMB,00:00 às 23:00,Patricia Campos Borja
+,70700.0,107.0,5.0,CMB,00:00 às 23:00,Vivien Luciane Viaro
+,80800.0,107.0,5.0,CMB,00:00 às 23:00,Viviana Maria Zanta
+,90900.0,107.0,3.0,CMB,00:00 às 23:00,Yvonilde Dantas Pinto Medeiros
+,101000.0,107.0,3.0,CMB,00:00 às 23:00,Bruno Jardim da Silva
+,111100.0,107.0,2.0,CMB,00:00 às 23:00,Louisa Wessels Perelo
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENGF14 - ESTÁGIO CURRICULAR,1.0,103.0,5.0,CMB,00:00 às 23:00,Jose Baptista de Oliveira Junior
+,2.0,103.0,5.0,CMB,00:00 às 23:00,Jose Baptista de Oliveira Junior
+,3.0,103.0,5.0,CMB,00:00 às 23:00,Jose Barbosa Filho
+,4.0,103.0,5.0,CMB,00:00 às 23:00,Jose Barbosa Filho
+,5.0,103.0,5.0,CMB,00:00 às 23:00,Luiz Rogerio Pinho de Andrade Lima
+,6.0,103.0,5.0,CMB,00:00 às 23:00,Luiz Rogerio Pinho de Andrade Lima
+,7.0,103.0,5.0,CMB,00:00 às 23:00,Luis Rodrigo Cosme Rodrigues Costa
+,8.0,103.0,5.0,CMB,00:00 às 23:00,Luis Rodrigo Cosme Rodrigues Costa
+,9.0,103.0,5.0,CMB,00:00 às 23:00,Erisvaldo Bitencourt de Jesus
+,10.0,103.0,5.0,CMB,00:00 às 23:00,Erisvaldo Bitencourt de Jesus
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENGF15 - TRABALHO DE CONCLUSÃO DE CURSO,1.0,103.0,5.0,CMB,00:00 às 23:00,Jose Baptista de Oliveira Junior
+,2.0,103.0,5.0,CMB,00:00 às 23:00,Jose Baptista de Oliveira Junior
+,3.0,103.0,5.0,CMB,00:00 às 23:00,Jose Barbosa Filho
+,4.0,103.0,5.0,CMB,00:00 às 23:00,Jose Barbosa Filho
+,5.0,103.0,5.0,CMB,00:00 às 23:00,Luiz Rogerio Pinho de Andrade Lima
+,6.0,103.0,5.0,CMB,00:00 às 23:00,Luiz Rogerio Pinho de Andrade Lima
+,7.0,103.0,5.0,CMB,00:00 às 23:00,Luis Rodrigo Cosme Rodrigues Costa
+,8.0,103.0,5.0,CMB,00:00 às 23:00,Luis Rodrigo Cosme Rodrigues Costa
+,9.0,103.0,5.0,CMB,00:00 às 23:00,Erisvaldo Bitencourt de Jesus
+,10.0,103.0,5.0,CMB,00:00 às 23:00,Erisvaldo Bitencourt de Jesus
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENGF16 - HIDROMETALURGIA,10100.0,103.0,30.0,SEG,14:50 às 16:40,Luiz Rogerio Pinho de Andrade Lima
+,,,,QUA,14:50 às 16:40,Luiz Rogerio Pinho de Andrade Lima
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENGF56 - INTRODUÇÃO Á ENGENHARIA DE PRODUÇÃO,10100.0,190.0,7.0,SEG,18:30 às 20:20,Docente não informado pelo Departamento
+,,189.0,13.0,,,Docente não informado pelo Departamento
+,,185.0,25.0,,,Docente não informado pelo Departamento
+,,190.0,7.0,TER,18:30 às 20:20,Geraldo Nunes de Queiroz
+,,189.0,13.0,,,Geraldo Nunes de Queiroz
+,,185.0,25.0,,,Geraldo Nunes de Queiroz
+,,190.0,7.0,QUI,18:30 às 20:20,Geraldo Nunes de Queiroz
+,,189.0,13.0,,,Geraldo Nunes de Queiroz
+,,185.0,25.0,,,Geraldo Nunes de Queiroz
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENGF77 - ADMINISTRAÇAO NA ENGENHARIA,10000.0,185.0,45.0,TER,18:30 às 20:20,Francisco Gaudencio Mendonca Freires
+,,,,QUI,18:30 às 20:20,Francisco Gaudencio Mendonca Freires
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENGF78 - MECÂNICA DOS FLUÍDOS,10000.0,185.0,45.0,SEX,18:30 às 19:25,Docente não informado pelo Departamento
+,,,,,19:25 às 22:10,Docente não informado pelo Departamento
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENGF79 - PRINCÍPIOS DOS PROCESSOS CONTÍNUOS,10000.0,188.0,15.0,SEG,18:30 às 20:20,Marcio Andre Fernandes Martins
+,,185.0,25.0,,,Marcio Andre Fernandes Martins
+,,188.0,15.0,QUA,18:30 às 20:20,Marcio Andre Fernandes Martins
+,,185.0,25.0,,,Marcio Andre Fernandes Martins
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENGF80 - SISTEMAS DE PRODUÇÃO DISCRETA,10000.0,185.0,45.0,TER,20:20 às 22:10,Anastacio Pinto Goncalves Filho
+,,,,QUI,20:20 às 22:10,Anastacio Pinto Goncalves Filho
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENGF81 - PESQUISA OPERACIONAL I,10100.0,185.0,45.0,TER,18:30 às 20:20,Adonias Magdiel Silva Ferreira
+,,,,QUI,18:30 às 20:20,Adonias Magdiel Silva Ferreira
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENGF82 - PESQUISA OPERACIONAL II,10100.0,185.0,45.0,SEG,18:30 às 20:20,Joao Thiago de Guimaraes Anchieta e Arau
+,,,,QUA,18:30 às 20:20,Joao Thiago de Guimaraes Anchieta e Arau
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENGF83 - SISTEMAS DE APOIO Á DECISÃO,10000.0,185.0,45.0,SEG,18:30 às 20:20,Angelo Marcio Oliveira Sant Anna
+,,,,QUA,18:30 às 20:20,Angelo Marcio Oliveira Sant Anna
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENGF84 - MODELAGEM E OTIMIZAÇÃO DE SISTEMAS DE PRODUÇÃO,10100.0,185.0,45.0,TER,20:20 às 22:10,Renato de Castro Vivas
+,,,,QUI,20:20 às 22:10,Renato de Castro Vivas
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENGF85 - ENGENHARIA DO TRABALHO,10000.0,185.0,45.0,TER,18:30 às 20:20,Anastacio Pinto Goncalves Filho
+,,,,QUI,18:30 às 20:20,Anastacio Pinto Goncalves Filho
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENGF86 - ENGENHARIA ECONÔMICA,10000.0,190.0,5.0,TER,20:20 às 22:10,Adonias Magdiel Silva Ferreira
+,,189.0,10.0,,,Adonias Magdiel Silva Ferreira
+,,185.0,30.0,,,Adonias Magdiel Silva Ferreira
+,,190.0,5.0,QUI,20:20 às 22:10,Adonias Magdiel Silva Ferreira
+,,189.0,10.0,,,Adonias Magdiel Silva Ferreira
+,,185.0,30.0,,,Adonias Magdiel Silva Ferreira
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENGF87 - ESTÁGIO EM ENGENHARIA DE PRODUÇÃO,1.0,185.0,5.0,CMB,00:00 às 23:00,Anselmo Alves Bandeira
+,2.0,185.0,5.0,CMB,00:00 às 23:00,Joao Thiago de Guimaraes Anchieta e Arau
+,3.0,185.0,5.0,CMB,00:00 às 23:00,Renato de Castro Vivas
+,4.0,185.0,5.0,CMB,00:00 às 23:00,Salvador Avila Filho
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENGF88 - PLANEJAMENTO DO TRABALHO DE CONCLUSÃO DE CURSO,10000.0,185.0,45.0,CMB,00:00 às 23:00,Docente não informado pelo Departamento
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENGF89 - TRABALHO DE CONCLUSÃO DE CURSO,10000.0,185.0,45.0,CMB,00:00 às 23:00,Docente não informado pelo Departamento
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENGF90 - FUNDAMENTOS DE MECÂNICA DOS SÓLIDOS,10000.0,185.0,45.0,SEG,20:20 às 22:10,Docente não informado pelo Departamento
+,,,,QUA,20:20 às 22:10,Docente não informado pelo Departamento
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENGF93 - ANÁLISE DE PROCESSOS E SISTEMAS I,10000.0,188.0,45.0,SEG,18:30 às 20:20,Docente Concursado
+,,,,QUA,18:30 às 20:20,Docente Concursado
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENGF94 - EQUIPAMENTOS E COMPONENTES PARA CONTROLE E AUTOMAÇÃO,10000.0,188.0,15.0,TER,20:20 às 22:10,Ademario Jose de Carvalho Neto
+,,,,QUI,20:20 às 22:10,Ademario Jose de Carvalho Neto
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENGF95 - ANÁLISE DE PROCESSOS E SISTEMAS II,10000.0,188.0,15.0,TER,18:30 às 20:20,Docente Concursado
+,,,,QUI,18:30 às 20:20,Docente Concursado
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENGF96 - CONTROLE AVANÇADO E MULTIVARIÁVEL,10000.0,188.0,42.0,SEG,20:20 às 22:10,Marcio Andre Fernandes Martins
+,,106.0,3.0,,,Marcio Andre Fernandes Martins
+,,188.0,42.0,QUA,20:20 às 22:10,Marcio Andre Fernandes Martins
+,,106.0,3.0,,,Marcio Andre Fernandes Martins
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENGF99 - INSTRUMENTAÇÃO E AUTOMAÇÃO INDUSTRIAL I,10000.0,188.0,15.0,SEG,18:30 às 20:20,Manoel Messias Silva Junior
+,,,,QUA,18:30 às 20:20,Manoel Messias Silva Junior
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENGG01 - INSTRUMENTAÇÃO E AUTOMAÇÃO INDUSTRIAL II,10000.0,188.0,45.0,TER,18:30 às 20:20,Andre Pires Nobrega Tahim
+,,,,QUI,18:30 às 20:20,Andre Pires Nobrega Tahim
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENGG02 - INSTRUMENTAÇÃO E AUTOMAÇÃO INDUSTRIAL III,10000.0,188.0,15.0,SEG,20:20 às 22:10,Andre Gustavo Scolari Conceicao
+,,,,QUA,20:20 às 22:10,Andre Gustavo Scolari Conceicao
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENGG05 - TCC EM ENGENHARIA DE CONTROLE E AUTOMAÇÃO,10100.0,188.0,45.0,CMB,00:00 às 23:00,Docente não informado pelo Departamento
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENGG11 - ESTUDOS ESPECIAIS EM ENGENHARIA DE CONTROLE E AUTOMAÇÃO II,10000.0,188.0,45.0,SEG,20:20 às 22:10,Marcelo Embirucu de Souza
+,,,,QUA,20:20 às 22:10,Marcelo Embirucu de Souza
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENGG23 - TÓPICOS ESPECIAIS EM ENGENHARIA DE CONTROLE E AUTOMAÇÃO III,10000.0,188.0,45.0,SEG,20:20 às 22:10,Docente não informado pelo Departamento
+,,,,QUA,20:20 às 22:10,Docente não informado pelo Departamento
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENGG51 - INTRODUÇÃO À ENGENHARIA DE COMPUTAÇÃO,10000.0,190.0,5.0,TER,18:30 às 20:20,Jes de Jesus Fiais Cerqueira
+,,189.0,5.0,,,Jes de Jesus Fiais Cerqueira
+,,186.0,40.0,,,Jes de Jesus Fiais Cerqueira
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENGG52 - LABORATÓRIO INTEGRADO I-A,100.0,186.0,12.0,SEG,18:30 às 20:20,Wagner Luiz Alves de Oliveira
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENGG54 - LABORATÓRIO INTEGRADO III-A,100.0,186.0,12.0,QUA,18:30 às 20:20,Paulo Cesar Machado de Abreu Farias
+,200.0,186.0,12.0,SEG,18:30 às 20:20,Paulo Cesar Machado de Abreu Farias
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENGG56 - PROJETO DE CIRCUITOS INTEGRADOS DIGITAIS,10000.0,186.0,35.0,SEG,20:20 às 22:10,Wagner Luiz Alves de Oliveira
+,,104.0,10.0,,,Wagner Luiz Alves de Oliveira
+,,186.0,35.0,QUA,20:20 às 22:10,Wagner Luiz Alves de Oliveira
+,,104.0,10.0,,,Wagner Luiz Alves de Oliveira
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENGG58 - INTERFACE HOMEM-MÁQUINA,10000.0,186.0,40.0,TER,20:20 às 22:10,Jes de Jesus Fiais Cerqueira
+,,104.0,10.0,,,Jes de Jesus Fiais Cerqueira
+,,186.0,40.0,QUI,20:20 às 22:10,Jes de Jesus Fiais Cerqueira
+,,104.0,10.0,,,Jes de Jesus Fiais Cerqueira
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENGG59 - ESTÁGIO EM ENGENHARIA DE COMPUTAÇÃO,1.0,186.0,15.0,CMB,00:00 às 23:00,Docente não informado pelo Departamento
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENGG60 - TRABALHO DE CONCLUSÃO DO CURSO DE ENG DE COMPUTAÇÃO I,10000.0,186.0,10.0,CMB,00:00 às 23:00,Docente não informado pelo Departamento
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENGG61 - TRABALHO DE CONCLUSÃO DO CURSO DE ENG DE COMPUTAÇÃO II,10000.0,186.0,10.0,CMB,00:00 às 23:00,Docente não informado pelo Departamento
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENGH70 - ESTÁGIO EM ENGENHARIA DE CONTROLE E AUTOMAÇÃO,1.0,188.0,45.0,CMB,00:00 às 23:00,Marcelo Embirucu de Souza
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENGJ17 - TECNOLOGIA DOS MATERIAIS APLICADA À ENG. DE AGRIM. E CARTOG.,10000.0,194.0,30.0,QUA,20:20 às 22:10,Docente Substituto a Contratar
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENGJ19 - TOPOGRAFIA - LEVANTAMENTOS,100.0,194.0,30.0,SEX,18:30 às 20:20,Artur Caldas Brandao
+,,,,SAB,08:50 às 10:40,Artur Caldas Brandao
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENGJ20 - PROGRAMAÇÃO APLICADA À ENG. DE AGRIMENSURA E CARTOGRÁFICA,10100.0,194.0,30.0,SEG,18:30 às 20:20,Fabiola Andrade Souza
+,,,,QUA,18:30 às 20:20,Fabiola Andrade Souza
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENGJ21 - AJUSTAMENTO DE OBSERVAÇÕES GEODÉSICAS A,10000.0,194.0,30.0,SEX,20:20 às 22:10,Michael Heimer
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENGJ23 - ASTRONOMIA GEODÉSICA,10100.0,194.0,30.0,TER,18:30 às 20:20,Mauro Jose Alixandrini Junior
+,,,,QUI,18:30 às 20:20,Mauro Jose Alixandrini Junior
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENGJ27 - TOPOGRAFIA - PROCESSAMENTO E AJUSTAMENTO,10100.0,194.0,15.0,SEX,18:30 às 20:20,Walterio de Oliveira Goncalves
+,,,,,20:20 às 22:10,Walterio de Oliveira Goncalves
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENGJ28 - FOTOGRAMETRIA E SENSORIAMENTO REMOTO SUB-ORBITAL,10100.0,194.0,15.0,TER,20:20 às 22:10,Mirele Viegas da Silva
+,,,,QUI,20:20 às 22:10,Mirele Viegas da Silva
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENGJ29 - SISTEMAS DE INFORMAÇÕES GEOGRÁFICAS,10100.0,194.0,15.0,SEG,20:20 às 22:10,Fabiola Andrade Souza
+,,,,QUA,20:20 às 22:10,Fabiola Andrade Souza
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENGJ33 - PROCESSAMENTO DIGITAL DE IMAGENS,10100.0,194.0,15.0,TER,18:30 às 20:20,Docente Substituto a Contratar
+,,,,QUI,18:30 às 20:20,Docente Substituto a Contratar
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENGJ34 - GEODÉSIA ESPACIAL,10100.0,194.0,15.0,SAB,08:50 às 10:40,Walterio de Oliveira Goncalves
+,,,,,10:40 às 12:30,Walterio de Oliveira Goncalves
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENGJ35 - CADASTRO TERRITORIAL,10100.0,194.0,30.0,SEG,18:30 às 20:20,Mirele Viegas da Silva
+,,,,QUA,18:30 às 20:20,Artur Caldas Brandao
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENGJ37 - LABORATÓRIO INTEGRADO - PRODUÇÃO DE MAPAS,100.0,194.0,15.0,SEX,18:30 às 20:20,Suzana Daniela Rocha Santos e Silva
+,,,,,20:20 às 22:10,Vivian de Oliveira Fernandes
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENGJ38 - FOTOGRAMETRIA ANALÍTICA,10100.0,194.0,15.0,TER,18:30 às 20:20,Mirele Viegas da Silva
+,,,,QUI,18:30 às 20:20,Mirele Viegas da Silva
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENGJ40 - LEVANTAMENTOS ESPECIAIS,10100.0,194.0,12.0,TER,18:30 às 20:20,Artur Caldas Brandao
+,,,,QUI,18:30 às 20:20,Suzana Daniela Rocha Santos e Silva
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENGJ41 - ESTÁGIO OBRIGATÓRIO,1.0,194.0,15.0,CMB,00:00 às 23:00,Patricia Lustosa Brito
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENGJ42 - TRABALHO DE CONCLUSÃO DE CURSO I,10000.0,194.0,15.0,SEX,18:30 às 20:20,Vivian de Oliveira Fernandes
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENGJ43 - TRABALHO DE CONCLUSÃO DE CURSO II,100.0,194.0,2.0,CMB,00:00 às 23:00,Artur Caldas Brandao
+,200.0,194.0,2.0,CMB,00:00 às 23:00,Vivian de Oliveira Fernandes
+,400.0,194.0,2.0,CMB,00:00 às 23:00,Mauro Jose Alixandrini Junior
+,500.0,194.0,2.0,CMB,00:00 às 23:00,Suzana Daniela Rocha Santos e Silva
+,600.0,194.0,2.0,CMB,00:00 às 23:00,Walterio de Oliveira Goncalves
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+"ENGJ55 - BRIGADAS DE EMERG.-1º SOCORROS,PREVEN. E COMBATE A INCÊNDIO",10000.0,197.0,40.0,QUI,18:30 às 20:20,Jose Ricardo Uchoa Cavalcanti Almeida
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENGJ56 - ESTATÍSTICA APLICADA AOS TRANSPORTES,10000.0,197.0,40.0,QUA,20:20 às 22:10,Docente Substituto a Contratar
+,,,,SEX,20:20 às 21:15,Docente Substituto a Contratar
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENGJ58 - GEOPROCESSAMENTO APLICADO AOS TRANSPORTES,10100.0,197.0,25.0,TER,18:30 às 20:20,Juan Pedro Moreno Delgado
+,,,,QUI,18:30 às 20:20,Juan Pedro Moreno Delgado
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENGJ61 - ENGENHARIA DE TRÂNSITO: PLANEJAMENTO E GESTÃO,10100.0,197.0,40.0,TER,18:30 às 20:20,Ilce Marilia Dantas Pinto
+,,,,QUI,18:30 às 20:20,Ilce Marilia Dantas Pinto
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENGJ66 - LEVANTAMENTOS E PESQUISAS DE TRANSPORTE E TRÁFEGO,10100.0,197.0,40.0,SEG,18:30 às 19:25,Denise Maria da Silva Ribeiro
+,,,,,19:25 às 21:15,Denise Maria da Silva Ribeiro
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENGJ68 - PERÍCIA EM ACIDENTES DE TRÂNSITO,10100.0,197.0,40.0,TER,20:20 às 22:10,Marcelo de Melo Correa
+,,,,QUI,20:20 às 22:10,Marcelo de Melo Correa
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENGJ69 - SEGURANÇA DE TRÂNSITO,10100.0,197.0,40.0,SEG,20:20 às 22:10,Jose Lazaro de Carvalho Santos
+,,,,SEX,18:30 às 20:20,Jose Lazaro de Carvalho Santos
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENGJ70 - PROJETO DE SINALIZAÇÃO VIÁRIA,10100.0,197.0,40.0,QUA,20:20 às 22:10,Marcelo de Melo Correa
+,,,,SEX,20:20 às 22:10,Marcelo de Melo Correa
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENGJ71 - PLANEJAMENTO E GESTÃO DO TRANSPORTE DE CARGAS PERIGOSAS,10100.0,197.0,40.0,QUA,18:30 às 20:20,Jose Ricardo Uchoa Cavalcanti Almeida
+,,,,SEX,18:30 às 20:20,Jose Ricardo Uchoa Cavalcanti Almeida
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENGJ72 - MEIO AMBIENTE-GESTÃO AMBIENTAL E DESENVOLVIMENTO SUSTENTÁVEL,10100.0,580.0,5.0,QUA,20:20 às 22:10,Jose Ricardo Uchoa Cavalcanti Almeida
+,,197.0,35.0,,,Jose Ricardo Uchoa Cavalcanti Almeida
+,,580.0,5.0,SEX,20:20 às 22:10,Jose Ricardo Uchoa Cavalcanti Almeida
+,,197.0,35.0,,,Jose Ricardo Uchoa Cavalcanti Almeida
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENGJ73 - TRANSPORTES PÚBLICOS II-GESTÃO EMPRESARIAL,10100.0,197.0,40.0,SEG,18:30 às 20:20,Juan Pedro Moreno Delgado
+,,,,QUA,18:30 às 20:20,Juan Pedro Moreno Delgado
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENGJ94 - AVALIAÇÃO DE IMPACTO AMBIENTAL,10100.0,107.0,20.0,TER,14:50 às 16:40,Marcia Mara de Oliveira Marinho
+,,106.0,1.0,,,Marcia Mara de Oliveira Marinho
+,,107.0,20.0,,,Severino Soares Agra Filho
+,,106.0,1.0,,,Severino Soares Agra Filho
+,,107.0,20.0,QUI,14:50 às 16:40,Marcia Mara de Oliveira Marinho
+,,106.0,1.0,,,Marcia Mara de Oliveira Marinho
+,,107.0,20.0,,,Severino Soares Agra Filho
+,,106.0,1.0,,,Severino Soares Agra Filho
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENGL04 - TRANSPORTE SOBRE TRILHOS,10000.0,197.0,40.0,TER,18:30 às 20:20,Denise Maria da Silva Ribeiro
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENGL05 - TÓPICOS AVANÇADOS EM TECNOLOGIA DE TRANSPORTE TERRESTRE,10000.0,197.0,40.0,TER,20:20 às 22:10,Ilce Marilia Dantas Pinto
+,,,,QUI,20:20 às 21:15,Ilce Marilia Dantas Pinto
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENGL06 - MARKETING EM TRANSPORTES,10000.0,197.0,40.0,SEG,20:20 às 22:10,Docente Substituto a Contratar
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENGL07 - ADMINISTRAÇÃO DOS CFC's (CENTRO DE FORMAÇÃO DOS CONDUTORES),10000.0,197.0,40.0,SEG,18:30 às 20:20,Jose Lazaro de Carvalho Santos
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ENGL85 - GEOESTATÍSTICA,10100.0,194.0,15.0,SEG,20:20 às 22:10,Michael Heimer
+,,,,QUA,20:20 às 22:10,Michael Heimer

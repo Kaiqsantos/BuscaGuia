@@ -1,0 +1,491 @@
+Disciplina,Turma,Coleg.,Vagas Ofe,Dia,Horário,Docente
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+HACA01 - ESTUDOS SOBRE A CONTEMPORANEIDADE I,10000.0,515.0,5.0,SEG,13:00 às 16:40,Docente Substituto a Contratar
+,,190.0,28.0,,,Docente Substituto a Contratar
+,,327.0,10.0,,,Docente Substituto a Contratar
+,,226.0,25.0,,,Docente Substituto a Contratar
+,20000.0,327.0,10.0,SEG,13:00 às 16:40,Juan Manuel Sanchez Arteaga
+,,226.0,25.0,,,Juan Manuel Sanchez Arteaga
+,,515.0,5.0,,,Juan Manuel Sanchez Arteaga
+,,190.0,22.0,,,Juan Manuel Sanchez Arteaga
+,30000.0,515.0,16.0,QUA,13:00 às 16:40,Juan Manuel Sanchez Arteaga
+,,327.0,14.0,,,Juan Manuel Sanchez Arteaga
+,,190.0,15.0,,,Juan Manuel Sanchez Arteaga
+,,226.0,10.0,,,Juan Manuel Sanchez Arteaga
+,40000.0,327.0,15.0,QUA,13:00 às 16:40,Leonardo Vincenzo Boccia
+,,190.0,14.0,,,Leonardo Vincenzo Boccia
+,,226.0,10.0,,,Leonardo Vincenzo Boccia
+,,515.0,16.0,,,Leonardo Vincenzo Boccia
+,50000.0,515.0,18.0,QUA,13:00 às 16:40,Maria Beatriz Barreto do Carmo
+,,190.0,16.0,,,Maria Beatriz Barreto do Carmo
+,,327.0,21.0,,,Maria Beatriz Barreto do Carmo
+,60000.0,327.0,15.0,QUA,13:00 às 16:40,Monclar Eduardo Goes de Lima Valverde
+,,515.0,15.0,,,Monclar Eduardo Goes de Lima Valverde
+,,190.0,20.0,,,Monclar Eduardo Goes de Lima Valverde
+,,226.0,5.0,,,Monclar Eduardo Goes de Lima Valverde
+,70000.0,226.0,20.0,SEX,13:00 às 16:40,Docente Substituto a Contratar
+,,515.0,15.0,,,Docente Substituto a Contratar
+,,327.0,10.0,,,Docente Substituto a Contratar
+,,190.0,10.0,,,Docente Substituto a Contratar
+,80000.0,327.0,15.0,SEX,13:00 às 16:40,Sonia Maria Rocha Sampaio
+,,515.0,15.0,,,Sonia Maria Rocha Sampaio
+,,226.0,20.0,,,Sonia Maria Rocha Sampaio
+,90000.0,189.0,16.0,SEG,18:30 às 22:10,Carmen Fontes de Souza Teixeira
+,,580.0,9.0,,,Carmen Fontes de Souza Teixeira
+,,286.0,15.0,,,Carmen Fontes de Souza Teixeira
+,,387.0,15.0,,,Carmen Fontes de Souza Teixeira
+,100000.0,189.0,16.0,SEG,18:30 às 22:10,Fernanda Rebelo Pinto
+,,387.0,15.0,,,Fernanda Rebelo Pinto
+,,580.0,9.0,,,Fernanda Rebelo Pinto
+,,286.0,15.0,,,Fernanda Rebelo Pinto
+,110000.0,580.0,9.0,SEG,18:30 às 22:10,Docente Substituto a Contratar
+,,286.0,15.0,,,Docente Substituto a Contratar
+,,387.0,15.0,,,Docente Substituto a Contratar
+,,189.0,16.0,,,Docente Substituto a Contratar
+,120000.0,580.0,9.0,SEG,18:30 às 22:10,Andre Luis Mattedi Dias
+,,286.0,15.0,,,Andre Luis Mattedi Dias
+,,387.0,15.0,,,Andre Luis Mattedi Dias
+,,189.0,16.0,,,Andre Luis Mattedi Dias
+,130000.0,580.0,10.0,SEG,18:30 às 22:10,Sonia Maria Rocha Sampaio
+,,286.0,15.0,,,Sonia Maria Rocha Sampaio
+,,387.0,16.0,,,Sonia Maria Rocha Sampaio
+,,189.0,14.0,,,Sonia Maria Rocha Sampaio
+,140000.0,580.0,10.0,SEG,18:30 às 22:10,Angela Maria de Almeida Franco
+,,387.0,16.0,,,Angela Maria de Almeida Franco
+,,286.0,15.0,,,Angela Maria de Almeida Franco
+,,189.0,14.0,,,Angela Maria de Almeida Franco
+,150000.0,580.0,10.0,SEG,18:30 às 22:10,Ivan Maia de Mello
+,,387.0,16.0,,,Ivan Maia de Mello
+,,286.0,15.0,,,Ivan Maia de Mello
+,,189.0,14.0,,,Ivan Maia de Mello
+,160000.0,580.0,18.0,QUA,18:30 às 22:10,Docente não informado pelo Departamento
+,,387.0,17.0,,,Docente não informado pelo Departamento
+,,286.0,10.0,,,Docente não informado pelo Departamento
+,,189.0,10.0,,,Docente não informado pelo Departamento
+,170000.0,189.0,10.0,QUA,18:30 às 22:10,Angela Maria de Almeida Franco
+,,580.0,18.0,,,Angela Maria de Almeida Franco
+,,387.0,17.0,,,Angela Maria de Almeida Franco
+,,286.0,10.0,,,Angela Maria de Almeida Franco
+,180000.0,580.0,18.0,QUA,18:30 às 22:10,Rita de Cassia Aragao Matos
+,,387.0,17.0,,,Rita de Cassia Aragao Matos
+,,286.0,10.0,,,Rita de Cassia Aragao Matos
+,,189.0,10.0,,,Rita de Cassia Aragao Matos
+,190000.0,580.0,19.0,QUA,18:30 às 22:10,Leonardo Jose Sebiane Serrano
+,,387.0,23.0,,,Leonardo Jose Sebiane Serrano
+,,286.0,9.0,,,Leonardo Jose Sebiane Serrano
+,,189.0,4.0,,,Leonardo Jose Sebiane Serrano
+,200000.0,580.0,22.0,QUA,18:30 às 22:10,Haenz Gutierrez Quintana
+,,387.0,23.0,,,Haenz Gutierrez Quintana
+,,286.0,10.0,,,Haenz Gutierrez Quintana
+,210000.0,580.0,19.0,QUA,18:30 às 22:10,Docente Substituto a Contratar
+,,387.0,28.0,,,Docente Substituto a Contratar
+,,286.0,8.0,,,Docente Substituto a Contratar
+,220000.0,580.0,7.0,SEX,18:30 às 22:10,Andre Luis Mattedi Dias
+,,387.0,18.0,,,Andre Luis Mattedi Dias
+,,286.0,15.0,,,Andre Luis Mattedi Dias
+,,189.0,19.0,,,Andre Luis Mattedi Dias
+,230000.0,580.0,7.0,SEX,18:30 às 22:10,Leonardo Jose Sebiane Serrano
+,,387.0,18.0,,,Leonardo Jose Sebiane Serrano
+,,286.0,15.0,,,Leonardo Jose Sebiane Serrano
+,,189.0,19.0,,,Leonardo Jose Sebiane Serrano
+,240000.0,580.0,7.0,SEX,18:30 às 22:10,Docente Substituto a Contratar
+,,387.0,18.0,,,Docente Substituto a Contratar
+,,286.0,15.0,,,Docente Substituto a Contratar
+,,189.0,19.0,,,Docente Substituto a Contratar
+,250000.0,580.0,9.0,SEX,18:30 às 22:10,Docente Substituto a Contratar
+,,387.0,18.0,,,Docente Substituto a Contratar
+,,286.0,13.0,,,Docente Substituto a Contratar
+,,189.0,19.0,,,Docente Substituto a Contratar
+,260000.0,580.0,10.0,SEX,18:30 às 22:10,Docente Substituto a Contratar
+,,387.0,30.0,,,Docente Substituto a Contratar
+,,189.0,19.0,,,Docente Substituto a Contratar
+,270000.0,282.0,50.0,SEX,18:30 às 22:10,Docente Substituto a Contratar
+,,189.0,5.0,,,Docente Substituto a Contratar
+,280000.0,190.0,40.0,SEX,13:00 às 16:40,Juan Manuel Sanchez Arteaga
+,,189.0,15.0,,,Juan Manuel Sanchez Arteaga
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+HACA02 - ELEMENTOS ACADÊMICOS E PROFISSIONAIS EM CIÊNCIA E TECNOLOGIA,10000.0,190.0,50.0,QUA,13:00 às 14:50,Docente Concursado
+,,,,SEX,13:00 às 14:50,Docente Concursado
+,20000.0,190.0,50.0,SEG,14:50 às 16:40,Pedro Jose Di Novella Cordero
+,,,,QUA,14:50 às 16:40,Pedro Jose Di Novella Cordero
+,30000.0,189.0,50.0,QUA,18:30 às 20:20,Docente Concursado
+,,,,SEX,18:30 às 20:20,Docente Concursado
+,40000.0,189.0,50.0,SEG,20:20 às 22:10,Pedro Jose Di Novella Cordero
+,,,,QUA,20:20 às 22:10,Pedro Jose Di Novella Cordero
+,50000.0,189.0,50.0,QUA,20:20 às 22:10,Docente Concursado
+,,,,SEX,20:20 às 22:10,Docente Concursado
+,60000.0,189.0,50.0,SEG,18:30 às 20:20,Pedro Jose Di Novella Cordero
+,,,,QUA,18:30 às 20:20,Pedro Jose Di Novella Cordero
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+HACA03 - ESTUDOS DAS HUMANIDADES,10000.0,327.0,65.0,SEG,13:00 às 16:40,Mauricio Matos dos Santos Pereira
+,20000.0,327.0,65.0,SEX,13:00 às 16:40,Francisco Antonio Zorzo
+,30000.0,387.0,60.0,SEG,18:30 às 22:10,Jose Aurivaldo Sacchetta Ramos Mendes
+,40000.0,387.0,60.0,SEG,18:30 às 22:10,Docente Substituto a Contratar
+,50000.0,387.0,60.0,QUA,18:30 às 22:10,Jose Aurivaldo Sacchetta Ramos Mendes
+,60000.0,387.0,60.0,QUA,18:30 às 22:10,Mauricio Matos dos Santos Pereira
+,70000.0,387.0,60.0,SEX,18:30 às 22:10,Docente Concursado
+,80000.0,387.0,60.0,SEX,18:30 às 22:10,Docente Substituto a Contratar
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+HACA04 - AÇÃO ARTÍSTICA I,10100.0,515.0,25.0,QUA,07:55 às 09:45,Angelo Tavares Castro
+,,,,,09:45 às 11:35,Angelo Tavares Castro
+,20200.0,515.0,25.0,SEG,13:00 às 14:50,Marilda de Santana Silva
+,,,,,14:50 às 16:40,Marilda de Santana Silva
+,30300.0,515.0,25.0,QUA,13:00 às 14:50,Joaquim Antonio Rodrigues Viana Neto
+,,,,,14:50 às 16:40,Joaquim Antonio Rodrigues Viana Neto
+,40400.0,515.0,25.0,SEX,13:00 às 14:50,Karla Schuch Brunet
+,,,,,14:50 às 16:40,Karla Schuch Brunet
+,50500.0,580.0,30.0,SEG,18:30 às 20:20,Marise Berta de Souza
+,,,,,20:20 às 22:10,Marise Berta de Souza
+,60600.0,580.0,30.0,SEG,18:30 às 20:20,Cristiano Severo Figueiro
+,,,,,20:20 às 22:10,Cristiano Severo Figueiro
+,70700.0,580.0,30.0,SEG,18:30 às 20:20,Adalberto Silva Santos
+,,,,,20:20 às 22:10,Adalberto Silva Santos
+,80800.0,580.0,30.0,QUA,18:30 às 20:20,Joaquim Antonio Rodrigues Viana Neto
+,,,,,20:20 às 22:10,Joaquim Antonio Rodrigues Viana Neto
+,90900.0,580.0,30.0,QUA,18:30 às 20:20,Ivan Maia de Mello
+,,,,,20:20 às 22:10,Ivan Maia de Mello
+,101000.0,580.0,30.0,QUA,18:30 às 20:20,Marilda de Santana Silva
+,,,,,20:20 às 22:10,Marilda de Santana Silva
+,111100.0,580.0,30.0,SEX,18:30 às 20:20,Haenz Gutierrez Quintana
+,,,,,20:20 às 22:10,Haenz Gutierrez Quintana
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+HACA05 - POLÍTICAS CULTURAIS,10000.0,515.0,50.0,SEG,13:00 às 16:40,Clelia Neri Cortes
+,20000.0,515.0,50.0,QUA,13:00 às 16:40,Clelia Neri Cortes
+,30000.0,580.0,50.0,SEG,18:30 às 22:10,Tiago dos Santos de Sant Ana
+,40000.0,580.0,50.0,QUA,18:30 às 22:10,Tiago dos Santos de Sant Ana
+,50000.0,580.0,50.0,QUA,18:30 às 22:10,Djalma Rodrigues Lima Neto
+,60000.0,580.0,50.0,SEX,18:30 às 22:10,Djalma Rodrigues Lima Neto
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+HACA09 - CIÊNCIA E TECNOLOGIA I,10000.0,190.0,50.0,TER,08:50 às 10:40,Guna Alexander Silva dos Santos
+,,,,QUI,08:50 às 10:40,Guna Alexander Silva dos Santos
+,20000.0,190.0,50.0,TER,10:40 às 12:30,Genaro Fernandes de Carvalho Costa
+,,,,QUI,10:40 às 12:30,Genaro Fernandes de Carvalho Costa
+,30000.0,189.0,50.0,TER,18:30 às 20:20,Docente Concursado
+,,,,QUI,18:30 às 20:20,Docente Concursado
+,40000.0,189.0,50.0,TER,18:30 às 20:20,Docente Concursado
+,,,,QUI,18:30 às 20:20,Docente Concursado
+,50000.0,189.0,50.0,TER,20:20 às 22:10,Docente Concursado
+,,,,QUI,20:20 às 22:10,Docente Concursado
+,60000.0,189.0,50.0,TER,20:20 às 22:10,Docente Concursado
+,,,,QUI,20:20 às 22:10,Docente Concursado
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+HACA10 - INTRODUÇÃO AO CAMPO DA SAÚDE,10000.0,226.0,55.0,SEG,13:00 às 16:40,Maria Thereza Avila Dantas Coelho
+,20000.0,226.0,55.0,QUA,13:00 às 16:40,Maria Constantina Caputo
+,30000.0,286.0,55.0,SEG,18:30 às 22:10,Maria Constantina Caputo
+,40000.0,286.0,55.0,QUA,18:30 às 22:10,Maria Thereza Avila Dantas Coelho
+,50000.0,286.0,55.0,QUA,18:30 às 22:10,Luis Augusto Vasconcelos da Silva
+,60000.0,286.0,55.0,SEX,18:30 às 22:10,Maria Beatriz Barreto do Carmo
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+HACA35 - ESTUDOS DAS SOCIEDADES,10000.0,327.0,60.0,SEG,13:00 às 16:40,Leonardo Vincenzo Boccia
+,20000.0,387.0,60.0,QUA,18:30 às 22:10,Docente Substituto a Contratar
+,30000.0,515.0,10.0,QUA,13:00 às 16:40,Docente Substituto a Contratar
+,,327.0,30.0,,,Docente Substituto a Contratar
+,,226.0,10.0,,,Docente Substituto a Contratar
+,,190.0,10.0,,,Docente Substituto a Contratar
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+HACA36 - ESTUDOS DAS CULTURAS,10000.0,387.0,55.0,SEG,18:30 às 22:10,Carlos Alberto Bonfim
+,20000.0,387.0,55.0,QUI,18:30 às 22:10,Carlos Alberto Bonfim
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+HACA37 - AÇÃO ARTÍSTICA II,200.0,580.0,5.0,TER,18:30 às 22:10,Docente Concursado
+,,515.0,5.0,,,Docente Concursado
+,1000.0,580.0,20.0,QUI,18:30 às 20:20,Docente Concursado
+,,515.0,10.0,,,Docente Concursado
+,,580.0,20.0,,20:20 às 22:10,Docente Concursado
+,,515.0,10.0,,,Docente Concursado
+,2000.0,387.0,10.0,TER,18:30 às 22:10,Docente Concursado
+,,286.0,5.0,,,Docente Concursado
+,,189.0,5.0,,,Docente Concursado
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+HACA38 - CIÊNCIA E TECNOLOGIA II,10000.0,190.0,50.0,SEG,13:00 às 14:50,Luiz Marcio Santos Farias
+,,,,QUA,13:00 às 14:50,Luiz Marcio Santos Farias
+,20000.0,190.0,50.0,QUA,14:50 às 16:40,Luiz Marcio Santos Farias
+,,,,SEX,14:50 às 16:40,Luiz Marcio Santos Farias
+,30000.0,189.0,50.0,SEG,18:30 às 20:20,Eduardo do Nascimento
+,,,,QUA,18:30 às 20:20,Eduardo do Nascimento
+,40000.0,189.0,50.0,QUA,18:30 às 20:20,Docente Concursado
+,,,,SEX,18:30 às 20:20,Docente Concursado
+,50000.0,189.0,50.0,SEG,20:20 às 22:10,Eduardo do Nascimento
+,,,,QUA,20:20 às 22:10,Eduardo do Nascimento
+,60000.0,189.0,50.0,QUA,20:20 às 22:10,Docente Concursado
+,,,,SEX,20:20 às 22:10,Docente Concursado
+,70000.0,190.0,25.0,TER,20:20 às 22:10,Ademar Nogueira do Nascimento
+,,189.0,25.0,,,Ademar Nogueira do Nascimento
+,,190.0,25.0,QUI,20:20 às 22:10,Ademar Nogueira do Nascimento
+,,189.0,25.0,,,Ademar Nogueira do Nascimento
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+HACA42 - TOPICOS ESPECIAIS EM CULTURA I,10000.0,387.0,50.0,TER,18:30 às 22:10,Carlos Alberto Bonfim
+,,327.0,5.0,,,Carlos Alberto Bonfim
+,20000.0,387.0,5.0,TER,13:00 às 16:40,Docente Substituto a Contratar
+,,327.0,50.0,,,Docente Substituto a Contratar
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+HACA44 - LABORATÓRIOS DE CRIAÇÃO E PRÁTICAS ARTÍSTICAS,1000.0,580.0,25.0,TER,18:30 às 22:10,Tiago dos Santos de Sant Ana
+,2000.0,580.0,25.0,SEX,18:30 às 22:10,Tiago dos Santos de Sant Ana
+,,515.0,5.0,,,Tiago dos Santos de Sant Ana
+,3000.0,515.0,25.0,QUI,13:00 às 16:40,Ivani Lucia Oliveira de Santana
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+HACA47 - TÓPICOS ESPECIAIS EM TECNOLOGIA I,10000.0,190.0,10.0,CMB,00:00 às 23:00,Paulo Alberto Paes Gomes
+,,189.0,10.0,,,Paulo Alberto Paes Gomes
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+HACA48 - ARTE E ESTÉTICA,10000.0,580.0,5.0,TER,20:20 às 22:10,Ivan Maia de Mello
+,,515.0,5.0,,,Ivan Maia de Mello
+,,282.0,45.0,,,Ivan Maia de Mello
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+HACA49 - AÇÃO E MEDIAÇÃO CULTURAL ATRAVÉS DAS ARTES,10000.0,515.0,50.0,QUA,07:55 às 11:35,Edilene Dias Matos
+,20000.0,515.0,50.0,QUA,13:00 às 16:40,Edilene Dias Matos
+,30000.0,580.0,53.0,SEG,18:30 às 22:10,Mariela Brazon Hernandez
+,40000.0,580.0,53.0,QUA,18:30 às 22:10,Mariela Brazon Hernandez
+,50000.0,580.0,53.0,SEX,18:30 às 22:10,Angelo Tavares Castro
+,60000.0,580.0,53.0,QUA,18:30 às 22:10,Marinyze das Gracas Prates de Oliveira
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+HACA51 - ESTUDOS DO DESENVOLVIMENTO,10000.0,327.0,55.0,QUA,13:00 às 16:40,Elsa Sousa Kraychete
+,20000.0,387.0,55.0,QUA,18:30 às 22:10,Marcos Guedes Vaz Sampaio
+,30000.0,387.0,60.0,TER,18:30 às 22:10,Angela Maria de Almeida Franco
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+HACA76 - ESTUDO DOS PODERES,10000.0,387.0,55.0,SEX,18:30 às 22:10,Docente Substituto a Contratar
+,20000.0,515.0,5.0,SEX,13:00 às 16:40,Docente Substituto a Contratar
+,,327.0,50.0,,,Docente Substituto a Contratar
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+HACA77 - ESTUDOS DAS SUBJETIVIDADES,10000.0,327.0,55.0,SEX,13:00 às 16:40,Denise Vieira da Silva
+,20000.0,387.0,55.0,QUI,18:30 às 22:10,Leandro Colling
+,30000.0,387.0,55.0,SEX,18:30 às 22:10,Leandro Colling
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+HACA78 - OFICINA DE TEXTOS ACADÊMICOS E TÉCNICOS EM SAÚDE,10000.0,226.0,40.0,SEX,13:00 às 16:40,Vanessa Prado dos Santos Alvarez
+,20000.0,226.0,35.0,QUA,13:00 às 16:40,Marcelo Nunes Dourado Rocha
+,30000.0,286.0,37.0,SEG,18:30 às 22:10,Marcelo Nunes Dourado Rocha
+,,283.0,3.0,,,Marcelo Nunes Dourado Rocha
+,50000.0,286.0,40.0,QUA,18:30 às 22:10,Adriana Miranda Pimentel
+,60000.0,286.0,40.0,QUA,18:30 às 22:10,Renata Meira Veras
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+HACA79 - TOPICOS ESPECIAIS EM ARTES I,10000.0,580.0,30.0,QUA,13:00 às 16:40,Docente Concursado
+,,515.0,20.0,,,Docente Concursado
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+HACA80 - TÓPICOS ESPECIAIS EM ARTES II,10000.0,515.0,50.0,SEG,13:00 às 16:40,Marinyze das Gracas Prates de Oliveira
+,20000.0,580.0,5.0,SEX,13:00 às 16:40,Marinyze das Gracas Prates de Oliveira
+,,515.0,50.0,,,Marinyze das Gracas Prates de Oliveira
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+HACA86 - INICIAÇÃO CIENTIFICA EM SAÚDE,10000.0,226.0,50.0,QUA,13:00 às 16:40,Carmen Fontes de Souza Teixeira
+,20000.0,226.0,55.0,SEG,13:00 às 16:40,Renata Meira Veras
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+HACA87 - SAÚDE E CIDADE,10000.0,313.0,2.0,SEX,18:30 às 22:10,Adriana Miranda Pimentel
+,,286.0,50.0,,,Adriana Miranda Pimentel
+,,226.0,3.0,,,Adriana Miranda Pimentel
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+HACA88 - DESENVOLVIMENTO DE PRODUTO E PRODUÇÃO INDUSTRIAL,10000.0,190.0,20.0,TER,18:30 às 20:20,Ademar Nogueira do Nascimento
+,,189.0,20.0,,,Ademar Nogueira do Nascimento
+,,185.0,10.0,,,Ademar Nogueira do Nascimento
+,,190.0,20.0,QUI,18:30 às 20:20,Ademar Nogueira do Nascimento
+,,189.0,20.0,,,Ademar Nogueira do Nascimento
+,,185.0,10.0,,,Ademar Nogueira do Nascimento
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+HACA94 - DISPOSITIVOS TECNOLÓGICOS PRÁTICOS II,10000.0,190.0,12.0,CMB,00:00 às 23:00,Guna Alexander Silva dos Santos
+,,189.0,12.0,,,Guna Alexander Silva dos Santos
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+HACB10 - LINGUAGENS E AMBIENTES DE PROGRAMAÇÃO EM ARTES,1000.0,580.0,25.0,QUI,18:30 às 20:20,Cristiano Severo Figueiro
+,,,,,20:20 às 22:10,Cristiano Severo Figueiro
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+HACB11 - ARTES E ELETRÔNICA,10000.0,190.0,25.0,SEG,18:30 às 20:20,Docente Concursado
+,,189.0,25.0,,,Docente Concursado
+,,190.0,25.0,QUA,18:30 às 20:20,Docente Concursado
+,,189.0,25.0,,,Docente Concursado
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+HACB12 - LABORATÓRIO DE ARTE INTERATIVA: ARTE E INTERFACES,1000.0,580.0,25.0,SEX,18:30 às 22:10,Docente Concursado
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+HACB14 - SISTEMAS DIGITAIS EM ARTES,10000.0,580.0,25.0,QUA,18:30 às 22:10,Ivani Lucia Oliveira de Santana
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+HACB18 - TÓPICOS ESPECIAIS EM SAÚDE I,10000.0,286.0,5.0,SEX,13:00 às 16:40,Luis Augusto Vasconcelos da Silva
+,,226.0,50.0,,,Luis Augusto Vasconcelos da Silva
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+HACB19 - TÓPICOS ESPECIAIS EM SAÚDE II,10000.0,286.0,50.0,QUA,18:30 às 22:10,Maria Constantina Caputo
+,,226.0,5.0,,,Maria Constantina Caputo
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+HACB30 - POLÍTICAS PÚBLICAS,10000.0,387.0,40.0,TER,18:30 às 22:10,Denise Cristina Vitale Ramos Mendes
+,,327.0,10.0,,,Denise Cristina Vitale Ramos Mendes
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+HACB31 - ORGANIZAÇÕES E SOCIEDADES,10000.0,387.0,50.0,QUI,18:30 às 22:10,Clelia Neri Cortes
+,,327.0,5.0,,,Clelia Neri Cortes
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+HACB33 - ECONOMIA POLÍTICA INTERNACIONAL I,10000.0,387.0,55.0,QUI,18:30 às 22:10,Marcos Guedes Vaz Sampaio
+,,327.0,5.0,,,Marcos Guedes Vaz Sampaio
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+HACB35 - POLÍTICA EXTERNA I,10000.0,387.0,55.0,SEX,18:30 às 22:10,Jose Aurivaldo Sacchetta Ramos Mendes
+,,327.0,5.0,,,Jose Aurivaldo Sacchetta Ramos Mendes
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+HACB38 - OFICINA DE TEXTOS EM HUMANIDADES,10100.0,327.0,45.0,TER,13:00 às 14:50,Docente Substituto a Contratar
+,,,,,14:50 às 16:40,Docente Substituto a Contratar
+,20200.0,327.0,45.0,QUI,13:00 às 14:50,Docente Substituto a Contratar
+,,,,,14:50 às 16:40,Docente Substituto a Contratar
+,30300.0,327.0,45.0,QUI,13:00 às 14:50,Docente Substituto a Contratar
+,,,,,14:50 às 16:40,Docente Substituto a Contratar
+,40400.0,387.0,40.0,TER,18:30 às 20:20,Docente Substituto a Contratar
+,,,,,20:20 às 22:10,Docente Substituto a Contratar
+,50500.0,387.0,40.0,QUI,18:30 às 20:20,Docente Substituto a Contratar
+,,,,,20:20 às 22:10,Docente Substituto a Contratar
+,70700.0,387.0,40.0,QUA,18:30 às 20:20,Docente Substituto a Contratar
+,,,,,20:20 às 22:10,Docente Substituto a Contratar
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+HACB91 - CULTURA E DESENVOLVIMENTO,10000.0,387.0,55.0,SEG,18:30 às 22:10,Elsa Sousa Kraychete
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+HACC15 - TEMAS ESPECIAIS EM RELAÇÕES INTERNACIONAIS,10000.0,387.0,30.0,SEG,18:30 às 22:10,Denise Cristina Vitale Ramos Mendes
+,,327.0,20.0,,,Denise Cristina Vitale Ramos Mendes
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+HACC67 - SEGURANÇA INTERNACIONAL E TERRORISMO,10000.0,387.0,55.0,QUA,18:30 às 22:10,Daniel Mauricio Cavalcanti de Aragao

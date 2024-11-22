@@ -1,0 +1,985 @@
+Disciplina,Turma,Coleg.,Vagas Ofe,Dia,Horário,Docente
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ADM001 - INTRODUCÃO À ADMINISTRACAO,10000.0,207.0,45.0,SEG,07:00 às 08:50,Olivan da Silva Rabelo
+,,,,QUA,07:00 às 08:50,Olivan da Silva Rabelo
+,20000.0,116.0,12.0,SEG,07:00 às 08:50,Paulo Soares Figueiredo
+,,313.0,5.0,,,Paulo Soares Figueiredo
+,,190.0,10.0,,,Paulo Soares Figueiredo
+,,305.0,15.0,,,Paulo Soares Figueiredo
+,,112.0,10.0,,,Paulo Soares Figueiredo
+,,313.0,5.0,QUA,07:00 às 08:50,Paulo Soares Figueiredo
+,,112.0,10.0,,,Paulo Soares Figueiredo
+,,116.0,12.0,,,Paulo Soares Figueiredo
+,,190.0,10.0,,,Paulo Soares Figueiredo
+,,305.0,15.0,,,Paulo Soares Figueiredo
+,30000.0,113.0,5.0,SEG,08:50 às 10:40,Morjane Armstrong Santos de Miranda
+,,284.0,5.0,,,Morjane Armstrong Santos de Miranda
+,,110.0,2.0,,,Morjane Armstrong Santos de Miranda
+,,116.0,4.0,,,Morjane Armstrong Santos de Miranda
+,,190.0,9.0,,,Morjane Armstrong Santos de Miranda
+,,305.0,15.0,,,Morjane Armstrong Santos de Miranda
+,,313.0,5.0,,,Morjane Armstrong Santos de Miranda
+,,,,QUA,08:50 às 10:40,Morjane Armstrong Santos de Miranda
+,,284.0,5.0,,,Morjane Armstrong Santos de Miranda
+,,305.0,15.0,,,Morjane Armstrong Santos de Miranda
+,,190.0,9.0,,,Morjane Armstrong Santos de Miranda
+,,116.0,4.0,,,Morjane Armstrong Santos de Miranda
+,,113.0,5.0,,,Morjane Armstrong Santos de Miranda
+,,110.0,2.0,,,Morjane Armstrong Santos de Miranda
+,40000.0,380.0,45.0,SEG,20:20 às 22:10,Antonio Sergio Araujo Fernandes
+,,304.0,5.0,,,Antonio Sergio Araujo Fernandes
+,,,,QUA,20:20 às 22:10,Antonio Sergio Araujo Fernandes
+,,380.0,45.0,,,Antonio Sergio Araujo Fernandes
+,50000.0,112.0,15.0,SEX,18:30 às 22:10,Eduardo Paes Barreto Davel
+,,195.0,10.0,,,Eduardo Paes Barreto Davel
+,,113.0,5.0,,,Eduardo Paes Barreto Davel
+,,382.0,5.0,,,Eduardo Paes Barreto Davel
+,,226.0,5.0,,,Eduardo Paes Barreto Davel
+,,308.0,5.0,,,Eduardo Paes Barreto Davel
+,60000.0,304.0,48.0,TER,07:00 às 08:50,Joao Marcelo Pitia Barreto
+,,190.0,5.0,,,Joao Marcelo Pitia Barreto
+,,304.0,48.0,QUI,07:00 às 08:50,Joao Marcelo Pitia Barreto
+,,190.0,5.0,,,Joao Marcelo Pitia Barreto
+,70000.0,304.0,40.0,TER,10:40 às 12:30,Joao Marcelo Pitia Barreto
+,,113.0,5.0,,,Joao Marcelo Pitia Barreto
+,,380.0,5.0,,,Joao Marcelo Pitia Barreto
+,,,,QUI,10:40 às 12:30,Joao Marcelo Pitia Barreto
+,,304.0,40.0,,,Joao Marcelo Pitia Barreto
+,,113.0,5.0,,,Joao Marcelo Pitia Barreto
+,80000.0,327.0,5.0,TER,20:20 às 22:10,Ricardo Coutinho Mello
+,,580.0,5.0,,,Ricardo Coutinho Mello
+,,189.0,5.0,,,Ricardo Coutinho Mello
+,,387.0,5.0,,,Ricardo Coutinho Mello
+,,116.0,5.0,,,Ricardo Coutinho Mello
+,,286.0,10.0,,,Ricardo Coutinho Mello
+,,113.0,5.0,,,Ricardo Coutinho Mello
+,,580.0,5.0,QUI,20:20 às 22:10,Ricardo Coutinho Mello
+,,116.0,5.0,,,Ricardo Coutinho Mello
+,,113.0,5.0,,,Ricardo Coutinho Mello
+,,387.0,5.0,,,Ricardo Coutinho Mello
+,,189.0,5.0,,,Ricardo Coutinho Mello
+,,327.0,5.0,,,Ricardo Coutinho Mello
+,,286.0,10.0,,,Ricardo Coutinho Mello
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ADM012 - ADMINISTRACAO,10100.0,105.0,30.0,SEG,13:00 às 14:50,Jose Celio Silveira Andrade
+,,106.0,5.0,,,Jose Celio Silveira Andrade
+,,103.0,10.0,,,Jose Celio Silveira Andrade
+,,327.0,5.0,,,Jose Celio Silveira Andrade
+,,103.0,10.0,QUA,13:00 às 14:50,Jose Celio Silveira Andrade
+,,105.0,30.0,,,Jose Celio Silveira Andrade
+,,327.0,5.0,,,Jose Celio Silveira Andrade
+,,106.0,5.0,,,Jose Celio Silveira Andrade
+,20200.0,327.0,5.0,SEG,14:50 às 16:40,Jose Celio Silveira Andrade
+,,149.0,3.0,,,Jose Celio Silveira Andrade
+,,106.0,10.0,,,Jose Celio Silveira Andrade
+,,104.0,30.0,,,Jose Celio Silveira Andrade
+,,327.0,5.0,QUA,14:50 às 16:40,Jose Celio Silveira Andrade
+,,149.0,3.0,,,Jose Celio Silveira Andrade
+,,104.0,30.0,,,Jose Celio Silveira Andrade
+,,106.0,10.0,,,Jose Celio Silveira Andrade
+,30300.0,387.0,5.0,SEG,18:30 às 20:20,Antonio Sergio Araujo Fernandes
+,,186.0,30.0,,,Antonio Sergio Araujo Fernandes
+,,107.0,20.0,,,Antonio Sergio Araujo Fernandes
+,,,,QUA,18:30 às 20:20,Antonio Sergio Araujo Fernandes
+,,387.0,5.0,,,Antonio Sergio Araujo Fernandes
+,,186.0,30.0,,,Antonio Sergio Araujo Fernandes
+,40400.0,327.0,4.0,SEX,08:50 às 10:40,Ana Rita Silva Sacramento
+,,307.0,45.0,,,Ana Rita Silva Sacramento
+,,327.0,4.0,,10:40 às 12:30,Ana Rita Silva Sacramento
+,,307.0,45.0,,,Ana Rita Silva Sacramento
+,50500.0,387.0,5.0,TER,18:30 às 20:20,Ricardo Coutinho Mello
+,,194.0,3.0,,,Ricardo Coutinho Mello
+,,190.0,5.0,,,Ricardo Coutinho Mello
+,,104.0,15.0,,,Ricardo Coutinho Mello
+,,186.0,20.0,,,Ricardo Coutinho Mello
+,,102.0,10.0,,,Ricardo Coutinho Mello
+,,387.0,5.0,QUI,18:30 às 20:20,Ricardo Coutinho Mello
+,,190.0,5.0,,,Ricardo Coutinho Mello
+,,194.0,3.0,,,Ricardo Coutinho Mello
+,,186.0,20.0,,,Ricardo Coutinho Mello
+,,104.0,15.0,,,Ricardo Coutinho Mello
+,,102.0,10.0,,,Ricardo Coutinho Mello
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ADM149 - ESTRATEGIA ECONOMICA DAS EMPRESAS,10000.0,327.0,4.0,TER,07:00 às 08:50,Antonio Francisco de Almeida da Silva Ju
+,,301.0,40.0,,,Antonio Francisco de Almeida da Silva Ju
+,,314.0,3.0,,,Antonio Francisco de Almeida da Silva Ju
+,,301.0,40.0,QUI,07:00 às 08:50,Antonio Francisco de Almeida da Silva Ju
+,,327.0,4.0,,,Antonio Francisco de Almeida da Silva Ju
+,,314.0,3.0,,,Antonio Francisco de Almeida da Silva Ju
+,20000.0,387.0,5.0,TER,18:30 às 20:20,Horacio Nelson Hastenreiter Filho
+,,301.0,40.0,,,Horacio Nelson Hastenreiter Filho
+,,,,QUI,18:30 às 20:20,Horacio Nelson Hastenreiter Filho
+,,387.0,5.0,,,Horacio Nelson Hastenreiter Filho
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ADM150 - ESTADO E SOCIEDADE,10000.0,314.0,3.0,SEG,07:00 às 08:50,Maria Elisabete Pereira dos Santos
+,,327.0,1.0,,,Maria Elisabete Pereira dos Santos
+,,301.0,50.0,,,Maria Elisabete Pereira dos Santos
+,,327.0,1.0,QUA,07:00 às 08:50,Maria Elisabete Pereira dos Santos
+,,301.0,50.0,,,Maria Elisabete Pereira dos Santos
+,,314.0,3.0,,,Maria Elisabete Pereira dos Santos
+,20000.0,301.0,50.0,SEG,08:50 às 10:40,Maria Elisabete Pereira dos Santos
+,,327.0,2.0,,,Maria Elisabete Pereira dos Santos
+,,,,QUA,08:50 às 10:40,Maria Elisabete Pereira dos Santos
+,,301.0,50.0,,,Maria Elisabete Pereira dos Santos
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ADM154 - ELABORAÇÃO E ANÁLISE DE PROGRAMAS E PROJETOS,10100.0,327.0,5.0,SEG,07:00 às 08:50,Fernando Antonio de Melo Pereira Lhamas
+,,301.0,50.0,,,Fernando Antonio de Melo Pereira Lhamas
+,,327.0,5.0,QUA,07:00 às 08:50,Fernando Antonio de Melo Pereira Lhamas
+,,301.0,50.0,,,Fernando Antonio de Melo Pereira Lhamas
+,20200.0,327.0,4.0,TER,08:50 às 10:40,Adriano Leal Bruni
+,,301.0,40.0,,,Adriano Leal Bruni
+,,327.0,4.0,QUI,08:50 às 10:40,Adriano Leal Bruni
+,,301.0,40.0,,,Adriano Leal Bruni
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ADM170 - ADMINISTRACAO CONTABIL I,10000.0,112.0,1.0,SEG,10:40 às 12:30,Dilson Cerqueira da Silva
+,,301.0,40.0,,,Dilson Cerqueira da Silva
+,,190.0,5.0,,,Dilson Cerqueira da Silva
+,,116.0,1.0,,,Dilson Cerqueira da Silva
+,,301.0,40.0,QUA,10:40 às 12:30,Dilson Cerqueira da Silva
+,,190.0,5.0,,,Dilson Cerqueira da Silva
+,,116.0,1.0,,,Dilson Cerqueira da Silva
+,,112.0,1.0,,,Dilson Cerqueira da Silva
+,20000.0,301.0,40.0,TER,10:40 às 12:30,Adriano Leal Bruni
+,,,,QUI,10:40 às 12:30,Adriano Leal Bruni
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ADM171 - ELEMENTOS E ANALISES DE CUSTOS,10000.0,387.0,5.0,SEG,08:50 às 10:40,Cleide Dantas Carneiro
+,,327.0,5.0,,,Cleide Dantas Carneiro
+,,314.0,3.0,,,Cleide Dantas Carneiro
+,,226.0,5.0,,,Cleide Dantas Carneiro
+,,190.0,5.0,,,Cleide Dantas Carneiro
+,,116.0,3.0,,,Cleide Dantas Carneiro
+,,112.0,2.0,,,Cleide Dantas Carneiro
+,,106.0,5.0,,,Cleide Dantas Carneiro
+,,387.0,5.0,QUA,08:50 às 10:40,Cleide Dantas Carneiro
+,,327.0,5.0,,,Cleide Dantas Carneiro
+,,314.0,3.0,,,Cleide Dantas Carneiro
+,,226.0,5.0,,,Cleide Dantas Carneiro
+,,190.0,5.0,,,Cleide Dantas Carneiro
+,,116.0,3.0,,,Cleide Dantas Carneiro
+,,112.0,2.0,,,Cleide Dantas Carneiro
+,,106.0,5.0,,,Cleide Dantas Carneiro
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ADM172 - ADMINISTRACAO FINANCEIRA I,10000.0,301.0,50.0,SEG,08:50 às 10:40,Roberto Brazileiro Paixao
+,,,,QUA,08:50 às 10:40,Roberto Brazileiro Paixao
+,20000.0,301.0,50.0,SEG,07:00 às 08:50,Antonio Francisco de Almeida da Silva Ju
+,,,,QUA,07:00 às 08:50,Antonio Francisco de Almeida da Silva Ju
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ADM173 - ADMINISTRACAO MERCADOLOGICA I,10000.0,314.0,20.0,SEG,10:40 às 12:30,Luciana Alves Rodas Vera
+,,301.0,35.0,,,Luciana Alves Rodas Vera
+,,314.0,20.0,QUA,10:40 às 12:30,Luciana Alves Rodas Vera
+,,301.0,35.0,,,Luciana Alves Rodas Vera
+,20000.0,314.0,10.0,QUI,18:30 às 22:10,Sergio Ricardo Goes Oliveira
+,,301.0,30.0,,,Sergio Ricardo Goes Oliveira
+,,195.0,10.0,,,Sergio Ricardo Goes Oliveira
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ADM174 - ADMINISTRACAO DA PRODUCAO I,10000.0,327.0,5.0,SEG,10:40 às 12:30,Paulo Soares Figueiredo
+,,301.0,50.0,,,Paulo Soares Figueiredo
+,,327.0,5.0,QUA,10:40 às 12:30,Paulo Soares Figueiredo
+,,301.0,50.0,,,Paulo Soares Figueiredo
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ADM175 - ADMINISTRAÇÃO ESTRATÉGICA,10000.0,314.0,3.0,QUI,08:50 às 10:40,Sergio Ricardo Goes Oliveira
+,,301.0,50.0,,,Sergio Ricardo Goes Oliveira
+,,314.0,3.0,SEX,08:50 às 10:40,Sergio Ricardo Goes Oliveira
+,,301.0,50.0,,,Sergio Ricardo Goes Oliveira
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ADM177 - ADMINISTRACAO FINANCEIRA II,10000.0,301.0,50.0,SEG,08:50 às 10:40,Docente não informado pelo Departamento
+,,,,QUA,08:50 às 10:40,Docente não informado pelo Departamento
+,20000.0,301.0,40.0,SEG,07:00 às 08:50,Roberto Brazileiro Paixao
+,,,,QUA,10:40 às 12:30,Roberto Brazileiro Paixao
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ADM178 - INSTRUMENTOS DE MARKETING,10100.0,387.0,5.0,QUI,08:50 às 10:40,Jair Sampaio Soares Junior
+,,327.0,5.0,,,Jair Sampaio Soares Junior
+,,301.0,40.0,,,Jair Sampaio Soares Junior
+,,210.0,1.0,,,Jair Sampaio Soares Junior
+,,190.0,5.0,,,Jair Sampaio Soares Junior
+,,116.0,2.0,,,Jair Sampaio Soares Junior
+,,387.0,5.0,,10:40 às 12:30,Jair Sampaio Soares Junior
+,,327.0,5.0,,,Jair Sampaio Soares Junior
+,,301.0,40.0,,,Jair Sampaio Soares Junior
+,,210.0,1.0,,,Jair Sampaio Soares Junior
+,,190.0,5.0,,,Jair Sampaio Soares Junior
+,,116.0,2.0,,,Jair Sampaio Soares Junior
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ADM179 - ADMINISTRACAO MERCADOLOGICA II,10000.0,301.0,50.0,SEG,08:50 às 10:40,Luciana Alves Rodas Vera
+,,,,QUA,08:50 às 10:40,Luciana Alves Rodas Vera
+,20000.0,301.0,50.0,TER,18:30 às 20:20,Rodrigo Ladeira
+,,,,QUI,18:30 às 20:20,Rodrigo Ladeira
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ADM180 - COMERCIO EXTERIOR,10000.0,380.0,2.0,TER,08:50 às 11:35,Rodrigo Ladeira
+,,314.0,15.0,,,Rodrigo Ladeira
+,,304.0,5.0,,,Rodrigo Ladeira
+,,301.0,30.0,,,Rodrigo Ladeira
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ADM181 - ADMINISTRACAO DA PRODUCAO II,10000.0,301.0,50.0,SEG,08:50 às 10:40,Fernando Antonio de Melo Pereira Lhamas
+,,,,QUA,08:50 às 10:40,Fernando Antonio de Melo Pereira Lhamas
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ADM184 - SEMINARIOS SOBRE TEMAS DE ADMINISTRACAO EM FINANCAS,10000.0,387.0,5.0,SEX,07:00 às 08:50,Antonio Francisco de Almeida da Silva Ju
+,,327.0,5.0,,,Antonio Francisco de Almeida da Silva Ju
+,,314.0,5.0,,,Antonio Francisco de Almeida da Silva Ju
+,,301.0,30.0,,,Antonio Francisco de Almeida da Silva Ju
+,,190.0,5.0,,,Antonio Francisco de Almeida da Silva Ju
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ADM188 - REDAÇÃO EMPRESARIAL,10000.0,314.0,25.0,TER,10:40 às 12:30,Francine Fernanda Ferreira Garbelotti
+,,301.0,20.0,,,Francine Fernanda Ferreira Garbelotti
+,,314.0,25.0,QUI,10:40 às 12:30,Francine Fernanda Ferreira Garbelotti
+,,301.0,20.0,,,Francine Fernanda Ferreira Garbelotti
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ADM200 - INTRODUCAO A ADMINISTRACAO,10000.0,314.0,45.0,TER,08:50 às 10:40,Floriano Barboza Silva
+,,,,QUI,08:50 às 10:40,Floriano Barboza Silva
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ADM202 - COMUNICAÇÃO,10000.0,301.0,45.0,TER,10:40 às 12:30,Ernani Coelho Neto
+,,,,QUI,10:40 às 12:30,Ernani Coelho Neto
+,20000.0,301.0,45.0,TER,07:00 às 08:50,Ernani Coelho Neto
+,,,,QUI,07:00 às 08:50,Ernani Coelho Neto
+,30000.0,501.0,5.0,TER,10:40 às 12:30,Guilherme Marback Neto
+,,327.0,5.0,,,Guilherme Marback Neto
+,,314.0,25.0,,,Guilherme Marback Neto
+,,301.0,10.0,,,Guilherme Marback Neto
+,,205.0,2.0,,,Guilherme Marback Neto
+,,387.0,5.0,,,Guilherme Marback Neto
+,,501.0,5.0,QUI,10:40 às 12:30,Guilherme Marback Neto
+,,387.0,5.0,,,Guilherme Marback Neto
+,,327.0,5.0,,,Guilherme Marback Neto
+,,314.0,25.0,,,Guilherme Marback Neto
+,,301.0,10.0,,,Guilherme Marback Neto
+,,205.0,2.0,,,Guilherme Marback Neto
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ADM203 - INFORMÁTICA APLICADA À ADMINISTRAÇÃO,10000.0,301.0,30.0,SEG,08:50 às 10:40,Silvio Vanderlei Araujo Sousa
+,,,,QUA,08:50 às 10:40,Silvio Vanderlei Araujo Sousa
+,20000.0,301.0,30.0,TER,08:50 às 10:40,Leandro Jose Silva Andrade
+,,,,QUI,08:50 às 10:40,Leandro Jose Silva Andrade
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ADM204 - PESQUISA APLICADA À ADMINISTRAÇÃO,10100.0,301.0,50.0,TER,08:50 às 10:40,Monica de Aguiar Mac Allister da Silva
+,,,,QUI,08:50 às 10:40,Monica de Aguiar Mac Allister da Silva
+,20200.0,301.0,50.0,SEG,10:40 às 12:30,Ernani Marques dos Santos
+,,,,QUA,10:40 às 12:30,Ernani Marques dos Santos
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ADM207 - GESTAO DE ORGANIZACOES,10000.0,314.0,25.0,SEG,07:00 às 08:50,Morjane Armstrong Santos de Miranda
+,,301.0,15.0,,,Morjane Armstrong Santos de Miranda
+,,314.0,25.0,QUA,07:00 às 08:50,Morjane Armstrong Santos de Miranda
+,,301.0,15.0,,,Morjane Armstrong Santos de Miranda
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ADM211 - MÉTODOS QUANTITATIVOS APLICADOS À ADMINISTRAÇÃO,10100.0,301.0,50.0,TER,08:50 às 09:45,Jair Sampaio Soares Junior
+,,,,,09:45 às 10:40,Jair Sampaio Soares Junior
+,,,,,10:40 às 11:35,Jair Sampaio Soares Junior
+,,,,CMB,00:00 às 00:00,Jair Sampaio Soares Junior
+,20200.0,301.0,30.0,SEG,18:30 às 19:25,Fernando Antonio de Melo Pereira Lhamas
+,,,,,19:25 às 21:15,Fernando Antonio de Melo Pereira Lhamas
+,30300.0,195.0,30.0,SEX,18:30 às 20:20,Jair Sampaio Soares Junior
+,,,,,20:20 às 21:15,Jair Sampaio Soares Junior
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ADM214 - ORGANIZACAO E RELACOES DO TRABALHO,10000.0,327.0,3.0,SEG,08:50 às 10:40,Diva Ester Okazaki Rowe
+,,314.0,4.0,,,Diva Ester Okazaki Rowe
+,,313.0,2.0,,,Diva Ester Okazaki Rowe
+,,301.0,40.0,,,Diva Ester Okazaki Rowe
+,,327.0,3.0,QUA,08:50 às 10:40,Diva Ester Okazaki Rowe
+,,314.0,4.0,,,Diva Ester Okazaki Rowe
+,,313.0,2.0,,,Diva Ester Okazaki Rowe
+,,301.0,40.0,,,Diva Ester Okazaki Rowe
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ADM216 - SEMINÁRIOS SOBRE TEMAS ESPECÍFICOS EM ORGANIZAÇÃO,10000.0,327.0,5.0,QUI,18:30 às 20:20,Eduardo Paes Barreto Davel
+,,314.0,10.0,,,Eduardo Paes Barreto Davel
+,,301.0,20.0,,,Eduardo Paes Barreto Davel
+,,885.0,5.0,,,Eduardo Paes Barreto Davel
+,,387.0,5.0,,,Eduardo Paes Barreto Davel
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ADM218 - ABORDAGEM SÓCIO POLÍTICA DAS ORGANIZAÇÕES,10000.0,314.0,2.0,TER,10:40 às 12:30,Renata Alvarez Rossi
+,,301.0,50.0,,,Renata Alvarez Rossi
+,,314.0,2.0,QUI,10:40 às 11:35,Renata Alvarez Rossi
+,,301.0,50.0,,,Renata Alvarez Rossi
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ADM221 - ESTÁGIO CURRICULAR,1.0,301.0,50.0,SEG,10:40 às 12:30,Lindomar Pinto da Silva
+,,,,CMB,00:00 às 00:00,Lindomar Pinto da Silva
+,2.0,301.0,50.0,QUI,18:30 às 20:20,Guilherme Marback Neto
+,,,,CMB,00:00 às 00:00,Guilherme Marback Neto
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ADM222 - GESTAO DE PESSOAS,10000.0,327.0,5.0,SEG,10:40 às 12:30,Diva Ester Okazaki Rowe
+,,314.0,5.0,,,Diva Ester Okazaki Rowe
+,,313.0,1.0,,,Diva Ester Okazaki Rowe
+,,312.0,1.0,,,Diva Ester Okazaki Rowe
+,,301.0,50.0,,,Diva Ester Okazaki Rowe
+,,327.0,5.0,QUA,10:40 às 12:30,Diva Ester Okazaki Rowe
+,,314.0,5.0,,,Diva Ester Okazaki Rowe
+,,313.0,1.0,,,Diva Ester Okazaki Rowe
+,,312.0,1.0,,,Diva Ester Okazaki Rowe
+,,301.0,50.0,,,Diva Ester Okazaki Rowe
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ADM223 - ESTUDOS ANTROPOLÓGICOS DAS ORGANIZAÇÕES,10000.0,314.0,2.0,TER,07:00 às 08:50,Fabio Almeida Ferreira
+,,301.0,40.0,,,Fabio Almeida Ferreira
+,,314.0,2.0,QUI,07:00 às 07:55,Fabio Almeida Ferreira
+,,301.0,40.0,,,Fabio Almeida Ferreira
+,20000.0,301.0,40.0,TER,10:40 às 12:30,Fabio Almeida Ferreira
+,,,,QUI,10:40 às 11:35,Fabio Almeida Ferreira
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ADM224 - TCC - TRABALHO DE CONCLUSÃO DE CURSO,100.0,301.0,100.0,CMB,00:00 às 23:00,Docente não informado pelo Departamento
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ADM226 - GESTAO DE CUSTOS I,10000.0,327.0,5.0,SEG,07:00 às 08:50,Dilson Cerqueira da Silva
+,,301.0,50.0,,,Dilson Cerqueira da Silva
+,,327.0,5.0,QUA,07:00 às 08:50,Dilson Cerqueira da Silva
+,,301.0,50.0,,,Dilson Cerqueira da Silva
+,20000.0,327.0,5.0,SEG,10:40 às 12:30,Cleide Dantas Carneiro
+,,301.0,50.0,,,Cleide Dantas Carneiro
+,,327.0,5.0,QUA,10:40 às 12:30,Cleide Dantas Carneiro
+,,301.0,50.0,,,Cleide Dantas Carneiro
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ADM227 - ORCAMENTO E FINANCAS PUBLICAS,10000.0,301.0,60.0,QUI,07:00 às 08:50,Ana Rita Silva Sacramento
+,,,,SEX,07:00 às 08:50,Ana Rita Silva Sacramento
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ADM228 - TÉCNICAS SECRETARIAIS I,10000.0,314.0,45.0,QUI,10:40 às 12:30,Rodrigo Muller
+,,,,SEX,11:35 às 12:30,Rodrigo Muller
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ADM229 - TÉCNICAS SECRETARIAIS II,10000.0,314.0,40.0,TER,08:50 às 10:40,Francine Fernanda Ferreira Garbelotti
+,,,,QUI,08:50 às 10:40,Francine Fernanda Ferreira Garbelotti
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ADM235 - PANORAMA SOCIO - POLITICO NO BRASIL E NO MUNDO,10000.0,327.0,5.0,QUI,09:45 às 10:40,Andre Luis Nascimento dos Santos
+,,314.0,25.0,,,Andre Luis Nascimento dos Santos
+,,301.0,10.0,,,Andre Luis Nascimento dos Santos
+,,327.0,5.0,,10:40 às 12:30,Andre Luis Nascimento dos Santos
+,,314.0,25.0,,,Andre Luis Nascimento dos Santos
+,,301.0,10.0,,,Andre Luis Nascimento dos Santos
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ADM240 - GESTAO CONTABIL PARA SECRETARIOS,10000.0,327.0,5.0,SEG,07:00 às 08:50,Cleide Dantas Carneiro
+,,314.0,18.0,,,Cleide Dantas Carneiro
+,,327.0,5.0,QUA,07:55 às 08:50,Cleide Dantas Carneiro
+,,314.0,18.0,,,Cleide Dantas Carneiro
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ADM244 - GESTAO SECRETARIAL I,10000.0,314.0,25.0,SEX,09:45 às 12:30,Karine Freitas Souza
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ADM245 - GESTAO SECRETARIAL II,10000.0,314.0,20.0,TER,10:40 às 12:30,Barbara Maria Dultra Pereira
+,,,,SAB,10:40 às 11:35,Barbara Maria Dultra Pereira
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ADM254 - GESTÃO CULTURAL,10000.0,501.0,5.0,SEX,07:55 às 11:35,Eduardo Paes Barreto Davel
+,,387.0,5.0,,,Eduardo Paes Barreto Davel
+,,327.0,5.0,,,Eduardo Paes Barreto Davel
+,,314.0,5.0,,,Eduardo Paes Barreto Davel
+,,301.0,35.0,,,Eduardo Paes Barreto Davel
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ADMB80 - ADMINISTRAÇÃO POLÍTICA,10000.0,314.0,5.0,SEX,08:50 às 11:35,Elizabeth Matos Ribeiro
+,,301.0,50.0,,,Elizabeth Matos Ribeiro
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ADMB81 - ÉTICA EMPRESARIAL RESPONSABILIDADE SOCIAL,10000.0,314.0,5.0,SEX,08:50 às 09:45,Andrea Cardoso Ventura
+,,301.0,60.0,,,Andrea Cardoso Ventura
+,,190.0,5.0,,,Andrea Cardoso Ventura
+,,314.0,5.0,,09:45 às 11:35,Andrea Cardoso Ventura
+,,301.0,60.0,,,Andrea Cardoso Ventura
+,,190.0,5.0,,,Andrea Cardoso Ventura
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ADMC99 - INFORMÁTICA I,10100.0,314.0,30.0,TER,07:00 às 08:50,Leandro Jose Silva Andrade
+,,,,QUI,07:00 às 08:50,Leandro Jose Silva Andrade
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ADMD01 - GESTÃO ECONÔMICA,10000.0,314.0,25.0,TER,09:45 às 12:30,Olivan da Silva Rabelo
+,,301.0,15.0,,,Olivan da Silva Rabelo
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ADMD02 - PLANEJAMENTO EMPRESARIAL,10000.0,314.0,25.0,SEG,10:40 às 12:30,Morjane Armstrong Santos de Miranda
+,,301.0,15.0,,,Morjane Armstrong Santos de Miranda
+,,314.0,25.0,TER,09:45 às 10:40,Morjane Armstrong Santos de Miranda
+,,301.0,15.0,,,Morjane Armstrong Santos de Miranda
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ADMD03 - INFORMÁTICA II,10100.0,314.0,25.0,SEG,08:50 às 10:40,Maria Carolina de Souza Sampaio
+,,,,QUA,08:50 às 10:40,Maria Carolina de Souza Sampaio
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ADMD04 - METODOLOGIA DA PESQUISA,10100.0,314.0,20.0,SEG,08:50 às 10:40,Claudiani Waiandt
+,,,,SEX,08:50 às 10:40,Claudiani Waiandt
+,,,,SAB,08:50 às 10:40,Claudiani Waiandt
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ADMD05 - INFORMÁTICA III - AUTOMAÇÃO DE ESCRITÓRIOS,10000.0,314.0,25.0,QUI,10:40 às 12:30,Leandro Jose Silva Andrade
+,,301.0,5.0,,,Leandro Jose Silva Andrade
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ADMD06 - TRABALHO DE CONCLUSÃO DE CURSO,10000.0,314.0,18.0,CMB,00:00 às 23:00,Docente não informado pelo Departamento
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ADMD07 - EMPREENDEDORISMO,10000.0,314.0,15.0,TER,07:00 às 08:50,Francine Fernanda Ferreira Garbelotti
+,,301.0,30.0,,,Francine Fernanda Ferreira Garbelotti
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ADMD09 - ESTÁGIO CURRICULAR SUPERVISIONADO,100.0,314.0,20.0,QUA,10:40 às 12:30,Ana Cristina Muniz Decia
+,,,,CMB,00:00 às 00:00,Ana Cristina Muniz Decia
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ADME99 - ECONOMIA DA INOVAÇÃO,10000.0,301.0,20.0,SEG,18:30 às 22:10,Olivan da Silva Rabelo
+,,195.0,20.0,,,Olivan da Silva Rabelo
+,,190.0,5.0,,,Olivan da Silva Rabelo
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ADMF01 - SISTEMAS DE APOIO À DECISÃO,10000.0,301.0,10.0,SEG,18:30 às 21:15,Jair Sampaio Soares Junior
+,,195.0,25.0,,,Jair Sampaio Soares Junior
+,,301.0,10.0,CMB,00:00 às 00:00,Jair Sampaio Soares Junior
+,,195.0,25.0,,,Jair Sampaio Soares Junior
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ADMF50 - POLÍTICAS PÚBLICAS E GESTÃO GOVERNAMENTAL,10000.0,301.0,50.0,TER,08:50 às 10:40,Luiza Reis Teixeira
+,,,,QUI,08:50 às 10:40,Luiza Reis Teixeira
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ADMF52 - HABILIDADES E COMPETÊNCIAS DO ADMINISTRADOR,10000.0,301.0,45.0,TER,08:50 às 10:40,Guilherme Marback Neto
+,20000.0,301.0,40.0,QUA,07:00 às 08:50,Silvio Vanderlei Araujo Sousa
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ADMF53 - SEMINÁRIOS DE PRÁTICAS DE GESTÃO I,100.0,301.0,50.0,SEX,08:50 às 10:40,Ernani Marques dos Santos
+,200.0,301.0,50.0,SEX,07:00 às 08:50,Joao Marcelo Pitia Barreto
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ADMF54 - ESTUDOS ORGANIZACIONAIS I,10000.0,301.0,45.0,SEG,10:40 às 12:30,Ariadne Scalfoni Rigo
+,,,,QUA,10:40 às 12:30,Ariadne Scalfoni Rigo
+,20000.0,301.0,45.0,TER,10:40 às 12:30,Raimundo Santos Leal
+,,,,QUI,10:40 às 12:30,Raimundo Santos Leal
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ADMF55 - ESTUDOS ORGANIZACIONAIS II,10000.0,301.0,50.0,TER,07:00 às 08:50,Raimundo Santos Leal
+,,,,QUI,07:00 às 08:50,Raimundo Santos Leal
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ADMF56 - INICIAÇÃO CIENTÍFICA,10000.0,301.0,45.0,SEG,08:50 às 10:40,Lindomar Pinto da Silva
+,20000.0,301.0,45.0,SEG,07:00 às 08:50,Lindomar Pinto da Silva
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ADMF58 - PLANEJAMENTO E CONTROLE DE OPERAÇÕES,10000.0,327.0,5.0,TER,10:40 às 12:30,Felipe Tumenas Marques
+,,301.0,50.0,,,Felipe Tumenas Marques
+,,327.0,5.0,QUI,10:40 às 12:30,Felipe Tumenas Marques
+,,301.0,50.0,,,Felipe Tumenas Marques
+,20000.0,387.0,5.0,SEG,18:30 às 20:20,Felipe Tumenas Marques
+,,301.0,50.0,,,Felipe Tumenas Marques
+,,387.0,5.0,QUA,18:30 às 20:20,Felipe Tumenas Marques
+,,301.0,50.0,,,Felipe Tumenas Marques
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ADMF59 - SISTEMAS DE INFORM GERENCIAIS PARA TOMADA DE DECISÕES,10100.0,327.0,5.0,SEG,10:40 às 12:30,Silvio Vanderlei Araujo Sousa
+,,314.0,15.0,,,Silvio Vanderlei Araujo Sousa
+,,301.0,35.0,,,Silvio Vanderlei Araujo Sousa
+,,327.0,5.0,QUA,10:40 às 12:30,Silvio Vanderlei Araujo Sousa
+,,314.0,15.0,,,Silvio Vanderlei Araujo Sousa
+,,301.0,35.0,,,Silvio Vanderlei Araujo Sousa
+,,327.0,5.0,CMB,00:00 às 00:00,Silvio Vanderlei Araujo Sousa
+,,314.0,15.0,,,Silvio Vanderlei Araujo Sousa
+,,301.0,35.0,,,Silvio Vanderlei Araujo Sousa
+,20200.0,327.0,5.0,SEG,08:50 às 10:40,Ernani Marques dos Santos
+,,314.0,5.0,,,Ernani Marques dos Santos
+,,301.0,45.0,,,Ernani Marques dos Santos
+,,327.0,5.0,QUA,08:50 às 10:40,Ernani Marques dos Santos
+,,314.0,5.0,,,Ernani Marques dos Santos
+,,301.0,45.0,,,Ernani Marques dos Santos
+,,327.0,5.0,CMB,00:00 às 00:00,Ernani Marques dos Santos
+,,314.0,5.0,,,Ernani Marques dos Santos
+,,301.0,45.0,,,Ernani Marques dos Santos
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ADMF60 - GESTÃO DE PESSOAS II,10000.0,301.0,50.0,SEG,07:00 às 08:50,Daniela Campos Bahia Moscon
+,,,,QUA,07:00 às 08:50,Daniela Campos Bahia Moscon
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ADMF72 - SEMINÁRIOS DE PRÁTICAS DE GESTÃO II,100.0,301.0,50.0,QUA,07:00 às 08:50,Ariadne Scalfoni Rigo
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ADMF73 - SEMINÁRIOS DE PRÁTICAS DE GESTÃO III,100.0,301.0,40.0,SEX,18:30 às 20:20,Maria Carolina de Souza Sampaio
+,200.0,301.0,40.0,QUA,07:00 às 08:50,Maria Carolina de Souza Sampaio
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ADMJ46 - LABORATÓRIO DE COMUNICAÇÃO,10000.0,882.0,150.0,CMB,00:00 às 23:00,Elizabeth Matos Ribeiro
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ADMJ89 - GESTÃO DESPORTIVA E SUSTENTABILIDADE,10000.0,387.0,5.0,QUA,08:50 às 10:40,Dilson Cerqueira da Silva
+,,327.0,5.0,,,Dilson Cerqueira da Silva
+,,315.0,5.0,,,Dilson Cerqueira da Silva
+,,314.0,5.0,,,Dilson Cerqueira da Silva
+,,301.0,20.0,,,Dilson Cerqueira da Silva
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ADMK17 - COOPERAÇÃO INTERNACIONAL,10000.0,882.0,150.0,CMB,00:00 às 23:00,Elizabeth Matos Ribeiro
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ADMK18 - EMPREENDEDORISMO GOVERNAMENTAL,10000.0,882.0,150.0,CMB,00:00 às 23:00,Joao Martins Tude
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ADMK19 - GESTÃO DE REDES DE COOPERAÇÃO NA ESFERA PÚBLICA,10000.0,882.0,150.0,CMB,00:00 às 23:00,Horacio Nelson Hastenreiter Filho
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ADMK20 - TCC II,100.0,882.0,150.0,CMB,00:00 às 23:00,Elizabeth Matos Ribeiro
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ADMK24 - ACCS: FOMENTO AO ECOSSISTEMA DE NEGÓC. DE IMPACTO SOCIOAMB.,10100.0,885.0,45.0,TER,20:20 às 22:10,Luiza Reis Teixeira
+,,387.0,1.0,,,Luiza Reis Teixeira
+,,383.0,1.0,,,Luiza Reis Teixeira
+,,381.0,2.0,,,Luiza Reis Teixeira
+,,327.0,1.0,,,Luiza Reis Teixeira
+,,325.0,1.0,,,Luiza Reis Teixeira
+,,317.0,2.0,,,Luiza Reis Teixeira
+,,314.0,1.0,,,Luiza Reis Teixeira
+,,313.0,1.0,,,Luiza Reis Teixeira
+,,312.0,1.0,,,Luiza Reis Teixeira
+,,308.0,1.0,,,Luiza Reis Teixeira
+,,306.0,1.0,,,Luiza Reis Teixeira
+,,305.0,1.0,,,Luiza Reis Teixeira
+,,304.0,1.0,,,Luiza Reis Teixeira
+,,301.0,1.0,,,Luiza Reis Teixeira
+,,226.0,1.0,,,Luiza Reis Teixeira
+,,885.0,45.0,SAB,08:50 às 10:40,Luiza Reis Teixeira
+,,387.0,1.0,,,Luiza Reis Teixeira
+,,383.0,1.0,,,Luiza Reis Teixeira
+,,381.0,2.0,,,Luiza Reis Teixeira
+,,327.0,1.0,,,Luiza Reis Teixeira
+,,325.0,1.0,,,Luiza Reis Teixeira
+,,317.0,2.0,,,Luiza Reis Teixeira
+,,314.0,1.0,,,Luiza Reis Teixeira
+,,313.0,1.0,,,Luiza Reis Teixeira
+,,312.0,1.0,,,Luiza Reis Teixeira
+,,308.0,1.0,,,Luiza Reis Teixeira
+,,306.0,1.0,,,Luiza Reis Teixeira
+,,305.0,1.0,,,Luiza Reis Teixeira
+,,304.0,1.0,,,Luiza Reis Teixeira
+,,301.0,1.0,,,Luiza Reis Teixeira
+,,226.0,1.0,,,Luiza Reis Teixeira
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ADMK28 - ACCS:GESTÃO DE OSCs COCONSTRUINDO SABERES E PRÁTICAS SOCIAIS,10100.0,885.0,5.0,QUA,08:50 às 10:40,Elizabeth Matos Ribeiro
+,,882.0,100.0,,,Elizabeth Matos Ribeiro
+,,387.0,4.0,,,Elizabeth Matos Ribeiro
+,,383.0,5.0,,,Elizabeth Matos Ribeiro
+,,382.0,4.0,,,Elizabeth Matos Ribeiro
+,,327.0,4.0,,,Elizabeth Matos Ribeiro
+,,325.0,5.0,,,Elizabeth Matos Ribeiro
+,,314.0,5.0,,,Elizabeth Matos Ribeiro
+,,308.0,4.0,,,Elizabeth Matos Ribeiro
+,,307.0,4.0,,,Elizabeth Matos Ribeiro
+,,306.0,4.0,,,Elizabeth Matos Ribeiro
+,,301.0,10.0,,,Elizabeth Matos Ribeiro
+,,286.0,5.0,,,Elizabeth Matos Ribeiro
+,,283.0,4.0,,,Elizabeth Matos Ribeiro
+,,226.0,5.0,,,Elizabeth Matos Ribeiro
+,,885.0,5.0,CMB,00:00 às 00:00,Elizabeth Matos Ribeiro
+,,882.0,100.0,,,Elizabeth Matos Ribeiro
+,,387.0,4.0,,,Elizabeth Matos Ribeiro
+,,382.0,4.0,,,Elizabeth Matos Ribeiro
+,,327.0,4.0,,,Elizabeth Matos Ribeiro
+,,325.0,5.0,,,Elizabeth Matos Ribeiro
+,,314.0,5.0,,,Elizabeth Matos Ribeiro
+,,308.0,4.0,,,Elizabeth Matos Ribeiro
+,,307.0,4.0,,,Elizabeth Matos Ribeiro
+,,306.0,4.0,,,Elizabeth Matos Ribeiro
+,,383.0,5.0,,,Elizabeth Matos Ribeiro
+,,301.0,10.0,,,Elizabeth Matos Ribeiro
+,,286.0,5.0,,,Elizabeth Matos Ribeiro
+,,283.0,4.0,,,Elizabeth Matos Ribeiro
+,,226.0,5.0,,,Elizabeth Matos Ribeiro
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ADMK42 - ELEMENTOS DE CIÊNCIAS SOCIAIS APLICADAS,10000.0,885.0,45.0,SEG,18:30 às 22:10,Elizabeth Matos Ribeiro
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ADMK43 - FUNDAMENTOS DA ADMINISTRAÇÃO PÚBLICA E GESTÃO SOCIAL,10000.0,885.0,45.0,SEX,18:30 às 22:10,Morgana Gertrudes Martins Krieger
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ADMK44 - HISTÓRIA DO PENSAMENTO DOS ESTUDOS ORGANIZACIONAIS E GESTÃO,10000.0,885.0,45.0,QUA,18:30 às 22:10,Genauto Carvalho de Franca Filho
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+"ADMK45 - ÉTICA, SOCIEDADE E UNIVERSIDADE",10000.0,885.0,45.0,TER,20:20 às 22:10,Ana Cristina Muniz Decia
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ADMK46 - TEORIA DO CONHECIMENTO E INICIAÇÃO CIENTÍFICA,10000.0,885.0,45.0,TER,18:30 às 22:10,Monica de Aguiar Mac Allister da Silva
+,,314.0,2.0,,,Monica de Aguiar Mac Allister da Silva
+,,301.0,3.0,,,Monica de Aguiar Mac Allister da Silva
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+"ADMK47 - ESTADO, ECONOMIA E SOCIEDADE",10000.0,885.0,45.0,QUA,18:30 às 22:10,Renata Alvarez Rossi
+,,301.0,5.0,,,Renata Alvarez Rossi
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ADMK48 - TEORIAS DA ADMINISTRAÇÃO PÚBLICA,10000.0,885.0,45.0,SEG,18:30 às 22:10,Lindomar Pinto da Silva
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ADMK49 - DIVERSIDADES E DESIGUALDADES,10000.0,885.0,45.0,SEX,20:20 às 22:10,Tania Moura Benevides
+,,314.0,2.0,,,Tania Moura Benevides
+,,301.0,2.0,,,Tania Moura Benevides
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+"ADMK50 - DEMOCRACIA, SISTEMAS DE CONTROLE E PARTICIPAÇÃO SOCIAL",10000.0,885.0,45.0,SEX,18:30 às 22:10,Luiza Reis Teixeira
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ADMK51 - ABORDAGENS CONTEMPORÂNEAS DE ORGANIZAÇÃO E GESTÃO I,10000.0,885.0,45.0,SEG,18:30 às 22:10,Genauto Carvalho de Franca Filho
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+"ADMK88 - CRIATIVIDADE, GESTÃO E ORGANIZAÇÕES",10100.0,885.0,1.0,SEX,10:40 às 11:35,Fabio Almeida Ferreira
+,,327.0,5.0,,,Fabio Almeida Ferreira
+,,314.0,5.0,,,Fabio Almeida Ferreira
+,,301.0,30.0,,,Fabio Almeida Ferreira
+,,885.0,1.0,,11:35 às 12:30,Fabio Almeida Ferreira
+,,327.0,5.0,,,Fabio Almeida Ferreira
+,,314.0,5.0,,,Fabio Almeida Ferreira
+,,301.0,30.0,,,Fabio Almeida Ferreira
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ADMK94 - GESTÃO DE CIDADES E TERRITÓRIOS CRIATIVOS,10100.0,885.0,1.0,SEX,08:50 às 09:45,Fabio Almeida Ferreira
+,,327.0,5.0,,,Fabio Almeida Ferreira
+,,325.0,5.0,,,Fabio Almeida Ferreira
+,,314.0,8.0,,,Fabio Almeida Ferreira
+,,301.0,30.0,,,Fabio Almeida Ferreira
+,,885.0,1.0,,09:45 às 10:40,Fabio Almeida Ferreira
+,,327.0,5.0,,,Fabio Almeida Ferreira
+,,325.0,5.0,,,Fabio Almeida Ferreira
+,,314.0,8.0,,,Fabio Almeida Ferreira
+,,301.0,30.0,,,Fabio Almeida Ferreira
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ADML18 - GESTÃO DE EVENTOS,10100.0,886.0,174.0,CMB,00:00 às 23:00,Rodrigo Muller
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ADML19 - PLANEJAMENTO E ORGANIZAÇÃO DO TURISMO,10000.0,886.0,174.0,CMB,00:00 às 23:00,Sergio Ricardo Goes Oliveira
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ADML20 - PLANEJAMENTO E GESTÃO DE MEIOS DE HOSPEDAGEM,10000.0,886.0,174.0,CMB,00:00 às 23:00,Felipe Tumenas Marques
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ADML21 - ROTEIROS TURÍSTICOS E TRANSPORTES,10000.0,886.0,174.0,CMB,00:00 às 23:00,Sergio Ricardo Goes Oliveira
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ADML22 - PROJETO INTEGRADOR IV,10100.0,886.0,174.0,CMB,00:00 às 23:00,Floriano Barboza Silva
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ADML40 - ACCS: PESQUISA E PRÁTICA INTERDISCIPLINAR PARA APGS,100.0,317.0,2.0,QUI,20:20 às 22:10,Andrea Cardoso Ventura
+,,314.0,2.0,,,Andrea Cardoso Ventura
+,,308.0,1.0,,,Andrea Cardoso Ventura
+,,306.0,1.0,,,Andrea Cardoso Ventura
+,,305.0,1.0,,,Andrea Cardoso Ventura
+,,304.0,1.0,,,Andrea Cardoso Ventura
+,,301.0,2.0,,,Andrea Cardoso Ventura
+,,885.0,40.0,,,Andrea Cardoso Ventura
+,,387.0,1.0,,,Andrea Cardoso Ventura
+,,383.0,1.0,,,Andrea Cardoso Ventura
+,,382.0,1.0,,,Andrea Cardoso Ventura
+,,381.0,2.0,,,Andrea Cardoso Ventura
+,,327.0,1.0,,,Andrea Cardoso Ventura
+,,325.0,1.0,,,Andrea Cardoso Ventura
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ADML41 - ACCS: QUALIDADE DO AMBIENTE URBANO NOS BAIRROS DE SALVADOR,100.0,885.0,45.0,SEX,18:30 às 20:20,Tania Moura Benevides
+,,387.0,4.0,,,Tania Moura Benevides
+,,327.0,1.0,,,Tania Moura Benevides
+,,314.0,1.0,,,Tania Moura Benevides
+,,308.0,1.0,,,Tania Moura Benevides
+,,301.0,1.0,,,Tania Moura Benevides
+,,286.0,1.0,,,Tania Moura Benevides
+,,226.0,1.0,,,Tania Moura Benevides
+,,208.0,1.0,,,Tania Moura Benevides
+,,207.0,1.0,,,Tania Moura Benevides
+,,189.0,1.0,,,Tania Moura Benevides

@@ -1,0 +1,507 @@
+Disciplina,Turma,Coleg.,Vagas Ofe,Dia,Horário,Docente
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+CTIA01 - INTRODUÇÃO À COMPUTAÇÃO,10100.0,881.0,25.0,SEG,10:40 às 12:30,Roney Lira de Sales Santos
+,,,,QUA,07:00 às 08:50,Roney Lira de Sales Santos
+,10200.0,881.0,25.0,SEG,10:40 às 12:30,Roney Lira de Sales Santos
+,,,,QUA,08:50 às 10:40,Roney Lira de Sales Santos
+,20300.0,891.0,25.0,QUA,14:50 às 16:40,Vitor Pinheiro Ferreira
+,,,,SEX,14:50 às 16:40,Vitor Pinheiro Ferreira
+,20400.0,891.0,25.0,QUA,16:40 às 18:30,Vitor Pinheiro Ferreira
+,,,,SEX,14:50 às 16:40,Vitor Pinheiro Ferreira
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+CTIA02 - BASES EPISTEMOLÓGICAS DA CIÊNCIA,10000.0,881.0,50.0,SEX,08:50 às 10:40,Cristiano Cassiano de Araujo
+,20000.0,891.0,50.0,SEG,16:40 às 18:30,Cristiano Cassiano de Araujo
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+"CTIA03 - BASES MATEMÁTICAS PARA CIÊNCIA, TECNOLOGIA E INOVAÇÃO",10000.0,881.0,50.0,TER,08:50 às 10:40,Israel Alves Oliveira
+,,,,QUI,08:50 às 10:40,Israel Alves Oliveira
+,20000.0,891.0,50.0,TER,14:50 às 16:40,Israel Alves Oliveira
+,,,,QUI,14:50 às 16:40,Israel Alves Oliveira
+,30000.0,881.0,50.0,TER,13:00 às 14:50,Israel Alves Oliveira
+,,,,QUI,13:00 às 14:50,Israel Alves Oliveira
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+"CTIA04 - ELEMENTOS ACADÊMICOS E PROFISSIONAIS EM C, T E I",10000.0,881.0,50.0,SEG,08:50 às 10:40,Cristiano Cassiano de Araujo
+,20000.0,891.0,50.0,SEG,14:50 às 16:40,Cristiano Cassiano de Araujo
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+"CTIA05 - LÍNGUA PORTUGUESA, PODER E DIVERSIDADE CULTURAL",10000.0,881.0,50.0,QUA,10:40 às 12:30,Geisa Borges da Costa
+,,,,SEX,10:40 às 12:30,Geisa Borges da Costa
+,20000.0,891.0,50.0,QUA,08:50 às 10:40,Geisa Borges da Costa
+,,,,SEX,08:50 às 10:40,Geisa Borges da Costa
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+"CTIA07 - CIÊNCIA, TECNOLOGIA, INOVAÇÃO E SOCIEDADE",10000.0,891.0,25.0,SEG,13:00 às 14:50,Cristiano Cassiano de Araujo
+,,881.0,25.0,,,Cristiano Cassiano de Araujo
+,,,,SEX,14:50 às 16:40,Cristiano Cassiano de Araujo
+,,891.0,25.0,,,Cristiano Cassiano de Araujo
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+"CTIA08 - PROJETO INTEGRADO EM CIÊNCIA, TECNOLOGIA E INOVAÇÃO I",100.0,881.0,15.0,QUA,10:40 às 12:30,Carina Santos Silveira
+,200.0,891.0,20.0,QUA,10:40 às 12:30,Brena Bezerra Silva
+,300.0,881.0,15.0,QUA,10:40 às 12:30,Andre Luis Sousa Sena
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+CTIA09 - LEITURA E PRODUÇÃO DE TEXTOS EM LÍNGUA PORTUGUESA,10100.0,891.0,25.0,TER,08:50 às 10:40,Hilda Ferreira da Costa Franca
+,,881.0,25.0,,,Hilda Ferreira da Costa Franca
+,,891.0,25.0,QUI,08:50 às 10:40,Hilda Ferreira da Costa Franca
+,,881.0,25.0,,,Hilda Ferreira da Costa Franca
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+CTIA10 - ESTUDOS SOBRE A CONTEMPORANEIDADE II,10000.0,891.0,25.0,SEG,10:40 às 12:30,Cristiano Cassiano de Araujo
+,,881.0,25.0,,,Cristiano Cassiano de Araujo
+,,,,SEX,10:40 às 12:30,Cristiano Cassiano de Araujo
+,,891.0,25.0,,,Cristiano Cassiano de Araujo
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+"CTIA11 - CIÊNCIA, TECNOLOGIA, INOVAÇÃO, SOCIEDADE E AMBIENTE",10000.0,881.0,25.0,QUA,14:50 às 16:40,Antonio Santos Sanchez
+,,891.0,30.0,,,Antonio Santos Sanchez
+,,881.0,25.0,SEX,14:50 às 16:40,Antonio Santos Sanchez
+,,891.0,30.0,,,Antonio Santos Sanchez
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+CTIA12 - EDUCAÇÃO DAS RELAÇÕES ÉTNICO RACIAIS,10100.0,881.0,50.0,TER,13:00 às 14:50,Hilda Ferreira da Costa Franca
+,,,,QUI,13:00 às 14:50,Hilda Ferreira da Costa Franca
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+CTIA24 - LEITURA DE TEXTOS EM LÍNGUA INGLESA I,10100.0,891.0,25.0,TER,10:40 às 12:30,Hilda Ferreira da Costa Franca
+,,881.0,20.0,,,Hilda Ferreira da Costa Franca
+,,,,QUI,10:40 às 12:30,Hilda Ferreira da Costa Franca
+,,891.0,25.0,,,Hilda Ferreira da Costa Franca
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+CTIA25 - LEITURA DE TEXTOS EM LÍNGUA INGLESA II,10100.0,881.0,47.0,TER,14:50 às 16:40,Hilda Ferreira da Costa Franca
+,,891.0,3.0,,,Hilda Ferreira da Costa Franca
+,,,,QUI,14:50 às 16:40,Hilda Ferreira da Costa Franca
+,,881.0,47.0,,,Hilda Ferreira da Costa Franca
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+CTIA28 - ÁLGEBRA LINEAR,10000.0,891.0,3.0,TER,10:40 às 12:30,Mariana Tavares de Aguiar
+,,881.0,22.0,,,Mariana Tavares de Aguiar
+,,891.0,3.0,QUI,10:40 às 12:30,Mariana Tavares de Aguiar
+,,881.0,22.0,,,Mariana Tavares de Aguiar
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+CTIA29 - BANCO DE DADOS,10000.0,881.0,25.0,QUA,08:50 às 10:40,Crysttian Arantes Paixao
+,,,,SEX,08:50 às 10:40,Crysttian Arantes Paixao
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+CTIA31 - CÁLCULO A,10000.0,891.0,25.0,QUA,13:00 às 15:45,Mariana Pinheiro Gomes da Silva
+,,881.0,25.0,,,Mariana Pinheiro Gomes da Silva
+,,891.0,25.0,SEX,13:00 às 14:50,Mariana Pinheiro Gomes da Silva
+,,881.0,25.0,,,Mariana Pinheiro Gomes da Silva
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+CTIA34 - CÁLCULO NUMÉRICO,10100.0,891.0,3.0,TER,10:40 às 12:30,Juarez dos Santos Azevedo
+,,881.0,35.0,,,Juarez dos Santos Azevedo
+,,891.0,3.0,QUI,10:40 às 12:30,Juarez dos Santos Azevedo
+,,881.0,35.0,,,Juarez dos Santos Azevedo
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+CTIA36 - CIÊNCIA DOS MATERIAIS,10000.0,891.0,3.0,TER,08:50 às 10:40,Joyce Batista Azevedo
+,,881.0,17.0,,,Joyce Batista Azevedo
+,,891.0,3.0,QUI,08:50 às 10:40,Joyce Batista Azevedo
+,,881.0,17.0,,,Joyce Batista Azevedo
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+CTIA39 - ENERGIA E MEIO AMBIENTE,10000.0,891.0,5.0,QUA,13:00 às 14:50,Antonio Santos Sanchez
+,,881.0,35.0,,,Antonio Santos Sanchez
+,,891.0,5.0,SEX,13:00 às 14:50,Antonio Santos Sanchez
+,,881.0,35.0,,,Antonio Santos Sanchez
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+"CTIA40 - ESTATÍSTICA APLICADA A CIÊNCIA, TECNOLOGIA E INOVAÇÃO",10100.0,881.0,25.0,QUA,13:00 às 14:50,Manoel Rivelino Gomes de Oliveira
+,,,,SEX,13:00 às 14:50,Manoel Rivelino Gomes de Oliveira
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+CTIA41 - ESTRUTURA DE DADOS E ALGORITMOS I,10100.0,881.0,25.0,QUA,10:40 às 12:30,Crysttian Arantes Paixao
+,,,,SEX,10:40 às 12:30,Crysttian Arantes Paixao
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+CTIA45 - FÍSICA I,10100.0,891.0,25.0,SEG,08:50 às 10:40,Igor Leonardo Gomes de Souza
+,,881.0,20.0,,,Igor Leonardo Gomes de Souza
+,,891.0,25.0,,10:40 às 12:30,Igor Leonardo Gomes de Souza
+,,881.0,20.0,,,Igor Leonardo Gomes de Souza
+,,891.0,25.0,QUA,08:50 às 10:40,Igor Leonardo Gomes de Souza
+,,881.0,20.0,,,Igor Leonardo Gomes de Souza
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+CTIA46 - FÍSICA II,10100.0,891.0,3.0,QUA,08:50 às 10:40,Fernando Henrique Martins da Silva
+,,881.0,22.0,,,Fernando Henrique Martins da Silva
+,,891.0,3.0,SEX,08:50 às 10:40,Fernando Henrique Martins da Silva
+,,881.0,22.0,,,Fernando Henrique Martins da Silva
+,,891.0,3.0,,10:40 às 12:30,Fernando Henrique Martins da Silva
+,,881.0,22.0,,,Fernando Henrique Martins da Silva
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+CTIA47 - FÍSICA III,10100.0,891.0,3.0,TER,10:40 às 12:30,Luis Henrique Cardozo Amorin
+,,881.0,22.0,,,Luis Henrique Cardozo Amorin
+,,891.0,3.0,QUA,10:40 às 12:30,Igor Leonardo Gomes de Souza
+,,881.0,22.0,,,Igor Leonardo Gomes de Souza
+,,891.0,3.0,QUI,10:40 às 12:30,Luis Henrique Cardozo Amorin
+,,881.0,22.0,,,Luis Henrique Cardozo Amorin
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+CTIA49 - GEOMETRIA ANALÍTICA,10000.0,891.0,25.0,TER,13:00 às 14:50,Juarez dos Santos Azevedo
+,,881.0,25.0,,,Juarez dos Santos Azevedo
+,,891.0,25.0,QUI,13:00 às 14:50,Juarez dos Santos Azevedo
+,,881.0,25.0,,,Juarez dos Santos Azevedo
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+CTIA50 - GESTÃO DA PRODUÇÃO,10000.0,891.0,20.0,TER,10:40 às 12:30,Renato de Castro Vivas
+,,881.0,5.0,,,Renato de Castro Vivas
+,,891.0,20.0,QUI,10:40 às 12:30,Renato de Castro Vivas
+,,881.0,5.0,,,Renato de Castro Vivas
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+CTIA51 - HIGIENE E SEGURANÇA DO TRABALHO,10100.0,881.0,25.0,TER,16:40 às 18:30,Anastacio Pinto Goncalves Filho
+,,,,QUI,16:40 às 18:30,Anastacio Pinto Goncalves Filho
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+CTIA52 - INTRODUÇÃO À ASTRONOMIA,10000.0,881.0,25.0,QUA,13:00 às 14:50,Fernando Henrique Martins da Silva
+,,,,SEX,13:00 às 14:50,Fernando Henrique Martins da Silva
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+CTIA53 - INTRODUÇÃO À LÓGICA DE PROGRAMAÇÃO,10100.0,891.0,5.0,QUA,13:00 às 14:50,Joao Soares de Oliveira Neto
+,,881.0,20.0,,,Joao Soares de Oliveira Neto
+,,891.0,5.0,SEX,13:00 às 14:50,Joao Soares de Oliveira Neto
+,,881.0,20.0,,,Joao Soares de Oliveira Neto
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+CTIA56 - PROGRAMAÇÃO ORIENTADA A OBJETOS,10100.0,881.0,25.0,QUA,10:40 às 12:30,Joao Soares de Oliveira Neto
+,,,,SEX,10:40 às 12:30,Joao Soares de Oliveira Neto
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+CTIA59 - QUÍMICA,10100.0,891.0,3.0,TER,08:50 às 10:40,Luis Henrique Cardozo Amorin
+,,881.0,17.0,,,Luis Henrique Cardozo Amorin
+,,891.0,3.0,QUI,08:50 às 10:40,Luis Henrique Cardozo Amorin
+,,881.0,17.0,,,Luis Henrique Cardozo Amorin
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+"CTIA60 - PROJETO INTEGRADO EM CIÊNCIA, TECNOLOGIA E INOVAÇÃO II",100.0,881.0,24.0,SEX,10:40 às 12:30,Andre Luis Sousa Sena
+,200.0,891.0,6.0,SEX,10:40 às 12:30,Brena Bezerra Silva
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+CTIA62 - ACCS: OFICINA DE MODELAGEM DE NEGÓCIOS E INSERÇÃO DIGITAL,10100.0,891.0,5.0,TER,14:50 às 16:40,Milton Correia Sampaio Filho
+,,881.0,10.0,,,Milton Correia Sampaio Filho
+,,891.0,5.0,QUI,14:50 às 16:40,Milton Correia Sampaio Filho
+,,881.0,10.0,,,Milton Correia Sampaio Filho
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+"CTIA63 - ACCS: STEM  CIÊNCIA, TECNOLOGIA E INOVAÇÃO NAS ESCOLAS",10100.0,881.0,10.0,SEX,13:00 às 14:50,Andre Luis Sousa Sena
+,,188.0,2.0,,,Andre Luis Sousa Sena
+,,186.0,2.0,,,Andre Luis Sousa Sena
+,,104.0,2.0,,,Andre Luis Sousa Sena
+,,891.0,5.0,,,Andre Luis Sousa Sena
+,,,,,14:50 às 16:40,Andre Luis Sousa Sena
+,,881.0,10.0,,,Andre Luis Sousa Sena
+,,188.0,2.0,,,Andre Luis Sousa Sena
+,,186.0,2.0,,,Andre Luis Sousa Sena
+,,104.0,2.0,,,Andre Luis Sousa Sena
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+CTIA65 - FERRAMENTAS DIGITAIS PARA A PESQUISA ACADÊMICA,10100.0,891.0,5.0,TER,08:50 às 10:40,Marcos de Souza
+,,881.0,20.0,,,Marcos de Souza
+,,891.0,5.0,QUI,08:50 às 10:40,Marcos de Souza
+,,881.0,20.0,,,Marcos de Souza
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+CTIA66 - CÁLCULO B,10000.0,891.0,25.0,TER,13:00 às 14:50,Mariana Tavares de Aguiar
+,,881.0,25.0,,,Mariana Tavares de Aguiar
+,,891.0,25.0,QUI,13:00 às 15:45,Mariana Tavares de Aguiar
+,,881.0,25.0,,,Mariana Tavares de Aguiar
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+CTIA67 - ESTUDOS SOBRE A CONTEMPORANEIDADE I,10000.0,881.0,50.0,TER,10:40 às 12:30,Sophia Cardoso Rocha
+,,,,QUI,10:40 às 12:30,Sophia Cardoso Rocha
+,20000.0,891.0,50.0,TER,13:00 às 14:50,Sophia Cardoso Rocha
+,,,,QUI,13:00 às 14:50,Sophia Cardoso Rocha
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+CTIA71 - ACCS: A MATEMÁTICA FINANCEIRA E A ESTATÍSTICA NO COTIDIANO,10100.0,891.0,5.0,QUA,10:40 às 12:30,Manoel Rivelino Gomes de Oliveira
+,,881.0,10.0,,,Manoel Rivelino Gomes de Oliveira
+,,891.0,5.0,SEX,10:40 às 12:30,Manoel Rivelino Gomes de Oliveira
+,,881.0,10.0,,,Manoel Rivelino Gomes de Oliveira
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+CTIA77 - MECÂNICA GERAL I,10000.0,891.0,3.0,QUA,13:00 às 14:50,Docente não informado pelo Departamento
+,,881.0,25.0,,,Docente não informado pelo Departamento
+,,891.0,3.0,SEX,13:00 às 14:50,Docente não informado pelo Departamento
+,,881.0,25.0,,,Docente não informado pelo Departamento
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+CTIA78 - MECÂNICA DOS FLUIDOS I,10100.0,891.0,3.0,QUA,13:00 às 14:50,Vitor Pinheiro Ferreira
+,,881.0,25.0,,,Vitor Pinheiro Ferreira
+,,891.0,3.0,SEX,13:00 às 14:50,Vitor Pinheiro Ferreira
+,,881.0,25.0,,,Vitor Pinheiro Ferreira
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+CTIA79 - DESENHO TÉCNICO I,10100.0,891.0,3.0,QUA,14:50 às 16:40,Docente não informado pelo Departamento
+,,881.0,12.0,,,Docente não informado pelo Departamento
+,,891.0,3.0,SEX,14:50 às 16:40,Docente não informado pelo Departamento
+,,881.0,12.0,,,Docente não informado pelo Departamento
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+CTIA80 - EMPREENDEDORISMO,10000.0,891.0,5.0,TER,13:00 às 14:50,Milton Correia Sampaio Filho
+,,881.0,25.0,,,Milton Correia Sampaio Filho
+,,891.0,5.0,QUI,13:00 às 14:50,Milton Correia Sampaio Filho
+,,881.0,25.0,,,Milton Correia Sampaio Filho
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+CTIA81 - ACCS: RECICLAGEM DE PLÁSTICOS,10100.0,891.0,5.0,TER,10:40 às 12:30,Joyce Batista Azevedo
+,,881.0,10.0,,,Joyce Batista Azevedo
+,,891.0,5.0,QUI,10:40 às 12:30,Joyce Batista Azevedo
+,,881.0,10.0,,,Joyce Batista Azevedo
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+CTIA82 - ACCS:PRODUÇÃO E CIRCULAÇÃO DE DIVULGAÇÃO CIENTÍFICA,100.0,891.0,5.0,TER,13:00 às 14:50,Jackson Wilke da Cruz Souza
+,,881.0,20.0,,,Jackson Wilke da Cruz Souza
+,,891.0,5.0,QUI,13:00 às 14:50,Jackson Wilke da Cruz Souza
+,,881.0,20.0,,,Jackson Wilke da Cruz Souza
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+CTIA85 - ADMINISTRAÇÃO E ECONOMIA,10000.0,891.0,5.0,TER,14:50 às 16:40,Tito Francisco Ianda
+,,881.0,30.0,,,Tito Francisco Ianda
+,,891.0,5.0,QUI,14:50 às 16:40,Tito Francisco Ianda
+,,881.0,30.0,,,Tito Francisco Ianda
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+CTIA86 - GESTÃO DE SISTEMAS DE GARANTIA DA QUALIDADE,10000.0,891.0,20.0,QUA,13:00 às 14:50,Brena Bezerra Silva
+,,881.0,5.0,,,Brena Bezerra Silva
+,,891.0,20.0,SEX,13:00 às 14:50,Brena Bezerra Silva
+,,881.0,5.0,,,Brena Bezerra Silva
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+CTIA87 - CONTABILIDADE DE CUSTOS,10100.0,891.0,20.0,TER,16:40 às 18:30,Tito Francisco Ianda
+,,881.0,5.0,,,Tito Francisco Ianda
+,,891.0,20.0,QUI,16:40 às 18:30,Tito Francisco Ianda
+,,881.0,5.0,,,Tito Francisco Ianda
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+CTIA88 - PESQUISA OPERACIONAL,10100.0,891.0,20.0,TER,14:50 às 16:40,Docente não informado pelo Departamento
+,,881.0,5.0,,,Docente não informado pelo Departamento
+,,891.0,20.0,QUI,14:50 às 16:40,Docente não informado pelo Departamento
+,,881.0,5.0,,,Docente não informado pelo Departamento
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+CTIA94 - AUTOMAÇÃO DE PROCESSOS,10100.0,891.0,20.0,QUA,16:40 às 18:30,Docente não informado pelo Departamento
+,,881.0,5.0,,,Docente não informado pelo Departamento
+,,891.0,20.0,SEX,16:40 às 18:30,Docente não informado pelo Departamento
+,,881.0,5.0,,,Docente não informado pelo Departamento
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+CTIA95 - ENGENHARIA E DESENVOLVIMENTO DO PRODUTO,10100.0,891.0,20.0,TER,14:50 às 16:40,Anastacio Pinto Goncalves Filho
+,,881.0,5.0,,,Anastacio Pinto Goncalves Filho
+,,891.0,20.0,QUI,14:50 às 16:40,Anastacio Pinto Goncalves Filho
+,,881.0,5.0,,,Anastacio Pinto Goncalves Filho
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+CTIA96 - PROJETO DE FÁBRICA E PLANEJAMENTO INDUSTRIAL,10100.0,891.0,20.0,QUA,14:50 às 16:40,Docente não informado pelo Departamento
+,,881.0,5.0,,,Docente não informado pelo Departamento
+,,891.0,20.0,SEX,14:50 às 16:40,Docente não informado pelo Departamento
+,,881.0,5.0,,,Docente não informado pelo Departamento
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+CTIA97 - LOGÍSTICA E CADEIA DE SUPRIMENTOS,10100.0,891.0,20.0,TER,16:40 às 18:30,Docente não informado pelo Departamento
+,,881.0,5.0,,,Docente não informado pelo Departamento
+,,891.0,20.0,QUI,16:40 às 18:30,Docente não informado pelo Departamento
+,,881.0,5.0,,,Docente não informado pelo Departamento
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+CTIB07 - INTELIGÊNCIA ARTIFICAL,10100.0,881.0,20.0,TER,08:50 às 10:40,Docente não informado pelo Departamento
+,,,,QUA,10:40 às 12:30,Docente não informado pelo Departamento
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+CTIB08 - INTRODUÇÃO À CIÊNCIA DE DADOS,10000.0,891.0,5.0,SEG,08:50 às 10:40,Roney Lira de Sales Santos
+,,881.0,20.0,,,Roney Lira de Sales Santos
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+"CTIB09 - ALGORITMOS, POLÍTICA E SOCIEDADE",10000.0,881.0,25.0,TER,13:00 às 14:50,Marcos de Souza
+,,,,QUI,13:00 às 14:50,Marcos de Souza
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+CTIB11 - INTRODUÇÃO AO BIG DATA,10000.0,881.0,20.0,QUA,07:00 às 08:50,Docente não informado pelo Departamento
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+CTIB13 - MINERAÇÃO DE TEXTOS I,10100.0,881.0,25.0,TER,08:50 às 10:40,Jackson Wilke da Cruz Souza
+,,,,QUI,08:50 às 10:40,Jackson Wilke da Cruz Souza
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+CTIB21 - ERGONOMIA FÍSICA E ORGANIZACIONAL,10000.0,881.0,25.0,QUA,08:50 às 10:40,Docente não informado pelo Departamento
+,,,,SEX,08:50 às 10:40,Docente não informado pelo Departamento

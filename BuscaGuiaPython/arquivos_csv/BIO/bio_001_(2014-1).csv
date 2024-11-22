@@ -1,0 +1,835 @@
+Disciplina,Turma,Coleg.,Vagas Ofe,Dia,Horário,Docente
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+BIO006 - FUNDAMENTOS ZOOLOGIA,10100.0,209.0,10.0,QUI,09:00 às 11:00,Ana Verena Magalhaes Madeira
+,,,,,11:00 às 13:00,Orane Falcao de Souza Alves
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+BIO007 - BIOLOGIA,10000.0,202.0,45.0,TER,07:00 às 09:00,Iara Sordi Joachim Bravo
+,,,,QUI,07:00 às 09:00,Iara Sordi Joachim Bravo
+,20000.0,202.0,45.0,TER,09:00 às 11:00,Iara Sordi Joachim Bravo
+,,,,QUI,09:00 às 11:00,Iara Sordi Joachim Bravo
+,30000.0,119.0,30.0,SEG,09:00 às 11:00,Nei de Freitas Nunes Neto
+,,,,QUA,09:00 às 11:00,Nei de Freitas Nunes Neto
+,40000.0,207.0,35.0,SEG,13:00 às 15:00,Solange Andrade Pereira
+,,,,QUA,13:00 às 15:00,Solange Andrade Pereira
+,50000.0,207.0,35.0,SEG,15:00 às 17:00,Solange Andrade Pereira
+,,,,QUA,15:00 às 17:00,Solange Andrade Pereira
+,60000.0,209.0,30.0,SEG,09:00 às 11:00,Solange Andrade Pereira
+,,,,QUA,09:00 às 11:00,Solange Andrade Pereira
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+BIO010 - BIOLOGIA CELULAR E MOLECULAR,10100.0,202.0,12.0,TER,07:00 às 09:00,Claudia Dias de Santana
+,,,,QUI,07:00 às 09:00,Claudia Dias de Santana
+,10200.0,202.0,12.0,TER,07:00 às 09:00,Claudia Dias de Santana
+,,,,QUI,09:00 às 11:00,Claudia Dias de Santana
+,20300.0,202.0,11.0,TER,09:00 às 11:00,Gilberto Cafezeiro Bomfim
+,,,,QUI,09:00 às 11:00,Gilberto Cafezeiro Bomfim
+,20400.0,202.0,12.0,TER,09:00 às 11:00,Gilberto Cafezeiro Bomfim
+,,,,QUI,11:00 às 13:00,Gilberto Cafezeiro Bomfim
+,20500.0,202.0,11.0,TER,09:00 às 11:00,Gilberto Cafezeiro Bomfim
+,,,,QUI,15:00 às 17:00,Gilberto Cafezeiro Bomfim
+,30600.0,202.0,11.0,TER,11:00 às 13:00,Nora Ney Alves Santos
+,,,,QUI,13:00 às 15:00,Nora Ney Alves Santos
+,30700.0,202.0,11.0,TER,11:00 às 13:00,Nora Ney Alves Santos
+,,,,QUI,15:00 às 17:00,Nora Ney Alves Santos
+,30800.0,202.0,11.0,TER,11:00 às 13:00,Nora Ney Alves Santos
+,,,,QUI,17:00 às 19:00,Nora Ney Alves Santos
+,40900.0,280.0,10.0,SEG,18:30 às 20:30,Claudia Dias de Santana
+,,,,QUA,18:30 às 20:30,Claudia Dias de Santana
+,41000.0,280.0,10.0,SEG,18:30 às 20:30,Claudia Dias de Santana
+,,,,QUA,18:30 às 20:30,Gilberto Cafezeiro Bomfim
+,41100.0,280.0,10.0,SEG,18:30 às 20:30,Claudia Dias de Santana
+,,,,QUA,20:30 às 22:30,Gilberto Cafezeiro Bomfim
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+BIO032 - FISIOLOGIA ANIMAL COMPARADA,10100.0,202.0,15.0,SEG,09:00 às 11:00,Andre Luis da Cruz
+,,,,TER,09:00 às 11:00,Carlos Eduardo Copatti
+,10200.0,202.0,15.0,SEG,09:00 às 11:00,Andre Luis da Cruz
+,,,,QUA,11:00 às 13:00,Andre Luis da Cruz
+,,,,,,Carlos Eduardo Copatti
+,20300.0,280.0,10.0,TER,18:30 às 20:30,Docente Substituto a Contratar
+,,,,,20:30 às 22:30,Docente Substituto a Contratar
+,20400.0,280.0,10.0,TER,18:30 às 20:30,Docente Substituto a Contratar
+,,,,QUI,18:30 às 20:30,Docente Substituto a Contratar
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+BIO124 - ZOOTOXICOLOGIA,10100.0,202.0,10.0,TER,15:00 às 17:00,Rejane Maria Lira da Silva
+,,206.0,7.0,,,Rejane Maria Lira da Silva
+,,,,,17:00 às 19:00,Luciana Veiga Barbosa
+,,202.0,10.0,,,Luciana Veiga Barbosa
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+BIO128 - BIOLOGIA MARINHA I,10100.0,202.0,10.0,SEX,13:00 às 15:00,Emilio de Lanna Neto
+,,280.0,5.0,,,Emilio de Lanna Neto
+,,,,,15:00 às 17:00,Emilio de Lanna Neto
+,,202.0,10.0,,,Emilio de Lanna Neto
+,,280.0,5.0,CMB,00:00 às 00:00,Emilio de Lanna Neto
+,,202.0,10.0,,,Emilio de Lanna Neto
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+BIO129 - EMBRIOLOGIA GERAL,10100.0,202.0,15.0,SEG,11:00 às 13:00,Antonio de Souza Batista
+,,,,QUI,09:00 às 11:00,Antonio de Souza Batista
+,10200.0,202.0,15.0,SEG,11:00 às 13:00,Antonio de Souza Batista
+,,,,QUI,13:00 às 15:00,Antonio de Souza Batista
+,10300.0,202.0,15.0,SEG,11:00 às 13:00,Antonio de Souza Batista
+,,,,QUI,15:00 às 17:00,Antonio de Souza Batista
+,20400.0,280.0,15.0,TER,18:30 às 20:30,Emilio de Lanna Neto
+,,,,,20:30 às 22:30,Emilio de Lanna Neto
+,20500.0,280.0,15.0,TER,18:30 às 20:30,Emilio de Lanna Neto
+,,,,QUA,20:30 às 22:30,Emilio de Lanna Neto
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+BIO130 - ECOLOGIA GERAL,10100.0,515.0,10.0,SEG,13:00 às 15:00,Doriedson Ferreira Gomes
+,,119.0,10.0,,,Doriedson Ferreira Gomes
+,,515.0,10.0,,15:00 às 18:00,Doriedson Ferreira Gomes
+,,119.0,10.0,,,Doriedson Ferreira Gomes
+,20200.0,209.0,5.0,SEX,07:00 às 08:00,Docente Substituto a Contratar
+,,119.0,10.0,,,Docente Substituto a Contratar
+,,,,,08:00 às 12:00,Docente Substituto a Contratar
+,,209.0,5.0,,,Docente Substituto a Contratar
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+BIO137 - POLUICAO AMBIENTAL,10100.0,280.0,5.0,QUA,13:00 às 15:00,Docente Substituto a Contratar
+,,202.0,10.0,,,Docente Substituto a Contratar
+,,280.0,5.0,,15:00 às 18:00,Docente Substituto a Contratar
+,,202.0,10.0,,,Docente Substituto a Contratar
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+BIO138 - BIOMETRIA BASICA,10100.0,116.0,2.0,QUI,13:00 às 15:00,Paulo de Oliveira Mafalda Junior
+,,119.0,18.0,,,Paulo de Oliveira Mafalda Junior
+,,116.0,2.0,,15:00 às 17:00,Paulo de Oliveira Mafalda Junior
+,,119.0,18.0,,,Paulo de Oliveira Mafalda Junior
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+BIO139 - BOTANICA ECONOMICA,10000.0,202.0,15.0,QUA,09:00 às 11:00,Maria Lenise Silva Guedes
+,,,,,11:00 às 12:00,Maria Lenise Silva Guedes
+,20000.0,280.0,15.0,QUA,18:30 às 20:30,Maria Lenise Silva Guedes
+,,,,,20:30 às 21:30,Maria Lenise Silva Guedes
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+BIO145 - LIMNOLOGIA,10100.0,280.0,2.0,TER,13:00 às 15:00,Doriedson Ferreira Gomes
+,,202.0,13.0,,,Doriedson Ferreira Gomes
+,,280.0,2.0,,15:00 às 17:00,Eduardo Mendes da Silva
+,,202.0,13.0,,,Eduardo Mendes da Silva
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+BIO146 - FITOPLANCTON,10100.0,280.0,2.0,SEX,07:00 às 09:00,Doriedson Ferreira Gomes
+,,202.0,4.0,,,Doriedson Ferreira Gomes
+,,119.0,9.0,,,Doriedson Ferreira Gomes
+,,280.0,2.0,,09:00 às 11:00,Doriedson Ferreira Gomes
+,,202.0,4.0,,,Doriedson Ferreira Gomes
+,,119.0,9.0,,,Doriedson Ferreira Gomes
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+BIO147 - ZOOPLANCTON,10100.0,119.0,10.0,SEG,09:00 às 11:00,Paulo de Oliveira Mafalda Junior
+,,,,,11:00 às 13:00,Paulo de Oliveira Mafalda Junior
+,10200.0,119.0,10.0,SEG,09:00 às 11:00,Paulo de Oliveira Mafalda Junior
+,,,,,13:00 às 15:00,Paulo de Oliveira Mafalda Junior
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+BIO154 - RELACAO PLANTA-ANIMAL,10100.0,280.0,13.0,QUA,18:30 às 20:30,Claudia Luizon Dias Leme
+,,202.0,2.0,,,Claudia Luizon Dias Leme
+,,280.0,13.0,,20:30 às 22:30,Claudia Luizon Dias Leme
+,,202.0,2.0,,,Claudia Luizon Dias Leme
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+BIO155 - ESTAGIO CURRICULAR SUPERVISIONADO EM RECURSOS AMBIENTAIS,10001.0,202.0,10.0,SEG,09:00 às 11:00,Jose Marcos de Castro Nunes
+,,,,,11:00 às 13:00,Jose Marcos de Castro Nunes
+,,,,CMB,00:00 às 00:00,Docente não informado pelo Departamento
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+BIO156 - ESTAGIO CURRICULAR SUPERVISIONADO EM ORGANISMOS AQUATICOS,10001.0,202.0,5.0,CMB,00:00 às 23:00,Elizabeth Gerardo Neves
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+BIO157 - MICROBIOLOGIA AMBIENTAL,10100.0,280.0,2.0,TER,07:00 às 09:00,Adriana Oliveira Medeiros
+,,202.0,13.0,,,Adriana Oliveira Medeiros
+,,280.0,2.0,,09:00 às 12:00,Adriana Oliveira Medeiros
+,,202.0,13.0,,,Adriana Oliveira Medeiros
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+BIO158 - BIOLOGIA CELULAR E MOLECULAR,10100.0,205.0,10.0,SEG,07:00 às 10:00,Rodrigo Barban Zucoloto
+,,,,QUA,07:00 às 09:00,Rodrigo Barban Zucoloto
+,10200.0,205.0,10.0,SEG,07:00 às 10:00,Rodrigo Barban Zucoloto
+,,,,QUA,09:00 às 11:00,Rodrigo Barban Zucoloto
+,20300.0,205.0,10.0,SEG,07:00 às 10:00,Tania Regina Marques da Silva
+,,,,QUA,07:00 às 09:00,Tania Regina Marques da Silva
+,20400.0,205.0,10.0,SEG,07:00 às 10:00,Tania Regina Marques da Silva
+,,,,QUA,09:00 às 11:00,Tania Regina Marques da Silva
+,30500.0,205.0,10.0,SEG,13:00 às 16:00,Rodrigo Barban Zucoloto
+,,,,QUA,13:00 às 15:00,Rodrigo Barban Zucoloto
+,30600.0,205.0,10.0,SEG,13:00 às 16:00,Rodrigo Barban Zucoloto
+,,,,QUA,15:00 às 17:00,Rodrigo Barban Zucoloto
+,40700.0,205.0,10.0,SEG,13:00 às 16:00,Tania Regina Marques da Silva
+,,,,QUA,13:00 às 15:00,Tania Regina Marques da Silva
+,40800.0,205.0,10.0,SEG,13:00 às 16:00,Tania Regina Marques da Silva
+,,,,QUA,15:00 às 17:00,Tania Regina Marques da Silva
+,50900.0,206.0,15.0,SEG,15:00 às 17:00,Paula Carvalhal Lage Von Buettner Ristow
+,,,,QUA,15:00 às 18:00,Paula Carvalhal Lage Von Buettner Ristow
+,51000.0,206.0,15.0,SEG,17:00 às 19:00,Paula Carvalhal Lage Von Buettner Ristow
+,,,,QUA,15:00 às 18:00,Paula Carvalhal Lage Von Buettner Ristow
+,61100.0,208.0,15.0,TER,07:00 às 09:00,Debora de Lucca Chaves Preza
+,,,,QUI,09:00 às 12:00,Debora de Lucca Chaves Preza
+,61200.0,208.0,15.0,TER,09:00 às 11:00,Debora de Lucca Chaves Preza
+,,,,QUI,09:00 às 12:00,Debora de Lucca Chaves Preza
+,61300.0,208.0,15.0,TER,11:00 às 13:00,Debora de Lucca Chaves Preza
+,,,,QUI,09:00 às 12:00,Debora de Lucca Chaves Preza
+,71400.0,206.0,15.0,SEG,09:00 às 11:00,Paula Carvalhal Lage Von Buettner Ristow
+,,,,QUA,09:00 às 12:00,Paula Carvalhal Lage Von Buettner Ristow
+,71500.0,206.0,10.0,SEG,11:00 às 13:00,Claudia Dias de Santana
+,,,,QUA,09:00 às 12:00,Paula Carvalhal Lage Von Buettner Ristow
+,81600.0,208.0,15.0,TER,07:00 às 09:00,Ivana Nunes Gomes de Araujo
+,,,,QUI,07:00 às 10:00,Ivana Nunes Gomes de Araujo
+,81700.0,208.0,15.0,TER,09:00 às 11:00,Ivana Nunes Gomes de Araujo
+,,,,QUI,07:00 às 10:00,Ivana Nunes Gomes de Araujo
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+BIO159 - BASES BIOLOGICAS DO DESENVOLVIMENTO HUMANO,10100.0,315.0,15.0,TER,07:00 às 10:00,Luciana Veiga Barbosa
+,,,,QUI,07:00 às 09:00,Luciana Veiga Barbosa
+,10200.0,315.0,15.0,TER,07:00 às 10:00,Luciana Veiga Barbosa
+,,312.0,5.0,,,Luciana Veiga Barbosa
+,,315.0,15.0,QUI,09:00 às 11:00,Luciana Veiga Barbosa
+,,312.0,5.0,,,Luciana Veiga Barbosa
+,10300.0,315.0,10.0,TER,07:00 às 10:00,Luciana Veiga Barbosa
+,,,,QUI,11:00 às 13:00,Luciana Veiga Barbosa
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+BIO160 - ANATOMIA E ECOLOGIA DE PLANTAS DE MANGUE,10100.0,280.0,10.0,QUI,18:30 às 20:30,Lazaro Benedito da Silva
+,,,,CMB,00:00 às 00:00,Lazaro Benedito da Silva
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+BIO161 - OCEANOGRAFIA BIOLOGICA,10100.0,119.0,10.0,QUI,07:00 às 09:00,Carla Maria Menegola da Silva
+,,,,,13:00 às 15:00,Anderson Aires Eduardo
+,10200.0,119.0,10.0,QUI,07:00 às 09:00,Carla Maria Menegola da Silva
+,,,,,15:00 às 17:00,Docente Substituto a Contratar
+,20300.0,280.0,7.0,QUA,18:30 às 20:30,Anderson Aires Eduardo
+,,202.0,8.0,,,Anderson Aires Eduardo
+,,280.0,7.0,,20:30 às 22:30,Docente Substituto a Contratar
+,,202.0,8.0,,,Docente Substituto a Contratar
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+BIO162 - SEXUALIDADE E EDUCACAO,10100.0,398.0,53.0,CMB,00:00 às 23:00,Docente não informado pelo Departamento
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+BIO163 - ECOTOXICOLOGIA E BIOMONITORAMENTO,10100.0,280.0,5.0,SEG,07:00 às 09:00,Docente Substituto a Contratar
+,,202.0,8.0,,,Docente Substituto a Contratar
+,,119.0,2.0,,,Docente Substituto a Contratar
+,,280.0,5.0,,09:00 às 11:00,Docente Substituto a Contratar
+,,202.0,8.0,,,Docente Substituto a Contratar
+,,119.0,2.0,,,Docente Substituto a Contratar
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+BIO165 - GENÉTICA HUMANA APLICADA À FONOAUDIOLOGIA,10100.0,210.0,36.0,TER,13:00 às 14:00,Izolda Nunes Guimaraes
+,,,,,14:00 às 16:00,Izolda Nunes Guimaraes
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+BIO167 - BENTOLOGIA,10100.0,119.0,15.0,QUI,09:00 às 13:00,Francisco Carlos Rocha de Barros Junior
+,,,,,15:00 às 17:00,Francisco Carlos Rocha de Barros Junior
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+BIO168 - NECTOLOGIA,10100.0,119.0,15.0,TER,09:00 às 11:00,Docente Substituto a Contratar
+,,,,,11:00 às 13:00,Docente Substituto a Contratar
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+BIO170 - GERENCIAMENTO DE AMBIENTES COSTEIROS,10100.0,280.0,5.0,QUI,07:00 às 09:00,Docente Substituto a Contratar
+,,202.0,10.0,,,Docente Substituto a Contratar
+,,119.0,15.0,,,Docente Substituto a Contratar
+,,280.0,5.0,,09:00 às 11:00,Docente Substituto a Contratar
+,,202.0,10.0,,,Docente Substituto a Contratar
+,,119.0,15.0,,,Docente Substituto a Contratar
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+BIO454 - ACC:HORTAS URBANAS-CONHECENDO E ESTIMULANDO ESTA ALTERNATIVA,100.0,286.0,2.0,CMB,00:00 às 23:00,Josanidia Santana Lima
+,,280.0,1.0,,,Josanidia Santana Lima
+,,226.0,2.0,,,Josanidia Santana Lima
+,,202.0,2.0,,,Josanidia Santana Lima
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+BIOA01 - INTRODUÇÃO À BIOLOGIA COMPARADA,10000.0,202.0,45.0,SEG,09:00 às 11:00,Nadia Roque
+,,,,,,Carla Maria Menegola da Silva
+,20000.0,286.0,10.0,SEG,15:00 às 17:00,Carla Maria Menegola da Silva
+,,226.0,10.0,,,Carla Maria Menegola da Silva
+,,286.0,10.0,,,Mercia Patricia Pereira Silva
+,,226.0,10.0,,,Mercia Patricia Pereira Silva
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+BIOA61 - ESTÁGIO CURRICULAR SUPERVISIONADO,1.0,202.0,45.0,CMB,00:00 às 23:00,Docente não informado pelo Departamento
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+BIOA62 - TRABALHO DE CONCLUSÃO DE CURSO,10100.0,202.0,40.0,CMB,00:00 às 23:00,Docente não informado pelo Departamento
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+BIOA63 - ECOLOGIA I,10100.0,189.0,15.0,SEG,13:00 às 15:00,Docente Substituto a Contratar
+,,,,,15:00 às 18:00,Docente Substituto a Contratar
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+BIOA66 - BIOÉTICA,10000.0,202.0,12.0,QUI,09:00 às 13:00,Lilia Maria de Azevedo Moreira
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+BIOA77 - ASPECTOS EVOLUTIVOS DA REPROD. DOS ORG.CLOROF. E FUNGOS,10000.0,280.0,5.0,SEG,15:00 às 18:00,Cid Jose Passos Bastos
+,,202.0,5.0,,,Cid Jose Passos Bastos
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+BIOA78 - FUNDAMENTOS DE AGROECOLOGIA,10000.0,280.0,5.0,SEG,09:00 às 12:00,Josanidia Santana Lima
+,,202.0,10.0,,,Josanidia Santana Lima
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+BIOA79 - GENÉTICA PARA A AREA DE SAUDE,10000.0,204.0,30.0,SEG,09:00 às 12:00,Izolda Nunes Guimaraes
+,20000.0,204.0,30.0,QUI,09:00 às 12:00,Renata Lucia Leite Ferreira de Lima
+,30000.0,203.0,15.0,QUI,14:00 às 17:00,Acacia Fernandes Lacerda de Carvalho
+,40000.0,281.0,25.0,SEG,18:30 às 21:30,Acacia Fernandes Lacerda de Carvalho
+,50000.0,281.0,20.0,TER,18:30 às 21:30,Acacia Fernandes Lacerda de Carvalho
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+BIOA80 - BOTÂNICA APLICADA À FARMÁCIA,10100.0,204.0,10.0,SEG,09:00 às 10:00,Iraide Maria Dias da Silva Guimaraes
+,,,,,10:00 às 13:00,Iraide Maria Dias da Silva Guimaraes
+,20200.0,204.0,10.0,SEG,13:00 às 14:00,Iraide Maria Dias da Silva Guimaraes
+,,,,,14:00 às 17:00,Iraide Maria Dias da Silva Guimaraes
+,30300.0,204.0,10.0,QUA,09:00 às 10:00,Iraide Maria Dias da Silva Guimaraes
+,,,,,10:00 às 13:00,Iraide Maria Dias da Silva Guimaraes
+,40400.0,204.0,10.0,QUA,13:00 às 14:00,Iraide Maria Dias da Silva Guimaraes
+,,,,,14:00 às 17:00,Iraide Maria Dias da Silva Guimaraes
+,50500.0,204.0,10.0,QUI,09:00 às 10:00,Maria Aparecida Jose de Oliveira
+,,,,,10:00 às 13:00,Maria Aparecida Jose de Oliveira
+,60600.0,204.0,10.0,SEX,09:00 às 10:00,Claudia Luizon Dias Leme
+,,,,,10:00 às 13:00,Claudia Luizon Dias Leme
+,70700.0,204.0,10.0,SEX,13:00 às 14:00,Claudia Luizon Dias Leme
+,,,,,14:00 às 17:00,Claudia Luizon Dias Leme
+,80800.0,204.0,10.0,TER,09:00 às 10:00,Sheila Vitoria Resende
+,,,,,10:00 às 13:00,Sheila Vitoria Resende
+,90900.0,281.0,15.0,SEG,18:30 às 19:30,Kelly Regina Batista Leite
+,,,,,19:30 às 22:30,Kelly Regina Batista Leite
+,101000.0,281.0,15.0,TER,18:30 às 19:30,Kelly Regina Batista Leite
+,,,,,19:30 às 22:30,Kelly Regina Batista Leite
+,111100.0,281.0,15.0,QUA,18:30 às 19:30,Kelly Regina Batista Leite
+,,,,,19:30 às 22:30,Kelly Regina Batista Leite
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+BIOA81 - BIOLOGIA APLICADA A FARMÁCIA,10000.0,204.0,45.0,SEG,07:00 às 09:00,Suzana Telles da Cunha Lima
+,,,,QUA,09:00 às 11:00,Suzana Telles da Cunha Lima
+,20000.0,204.0,45.0,QUI,15:00 às 17:00,Suzana Telles da Cunha Lima
+,,,,SEX,09:00 às 11:00,Suzana Telles da Cunha Lima
+,30000.0,281.0,40.0,TER,18:30 às 22:30,Ivana Nunes Gomes de Araujo
+,40000.0,281.0,20.0,QUA,18:30 às 22:30,Solange Andrade Pereira
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+"BIOA82 - ACC: PROGR. SOCIAL DE EDUC., VOCAÇÃO E DIVULGAÇÃO CIENTÍFICA",100.0,280.0,1.0,CMB,00:00 às 23:00,Rejane Maria Lira da Silva
+,,202.0,1.0,,,Rejane Maria Lira da Silva
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+BIOA91 - ANATOMIA DE MADEIRAS,10100.0,280.0,3.0,QUI,13:00 às 15:00,Claudia Luizon Dias Leme
+,,202.0,12.0,,,Claudia Luizon Dias Leme
+,,280.0,3.0,,15:00 às 17:00,Claudia Luizon Dias Leme
+,,202.0,12.0,,,Claudia Luizon Dias Leme
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+BIOA92 - INTRODUÇÃO AO COMPORTAMENTO ANIMAL,10000.0,202.0,45.0,SEG,11:00 às 13:00,Hilton Ferreira Japyassu
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+BIOA93 - BIOLOGIA MOLECULAR E CELULAR APLICADA À MEDICINA VETERINÀRIA,10000.0,206.0,30.0,SEG,09:00 às 11:00,Luciana Veiga Barbosa
+,,,,QUA,09:00 às 11:00,Luciana Veiga Barbosa
+,20000.0,206.0,45.0,SEG,11:00 às 13:00,Luciana Veiga Barbosa
+,,,,QUA,11:00 às 13:00,Luciana Veiga Barbosa
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+BIOA94 - ACCS: INCLUSÃO:CONTRIBUIÇÕES DA GENÉTICA E DA EDUCAÇÃO,100.0,204.0,2.0,TER,13:00 às 15:00,Lilia Maria de Azevedo Moreira
+,,202.0,12.0,,,Lilia Maria de Azevedo Moreira
+,,204.0,2.0,,15:00 às 17:00,Lilia Maria de Azevedo Moreira
+,,202.0,12.0,,,Lilia Maria de Azevedo Moreira
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+BIOB09 - BIOLOGIA APLICADA A ENFERMAGEM,10000.0,203.0,30.0,TER,13:00 às 15:00,Luciana Veiga Barbosa
+,20000.0,203.0,30.0,TER,15:00 às 17:00,Nora Ney Alves Santos
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+BIOB18 - ACCS:MEIO AMBIENTE E SAÚDE:ABORD.INTERDIS.DA PROBLEM.DO LIXO,100.0,280.0,1.0,CMB,00:00 às 23:00,Claudia Luizon Dias Leme
+,,207.0,2.0,,,Claudia Luizon Dias Leme
+,,203.0,2.0,,,Claudia Luizon Dias Leme
+,,202.0,1.0,,,Claudia Luizon Dias Leme
+,,501.0,2.0,,,Claudia Luizon Dias Leme
+,,312.0,2.0,,,Claudia Luizon Dias Leme
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+BIOB23 - MÉTODO DE ESTUDOS EM BIOLOGIA,10100.0,202.0,15.0,QUA,09:00 às 11:00,Moema Cortizo Bellintani
+,,,,SEX,09:00 às 11:00,Alessandra Selbach Schnadelbach
+,10200.0,202.0,15.0,QUA,11:00 às 13:00,Ana Verena Magalhaes Madeira
+,,,,SEX,09:00 às 11:00,Alessandra Selbach Schnadelbach
+,10300.0,202.0,15.0,SEX,09:00 às 11:00,Alessandra Selbach Schnadelbach
+,,,,,11:00 às 13:00,Adriana Oliveira Medeiros
+,20400.0,202.0,15.0,SEG,15:00 às 17:00,Moema Cortizo Bellintani
+,,,,SEX,13:00 às 15:00,Docente não informado pelo Departamento
+,20500.0,280.0,10.0,SEG,15:00 às 17:00,Moema Cortizo Bellintani
+,,202.0,5.0,,,Moema Cortizo Bellintani
+,,280.0,10.0,SEX,15:00 às 17:00,Docente não informado pelo Departamento
+,,202.0,5.0,,,Docente não informado pelo Departamento
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+BIOB24 - FORMULAÇÃO DE PROBLEMAS DE PESQUISA,10000.0,202.0,55.0,QUA,11:00 às 13:00,Hilton Ferreira Japyassu
+,20000.0,280.0,40.0,QUI,20:30 às 22:30,Hilton Ferreira Japyassu
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+BIOB26 - ORIGEM E EVOLUÇÃO DOS PROCARIONTES E EUCARIONTES BASAIS,10100.0,202.0,15.0,SEG,09:00 às 11:00,Adriana Oliveira Medeiros
+,,,,,,Ana Verena Magalhaes Madeira
+,,,,,13:00 às 15:00,Adriana Oliveira Medeiros
+,,,,,,Ana Verena Magalhaes Madeira
+,10200.0,202.0,15.0,SEG,09:00 às 11:00,Adriana Oliveira Medeiros
+,,,,,,Ana Verena Magalhaes Madeira
+,,,,,15:00 às 17:00,Adriana Oliveira Medeiros
+,,,,,,Ana Verena Magalhaes Madeira
+,10300.0,202.0,15.0,SEG,09:00 às 11:00,Adriana Oliveira Medeiros
+,,,,,,Ana Verena Magalhaes Madeira
+,,,,QUA,09:00 às 11:00,Adriana Oliveira Medeiros
+,,,,,,Ana Verena Magalhaes Madeira
+,20400.0,280.0,10.0,QUA,18:30 às 20:30,Mercia Patricia Pereira Silva
+,,,,,,Ana Verena Magalhaes Madeira
+,,,,,20:30 às 22:30,Mercia Patricia Pereira Silva
+,,,,,,Ana Verena Magalhaes Madeira
+,20500.0,280.0,10.0,QUA,18:30 às 20:30,Mercia Patricia Pereira Silva
+,,,,,,Ana Verena Magalhaes Madeira
+,,,,QUI,20:30 às 22:30,Mercia Patricia Pereira Silva
+,,,,,,Ana Verena Magalhaes Madeira
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+BIOB27 - INTRODUÇÃO À DIVERSIDADE ZOOLÓGICA,10000.0,202.0,45.0,QUA,09:00 às 11:00,Docente Substituto a Contratar
+,20000.0,280.0,30.0,TER,18:30 às 20:30,Elizabeth Gerardo Neves
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+BIOB28 - MEIOFAUNA,10100.0,280.0,5.0,SEG,15:00 às 17:00,Orane Falcao de Souza Alves
+,,202.0,10.0,,,Orane Falcao de Souza Alves
+,,280.0,5.0,,17:00 às 19:00,Orane Falcao de Souza Alves
+,,202.0,10.0,,,Orane Falcao de Souza Alves
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+BIOB32 - ECOFISIOLOGIA ANIMAL,10100.0,280.0,5.0,QUI,13:00 às 15:00,Carlos Eduardo Copatti
+,,202.0,10.0,,,Carlos Eduardo Copatti
+,,280.0,5.0,,15:00 às 17:00,Carlos Eduardo Copatti
+,,202.0,10.0,,,Carlos Eduardo Copatti
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+BIOB33 - MORFOLOGIA FUNCIONAL DOS VERTEBRADOS,10100.0,280.0,3.0,QUI,09:00 às 11:00,Andre Luis da Cruz
+,,202.0,12.0,,,Andre Luis da Cruz
+,,280.0,3.0,,11:00 às 13:00,Andre Luis da Cruz
+,,202.0,12.0,,,Andre Luis da Cruz
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+BIOB63 - ACC: MAPEAM BIORREG PARTIC COMUN COSTEIRAS...EDC AMBIENTAL,100.0,286.0,2.0,CMB,00:00 às 23:00,Miguel da Costa Accioly
+,,280.0,1.0,,,Miguel da Costa Accioly
+,,226.0,2.0,,,Miguel da Costa Accioly
+,,202.0,1.0,,,Miguel da Costa Accioly
+,,182.0,1.0,,,Miguel da Costa Accioly
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+BIOB64 - ECOLOGIA NA SOCIEDADE CONTEMPORÂNEA,10000.0,580.0,7.0,TER,18:30 às 20:30,Eduardo Mendes da Silva
+,,387.0,2.0,,,Eduardo Mendes da Silva
+,,280.0,12.0,,,Eduardo Mendes da Silva
+,,226.0,3.0,,,Eduardo Mendes da Silva
+,,202.0,3.0,,,Eduardo Mendes da Silva
+,,190.0,8.0,,,Eduardo Mendes da Silva
+,,189.0,15.0,,,Eduardo Mendes da Silva
+,,580.0,7.0,QUI,18:30 às 20:30,Eduardo Mendes da Silva
+,,387.0,2.0,,,Eduardo Mendes da Silva
+,,280.0,12.0,,,Eduardo Mendes da Silva
+,,226.0,3.0,,,Eduardo Mendes da Silva
+,,202.0,3.0,,,Eduardo Mendes da Silva
+,,190.0,8.0,,,Eduardo Mendes da Silva
+,,189.0,15.0,,,Eduardo Mendes da Silva
+,20000.0,286.0,50.0,TER,18:30 às 20:30,Docente Substituto a Contratar
+,,,,QUI,18:30 às 20:30,Docente Substituto a Contratar
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+BIOB65 - DIVERSIDADE ZOOLÓGICA I,10100.0,280.0,5.0,SEG,07:00 às 09:00,Docente Substituto a Contratar
+,,202.0,10.0,,,Docente Substituto a Contratar
+,,280.0,5.0,TER,07:00 às 09:00,Docente Substituto a Contratar
+,,202.0,10.0,,,Docente Substituto a Contratar
+,10200.0,202.0,15.0,SEG,07:00 às 09:00,Docente Substituto a Contratar
+,,,,TER,09:00 às 11:00,Docente Substituto a Contratar
+,10300.0,202.0,15.0,SEG,07:00 às 09:00,Docente Substituto a Contratar
+,,,,TER,11:00 às 13:00,Docente Substituto a Contratar
+,20400.0,280.0,10.0,SEG,07:00 às 09:00,Carla Maria Menegola da Silva
+,,202.0,5.0,,,Carla Maria Menegola da Silva
+,,280.0,10.0,QUA,09:00 às 11:00,Carla Maria Menegola da Silva
+,,202.0,5.0,,,Carla Maria Menegola da Silva
+,20500.0,280.0,15.0,SEG,07:00 às 09:00,Carla Maria Menegola da Silva
+,,,,QUA,11:00 às 13:00,Carla Maria Menegola da Silva
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+BIOB66 - ESTATÍSTICA APLICADA À BIOLOGIA,10100.0,280.0,8.0,TER,09:00 às 11:00,Francisco Carlos Rocha de Barros Junior
+,,202.0,12.0,,,Francisco Carlos Rocha de Barros Junior
+,,280.0,8.0,,11:00 às 13:00,Francisco Carlos Rocha de Barros Junior
+,,202.0,12.0,,,Francisco Carlos Rocha de Barros Junior
+,20200.0,280.0,8.0,QUI,09:00 às 11:00,Docente Substituto a Contratar
+,,202.0,12.0,,,Docente Substituto a Contratar
+,,280.0,8.0,,11:00 às 13:00,Docente Substituto a Contratar
+,,202.0,12.0,,,Docente Substituto a Contratar
+,30300.0,280.0,8.0,SEX,09:00 às 11:00,Docente Substituto a Contratar
+,,202.0,12.0,,,Docente Substituto a Contratar
+,,280.0,8.0,,11:00 às 13:00,Docente Substituto a Contratar
+,,202.0,12.0,,,Docente Substituto a Contratar
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+BIOB67 - BIOLOGIA DAS ALGAS,10100.0,280.0,5.0,QUI,13:00 às 15:00,Jose Marcos de Castro Nunes
+,,202.0,7.0,,,Jose Marcos de Castro Nunes
+,,119.0,3.0,,,Jose Marcos de Castro Nunes
+,,280.0,5.0,,15:00 às 17:00,Jose Marcos de Castro Nunes
+,,202.0,7.0,,,Jose Marcos de Castro Nunes
+,,119.0,3.0,,,Jose Marcos de Castro Nunes
+,10200.0,280.0,7.0,QUI,13:00 às 15:00,Jose Marcos de Castro Nunes
+,,202.0,8.0,,,Jose Marcos de Castro Nunes
+,,280.0,7.0,,17:00 às 19:00,Jose Marcos de Castro Nunes
+,,202.0,8.0,,,Jose Marcos de Castro Nunes
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+BIOB68 - GENÉTICA I,10100.0,202.0,15.0,SEG,09:00 às 11:00,Renata Lucia Leite Ferreira de Lima
+,,,,,11:00 às 13:00,Renata Lucia Leite Ferreira de Lima
+,10200.0,202.0,15.0,SEG,09:00 às 11:00,Renata Lucia Leite Ferreira de Lima
+,,,,QUA,07:00 às 09:00,Renata Lucia Leite Ferreira de Lima
+,10300.0,280.0,5.0,SEG,09:00 às 11:00,Renata Lucia Leite Ferreira de Lima
+,,202.0,5.0,,,Renata Lucia Leite Ferreira de Lima
+,,280.0,5.0,QUA,09:00 às 11:00,Renata Lucia Leite Ferreira de Lima
+,,202.0,5.0,,,Renata Lucia Leite Ferreira de Lima
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+BIOB69 - MORFOLOGIA VEGETAL,10100.0,202.0,15.0,SEX,07:00 às 09:00,Lazaro Benedito da Silva
+,,,,,09:00 às 11:00,Lazaro Benedito da Silva
+,10200.0,280.0,15.0,SEX,07:00 às 09:00,Lazaro Benedito da Silva
+,,,,,11:00 às 13:00,Lazaro Benedito da Silva
+,10300.0,280.0,15.0,SEX,07:00 às 09:00,Lazaro Benedito da Silva
+,,,,,13:00 às 15:00,Lazaro Benedito da Silva
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+BIOC01 - DIVERSIDADE ZOOLÓGICA II,10100.0,202.0,15.0,TER,07:00 às 09:00,Docente Substituto a Contratar
+,,,,,09:00 às 11:00,Docente Substituto a Contratar
+,10200.0,202.0,15.0,TER,07:00 às 09:00,Docente Substituto a Contratar
+,,,,,11:00 às 13:00,Docente Substituto a Contratar
+,,,,,,Rodrigo Johnsson Tavares da Silva
+,20300.0,280.0,15.0,SEX,18:30 às 20:30,Docente Substituto a Contratar
+,,,,,20:30 às 22:30,Docente Substituto a Contratar
+,20400.0,280.0,15.0,SEG,20:30 às 22:30,Docente Substituto a Contratar
+,,,,SEX,18:30 às 20:30,Docente Substituto a Contratar
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+BIOC02 - SISTEMÁTICA E EVOLUÇÃO DE BRIÓFITAS E PTERIDÓFITAS,10000.0,202.0,10.0,SEG,09:00 às 11:00,Cid Jose Passos Bastos
+,20000.0,202.0,10.0,TER,15:00 às 17:00,Cid Jose Passos Bastos
+,30000.0,280.0,10.0,SEG,20:30 às 22:30,Mercia Patricia Pereira Silva
+,40000.0,280.0,10.0,SEX,20:30 às 22:30,Mercia Patricia Pereira Silva
+,50000.0,202.0,10.0,TER,09:00 às 11:00,Cid Jose Passos Bastos
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+BIOC03 - ECOLOGIA II - DE POPULAÇÕES E COMUNIDADES,10100.0,280.0,2.0,SEG,13:00 às 15:00,Marlene Campos Peso de Aguiar
+,,202.0,13.0,,,Marlene Campos Peso de Aguiar
+,,280.0,2.0,,15:00 às 17:00,Marlene Campos Peso de Aguiar
+,,202.0,13.0,,,Marlene Campos Peso de Aguiar
+,20200.0,280.0,2.0,QUA,13:00 às 15:00,Ricardo Dobrovolski
+,,202.0,13.0,,,Ricardo Dobrovolski
+,,280.0,2.0,,15:00 às 17:00,Ricardo Dobrovolski
+,,202.0,13.0,,,Ricardo Dobrovolski
+,30300.0,280.0,2.0,QUI,13:00 às 15:00,Marlene Campos Peso de Aguiar
+,,202.0,13.0,,,Marlene Campos Peso de Aguiar
+,,280.0,2.0,,15:00 às 17:00,Marlene Campos Peso de Aguiar
+,,202.0,13.0,,,Marlene Campos Peso de Aguiar
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+BIOC05 - SISTEMÁTICA E EVOLUÇÃO DE ESPERMATÓFITAS,10100.0,202.0,15.0,TER,07:00 às 09:00,Nadia Roque
+,,,,,09:00 às 11:00,Nadia Roque
+,10200.0,202.0,15.0,TER,07:00 às 09:00,Nadia Roque
+,,,,,11:00 às 13:00,Nadia Roque
+,10300.0,202.0,15.0,TER,07:00 às 09:00,Nadia Roque
+,,,,,13:00 às 15:00,Nadia Roque
+,20400.0,280.0,15.0,SEG,18:30 às 20:30,Maria Lenise Silva Guedes
+,,,,TER,18:30 às 20:30,Maria Lenise Silva Guedes
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+BIOC06 - ECOLOGIA III - ECOSSISTEMAS,10100.0,280.0,5.0,SEG,11:00 às 13:00,Francisco Kelmo Oliveira dos Santos
+,,202.0,10.0,,,Francisco Kelmo Oliveira dos Santos
+,,280.0,5.0,,13:00 às 15:00,Francisco Kelmo Oliveira dos Santos
+,,202.0,10.0,,,Francisco Kelmo Oliveira dos Santos
+,20200.0,280.0,15.0,QUI,18:30 às 20:30,Mauro Ramalho
+,,,,,20:30 às 22:30,Mauro Ramalho
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+BIOC10 - GENÉTICA II,10100.0,202.0,15.0,SEG,11:00 às 13:00,Flora Maria de Campos Fernandes
+,,,,QUI,11:00 às 13:00,Flora Maria de Campos Fernandes
+,10200.0,202.0,15.0,SEG,11:00 às 13:00,Flora Maria de Campos Fernandes
+,,,,QUI,13:00 às 15:00,Flora Maria de Campos Fernandes
+,20300.0,280.0,12.0,SEG,18:30 às 20:30,Jose Geraldo de Aquino Assis
+,,,,QUA,18:30 às 20:30,Jose Geraldo de Aquino Assis
+,20400.0,280.0,12.0,SEG,18:30 às 20:30,Jose Geraldo de Aquino Assis
+,,,,QUA,20:30 às 22:30,Flora Maria de Campos Fernandes
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+BIOC12 - BIOLOGIA EVOLUTIVA,10100.0,202.0,15.0,QUI,09:00 às 11:00,Alessandra Selbach Schnadelbach
+,,,,,11:00 às 13:00,Alessandra Selbach Schnadelbach
+,20200.0,280.0,12.0,SEX,18:30 às 20:30,Jose Geraldo de Aquino Assis
+,,,,,20:30 às 22:30,Jose Geraldo de Aquino Assis
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+BIOC13 - DIVERSIDADE ZOOLÓGICA III,10100.0,280.0,2.0,QUA,07:00 às 09:00,Ricardo Dobrovolski
+,,202.0,15.0,,,Ricardo Dobrovolski
+,,280.0,2.0,,,Henrique Batalha Filho
+,,202.0,15.0,,,Henrique Batalha Filho
+,,280.0,2.0,,09:00 às 11:00,Docente Substituto a Contratar
+,,202.0,15.0,,,Docente Substituto a Contratar
+,10200.0,280.0,2.0,QUA,07:00 às 09:00,Ricardo Dobrovolski
+,,202.0,15.0,,,Ricardo Dobrovolski
+,,280.0,2.0,,,Henrique Batalha Filho
+,,202.0,15.0,,,Henrique Batalha Filho
+,,280.0,2.0,,11:00 às 13:00,Docente Substituto a Contratar
+,,202.0,15.0,,,Docente Substituto a Contratar
+,,280.0,2.0,,,Rejane Maria Lira da Silva
+,,202.0,15.0,,,Rejane Maria Lira da Silva
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+BIOC14 - ECOLOGIA I - DE INDIVÍDUOS,10000.0,202.0,15.0,SEG,07:00 às 09:00,Francisco Kelmo Oliveira dos Santos
+,20000.0,202.0,15.0,TER,07:00 às 09:00,Francisco Kelmo Oliveira dos Santos
+,30000.0,280.0,30.0,SEG,18:30 às 20:30,Mauro Ramalho
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+BIOC41 - FISIOLOGIA VEGETAL,10100.0,202.0,15.0,SEG,09:00 às 11:00,Herminia Maria de Bastos Freitas
+,,,,SEX,09:00 às 11:00,Herminia Maria de Bastos Freitas
+,20200.0,202.0,15.0,SEG,13:00 às 15:00,Maria Aparecida Jose de Oliveira
+,,,,QUA,13:00 às 15:00,Maria Aparecida Jose de Oliveira
+,30300.0,202.0,15.0,TER,07:00 às 09:00,Herminia Maria de Bastos Freitas
+,,,,QUI,07:00 às 09:00,Herminia Maria de Bastos Freitas
+,40400.0,202.0,15.0,TER,09:00 às 11:00,Herminia Maria de Bastos Freitas
+,,,,QUI,09:00 às 11:00,Herminia Maria de Bastos Freitas
+,50500.0,280.0,10.0,SEG,20:30 às 22:30,Sheila Vitoria Resende
+,,,,QUA,18:30 às 20:30,Sheila Vitoria Resende
+,50600.0,280.0,10.0,SEG,20:30 às 22:30,Sheila Vitoria Resende
+,,,,QUA,20:30 às 22:30,Sheila Vitoria Resende
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+BIOC77 - PERCEP.DOS EFEITOS DOS AGROT.SOBRE A S.HUM.E AMB.A.A.TRANSDI,100.0,307.0,1.0,CMB,00:00 às 23:00,Debora de Lucca Chaves Preza
+,,306.0,1.0,,,Debora de Lucca Chaves Preza
+,,283.0,1.0,,,Debora de Lucca Chaves Preza
+,,206.0,1.0,,,Debora de Lucca Chaves Preza
+,,205.0,1.0,,,Debora de Lucca Chaves Preza
+,,204.0,1.0,,,Debora de Lucca Chaves Preza
+,,202.0,2.0,,,Debora de Lucca Chaves Preza
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+"BIOC78 - MATAS URBANAS E AGROECOLOGIA, USOS E CONV.NAS Á.V.DA UFBA",100.0,286.0,2.0,CMB,00:00 às 23:00,Miguel da Costa Accioly
+,,280.0,2.0,,,Miguel da Costa Accioly
+,,226.0,2.0,,,Miguel da Costa Accioly
+,,202.0,2.0,,,Miguel da Costa Accioly
+,,182.0,2.0,,,Miguel da Costa Accioly
+,,286.0,2.0,,,Maria Aparecida Jose de Oliveira
+,,280.0,2.0,,,Maria Aparecida Jose de Oliveira
+,,226.0,2.0,,,Maria Aparecida Jose de Oliveira
+,,202.0,2.0,,,Maria Aparecida Jose de Oliveira
+,,182.0,2.0,,,Maria Aparecida Jose de Oliveira

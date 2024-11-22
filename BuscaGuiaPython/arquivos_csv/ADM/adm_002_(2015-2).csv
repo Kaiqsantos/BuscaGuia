@@ -1,0 +1,822 @@
+Disciplina,Turma,Coleg.,Vagas Ofe,Dia,HorÃ¡rio,Docente
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ADM001 - INTRODUCAO Ã ADMINISTRACAO,10000.0,304.0,26.0,SEG,08:50 Ã s 10:40,Ricardo Coutinho Mello
+,,327.0,3.0,,,Ricardo Coutinho Mello
+,,189.0,5.0,,,Ricardo Coutinho Mello
+,,387.0,2.0,,,Ricardo Coutinho Mello
+,,305.0,10.0,,,Ricardo Coutinho Mello
+,,,,QUA,08:50 Ã s 10:40,Ricardo Coutinho Mello
+,,304.0,26.0,,,Ricardo Coutinho Mello
+,,387.0,2.0,,,Ricardo Coutinho Mello
+,,189.0,5.0,,,Ricardo Coutinho Mello
+,,327.0,3.0,,,Ricardo Coutinho Mello
+,20000.0,305.0,10.0,SEG,10:40 Ã s 12:30,Jose Antonio Gomes de Pinho
+,,304.0,40.0,,,Jose Antonio Gomes de Pinho
+,,305.0,10.0,QUA,10:40 Ã s 12:30,Jose Antonio Gomes de Pinho
+,,304.0,40.0,,,Jose Antonio Gomes de Pinho
+,30000.0,113.0,6.0,SEG,07:00 Ã s 08:50,Docente nÃ£o informado pelo Departamento
+,,190.0,8.0,,,Docente nÃ£o informado pelo Departamento
+,,387.0,8.0,,,Docente nÃ£o informado pelo Departamento
+,,382.0,8.0,,,Docente nÃ£o informado pelo Departamento
+,,116.0,5.0,,,Docente nÃ£o informado pelo Departamento
+,,305.0,10.0,,,Docente nÃ£o informado pelo Departamento
+,,,,QUA,07:00 Ã s 08:50,Docente nÃ£o informado pelo Departamento
+,,387.0,8.0,,,Docente nÃ£o informado pelo Departamento
+,,382.0,8.0,,,Docente nÃ£o informado pelo Departamento
+,,116.0,5.0,,,Docente nÃ£o informado pelo Departamento
+,,190.0,8.0,,,Docente nÃ£o informado pelo Departamento
+,,113.0,6.0,,,Docente nÃ£o informado pelo Departamento
+,40000.0,308.0,5.0,SEG,07:00 Ã s 07:55,Docente nÃ£o informado pelo Departamento
+,,303.0,45.0,,,Docente nÃ£o informado pelo Departamento
+,,,,,07:55 Ã s 08:50,Docente nÃ£o informado pelo Departamento
+,,308.0,5.0,,,Docente nÃ£o informado pelo Departamento
+,,303.0,45.0,QUA,07:00 Ã s 07:55,Docente nÃ£o informado pelo Departamento
+,,308.0,5.0,,,Docente nÃ£o informado pelo Departamento
+,,303.0,45.0,,07:55 Ã s 08:50,Docente nÃ£o informado pelo Departamento
+,,308.0,5.0,,,Docente nÃ£o informado pelo Departamento
+,50000.0,327.0,10.0,SEG,07:00 Ã s 08:50,Docente nÃ£o informado pelo Departamento
+,,226.0,5.0,,,Docente nÃ£o informado pelo Departamento
+,,207.0,40.0,,,Docente nÃ£o informado pelo Departamento
+,,327.0,10.0,QUA,07:00 Ã s 08:50,Docente nÃ£o informado pelo Departamento
+,,207.0,40.0,,,Docente nÃ£o informado pelo Departamento
+,,226.0,5.0,,,Docente nÃ£o informado pelo Departamento
+,60000.0,387.0,5.0,SEG,10:40 Ã s 12:30,Antonio Sergio Araujo Fernandes
+,,382.0,7.0,,,Antonio Sergio Araujo Fernandes
+,,327.0,7.0,,,Antonio Sergio Araujo Fernandes
+,,308.0,15.0,,,Antonio Sergio Araujo Fernandes
+,,226.0,4.0,,,Antonio Sergio Araujo Fernandes
+,,286.0,3.0,,,Antonio Sergio Araujo Fernandes
+,,112.0,9.0,,,Antonio Sergio Araujo Fernandes
+,,387.0,5.0,QUA,10:40 Ã s 12:30,Antonio Sergio Araujo Fernandes
+,,382.0,7.0,,,Antonio Sergio Araujo Fernandes
+,,327.0,7.0,,,Antonio Sergio Araujo Fernandes
+,,286.0,3.0,,,Antonio Sergio Araujo Fernandes
+,,226.0,4.0,,,Antonio Sergio Araujo Fernandes
+,,308.0,15.0,,,Antonio Sergio Araujo Fernandes
+,,112.0,9.0,,,Antonio Sergio Araujo Fernandes
+,70000.0,190.0,3.0,SEX,18:30 Ã s 20:20,Ricardo Coutinho Mello
+,,387.0,10.0,,,Ricardo Coutinho Mello
+,,305.0,15.0,,,Ricardo Coutinho Mello
+,,327.0,10.0,,,Ricardo Coutinho Mello
+,,112.0,10.0,,,Ricardo Coutinho Mello
+,,327.0,10.0,,20:20 Ã s 22:10,Ricardo Coutinho Mello
+,,305.0,15.0,,,Ricardo Coutinho Mello
+,,190.0,3.0,,,Ricardo Coutinho Mello
+,,112.0,10.0,,,Ricardo Coutinho Mello
+,,387.0,10.0,,,Ricardo Coutinho Mello
+,80000.0,580.0,4.0,TER,18:30 Ã s 20:20,Docente nÃ£o informado pelo Departamento
+,,387.0,10.0,,,Docente nÃ£o informado pelo Departamento
+,,327.0,10.0,,,Docente nÃ£o informado pelo Departamento
+,,311.0,1.0,,,Docente nÃ£o informado pelo Departamento
+,,286.0,3.0,,,Docente nÃ£o informado pelo Departamento
+,,226.0,6.0,,,Docente nÃ£o informado pelo Departamento
+,,190.0,4.0,,,Docente nÃ£o informado pelo Departamento
+,,113.0,6.0,,,Docente nÃ£o informado pelo Departamento
+,,189.0,10.0,,,Docente nÃ£o informado pelo Departamento
+,,580.0,4.0,QUI,18:30 Ã s 20:20,Docente nÃ£o informado pelo Departamento
+,,387.0,10.0,,,Docente nÃ£o informado pelo Departamento
+,,327.0,10.0,,,Docente nÃ£o informado pelo Departamento
+,,286.0,3.0,,,Docente nÃ£o informado pelo Departamento
+,,226.0,6.0,,,Docente nÃ£o informado pelo Departamento
+,,190.0,4.0,,,Docente nÃ£o informado pelo Departamento
+,,311.0,1.0,,,Docente nÃ£o informado pelo Departamento
+,,113.0,6.0,,,Docente nÃ£o informado pelo Departamento
+,,189.0,10.0,,,Docente nÃ£o informado pelo Departamento
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ADM007 - COMUNICACAO I,10000.0,382.0,10.0,SEX,13:55 Ã s 17:35,Guilherme Marback Neto
+,,308.0,10.0,,,Guilherme Marback Neto
+,,304.0,25.0,,,Guilherme Marback Neto
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ADM012 - ADMINISTRACAO,10100.0,190.0,5.0,SEG,13:00 Ã s 14:50,Docente nÃ£o informado pelo Departamento
+,,116.0,2.0,,,Docente nÃ£o informado pelo Departamento
+,,107.0,15.0,,,Docente nÃ£o informado pelo Departamento
+,,106.0,5.0,,,Docente nÃ£o informado pelo Departamento
+,,189.0,5.0,,,Docente nÃ£o informado pelo Departamento
+,,105.0,20.0,,,Docente nÃ£o informado pelo Departamento
+,,189.0,5.0,QUA,13:00 Ã s 14:50,Docente nÃ£o informado pelo Departamento
+,,190.0,5.0,,,Docente nÃ£o informado pelo Departamento
+,,116.0,2.0,,,Docente nÃ£o informado pelo Departamento
+,,107.0,15.0,,,Docente nÃ£o informado pelo Departamento
+,,106.0,5.0,,,Docente nÃ£o informado pelo Departamento
+,,105.0,20.0,,,Docente nÃ£o informado pelo Departamento
+,20200.0,190.0,12.0,SEG,14:50 Ã s 16:40,Docente nÃ£o informado pelo Departamento
+,,105.0,6.0,,,Docente nÃ£o informado pelo Departamento
+,,107.0,2.0,,,Docente nÃ£o informado pelo Departamento
+,,104.0,30.0,,,Docente nÃ£o informado pelo Departamento
+,,190.0,12.0,QUA,14:50 Ã s 16:40,Docente nÃ£o informado pelo Departamento
+,,107.0,2.0,,,Docente nÃ£o informado pelo Departamento
+,,105.0,6.0,,,Docente nÃ£o informado pelo Departamento
+,,104.0,30.0,,,Docente nÃ£o informado pelo Departamento
+,30300.0,189.0,10.0,TER,18:30 Ã s 20:20,Docente nÃ£o informado pelo Departamento
+,,107.0,5.0,,,Docente nÃ£o informado pelo Departamento
+,,106.0,5.0,,,Docente nÃ£o informado pelo Departamento
+,,104.0,10.0,,,Docente nÃ£o informado pelo Departamento
+,,189.0,10.0,QUI,18:30 Ã s 20:20,Docente nÃ£o informado pelo Departamento
+,,107.0,5.0,,,Docente nÃ£o informado pelo Departamento
+,,106.0,5.0,,,Docente nÃ£o informado pelo Departamento
+,,104.0,10.0,,,Docente nÃ£o informado pelo Departamento
+,40400.0,189.0,6.0,TER,20:20 Ã s 22:10,Docente nÃ£o informado pelo Departamento
+,,186.0,30.0,,,Docente nÃ£o informado pelo Departamento
+,,107.0,4.0,,,Docente nÃ£o informado pelo Departamento
+,,104.0,10.0,,,Docente nÃ£o informado pelo Departamento
+,,189.0,6.0,QUI,20:20 Ã s 22:10,Docente nÃ£o informado pelo Departamento
+,,186.0,30.0,,,Docente nÃ£o informado pelo Departamento
+,,107.0,4.0,,,Docente nÃ£o informado pelo Departamento
+,,104.0,10.0,,,Docente nÃ£o informado pelo Departamento
+,50500.0,105.0,20.0,TER,18:30 Ã s 20:20,Paulo Guedes
+,,103.0,30.0,,,Paulo Guedes
+,,105.0,20.0,QUI,18:30 Ã s 20:20,Paulo Guedes
+,,103.0,30.0,,,Paulo Guedes
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ADM149 - ESTRATEGIA ECONOMICA DAS EMPRESAS,10000.0,301.0,75.0,SEG,10:40 Ã s 12:30,Joao Martins Tude
+,,,,QUA,10:40 Ã s 12:30,Joao Martins Tude
+,20000.0,301.0,50.0,SEX,13:00 Ã s 16:40,Joao Martins Tude
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ADM150 - ESTADO E SOCIEDADE,10000.0,515.0,5.0,SEX,07:00 Ã s 10:40,Paulo Guedes
+,,301.0,50.0,,,Paulo Guedes
+,20000.0,301.0,50.0,TER,10:40 Ã s 12:30,Vera Lucia Peixoto Santos Mendes
+,,,,QUI,10:40 Ã s 12:30,Vera Lucia Peixoto Santos Mendes
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ADM153 - PLANEJAMENTO GOVERNAMENTAL,10000.0,515.0,5.0,SEG,18:30 Ã s 20:20,Docente nÃ£o informado pelo Departamento
+,,387.0,20.0,,,Docente nÃ£o informado pelo Departamento
+,,327.0,25.0,,,Docente nÃ£o informado pelo Departamento
+,,515.0,5.0,QUA,18:30 Ã s 20:20,Docente nÃ£o informado pelo Departamento
+,,387.0,20.0,,,Docente nÃ£o informado pelo Departamento
+,,327.0,25.0,,,Docente nÃ£o informado pelo Departamento
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ADM154 - ELABORAÃÃO E ANÃLISE DE PROGRAMAS E PROJETOS,10100.0,301.0,50.0,SEG,08:50 Ã s 10:40,Marcus Alban Suarez
+,,185.0,3.0,,,Marcus Alban Suarez
+,,301.0,50.0,QUA,08:50 Ã s 10:40,Marcus Alban Suarez
+,,185.0,3.0,,,Marcus Alban Suarez
+,20200.0,301.0,35.0,SEG,18:30 Ã s 20:20,Marcus Alban Suarez
+,,,,QUA,18:30 Ã s 20:20,Marcus Alban Suarez
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ADM158 - SEMINARIO SOBRE TEMAS ESPECTFICOS EM PLANEJAMENTO,10000.0,301.0,50.0,TER,07:00 Ã s 08:50,Docente nÃ£o informado pelo Departamento
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ADM170 - ADMINISTRACAO CONTABIL I,10000.0,301.0,50.0,SEG,08:50 Ã s 10:40,Cleide Dantas Carneiro
+,,,,QUA,08:50 Ã s 10:40,Cleide Dantas Carneiro
+,20000.0,387.0,2.0,SEG,10:40 Ã s 12:30,Cleide Dantas Carneiro
+,,327.0,2.0,,,Cleide Dantas Carneiro
+,,301.0,50.0,,,Cleide Dantas Carneiro
+,,116.0,1.0,,,Cleide Dantas Carneiro
+,,387.0,2.0,QUA,10:40 Ã s 12:30,Cleide Dantas Carneiro
+,,327.0,2.0,,,Cleide Dantas Carneiro
+,,301.0,50.0,,,Cleide Dantas Carneiro
+,,116.0,1.0,,,Cleide Dantas Carneiro
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ADM172 - ADMINISTRACAO FINANCEIRA I,10000.0,301.0,50.0,SEG,07:00 Ã s 08:50,Dilson Cerqueira da Silva
+,,,,QUA,07:00 Ã s 08:50,Dilson Cerqueira da Silva
+,20000.0,301.0,50.0,SEG,08:50 Ã s 10:40,Roberto Brazileiro Paixao
+,,,,QUA,08:50 Ã s 10:40,Roberto Brazileiro Paixao
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ADM173 - ADMINISTRACAO MERCADOLOGICA I,10000.0,301.0,50.0,SEG,08:50 Ã s 10:40,Floriano Barboza Silva
+,,,,QUA,08:50 Ã s 10:40,Floriano Barboza Silva
+,20000.0,314.0,20.0,SEG,10:40 Ã s 12:30,Floriano Barboza Silva
+,,301.0,35.0,,,Floriano Barboza Silva
+,,314.0,20.0,QUA,10:40 Ã s 12:30,Floriano Barboza Silva
+,,301.0,35.0,,,Floriano Barboza Silva
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ADM174 - ADMINISTRACAO DA PRODUCAO I,10000.0,301.0,50.0,SEG,07:00 Ã s 08:50,Docente nÃ£o informado pelo Departamento
+,,,,QUA,07:00 Ã s 08:50,Docente nÃ£o informado pelo Departamento
+,20000.0,301.0,50.0,SEG,08:50 Ã s 10:40,Maria Teresa Franco Ribeiro
+,,190.0,3.0,,,Maria Teresa Franco Ribeiro
+,,185.0,2.0,,,Maria Teresa Franco Ribeiro
+,,301.0,50.0,QUA,08:50 Ã s 10:40,Maria Teresa Franco Ribeiro
+,,190.0,3.0,,,Maria Teresa Franco Ribeiro
+,,185.0,2.0,,,Maria Teresa Franco Ribeiro
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ADM175 - ADMINISTRAÃÃO ESTRATÃGICA,10000.0,301.0,50.0,SEG,07:00 Ã s 08:50,Maria Teresa Franco Ribeiro
+,,,,QUA,07:00 Ã s 08:50,Maria Teresa Franco Ribeiro
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ADM176 - ADMINISTRACAO CONTABIL II,10000.0,301.0,50.0,TER,07:00 Ã s 08:50,Dilson Cerqueira da Silva
+,,,,QUI,07:00 Ã s 08:50,Dilson Cerqueira da Silva
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ADM177 - ADMINISTRACAO FINANCEIRA II,10000.0,301.0,50.0,SEG,07:00 Ã s 08:50,Antonio Carlos Peixoto de Magalhaes Juni
+,,,,QUA,07:00 Ã s 08:50,Antonio Carlos Peixoto de Magalhaes Juni
+,20000.0,301.0,50.0,SEG,08:50 Ã s 10:40,Antonio Carlos Peixoto de Magalhaes Juni
+,,,,QUA,08:50 Ã s 10:40,Antonio Carlos Peixoto de Magalhaes Juni
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ADM179 - ADMINISTRACAO MERCADOLOGICA II,10000.0,301.0,50.0,TER,08:50 Ã s 10:40,Rodrigo Ladeira
+,,,,QUI,10:40 Ã s 12:30,Rodrigo Ladeira
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ADM180 - COMERCIO EXTERIOR,10000.0,314.0,30.0,SEX,09:45 Ã s 12:30,Rodrigo Ladeira
+,,301.0,20.0,,,Rodrigo Ladeira
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ADM181 - ADMINISTRACAO DA PRODUCAO II,10000.0,301.0,50.0,TER,07:00 Ã s 08:50,Docente nÃ£o informado pelo Departamento
+,,,,QUI,07:00 Ã s 08:50,Docente nÃ£o informado pelo Departamento
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ADM184 - SEMINARIOS SOBRE TEMAS DE ADMINISTRACAO EM FINANCAS,10000.0,301.0,50.0,QUI,07:00 Ã s 08:50,Docente nÃ£o informado pelo Departamento
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ADM188 - REDAÃÃO EMPRESARIAL,10000.0,314.0,30.0,SEG,07:00 Ã s 08:50,Docente nÃ£o informado pelo Departamento
+,,,,QUA,07:00 Ã s 08:50,Docente nÃ£o informado pelo Departamento
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ADM200 - INTRODUCAO A ADMINISTRACAO,10000.0,387.0,5.0,TER,10:40 Ã s 12:30,Joao Marcelo Pitia Barreto
+,,327.0,5.0,,,Joao Marcelo Pitia Barreto
+,,314.0,45.0,,,Joao Marcelo Pitia Barreto
+,,387.0,5.0,QUI,10:40 Ã s 12:30,Joao Marcelo Pitia Barreto
+,,327.0,5.0,,,Joao Marcelo Pitia Barreto
+,,314.0,45.0,,,Joao Marcelo Pitia Barreto
+,20000.0,387.0,26.0,SEG,20:20 Ã s 22:10,Docente nÃ£o informado pelo Departamento
+,,327.0,26.0,,,Docente nÃ£o informado pelo Departamento
+,,387.0,26.0,QUA,20:20 Ã s 22:10,Docente nÃ£o informado pelo Departamento
+,,327.0,26.0,,,Docente nÃ£o informado pelo Departamento
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ADM202 - COMUNICAÃÃO,10000.0,301.0,40.0,SEG,08:50 Ã s 10:40,Ernani Coelho Neto
+,,,,QUA,08:50 Ã s 10:40,Ernani Coelho Neto
+,20000.0,301.0,36.0,SEG,10:40 Ã s 12:30,Ernani Coelho Neto
+,,190.0,3.0,,,Ernani Coelho Neto
+,,189.0,2.0,,,Ernani Coelho Neto
+,,301.0,36.0,QUA,10:40 Ã s 12:30,Ernani Coelho Neto
+,,190.0,3.0,,,Ernani Coelho Neto
+,,189.0,2.0,,,Ernani Coelho Neto
+,30000.0,308.0,2.0,TER,07:00 Ã s 08:50,Fabio Almeida Ferreira
+,,301.0,30.0,,,Fabio Almeida Ferreira
+,,308.0,2.0,QUI,07:00 Ã s 08:50,Fabio Almeida Ferreira
+,,301.0,30.0,,,Fabio Almeida Ferreira
+,40000.0,314.0,15.0,TER,08:50 Ã s 10:40,Fabio Almeida Ferreira
+,,190.0,3.0,,,Fabio Almeida Ferreira
+,,189.0,3.0,,,Fabio Almeida Ferreira
+,,314.0,15.0,QUI,08:50 Ã s 10:40,Fabio Almeida Ferreira
+,,190.0,3.0,,,Fabio Almeida Ferreira
+,,189.0,3.0,,,Fabio Almeida Ferreira
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ADM203 - INFORMÃTICA APLICADA Ã ADMINISTRAÃÃO,10000.0,301.0,40.0,QUI,08:50 Ã s 10:40,Docente nÃ£o informado pelo Departamento
+,,,,SEX,08:50 Ã s 10:40,Docente nÃ£o informado pelo Departamento
+,20000.0,301.0,40.0,TER,08:50 Ã s 10:40,Docente nÃ£o informado pelo Departamento
+,,,,SEX,07:00 Ã s 08:50,Docente nÃ£o informado pelo Departamento
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ADM204 - PESQUISA APLICADA Ã ADMINISTRAÃÃO,10100.0,301.0,35.0,SEG,07:00 Ã s 08:50,Ariadne Scalfoni Rigo
+,,,,QUA,07:00 Ã s 08:50,Ariadne Scalfoni Rigo
+,20200.0,301.0,35.0,SEG,08:50 Ã s 10:40,Ariadne Scalfoni Rigo
+,,,,QUA,08:50 Ã s 10:40,Docente nÃ£o informado pelo Departamento
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ADM207 - GESTAO DE ORGANIZACOES,10000.0,382.0,3.0,TER,10:40 Ã s 12:30,Docente nÃ£o informado pelo Departamento
+,,314.0,30.0,,,Docente nÃ£o informado pelo Departamento
+,,308.0,5.0,,,Docente nÃ£o informado pelo Departamento
+,,301.0,5.0,,,Docente nÃ£o informado pelo Departamento
+,,185.0,3.0,,,Docente nÃ£o informado pelo Departamento
+,,382.0,3.0,QUI,10:40 Ã s 12:30,Docente nÃ£o informado pelo Departamento
+,,314.0,30.0,,,Docente nÃ£o informado pelo Departamento
+,,308.0,5.0,,,Docente nÃ£o informado pelo Departamento
+,,301.0,5.0,,,Docente nÃ£o informado pelo Departamento
+,,185.0,3.0,,,Docente nÃ£o informado pelo Departamento
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ADM211 - MÃTODOS QUANTITATIVOS APLICADOS Ã ADMINISTRAÃÃO,10100.0,301.0,50.0,QUI,07:00 Ã s 08:50,Jair Sampaio Soares Junior
+,,,,,08:50 Ã s 09:45,Jair Sampaio Soares Junior
+,20200.0,301.0,50.0,TER,08:50 Ã s 10:40,Jair Sampaio Soares Junior
+,,,,,10:40 Ã s 11:35,Jair Sampaio Soares Junior
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ADM214 - ORGANIZACAO E RELACOES DO TRABALHO,10000.0,301.0,50.0,TER,08:50 Ã s 10:40,Diva Ester Okazaki Rowe
+,,,,QUI,08:50 Ã s 10:40,Diva Ester Okazaki Rowe
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ADM218 - ABORDAGEM SÃCIO POLÃTICA DAS ORGANIZAÃÃES,10000.0,301.0,50.0,TER,08:50 Ã s 11:35,Maria Elisabete Pereira dos Santos
+,20000.0,301.0,50.0,QUI,08:50 Ã s 11:35,Reynaldo Josue de Paula
+,30000.0,387.0,24.0,QUA,09:45 Ã s 12:30,Reynaldo Josue de Paula
+,,327.0,24.0,,,Reynaldo Josue de Paula
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ADM221 - ESTÃGIO CURRICULAR,1.0,301.0,35.0,SEX,07:00 Ã s 08:50,Docente nÃ£o informado pelo Departamento
+,,,,CMB,00:00 Ã s 00:00,Docente nÃ£o informado pelo Departamento
+,2.0,301.0,35.0,SEX,07:00 Ã s 07:55,Leidimar Candida dos Santos
+,,,,,07:55 Ã s 08:50,Leidimar Candida dos Santos
+,,,,CMB,00:00 Ã s 00:00,Leidimar Candida dos Santos
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ADM222 - GESTAO DE PESSOAS,10000.0,301.0,50.0,SEG,10:40 Ã s 12:30,Tania Moura Benevides
+,,185.0,4.0,,,Tania Moura Benevides
+,,301.0,50.0,QUA,10:40 Ã s 12:30,Tania Moura Benevides
+,,185.0,4.0,,,Tania Moura Benevides
+,20000.0,314.0,5.0,TER,10:40 Ã s 12:30,Diva Ester Okazaki Rowe
+,,301.0,50.0,,,Diva Ester Okazaki Rowe
+,,314.0,5.0,QUI,10:40 Ã s 12:30,Diva Ester Okazaki Rowe
+,,301.0,50.0,,,Diva Ester Okazaki Rowe
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ADM223 - ESTUDOS ANTROPOLÃGICOS DAS ORGANIZAÃÃES,10000.0,301.0,50.0,QUA,08:50 Ã s 11:35,Monica de Aguiar Mac Allister da Silva
+,20000.0,387.0,15.0,QUA,08:50 Ã s 11:35,Genauto Carvalho de Franca Filho
+,,327.0,15.0,,,Genauto Carvalho de Franca Filho
+,30000.0,301.0,50.0,QUI,08:50 Ã s 11:35,Monica de Aguiar Mac Allister da Silva
+,40000.0,387.0,15.0,QUI,08:50 Ã s 11:35,Docente nÃ£o informado pelo Departamento
+,,327.0,15.0,,,Docente nÃ£o informado pelo Departamento
+,50000.0,387.0,26.0,CMB,00:00 Ã s 23:00,Docente nÃ£o informado pelo Departamento
+,,327.0,26.0,,,Docente nÃ£o informado pelo Departamento
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ADM224 - TCC - TRABALHO DE CONCLUSÃO DE CURSO,100.0,301.0,2.0,CMB,00:00 Ã s 23:00,Tania Moura Benevides
+,200.0,301.0,2.0,CMB,00:00 Ã s 23:00,Antonio Sergio Araujo Fernandes
+,300.0,301.0,2.0,CMB,00:00 Ã s 23:00,Maria Elisabete Pereira dos Santos
+,400.0,301.0,2.0,CMB,00:00 Ã s 23:00,Claudiani Waiandt
+,500.0,301.0,2.0,CMB,00:00 Ã s 23:00,Fabio Almeida Ferreira
+,600.0,301.0,2.0,CMB,00:00 Ã s 23:00,Raimundo Santos Leal
+,700.0,301.0,2.0,CMB,00:00 Ã s 23:00,Roberto Brazileiro Paixao
+,800.0,301.0,2.0,CMB,00:00 Ã s 23:00,Rodrigo Ladeira
+,900.0,301.0,2.0,CMB,00:00 Ã s 23:00,Dilson Cerqueira da Silva
+,1000.0,301.0,2.0,CMB,00:00 Ã s 23:00,Paulo Guedes
+,1100.0,301.0,2.0,CMB,00:00 Ã s 23:00,Ivone Freire Costa
+,1200.0,301.0,2.0,CMB,00:00 Ã s 23:00,Leobino Nascimento Sampaio
+,1300.0,301.0,2.0,CMB,00:00 Ã s 23:00,Marcus Alban Suarez
+,1400.0,301.0,2.0,CMB,00:00 Ã s 23:00,Cleide Dantas Carneiro
+,1500.0,301.0,2.0,CMB,00:00 Ã s 23:00,Elizabeth Matos Ribeiro
+,1600.0,301.0,2.0,CMB,00:00 Ã s 23:00,Monica de Aguiar Mac Allister da Silva
+,1700.0,301.0,2.0,CMB,00:00 Ã s 23:00,Ariadne Scalfoni Rigo
+,1800.0,301.0,2.0,CMB,00:00 Ã s 23:00,Leidimar Candida dos Santos
+,1900.0,301.0,2.0,CMB,00:00 Ã s 23:00,Floriano Barboza Silva
+,2000.0,301.0,2.0,CMB,00:00 Ã s 23:00,Vera Lucia Peixoto Santos Mendes
+,2100.0,301.0,2.0,CMB,00:00 Ã s 23:00,Jair Sampaio Soares Junior
+,2200.0,301.0,2.0,CMB,00:00 Ã s 23:00,Eduardo Paes Barreto Davel
+,2300.0,301.0,2.0,CMB,00:00 Ã s 23:00,Isabel Sartori
+,2400.0,301.0,2.0,CMB,00:00 Ã s 23:00,Denise Ribeiro de Almeida
+,2500.0,301.0,80.0,CMB,00:00 Ã s 23:00,Docente nÃ£o informado pelo Departamento
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ADM226 - GESTAO DE CUSTOS I,10000.0,301.0,50.0,SEG,07:00 Ã s 08:50,Cleide Dantas Carneiro
+,,185.0,3.0,,,Cleide Dantas Carneiro
+,,301.0,50.0,QUA,07:00 Ã s 08:50,Cleide Dantas Carneiro
+,,185.0,3.0,,,Cleide Dantas Carneiro
+,20000.0,301.0,50.0,TER,07:00 Ã s 08:50,Joao Marcelo Pitia Barreto
+,,,,SEX,10:40 Ã s 12:30,Joao Marcelo Pitia Barreto
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ADM227 - ORCAMENTO E FINANCAS PUBLICAS,10000.0,301.0,50.0,SEX,08:50 Ã s 12:30,Eduardo Fausto Barreto
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ADM228 - TÃCNICAS SECRETARIAIS I,10000.0,314.0,46.0,TER,07:00 Ã s 08:50,Ana Cristina Muniz Decia
+,,,,QUI,07:00 Ã s 07:55,Ana Cristina Muniz Decia
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ADM229 - TÃCNICAS SECRETARIAIS II,10000.0,314.0,30.0,TER,08:50 Ã s 10:40,Joice da Costa Martins
+,,,,SEX,10:40 Ã s 12:30,Joice da Costa Martins
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ADM235 - PANORAMA SOCIO - POLITICO NO BRASIL E NO MUNDO,10000.0,314.0,30.0,QUA,07:00 Ã s 09:45,Elizabeth Matos Ribeiro
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ADM240 - GESTAO CONTABIL PARA SECRETARIOS,10000.0,314.0,30.0,QUA,09:45 Ã s 12:30,Joao Marcelo Pitia Barreto
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ADM244 - GESTAO SECRETARIAL I,10000.0,314.0,30.0,SEG,09:45 Ã s 12:30,Joice da Costa Martins
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ADM245 - GESTAO SECRETARIAL II,10000.0,314.0,30.0,QUI,07:55 Ã s 08:50,Joice da Costa Martins
+,,,,,08:50 Ã s 10:40,Joice da Costa Martins
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ADM254 - GESTÃO CULTURAL,10000.0,384.0,3.0,SEX,07:00 Ã s 10:40,Eduardo Paes Barreto Davel
+,,327.0,10.0,,,Eduardo Paes Barreto Davel
+,,314.0,5.0,,,Eduardo Paes Barreto Davel
+,,301.0,37.0,,,Eduardo Paes Barreto Davel
+,20000.0,387.0,26.0,SEX,18:30 Ã s 22:10,Docente nÃ£o informado pelo Departamento
+,,327.0,26.0,,,Docente nÃ£o informado pelo Departamento
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ADMB80 - ADMINISTRAÃÃO POLÃTICA,10000.0,384.0,3.0,QUI,07:00 Ã s 09:45,Docente nÃ£o informado pelo Departamento
+,,301.0,47.0,,,Docente nÃ£o informado pelo Departamento
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ADMB81 - ÃTICA EMPRESARIAL RESPONSABILIDADE SOCIAL,10000.0,301.0,50.0,QUA,07:00 Ã s 09:45,Reynaldo Josue de Paula
+,20000.0,384.0,3.0,TER,07:00 Ã s 09:45,Reynaldo Josue de Paula
+,,301.0,47.0,,,Reynaldo Josue de Paula
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ADMC99 - INFORMÃTICA I,10100.0,387.0,2.0,QUA,10:40 Ã s 12:30,Docente nÃ£o informado pelo Departamento
+,,327.0,2.0,,,Docente nÃ£o informado pelo Departamento
+,,314.0,30.0,,,Docente nÃ£o informado pelo Departamento
+,,226.0,1.0,,,Docente nÃ£o informado pelo Departamento
+,,190.0,3.0,,,Docente nÃ£o informado pelo Departamento
+,,189.0,3.0,,,Docente nÃ£o informado pelo Departamento
+,,387.0,2.0,SEX,10:40 Ã s 12:30,Docente nÃ£o informado pelo Departamento
+,,327.0,2.0,,,Docente nÃ£o informado pelo Departamento
+,,314.0,30.0,,,Docente nÃ£o informado pelo Departamento
+,,226.0,1.0,,,Docente nÃ£o informado pelo Departamento
+,,190.0,3.0,,,Docente nÃ£o informado pelo Departamento
+,,189.0,3.0,,,Docente nÃ£o informado pelo Departamento
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ADMD01 - GESTÃO ECONÃMICA,10000.0,314.0,15.0,SEG,08:50 Ã s 11:35,Dilson Cerqueira da Silva
+,,286.0,2.0,,,Dilson Cerqueira da Silva
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ADMD02 - PLANEJAMENTO EMPRESARIAL,10000.0,314.0,30.0,SEX,07:00 Ã s 09:45,Docente nÃ£o informado pelo Departamento
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ADMD03 - INFORMÃTICA II,10100.0,314.0,30.0,TER,10:40 Ã s 12:30,Docente nÃ£o informado pelo Departamento
+,,,,QUI,10:40 Ã s 12:30,Docente nÃ£o informado pelo Departamento
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ADMD04 - METODOLOGIA DA PESQUISA,10100.0,314.0,20.0,SEG,07:00 Ã s 08:50,Ivone Freire Costa
+,,,,QUA,07:00 Ã s 08:50,Ivone Freire Costa
+,,,,SEX,07:00 Ã s 08:50,Ivone Freire Costa
+,20200.0,314.0,20.0,SEG,08:50 Ã s 10:40,Claudiani Waiandt
+,,,,QUA,08:50 Ã s 10:40,Claudiani Waiandt
+,,,,SEX,08:50 Ã s 10:40,Claudiani Waiandt
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ADMD05 - INFORMÃTICA III - AUTOMAÃÃO DE ESCRITÃRIOS,10000.0,314.0,30.0,SEX,10:40 Ã s 12:30,Jair Sampaio Soares Junior
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ADMD06 - TRABALHO DE CONCLUSÃO DE CURSO,10000.0,314.0,30.0,CMB,00:00 Ã s 23:00,Denise Ribeiro de Almeida
+,20000.0,314.0,5.0,CMB,00:00 Ã s 23:00,Claudiani Waiandt
+,30000.0,314.0,5.0,CMB,00:00 Ã s 23:00,Docente nÃ£o informado pelo Departamento
+,40000.0,314.0,5.0,CMB,00:00 Ã s 23:00,Docente nÃ£o informado pelo Departamento
+,50000.0,314.0,5.0,CMB,00:00 Ã s 23:00,Docente nÃ£o informado pelo Departamento
+,60000.0,314.0,5.0,CMB,00:00 Ã s 23:00,Docente nÃ£o informado pelo Departamento
+,70000.0,314.0,5.0,CMB,00:00 Ã s 23:00,Docente nÃ£o informado pelo Departamento
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ADMD07 - EMPREENDEDORISMO,10000.0,314.0,20.0,QUA,08:50 Ã s 10:40,Docente nÃ£o informado pelo Departamento
+,,301.0,30.0,,,Docente nÃ£o informado pelo Departamento
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ADMD08 - SISTEMAS DE INFORMAÃÃES GERENCIAIS I,10100.0,314.0,30.0,TER,08:50 Ã s 10:40,Ernani Marques dos Santos
+,,,,QUI,08:50 Ã s 10:40,Ernani Marques dos Santos
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ADMD09 - ESTÃGIO CURRICULAR SUPERVISIONADO,100.0,314.0,30.0,QUI,08:50 Ã s 10:40,Ana Cristina Muniz Decia
+,,,,CMB,00:00 Ã s 00:00,Ana Cristina Muniz Decia
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+"ADME72 - CIÃNCIA,TECNOLOGIA E SOCIEDADE",10000.0,387.0,3.0,QUA,18:30 Ã s 22:10,Docente nÃ£o informado pelo Departamento
+,,384.0,35.0,,,Docente nÃ£o informado pelo Departamento
+,,327.0,2.0,,,Docente nÃ£o informado pelo Departamento
+,,301.0,10.0,,,Docente nÃ£o informado pelo Departamento
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+"ADME73 - INSTITUIÃÃES,INTERORGANIZAÃÃES E GESTÃO",10000.0,387.0,7.0,SEX,18:30 Ã s 22:10,Guilherme Marback Neto
+,,384.0,35.0,,,Guilherme Marback Neto
+,,327.0,6.0,,,Guilherme Marback Neto
+,,286.0,2.0,,,Guilherme Marback Neto
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ADME74 - GOVERNO LOCAL,10000.0,384.0,35.0,SEG,18:30 Ã s 22:10,Maria Elisabete Pereira dos Santos
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ADME75 - POLITICAS PÃBLICAS E POLITICAS SOCIAIS,10000.0,384.0,35.0,QUI,18:30 Ã s 22:10,Rosana de Freitas Boullosa
+,,313.0,5.0,,,Rosana de Freitas Boullosa
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ADME99 - ECONOMIA DA INOVAÃÃO,10000.0,195.0,50.0,SEG,18:30 Ã s 22:10,Isabel Sartori
+,,190.0,5.0,,,Isabel Sartori
+,,189.0,3.0,,,Isabel Sartori
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ADMF01 - SISTEMAS DE APOIO Ã DECISÃO,10000.0,195.0,45.0,SEG,18:30 Ã s 22:10,Jair Sampaio Soares Junior
+,,,,CMB,00:00 Ã s 00:00,Jair Sampaio Soares Junior
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+"ADMF11 - CONTEXTUALIZAÃÃO POLÃTICA,SOCIAL E ECONÃMICA DO BRASIL",10000.0,384.0,35.0,TER,18:30 Ã s 22:10,Tania Moura Benevides
+,,301.0,10.0,,,Tania Moura Benevides
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ADMF12 - TRABALHO DE CONCLUSÃO DE CURSO I,10000.0,384.0,25.0,QUA,18:30 Ã s 19:25,Denise Ribeiro de Almeida
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ADMF18 - DESENVOLVIMENTO SUSTENTÃVEL,10000.0,384.0,25.0,TER,18:30 Ã s 21:15,Jose Celio Silveira Andrade
+,,301.0,10.0,,,Jose Celio Silveira Andrade
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ADMF19 - ESTRATÃGIAS DE DESENVOLVIMENTO SOCIAL E TERRITÃRIOS,10000.0,384.0,25.0,SEX,18:30 Ã s 22:10,Claudiani Waiandt
+,,301.0,10.0,,,Claudiani Waiandt
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ADMF20 - ELABORAÃÃO E AVALIAÃÃO DE PROJETOS,10000.0,384.0,25.0,SEG,18:30 Ã s 22:10,Elizabeth Matos Ribeiro
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ADMF21 - RESIDÃNCIA SOCIAL,10000.0,384.0,25.0,QUA,19:25 Ã s 22:10,Denise Ribeiro de Almeida
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ADMF23 - TOPICOS ESPECIAIS EM GESTÃO SOCIAL,10000.0,384.0,10.0,SAB,08:50 Ã s 12:30,Eduardo Paes Barreto Davel
+,,314.0,10.0,,,Eduardo Paes Barreto Davel
+,,301.0,30.0,,,Eduardo Paes Barreto Davel
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ADMF50 - POLÃTICAS PÃBLICAS E GESTÃO GOVERNAMENTAL,10000.0,301.0,100.0,TER,08:50 Ã s 10:40,Vera Lucia Peixoto Santos Mendes
+,,,,QUI,08:50 Ã s 10:40,Reginaldo Souza Santos
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ADMF52 - HABILIDADES E COMPETÃNCIAS DO ADMINISTRADOR,10000.0,301.0,55.0,SEX,08:50 Ã s 10:40,Ivone Freire Costa
+,20000.0,301.0,55.0,SEX,10:40 Ã s 12:30,Ivone Freire Costa
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ADMF53 - SEMINÃRIOS DE PRÃTICAS DE GESTÃO I,100.0,301.0,60.0,SEX,07:00 Ã s 08:50,Eduardo Fausto Barreto
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ADMF54 - ESTUDOS ORGANIZACIONAIS I,10000.0,301.0,40.0,SEG,07:00 Ã s 08:50,Carlos Cesar de Almeida Federico
+,,,,QUA,07:00 Ã s 08:50,Carlos Cesar de Almeida Federico
+,20000.0,301.0,35.0,SEG,08:50 Ã s 10:40,Carlos Cesar de Almeida Federico
+,,,,QUA,08:50 Ã s 10:40,Carlos Cesar de Almeida Federico
+,30000.0,387.0,4.0,SEG,07:00 Ã s 08:50,Ricardo Coutinho Mello
+,,327.0,5.0,,,Ricardo Coutinho Mello
+,,301.0,41.0,,,Ricardo Coutinho Mello
+,,387.0,4.0,QUA,07:00 Ã s 08:50,Ricardo Coutinho Mello
+,,327.0,5.0,,,Ricardo Coutinho Mello
+,,301.0,41.0,,,Ricardo Coutinho Mello
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ADMF55 - ESTUDOS ORGANIZACIONAIS II,10000.0,301.0,50.0,TER,07:00 Ã s 08:50,Raimundo Santos Leal
+,,,,QUI,07:00 Ã s 08:50,Raimundo Santos Leal
+,20000.0,301.0,50.0,TER,08:50 Ã s 10:40,Raimundo Santos Leal
+,,,,QUI,08:50 Ã s 10:40,Raimundo Santos Leal
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ADMF56 - INICIAÃÃO CIENTÃFICA,10000.0,301.0,50.0,TER,10:40 Ã s 12:30,Docente nÃ£o informado pelo Departamento
+,20000.0,301.0,51.0,TER,10:40 Ã s 12:30,Monica de Aguiar Mac Allister da Silva
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ADMF58 - PLANEJAMENTO E CONTROLE DE OPERAÃÃES,10000.0,301.0,45.0,SEG,07:00 Ã s 08:50,Isabel Sartori
+,,,,QUA,07:00 Ã s 08:50,Isabel Sartori
+,20000.0,301.0,45.0,SEG,08:50 Ã s 10:40,Isabel Sartori
+,,,,QUA,08:50 Ã s 10:40,Isabel Sartori
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ADMF59 - SISTEMAS DE INFORMAÃÃES GERENCIAIS PARA TOMADA DE DECISÃES,10100.0,301.0,45.0,SEG,10:40 Ã s 12:30,Leobino Nascimento Sampaio
+,,,,TER,08:50 Ã s 10:40,Leobino Nascimento Sampaio
+,,,,CMB,00:00 Ã s 00:00,Leobino Nascimento Sampaio
+,20200.0,301.0,45.0,TER,10:40 Ã s 12:30,Ernani Marques dos Santos
+,,,,QUI,10:40 Ã s 12:30,Ernani Marques dos Santos
+,,,,CMB,00:00 Ã s 00:00,Ernani Marques dos Santos
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ADMF60 - GESTÃO DE PESSOAS II,10000.0,301.0,50.0,SEG,08:50 Ã s 10:40,Tania Moura Benevides
+,,,,QUA,08:50 Ã s 10:40,Tania Moura Benevides
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ADMF64 - TRABALHO DE CONCLUSÃO DE CURSO II,100.0,384.0,20.0,SAB,07:55 Ã s 09:45,Denise Ribeiro de Almeida
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ADMF65 - INDUSTRIAS CRIATIVAS,10100.0,384.0,25.0,QUI,18:30 Ã s 19:25,Fabio Almeida Ferreira
+,,301.0,10.0,,,Fabio Almeida Ferreira
+,,384.0,25.0,,19:25 Ã s 21:15,Fabio Almeida Ferreira
+,,301.0,10.0,,,Fabio Almeida Ferreira
+,20200.0,301.0,35.0,TER,10:40 Ã s 12:30,Fabio Almeida Ferreira
+,,,,CMB,00:00 Ã s 00:00,Fabio Almeida Ferreira
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ADMF72 - SEMINÃRIOS DE PRÃTICAS DE GESTÃO II,100.0,301.0,50.0,TER,10:40 Ã s 12:30,Genauto Carvalho de Franca Filho
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ADMF73 - SEMINÃRIOS DE PRÃTICAS DE GESTÃO III,100.0,301.0,50.0,TER,07:00 Ã s 08:50,Leobino Nascimento Sampaio

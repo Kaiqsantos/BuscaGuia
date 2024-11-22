@@ -1,0 +1,870 @@
+Disciplina,Turma,Coleg.,Vagas Ofe,Dia,Horário,Docente
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+MAT045 - PROCESSAMENTO DE DADOS,10100.0,119.0,2.0,SEG,08:50 às 10:40,Gustavo Bittencourt Figueiredo
+,,102.0,22.0,,,Gustavo Bittencourt Figueiredo
+,,190.0,5.0,,,Gustavo Bittencourt Figueiredo
+,,104.0,12.0,,,Gustavo Bittencourt Figueiredo
+,,118.0,8.0,,,Gustavo Bittencourt Figueiredo
+,,116.0,1.0,,,Gustavo Bittencourt Figueiredo
+,,102.0,22.0,QUA,08:50 às 10:40,Gustavo Bittencourt Figueiredo
+,,116.0,1.0,,,Gustavo Bittencourt Figueiredo
+,,190.0,5.0,,,Gustavo Bittencourt Figueiredo
+,,119.0,2.0,,,Gustavo Bittencourt Figueiredo
+,,104.0,12.0,,,Gustavo Bittencourt Figueiredo
+,,118.0,8.0,,,Gustavo Bittencourt Figueiredo
+,20200.0,107.0,10.0,SEG,13:00 às 14:50,Cassio Vinicius Serafim Prazeres
+,,190.0,2.0,,,Cassio Vinicius Serafim Prazeres
+,,104.0,30.0,,,Cassio Vinicius Serafim Prazeres
+,,881.0,5.0,,,Cassio Vinicius Serafim Prazeres
+,,118.0,3.0,,,Cassio Vinicius Serafim Prazeres
+,,,,QUA,13:00 às 14:50,Cassio Vinicius Serafim Prazeres
+,,881.0,5.0,,,Cassio Vinicius Serafim Prazeres
+,,190.0,2.0,,,Cassio Vinicius Serafim Prazeres
+,,107.0,10.0,,,Cassio Vinicius Serafim Prazeres
+,,104.0,30.0,,,Cassio Vinicius Serafim Prazeres
+,30300.0,111.0,8.0,TER,14:50 às 16:40,Bruno Pereira dos Santos
+,,190.0,12.0,,,Bruno Pereira dos Santos
+,,105.0,15.0,,,Bruno Pereira dos Santos
+,,103.0,15.0,,,Bruno Pereira dos Santos
+,,190.0,12.0,QUI,14:50 às 16:40,Bruno Pereira dos Santos
+,,103.0,15.0,,,Bruno Pereira dos Santos
+,,105.0,15.0,,,Bruno Pereira dos Santos
+,,111.0,8.0,,,Bruno Pereira dos Santos
+,40400.0,105.0,15.0,TER,16:40 às 18:30,Rafael Augusto de Melo
+,,102.0,25.0,,,Rafael Augusto de Melo
+,,183.0,10.0,,,Rafael Augusto de Melo
+,,,,QUI,16:40 às 18:30,Rafael Augusto de Melo
+,,105.0,15.0,,,Rafael Augusto de Melo
+,,102.0,25.0,,,Rafael Augusto de Melo
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+MAT115 - INTRODUCAO AO PROCESSAMENTO DE DADOS,10100.0,304.0,20.0,TER,18:30 às 20:20,Margarete Oliveira dos Santos de Sa
+,,380.0,20.0,,,Margarete Oliveira dos Santos de Sa
+,,209.0,10.0,,,Margarete Oliveira dos Santos de Sa
+,,190.0,10.0,,,Margarete Oliveira dos Santos de Sa
+,,380.0,20.0,QUI,18:30 às 20:20,Margarete Oliveira dos Santos de Sa
+,,304.0,20.0,,,Margarete Oliveira dos Santos de Sa
+,,190.0,10.0,,,Margarete Oliveira dos Santos de Sa
+,,209.0,10.0,,,Margarete Oliveira dos Santos de Sa
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+MAT174 - CÁLCULO NUMÉRICO I,10100.0,186.0,20.0,SEG,14:50 às 16:40,Paul Denis Etienne Regnier
+,,102.0,30.0,,,Paul Denis Etienne Regnier
+,,112.0,5.0,,,Paul Denis Etienne Regnier
+,,108.0,5.0,,,Paul Denis Etienne Regnier
+,,186.0,20.0,QUA,14:50 às 16:40,Paul Denis Etienne Regnier
+,,108.0,5.0,,,Paul Denis Etienne Regnier
+,,112.0,5.0,,,Paul Denis Etienne Regnier
+,,102.0,30.0,,,Paul Denis Etienne Regnier
+,20200.0,103.0,20.0,TER,07:00 às 08:50,Margarete Oliveira dos Santos de Sa
+,,104.0,45.0,,,Margarete Oliveira dos Santos de Sa
+,,103.0,20.0,QUI,07:00 às 08:50,Margarete Oliveira dos Santos de Sa
+,,104.0,45.0,,,Margarete Oliveira dos Santos de Sa
+,30300.0,116.0,8.0,TER,10:40 às 12:30,Margarete Oliveira dos Santos de Sa
+,,102.0,30.0,,,Margarete Oliveira dos Santos de Sa
+,,111.0,8.0,,,Margarete Oliveira dos Santos de Sa
+,,116.0,8.0,QUI,10:40 às 12:30,Margarete Oliveira dos Santos de Sa
+,,102.0,30.0,,,Margarete Oliveira dos Santos de Sa
+,,111.0,8.0,,,Margarete Oliveira dos Santos de Sa
+,40400.0,104.0,5.0,TER,13:00 às 14:50,Margarete Oliveira dos Santos de Sa
+,,105.0,30.0,,,Margarete Oliveira dos Santos de Sa
+,,194.0,5.0,,,Margarete Oliveira dos Santos de Sa
+,,108.0,10.0,,,Margarete Oliveira dos Santos de Sa
+,,107.0,10.0,,,Margarete Oliveira dos Santos de Sa
+,,183.0,5.0,,,Margarete Oliveira dos Santos de Sa
+,,194.0,5.0,QUI,13:00 às 14:50,Margarete Oliveira dos Santos de Sa
+,,183.0,5.0,,,Margarete Oliveira dos Santos de Sa
+,,107.0,10.0,,,Margarete Oliveira dos Santos de Sa
+,,108.0,10.0,,,Margarete Oliveira dos Santos de Sa
+,,104.0,5.0,,,Margarete Oliveira dos Santos de Sa
+,,105.0,30.0,,,Margarete Oliveira dos Santos de Sa
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+MAT220 - EMPREENDEDORES EM INFORMATICA,10100.0,195.0,40.0,TER,18:30 às 20:20,Eduardo Santana de Almeida
+,,196.0,5.0,,,Eduardo Santana de Almeida
+,,190.0,5.0,,,Eduardo Santana de Almeida
+,,196.0,5.0,QUI,18:30 às 20:20,Eduardo Santana de Almeida
+,,195.0,40.0,,,Eduardo Santana de Almeida
+,,190.0,5.0,,,Eduardo Santana de Almeida
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+MATA37 - INTRODUÇÃO À LÓGICA DE PROGRAMAÇÃO,10100.0,112.0,50.0,TER,16:40 às 18:30,Eduardo Santana de Almeida
+,,,,QUI,16:40 às 18:30,Eduardo Santana de Almeida
+,20200.0,112.0,50.0,TER,16:40 às 18:30,Rubisley de Paula Lemes
+,,,,QUI,16:40 às 18:30,Rubisley de Paula Lemes
+,30300.0,196.0,10.0,QUA,20:20 às 22:10,Karl Philips Apaza Aguero
+,,190.0,5.0,,,Karl Philips Apaza Aguero
+,,186.0,30.0,,,Karl Philips Apaza Aguero
+,,181.0,5.0,,,Karl Philips Apaza Aguero
+,,196.0,10.0,SEX,18:30 às 20:20,Karl Philips Apaza Aguero
+,,190.0,5.0,,,Karl Philips Apaza Aguero
+,,186.0,30.0,,,Karl Philips Apaza Aguero
+,,181.0,5.0,,,Karl Philips Apaza Aguero
+,40400.0,195.0,5.0,TER,20:20 às 22:10,Karl Philips Apaza Aguero
+,,196.0,9.0,,,Karl Philips Apaza Aguero
+,,190.0,5.0,,,Karl Philips Apaza Aguero
+,,183.0,1.0,,,Karl Philips Apaza Aguero
+,,194.0,8.0,,,Karl Philips Apaza Aguero
+,,116.0,1.0,,,Karl Philips Apaza Aguero
+,,108.0,16.0,,,Karl Philips Apaza Aguero
+,,189.0,5.0,,,Karl Philips Apaza Aguero
+,,194.0,8.0,QUI,20:20 às 22:10,Karl Philips Apaza Aguero
+,,195.0,5.0,,,Karl Philips Apaza Aguero
+,,190.0,5.0,,,Karl Philips Apaza Aguero
+,,196.0,9.0,,,Karl Philips Apaza Aguero
+,,116.0,1.0,,,Karl Philips Apaza Aguero
+,,108.0,16.0,,,Karl Philips Apaza Aguero
+,,189.0,5.0,,,Karl Philips Apaza Aguero
+,,183.0,1.0,,,Karl Philips Apaza Aguero
+,50500.0,111.0,2.0,TER,18:30 às 20:20,George Marconi de Araujo Lima
+,,194.0,2.0,,,George Marconi de Araujo Lima
+,,195.0,8.0,,,George Marconi de Araujo Lima
+,,183.0,2.0,,,George Marconi de Araujo Lima
+,,188.0,25.0,,,George Marconi de Araujo Lima
+,,190.0,5.0,,,George Marconi de Araujo Lima
+,,108.0,6.0,,,George Marconi de Araujo Lima
+,,190.0,5.0,QUI,18:30 às 20:20,George Marconi de Araujo Lima
+,,194.0,2.0,,,George Marconi de Araujo Lima
+,,195.0,8.0,,,George Marconi de Araujo Lima
+,,183.0,2.0,,,George Marconi de Araujo Lima
+,,108.0,6.0,,,George Marconi de Araujo Lima
+,,188.0,25.0,,,George Marconi de Araujo Lima
+,,111.0,2.0,,,George Marconi de Araujo Lima
+,60600.0,196.0,40.0,SEG,18:30 às 20:20,Paul Denis Etienne Regnier
+,,190.0,5.0,,,Paul Denis Etienne Regnier
+,,189.0,5.0,,,Paul Denis Etienne Regnier
+,,190.0,5.0,SEX,18:30 às 20:20,Paul Denis Etienne Regnier
+,,189.0,5.0,,,Paul Denis Etienne Regnier
+,,196.0,40.0,,,Paul Denis Etienne Regnier
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+MATA38 - PROJETO DE CIRCUITOS LÓGICOS,10100.0,112.0,50.0,TER,13:00 às 14:50,Bruno Pereira dos Santos
+,,,,QUI,13:00 às 14:50,Bruno Pereira dos Santos
+,20200.0,112.0,10.0,TER,20:20 às 22:10,Luciano Reboucas de Oliveira
+,,188.0,35.0,,,Luciano Reboucas de Oliveira
+,,189.0,5.0,,,Luciano Reboucas de Oliveira
+,,188.0,35.0,QUI,20:20 às 22:10,Luciano Reboucas de Oliveira
+,,189.0,5.0,,,Luciano Reboucas de Oliveira
+,,112.0,10.0,,,Luciano Reboucas de Oliveira
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+MATA39 - SEMINÁRIOS DE INTRODUÇÃO AO CURSO,10000.0,112.0,70.0,SEG,16:40 às 18:30,Roberto Freitas Parente
+,,190.0,15.0,,,Roberto Freitas Parente
+,,112.0,70.0,CMB,00:00 às 00:00,Roberto Freitas Parente
+,,190.0,15.0,,,Roberto Freitas Parente
+,20000.0,196.0,25.0,SEG,20:20 às 21:15,Roberto Freitas Parente
+,,190.0,20.0,,,Roberto Freitas Parente
+,,189.0,10.0,,,Roberto Freitas Parente
+,,196.0,25.0,,21:15 às 22:10,Marlo Vieira dos Santos e Souza
+,,190.0,20.0,,,Marlo Vieira dos Santos e Souza
+,,189.0,10.0,,,Marlo Vieira dos Santos e Souza
+,,196.0,25.0,CMB,00:00 às 00:00,Docente não informado pelo Departamento
+,,190.0,20.0,,,Docente não informado pelo Departamento
+,,189.0,10.0,,,Docente não informado pelo Departamento
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+MATA40 - ESTRUTURAS DE DADOS E ALGORITMOS I,10100.0,190.0,4.0,TER,16:40 às 18:30,Ricardo Araujo Rios
+,,112.0,45.0,,,Ricardo Araujo Rios
+,,108.0,1.0,,,Ricardo Araujo Rios
+,,190.0,4.0,QUI,16:40 às 18:30,Ricardo Araujo Rios
+,,112.0,45.0,,,Ricardo Araujo Rios
+,,108.0,1.0,,,Ricardo Araujo Rios
+,20200.0,190.0,10.0,TER,18:30 às 20:20,Sergio Gorender
+,,189.0,5.0,,,Sergio Gorender
+,,186.0,35.0,,,Sergio Gorender
+,,190.0,10.0,QUI,18:30 às 20:20,Sergio Gorender
+,,189.0,5.0,,,Sergio Gorender
+,,186.0,35.0,,,Sergio Gorender
+,30300.0,190.0,5.0,SEG,18:30 às 20:20,Ricardo Araujo Rios
+,,188.0,45.0,,,Ricardo Araujo Rios
+,,190.0,5.0,QUA,18:30 às 20:20,Ricardo Araujo Rios
+,,188.0,45.0,,,Ricardo Araujo Rios
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+MATA41 - INFORMÁTICA NA EDUCAÇÃO,10100.0,196.0,25.0,QUA,18:30 às 20:20,Lais do Nascimento Salvador
+,,195.0,8.0,,,Lais do Nascimento Salvador
+,,190.0,15.0,,,Lais do Nascimento Salvador
+,,189.0,10.0,,,Lais do Nascimento Salvador
+,,196.0,25.0,CMB,00:00 às 00:00,Lais do Nascimento Salvador
+,,195.0,8.0,,,Lais do Nascimento Salvador
+,,190.0,15.0,,,Lais do Nascimento Salvador
+,,189.0,10.0,,,Lais do Nascimento Salvador
+,20200.0,196.0,1.0,CMB,00:00 às 23:00,Lais do Nascimento Salvador
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+MATA47 - LÓGICA PARA COMPUTAÇÃO,10000.0,189.0,5.0,TER,18:30 às 20:20,Steffen Lewitzka
+,,186.0,10.0,,,Steffen Lewitzka
+,,112.0,40.0,,,Steffen Lewitzka
+,,189.0,5.0,QUI,18:30 às 20:20,Steffen Lewitzka
+,,186.0,10.0,,,Steffen Lewitzka
+,,112.0,40.0,,,Steffen Lewitzka
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+MATA48 - ARQUITETURA DE COMPUTADORES,10100.0,190.0,5.0,TER,14:50 às 16:40,Robespierre Dantas da Rocha Pita
+,,112.0,45.0,,,Robespierre Dantas da Rocha Pita
+,,190.0,5.0,QUI,14:50 às 16:40,Robespierre Dantas da Rocha Pita
+,,112.0,45.0,,,Robespierre Dantas da Rocha Pita
+,20200.0,189.0,10.0,TER,20:20 às 22:10,Mirlei Moura da Silva
+,,188.0,30.0,,,Mirlei Moura da Silva
+,,186.0,5.0,,,Mirlei Moura da Silva
+,,189.0,10.0,QUI,20:20 às 22:10,Mirlei Moura da Silva
+,,188.0,30.0,,,Mirlei Moura da Silva
+,,186.0,5.0,,,Mirlei Moura da Silva
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+MATA49 - PROGRAMAÇÃO DE SOFTWARE BÁSICO,10100.0,195.0,5.0,SEG,13:00 às 14:50,Mirlei Moura da Silva
+,,189.0,5.0,,,Mirlei Moura da Silva
+,,186.0,5.0,,,Mirlei Moura da Silva
+,,112.0,40.0,,,Mirlei Moura da Silva
+,,195.0,5.0,QUA,13:00 às 14:50,Mirlei Moura da Silva
+,,189.0,5.0,,,Mirlei Moura da Silva
+,,186.0,5.0,,,Mirlei Moura da Silva
+,,112.0,40.0,,,Mirlei Moura da Silva
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+MATA50 - LINGUAGENS FORMAIS E AUTÔMATOS,10100.0,190.0,5.0,TER,16:40 às 18:30,Islame Felipe da Costa Fernandes
+,,186.0,5.0,,,Islame Felipe da Costa Fernandes
+,,112.0,40.0,,,Islame Felipe da Costa Fernandes
+,,190.0,5.0,QUI,16:40 às 18:30,Islame Felipe da Costa Fernandes
+,,186.0,5.0,,,Islame Felipe da Costa Fernandes
+,,112.0,40.0,,,Islame Felipe da Costa Fernandes
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+MATA51 - TEORIA DA COMPUTAÇÃO,10100.0,190.0,5.0,TER,13:00 às 14:50,Marlo Vieira dos Santos e Souza
+,,112.0,45.0,,,Marlo Vieira dos Santos e Souza
+,,190.0,5.0,QUI,13:00 às 14:50,Marlo Vieira dos Santos e Souza
+,,112.0,45.0,,,Marlo Vieira dos Santos e Souza
+,20200.0,190.0,10.0,TER,18:30 às 20:20,Islame Felipe da Costa Fernandes
+,,189.0,5.0,,,Islame Felipe da Costa Fernandes
+,,186.0,25.0,,,Islame Felipe da Costa Fernandes
+,,183.0,5.0,,,Islame Felipe da Costa Fernandes
+,,111.0,5.0,,,Islame Felipe da Costa Fernandes
+,,186.0,25.0,QUI,18:30 às 20:20,Islame Felipe da Costa Fernandes
+,,183.0,5.0,,,Islame Felipe da Costa Fernandes
+,,111.0,5.0,,,Islame Felipe da Costa Fernandes
+,,190.0,10.0,,,Islame Felipe da Costa Fernandes
+,,189.0,5.0,,,Islame Felipe da Costa Fernandes
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+MATA52 - ANÁLISE E PROJETO DE ALGORITMOS,10100.0,186.0,5.0,TER,14:50 às 16:40,Rafael Augusto de Melo
+,,112.0,40.0,,,Rafael Augusto de Melo
+,,186.0,5.0,QUI,14:50 às 16:40,Rafael Augusto de Melo
+,,112.0,40.0,,,Rafael Augusto de Melo
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+MATA53 - TEORIA DOS GRAFOS,10100.0,183.0,1.0,TER,16:40 às 18:30,Roberto Freitas Parente
+,,112.0,40.0,,,Roberto Freitas Parente
+,,111.0,2.0,,,Roberto Freitas Parente
+,,186.0,2.0,,,Roberto Freitas Parente
+,,195.0,5.0,,,Roberto Freitas Parente
+,,,,QUI,16:40 às 18:30,Roberto Freitas Parente
+,,186.0,2.0,,,Roberto Freitas Parente
+,,183.0,1.0,,,Roberto Freitas Parente
+,,112.0,40.0,,,Roberto Freitas Parente
+,,111.0,2.0,,,Roberto Freitas Parente
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+MATA54 - ESTRUTURAS DE DADOS E ALGORITMOS II,10100.0,190.0,5.0,SEG,16:40 às 18:30,George Marconi de Araujo Lima
+,,189.0,5.0,,,George Marconi de Araujo Lima
+,,186.0,5.0,,,George Marconi de Araujo Lima
+,,112.0,40.0,,,George Marconi de Araujo Lima
+,,190.0,5.0,QUA,16:40 às 18:30,George Marconi de Araujo Lima
+,,189.0,5.0,,,George Marconi de Araujo Lima
+,,186.0,5.0,,,George Marconi de Araujo Lima
+,,112.0,40.0,,,George Marconi de Araujo Lima
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+MATA55 - PROGRAMAÇÃO ORIENTADA A OBJETOS,10100.0,196.0,5.0,SEG,16:40 às 18:30,Rodrigo Rocha Gomes e Souza
+,,195.0,5.0,,,Rodrigo Rocha Gomes e Souza
+,,112.0,40.0,,,Rodrigo Rocha Gomes e Souza
+,,196.0,5.0,QUA,16:40 às 18:30,Rodrigo Rocha Gomes e Souza
+,,195.0,5.0,,,Rodrigo Rocha Gomes e Souza
+,,112.0,40.0,,,Rodrigo Rocha Gomes e Souza
+,20200.0,196.0,10.0,SEG,18:30 às 20:20,Rita Suzana Pitangueira Maciel
+,,195.0,10.0,,,Rita Suzana Pitangueira Maciel
+,,186.0,30.0,,,Rita Suzana Pitangueira Maciel
+,,196.0,10.0,QUA,18:30 às 20:20,Rita Suzana Pitangueira Maciel
+,,195.0,10.0,,,Rita Suzana Pitangueira Maciel
+,,186.0,30.0,,,Rita Suzana Pitangueira Maciel
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+MATA56 - PARADIGMAS DE LINGUAGENS DE PROGRAMAÇÃO,10100.0,189.0,5.0,SEG,14:50 às 16:40,Manoel Gomes de Mendonca Neto
+,,186.0,3.0,,,Manoel Gomes de Mendonca Neto
+,,112.0,35.0,,,Manoel Gomes de Mendonca Neto
+,,196.0,2.0,,,Manoel Gomes de Mendonca Neto
+,,195.0,10.0,,,Manoel Gomes de Mendonca Neto
+,,196.0,2.0,QUA,14:50 às 16:40,Manoel Gomes de Mendonca Neto
+,,195.0,10.0,,,Manoel Gomes de Mendonca Neto
+,,189.0,5.0,,,Manoel Gomes de Mendonca Neto
+,,186.0,3.0,,,Manoel Gomes de Mendonca Neto
+,,112.0,35.0,,,Manoel Gomes de Mendonca Neto
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+MATA57 - LABORATÓRIO DE PROGRAMAÇÃO I,100.0,195.0,5.0,SEX,15:45 às 17:35,Claudio Junior Nascimento da Silva
+,,190.0,5.0,,,Claudio Junior Nascimento da Silva
+,,112.0,40.0,,,Claudio Junior Nascimento da Silva
+,,195.0,5.0,,17:35 às 18:30,Mirlei Moura da Silva
+,,190.0,5.0,,,Mirlei Moura da Silva
+,,112.0,40.0,,,Mirlei Moura da Silva
+,200.0,195.0,5.0,SEG,18:30 às 21:15,Claudio Junior Nascimento da Silva
+,,189.0,5.0,,,Claudio Junior Nascimento da Silva
+,,112.0,40.0,,,Claudio Junior Nascimento da Silva
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+MATA58 - SISTEMAS OPERACIONAIS,10100.0,881.0,5.0,TER,16:40 às 18:30,Maycon Leone Maciel Peixoto
+,,112.0,40.0,,,Maycon Leone Maciel Peixoto
+,,881.0,5.0,QUI,16:40 às 18:30,Maycon Leone Maciel Peixoto
+,,112.0,40.0,,,Maycon Leone Maciel Peixoto
+,20200.0,195.0,25.0,TER,18:30 às 20:20,Maycon Leone Maciel Peixoto
+,,186.0,20.0,,,Maycon Leone Maciel Peixoto
+,,195.0,25.0,QUI,18:30 às 20:20,Maycon Leone Maciel Peixoto
+,,186.0,20.0,,,Maycon Leone Maciel Peixoto
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+MATA59 - REDES DE COMPUTADORES I,10100.0,196.0,5.0,SEG,13:00 às 14:50,Gustavo Bittencourt Figueiredo
+,,195.0,10.0,,,Gustavo Bittencourt Figueiredo
+,,112.0,35.0,,,Gustavo Bittencourt Figueiredo
+,,196.0,5.0,QUA,13:00 às 14:50,Gustavo Bittencourt Figueiredo
+,,195.0,10.0,,,Gustavo Bittencourt Figueiredo
+,,112.0,35.0,,,Gustavo Bittencourt Figueiredo
+,20200.0,196.0,10.0,TER,20:20 às 22:10,Leobino Nascimento Sampaio
+,,195.0,25.0,,,Leobino Nascimento Sampaio
+,,186.0,15.0,,,Leobino Nascimento Sampaio
+,,196.0,10.0,QUI,20:20 às 22:10,Leobino Nascimento Sampaio
+,,195.0,25.0,,,Leobino Nascimento Sampaio
+,,186.0,15.0,,,Leobino Nascimento Sampaio
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+MATA60 - BANCO DE DADOS,10100.0,196.0,5.0,TER,16:40 às 18:30,Daniela Barreiro Claro
+,,195.0,5.0,,,Daniela Barreiro Claro
+,,112.0,40.0,,,Daniela Barreiro Claro
+,,196.0,5.0,QUI,16:40 às 18:30,Daniela Barreiro Claro
+,,195.0,5.0,,,Daniela Barreiro Claro
+,,112.0,40.0,,,Daniela Barreiro Claro
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+MATA61 - COMPILADORES,10100.0,186.0,10.0,SEG,16:40 às 18:30,Christina Von Flach Garcia Chavez
+,,112.0,40.0,,,Christina Von Flach Garcia Chavez
+,,186.0,10.0,QUA,16:40 às 18:30,Christina Von Flach Garcia Chavez
+,,112.0,40.0,,,Christina Von Flach Garcia Chavez
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+MATA62 - ENGENHARIA DE SOFTWARE I,10100.0,196.0,5.0,TER,14:50 às 16:40,Claudio Nogueira Sant Anna
+,,195.0,10.0,,,Claudio Nogueira Sant Anna
+,,112.0,35.0,,,Claudio Nogueira Sant Anna
+,,196.0,5.0,QUI,14:50 às 16:40,Claudio Nogueira Sant Anna
+,,195.0,10.0,,,Claudio Nogueira Sant Anna
+,,112.0,35.0,,,Claudio Nogueira Sant Anna
+,20200.0,196.0,15.0,TER,18:30 às 20:20,Claudio Nogueira Sant Anna
+,,195.0,35.0,,,Claudio Nogueira Sant Anna
+,,196.0,15.0,QUI,18:30 às 20:20,Claudio Nogueira Sant Anna
+,,195.0,35.0,,,Claudio Nogueira Sant Anna
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+MATA63 - ENGENHARIA DE SOFTWARE II,10100.0,196.0,5.0,SEG,16:40 às 18:30,Ivan do Carmo Machado
+,,195.0,15.0,,,Ivan do Carmo Machado
+,,189.0,5.0,,,Ivan do Carmo Machado
+,,112.0,30.0,,,Ivan do Carmo Machado
+,,196.0,5.0,QUA,16:40 às 18:30,Ivan do Carmo Machado
+,,195.0,15.0,,,Ivan do Carmo Machado
+,,189.0,5.0,,,Ivan do Carmo Machado
+,,112.0,30.0,,,Ivan do Carmo Machado
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+MATA64 - INTELIGÊNCIA ARTIFICIAL,10100.0,196.0,5.0,SEG,14:50 às 16:40,Tatiane Nogueira Rios
+,,195.0,15.0,,,Tatiane Nogueira Rios
+,,189.0,5.0,,,Tatiane Nogueira Rios
+,,186.0,5.0,,,Tatiane Nogueira Rios
+,,112.0,25.0,,,Tatiane Nogueira Rios
+,,196.0,5.0,QUA,14:50 às 16:40,Tatiane Nogueira Rios
+,,195.0,15.0,,,Tatiane Nogueira Rios
+,,189.0,5.0,,,Tatiane Nogueira Rios
+,,186.0,5.0,,,Tatiane Nogueira Rios
+,,112.0,25.0,,,Tatiane Nogueira Rios
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+MATA65 - COMPUTAÇÃO GRÁFICA,10100.0,195.0,8.0,TER,14:50 às 16:40,Antonio Lopes Apolinario Junior
+,,189.0,5.0,,,Antonio Lopes Apolinario Junior
+,,186.0,5.0,,,Antonio Lopes Apolinario Junior
+,,112.0,37.0,,,Antonio Lopes Apolinario Junior
+,,195.0,8.0,QUI,14:50 às 16:40,Antonio Lopes Apolinario Junior
+,,189.0,5.0,,,Antonio Lopes Apolinario Junior
+,,186.0,5.0,,,Antonio Lopes Apolinario Junior
+,,112.0,37.0,,,Antonio Lopes Apolinario Junior
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+MATA66 - PROJETO FINAL DE CURSO I,10000.0,112.0,5.0,CMB,00:00 às 23:00,Frederico Araujo Durao
+,20000.0,112.0,2.0,CMB,00:00 às 23:00,Ivan do Carmo Machado
+,30000.0,112.0,2.0,CMB,00:00 às 23:00,Sergio Gorender
+,40000.0,112.0,1.0,CMB,00:00 às 23:00,Robespierre Dantas da Rocha Pita
+,50000.0,112.0,2.0,CMB,00:00 às 23:00,Ricardo Araujo Rios
+,60000.0,112.0,2.0,CMB,00:00 às 23:00,Lais do Nascimento Salvador
+,70000.0,112.0,2.0,CMB,00:00 às 23:00,Christina Von Flach Garcia Chavez
+,80000.0,112.0,2.0,CMB,00:00 às 23:00,Roberto Freitas Parente
+,90000.0,112.0,2.0,CMB,00:00 às 23:00,Karl Philips Apaza Aguero
+,100000.0,112.0,1.0,CMB,00:00 às 23:00,Rita Suzana Pitangueira Maciel
+,110000.0,112.0,2.0,CMB,00:00 às 23:00,Marlo Vieira dos Santos e Souza
+,120000.0,112.0,3.0,CMB,00:00 às 23:00,Alirio Santos de Sa
+,130000.0,112.0,3.0,CMB,00:00 às 23:00,Eduardo Santana de Almeida
+,140000.0,112.0,2.0,CMB,00:00 às 23:00,Islame Felipe da Costa Fernandes
+,150000.0,112.0,3.0,CMB,00:00 às 23:00,Maycon Leone Maciel Peixoto
+,160000.0,112.0,5.0,CMB,00:00 às 23:00,Daniela Barreiro Claro
+,170000.0,112.0,1.0,CMB,00:00 às 23:00,Rodrigo Rocha Gomes e Souza
+,180000.0,112.0,3.0,CMB,00:00 às 23:00,Rubisley de Paula Lemes
+,190000.0,112.0,4.0,CMB,00:00 às 23:00,Antonio Lopes Apolinario Junior
+,200000.0,112.0,1.0,CMB,00:00 às 23:00,Steffen Lewitzka
+,210000.0,112.0,2.0,CMB,00:00 às 23:00,Danilo Barbosa Coimbra
+,220000.0,112.0,3.0,CMB,00:00 às 23:00,Luciano Reboucas de Oliveira
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+MATA67 - PROJETO FINAL DE CURSO II,10100.0,112.0,5.0,CMB,00:00 às 23:00,Frederico Araujo Durao
+,20200.0,112.0,1.0,CMB,00:00 às 23:00,Ivan do Carmo Machado
+,30300.0,112.0,1.0,CMB,00:00 às 23:00,Sergio Gorender
+,40400.0,112.0,1.0,CMB,00:00 às 23:00,Lais do Nascimento Salvador
+,50500.0,112.0,2.0,CMB,00:00 às 23:00,Christina Von Flach Garcia Chavez
+,60600.0,112.0,3.0,CMB,00:00 às 23:00,Vaninha Vieira dos Santos
+,70700.0,112.0,2.0,CMB,00:00 às 23:00,Roberto Freitas Parente
+,80800.0,112.0,2.0,CMB,00:00 às 23:00,Karl Philips Apaza Aguero
+,90900.0,112.0,1.0,CMB,00:00 às 23:00,Rita Suzana Pitangueira Maciel
+,101000.0,112.0,1.0,CMB,00:00 às 23:00,Marlo Vieira dos Santos e Souza
+,111100.0,112.0,3.0,CMB,00:00 às 23:00,Eduardo Santana de Almeida
+,121200.0,112.0,3.0,CMB,00:00 às 23:00,Maycon Leone Maciel Peixoto
+,131300.0,112.0,5.0,CMB,00:00 às 23:00,Daniela Barreiro Claro
+,141400.0,112.0,2.0,CMB,00:00 às 23:00,Rodrigo Rocha Gomes e Souza
+,151500.0,112.0,3.0,CMB,00:00 às 23:00,Rubisley de Paula Lemes
+,161600.0,112.0,3.0,CMB,00:00 às 23:00,Antonio Lopes Apolinario Junior
+,171700.0,112.0,2.0,CMB,00:00 às 23:00,Steffen Lewitzka
+,181800.0,112.0,2.0,CMB,00:00 às 23:00,Danilo Barbosa Coimbra
+,191900.0,112.0,2.0,CMB,00:00 às 23:00,Debora Abdalla Santos
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+"MATA68 - COMPUTADOR, ÉTICA E SOCIEDADE",10100.0,196.0,20.0,QUA,18:30 às 20:20,Debora Abdalla Santos
+,,190.0,10.0,,,Debora Abdalla Santos
+,,189.0,27.0,,,Debora Abdalla Santos
+,,196.0,20.0,CMB,00:00 às 00:00,Debora Abdalla Santos
+,,190.0,10.0,,,Debora Abdalla Santos
+,,189.0,27.0,,,Debora Abdalla Santos
+,20200.0,195.0,5.0,QUA,18:30 às 20:20,Anna Friedericka Schwarzelmuller
+,,186.0,10.0,,,Anna Friedericka Schwarzelmuller
+,,112.0,40.0,,,Anna Friedericka Schwarzelmuller
+,,195.0,5.0,CMB,00:00 às 00:00,Anna Friedericka Schwarzelmuller
+,,186.0,10.0,,,Anna Friedericka Schwarzelmuller
+,,112.0,40.0,,,Anna Friedericka Schwarzelmuller
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+MATA76 - LINGUAGENS PARA APLICAÇÃO COMERCIAL,10100.0,196.0,5.0,SEG,21:15 às 22:10,Claudio Junior Nascimento da Silva
+,,195.0,40.0,,,Claudio Junior Nascimento da Silva
+,,112.0,5.0,,,Claudio Junior Nascimento da Silva
+,,196.0,5.0,QUI,20:20 às 22:10,Claudio Junior Nascimento da Silva
+,,195.0,40.0,,,Claudio Junior Nascimento da Silva
+,,112.0,5.0,,,Claudio Junior Nascimento da Silva
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+MATA77 - PROGRAMAÇÃO FUNCIONAL,10100.0,196.0,10.0,SEG,16:40 às 18:30,Manoel Gomes de Mendonca Neto
+,,195.0,15.0,,,Manoel Gomes de Mendonca Neto
+,,112.0,20.0,,,Manoel Gomes de Mendonca Neto
+,,196.0,10.0,QUA,16:40 às 18:30,Manoel Gomes de Mendonca Neto
+,,195.0,15.0,,,Manoel Gomes de Mendonca Neto
+,,112.0,20.0,,,Manoel Gomes de Mendonca Neto
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+MATA88 - FUNDAMENTOS DE SISTEMAS DISTRIBUÍDOS,10100.0,112.0,35.0,QUA,18:30 às 20:20,Raimundo Jose de Araujo Macedo
+,,,,,20:20 às 21:15,Raimundo Jose de Araujo Macedo
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+MATB09 - LABORATÓRIO DE BANCO DE DADOS,100.0,196.0,5.0,TER,20:20 às 22:10,Robespierre Dantas da Rocha Pita
+,,195.0,35.0,,,Robespierre Dantas da Rocha Pita
+,,112.0,10.0,,,Robespierre Dantas da Rocha Pita
+,,196.0,5.0,CMB,00:00 às 00:00,Robespierre Dantas da Rocha Pita
+,,195.0,35.0,,,Robespierre Dantas da Rocha Pita
+,,112.0,10.0,,,Robespierre Dantas da Rocha Pita
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+MATB22 - LABORATÓRIO DE INFORMÁTICA NA EDUCAÇÃO,100.0,196.0,25.0,SEG,18:30 às 20:20,Luma da Rocha Seixas
+,,195.0,8.0,,,Luma da Rocha Seixas
+,,190.0,5.0,,,Luma da Rocha Seixas
+,,196.0,25.0,CMB,00:00 às 00:00,Luma da Rocha Seixas
+,,195.0,8.0,,,Luma da Rocha Seixas
+,,190.0,5.0,,,Luma da Rocha Seixas
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+MATC30 - LABORATÓRIO DE PROGRAMAÇÃO I,10000.0,515.0,10.0,QUI,18:30 às 20:20,Danilo Barbosa Coimbra
+,,196.0,10.0,,,Danilo Barbosa Coimbra
+,,188.0,30.0,,,Danilo Barbosa Coimbra
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+MATC53 - ACC:ONDA SOLIDÁRIA DE INCLUSÃO DIGITAL-TECNOLOGIA A SERVIÇO,100.0,881.0,1.0,SEG,16:40 às 18:30,Debora Abdalla Santos
+,,580.0,1.0,,,Debora Abdalla Santos
+,,515.0,1.0,,,Debora Abdalla Santos
+,,387.0,5.0,,,Debora Abdalla Santos
+,,327.0,1.0,,,Debora Abdalla Santos
+,,325.0,1.0,,,Debora Abdalla Santos
+,,313.0,1.0,,,Debora Abdalla Santos
+,,312.0,2.0,,,Debora Abdalla Santos
+,,307.0,1.0,,,Debora Abdalla Santos
+,,306.0,1.0,,,Debora Abdalla Santos
+,,286.0,7.0,,,Debora Abdalla Santos
+,,226.0,3.0,,,Debora Abdalla Santos
+,,196.0,4.0,,,Debora Abdalla Santos
+,,195.0,2.0,,,Debora Abdalla Santos
+,,190.0,3.0,,,Debora Abdalla Santos
+,,189.0,5.0,,,Debora Abdalla Santos
+,,186.0,1.0,,,Debora Abdalla Santos
+,,112.0,5.0,,,Debora Abdalla Santos
+,,580.0,1.0,CMB,00:00 às 00:00,Debora Abdalla Santos
+,,515.0,1.0,,,Debora Abdalla Santos
+,,387.0,5.0,,,Debora Abdalla Santos
+,,327.0,1.0,,,Debora Abdalla Santos
+,,325.0,1.0,,,Debora Abdalla Santos
+,,313.0,1.0,,,Debora Abdalla Santos
+,,312.0,2.0,,,Debora Abdalla Santos
+,,307.0,1.0,,,Debora Abdalla Santos
+,,306.0,1.0,,,Debora Abdalla Santos
+,,286.0,7.0,,,Debora Abdalla Santos
+,,226.0,3.0,,,Debora Abdalla Santos
+,,196.0,4.0,,,Debora Abdalla Santos
+,,195.0,2.0,,,Debora Abdalla Santos
+,,190.0,3.0,,,Debora Abdalla Santos
+,,189.0,5.0,,,Debora Abdalla Santos
+,,186.0,1.0,,,Debora Abdalla Santos
+,,881.0,1.0,,,Debora Abdalla Santos
+,,112.0,5.0,,,Debora Abdalla Santos
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+MATC68 - ESTÁGIO SUPERVISIONADO I,1.0,196.0,25.0,SEX,18:30 às 20:20,Anna Friedericka Schwarzelmuller
+,,,,CMB,00:00 às 00:00,Anna Friedericka Schwarzelmuller
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+MATC69 - ESTÁGIO SUPERVISIONADO II,1.0,196.0,20.0,QUA,20:20 às 22:10,Debora Abdalla Santos
+,,,,CMB,00:00 às 00:00,Debora Abdalla Santos
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+MATC70 - ESTÁGIO SUPERVISIONADO III,1.0,196.0,20.0,QUI,20:20 às 22:10,Marlo Vieira dos Santos e Souza
+,,,,CMB,00:00 às 00:00,Marlo Vieira dos Santos e Souza
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+MATC71 - ESTÁGIO SUPERVISIONADO IV,1.0,196.0,10.0,CMB,00:00 às 23:00,Luma da Rocha Seixas
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+MATC72 - INTERAÇÃO HUMANO-COMPUTADOR,10100.0,196.0,25.0,TER,18:30 às 20:20,Ecivaldo de Souza Matos
+,,195.0,23.0,,,Ecivaldo de Souza Matos
+,,190.0,10.0,,,Ecivaldo de Souza Matos
+,,189.0,1.0,,,Ecivaldo de Souza Matos
+,,196.0,25.0,QUI,18:30 às 20:20,Ecivaldo de Souza Matos
+,,195.0,23.0,,,Ecivaldo de Souza Matos
+,,190.0,10.0,,,Ecivaldo de Souza Matos
+,,189.0,1.0,,,Ecivaldo de Souza Matos
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+MATC73 - INTRODUÇÃO À LÓGICA MATEMÁTICA,10100.0,196.0,15.0,TER,20:20 às 22:10,Steffen Lewitzka
+,,195.0,35.0,,,Steffen Lewitzka
+,,189.0,5.0,,,Steffen Lewitzka
+,,196.0,15.0,QUI,20:20 às 22:10,Steffen Lewitzka
+,,195.0,35.0,,,Steffen Lewitzka
+,,189.0,5.0,,,Steffen Lewitzka
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+MATC76 - PRÁTICA DE ENSINO DE COMPUTAÇÃO I,100.0,196.0,25.0,TER,20:20 às 22:10,Ecivaldo de Souza Matos
+,,190.0,5.0,,,Ecivaldo de Souza Matos
+,,196.0,25.0,QUI,20:20 às 22:10,Ecivaldo de Souza Matos
+,,190.0,5.0,,,Ecivaldo de Souza Matos
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+MATC78 - PROJETO DE SOFTWARE EDUCATIVO,10100.0,196.0,25.0,SEG,20:20 às 22:10,Luma da Rocha Seixas
+,,190.0,5.0,,,Luma da Rocha Seixas
+,,196.0,25.0,QUA,20:20 às 22:10,Luma da Rocha Seixas
+,,190.0,5.0,,,Luma da Rocha Seixas
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+MATC81 - SISTEMAS BÁSICOS DE COMPUTAÇÃO: ARQUITETURA E SOFTWARE,10100.0,196.0,40.0,QUA,20:20 às 22:10,Alirio Santos de Sa
+,,190.0,5.0,,,Alirio Santos de Sa
+,,196.0,40.0,SEX,18:30 às 20:20,Alirio Santos de Sa
+,,190.0,5.0,,,Alirio Santos de Sa
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+MATC82 - SISTEMAS WEB,10100.0,196.0,20.0,QUA,20:20 às 22:10,Claudio Junior Nascimento da Silva
+,,195.0,30.0,,,Claudio Junior Nascimento da Silva
+,,189.0,5.0,,,Claudio Junior Nascimento da Silva
+,,196.0,20.0,SEX,20:20 às 22:10,Claudio Junior Nascimento da Silva
+,,195.0,30.0,,,Claudio Junior Nascimento da Silva
+,,189.0,5.0,,,Claudio Junior Nascimento da Silva
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+MATC84 - LABORATÓRIO DE PROGRAMAÇÃO WEB,100.0,196.0,10.0,QUI,13:00 às 15:45,Frederico Araujo Durao
+,,195.0,15.0,,,Frederico Araujo Durao
+,,189.0,5.0,,,Frederico Araujo Durao
+,,112.0,20.0,,,Frederico Araujo Durao
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+MATC85 - PRODUÇÃO DE MATERIAL EDUCATIVO DIGITAL,100.0,196.0,10.0,QUI,18:30 às 20:20,Anna Friedericka Schwarzelmuller
+,,,,CMB,00:00 às 00:00,Anna Friedericka Schwarzelmuller
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+MATC89 - APLICAÇÕES PARA DISPOSITIVOS MÓVEIS,10000.0,196.0,5.0,QUA,18:30 às 20:20,Rodrigo Rocha Gomes e Souza
+,,195.0,30.0,,,Rodrigo Rocha Gomes e Souza
+,,112.0,15.0,,,Rodrigo Rocha Gomes e Souza
+,,196.0,5.0,SEX,18:30 às 20:20,Rodrigo Rocha Gomes e Souza
+,,195.0,30.0,,,Rodrigo Rocha Gomes e Souza
+,,112.0,15.0,,,Rodrigo Rocha Gomes e Souza
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+MATC90 - CIRCUITOS DIGITAIS E ARQUITETURA DE COMPUTADORES,10000.0,195.0,45.0,QUA,20:20 às 22:10,Mirlei Moura da Silva
+,,190.0,5.0,,,Mirlei Moura da Silva
+,,195.0,45.0,SEX,20:20 às 22:10,Mirlei Moura da Silva
+,,190.0,5.0,,,Mirlei Moura da Silva
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+MATC92 - FUNDAMENTOS DE SISTEMAS DE INFORMAÇÃO,10000.0,195.0,45.0,QUA,18:30 às 20:20,Claudio Junior Nascimento da Silva
+,,196.0,5.0,,,Claudio Junior Nascimento da Silva
+,,,,SEX,18:30 às 20:20,Claudio Junior Nascimento da Silva
+,,195.0,45.0,,,Claudio Junior Nascimento da Silva
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+"MATC96 - ORGANIZAÇÃO, GERENCIAMENTO E RECUPERAÇÃO DA INFORMAÇÃO",10100.0,196.0,10.0,QUA,18:30 às 20:20,Mirlei Moura da Silva
+,,195.0,15.0,,,Mirlei Moura da Silva
+,,112.0,20.0,,,Mirlei Moura da Silva
+,,196.0,10.0,SEX,19:25 às 20:20,Mirlei Moura da Silva
+,,195.0,15.0,,,Mirlei Moura da Silva
+,,112.0,20.0,,,Mirlei Moura da Silva
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+MATC97 - TCC BACHARELADO SISTEMAS DE INFORMAÇÃO I,10000.0,195.0,5.0,CMB,00:00 às 23:00,Frederico Araujo Durao
+,20000.0,195.0,2.0,CMB,00:00 às 23:00,Ivan do Carmo Machado
+,30000.0,195.0,3.0,CMB,00:00 às 23:00,Sergio Gorender
+,40000.0,195.0,1.0,CMB,00:00 às 23:00,Robespierre Dantas da Rocha Pita
+,50000.0,195.0,1.0,CMB,00:00 às 23:00,Ricardo Araujo Rios
+,60000.0,195.0,2.0,CMB,00:00 às 23:00,Lais do Nascimento Salvador
+,70000.0,195.0,1.0,CMB,00:00 às 23:00,Christina Von Flach Garcia Chavez
+,80000.0,195.0,1.0,CMB,00:00 às 23:00,Roberto Freitas Parente
+,90000.0,195.0,2.0,CMB,00:00 às 23:00,Luma da Rocha Seixas
+,100000.0,195.0,2.0,CMB,00:00 às 23:00,Karl Philips Apaza Aguero
+,110000.0,195.0,1.0,CMB,00:00 às 23:00,Rita Suzana Pitangueira Maciel
+,120000.0,195.0,2.0,CMB,00:00 às 23:00,Marlo Vieira dos Santos e Souza
+,130000.0,195.0,3.0,CMB,00:00 às 23:00,Alirio Santos de Sa
+,140000.0,195.0,3.0,CMB,00:00 às 23:00,Eduardo Santana de Almeida
+,150000.0,195.0,2.0,CMB,00:00 às 23:00,Islame Felipe da Costa Fernandes
+,160000.0,195.0,3.0,CMB,00:00 às 23:00,Maycon Leone Maciel Peixoto
+,170000.0,195.0,5.0,CMB,00:00 às 23:00,Daniela Barreiro Claro
+,180000.0,195.0,1.0,CMB,00:00 às 23:00,Rodrigo Rocha Gomes e Souza
+,190000.0,195.0,2.0,CMB,00:00 às 23:00,Rubisley de Paula Lemes
+,200000.0,195.0,2.0,CMB,00:00 às 23:00,Danilo Barbosa Coimbra
+,210000.0,195.0,1.0,CMB,00:00 às 23:00,Fabiola Goncalves Pereira Greve
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+MATC98 - TCC BACHARELADO SISTEMAS DE INFORMAÇÃO II,10100.0,195.0,5.0,CMB,00:00 às 23:00,Frederico Araujo Durao
+,20200.0,195.0,1.0,CMB,00:00 às 23:00,Ivan do Carmo Machado
+,30300.0,195.0,1.0,CMB,00:00 às 23:00,Sergio Gorender
+,40400.0,195.0,2.0,CMB,00:00 às 23:00,Robespierre Dantas da Rocha Pita
+,50500.0,195.0,1.0,CMB,00:00 às 23:00,Lais do Nascimento Salvador
+,60600.0,195.0,1.0,CMB,00:00 às 23:00,Christina Von Flach Garcia Chavez
+,70700.0,195.0,3.0,CMB,00:00 às 23:00,Vaninha Vieira dos Santos
+,80800.0,195.0,1.0,CMB,00:00 às 23:00,Roberto Freitas Parente
+,90900.0,195.0,1.0,CMB,00:00 às 23:00,Luma da Rocha Seixas
+,101000.0,195.0,2.0,CMB,00:00 às 23:00,Karl Philips Apaza Aguero
+,111100.0,195.0,3.0,CMB,00:00 às 23:00,Eduardo Santana de Almeida
+,121200.0,195.0,2.0,CMB,00:00 às 23:00,Islame Felipe da Costa Fernandes
+,131300.0,195.0,3.0,CMB,00:00 às 23:00,Maycon Leone Maciel Peixoto
+,141400.0,195.0,5.0,CMB,00:00 às 23:00,Daniela Barreiro Claro
+,151500.0,195.0,1.0,CMB,00:00 às 23:00,Rodrigo Rocha Gomes e Souza
+,161600.0,195.0,2.0,CMB,00:00 às 23:00,Rubisley de Paula Lemes
+,171700.0,195.0,2.0,CMB,00:00 às 23:00,Danilo Barbosa Coimbra
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+MATD02 - TÓPICOS EM SISTEMAS DE INFORMAÇÃO,10000.0,196.0,10.0,TER,18:30 às 21:15,Danilo Barbosa Coimbra
+,,195.0,15.0,,,Danilo Barbosa Coimbra
+,,112.0,20.0,,,Danilo Barbosa Coimbra
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+MATD04 - ESTRUTURAS DE DADOS,10100.0,196.0,15.0,TER,18:30 às 20:20,Flavio Morais de Assis Silva
+,,195.0,35.0,,,Flavio Morais de Assis Silva
+,,196.0,15.0,QUI,18:30 às 20:20,Flavio Morais de Assis Silva
+,,195.0,35.0,,,Flavio Morais de Assis Silva
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+MATF34 - ACCS:PROGRAMAÇÃO COMPETITIVA-COMPUTAÇÃO PARA ALUNOS,100.0,196.0,10.0,SAB,13:55 às 17:35,Rubisley de Paula Lemes
+,,195.0,15.0,,,Rubisley de Paula Lemes
+,,112.0,20.0,,,Rubisley de Paula Lemes
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+MATG09 - OBSERVAÇÃO E REGÊNCIA DE SALA DE AULA,1.0,196.0,25.0,CMB,00:00 às 23:00,Luma da Rocha Seixas

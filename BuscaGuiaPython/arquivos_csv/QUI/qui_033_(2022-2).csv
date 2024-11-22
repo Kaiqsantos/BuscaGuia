@@ -1,0 +1,964 @@
+Disciplina,Turma,Coleg.,Vagas Ofe,Dia,Horário,Docente
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+QUI001 - COMPLEMENTOS DE QUIMICA I,10000.0,207.0,45.0,SEG,13:00 às 14:50,Maria Lucia da Silva Marques Carvalho
+,,,,QUA,13:00 às 14:50,Maria Lucia da Silva Marques Carvalho
+,20000.0,207.0,45.0,SEG,14:50 às 16:40,Maria Lucia da Silva Marques Carvalho
+,,,,QUA,14:50 às 16:40,Maria Lucia da Silva Marques Carvalho
+,30000.0,207.0,45.0,SEG,13:00 às 14:50,Akacia Victoria Silva dos Santos
+,,,,QUA,13:00 às 14:50,Akacia Victoria Silva dos Santos
+,40000.0,207.0,45.0,SEG,14:50 às 16:40,Akacia Victoria Silva dos Santos
+,,,,QUA,14:50 às 16:40,Akacia Victoria Silva dos Santos
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+QUI003 - QUÍMICA,10100.0,119.0,30.0,SEG,13:00 às 14:50,Ravir Rodrigues Farias
+,,110.0,18.0,,,Ravir Rodrigues Farias
+,,,,QUA,13:00 às 14:50,Ravir Rodrigues Farias
+,,119.0,30.0,,,Ravir Rodrigues Farias
+,20200.0,118.0,38.0,TER,07:00 às 08:50,Paloma Nascimento dos Santos
+,,108.0,7.0,,,Paloma Nascimento dos Santos
+,,,,QUI,07:00 às 08:50,Paloma Nascimento dos Santos
+,,118.0,38.0,,,Paloma Nascimento dos Santos
+,30300.0,110.0,7.0,TER,18:30 às 20:20,Patricia Fernanda de Oliveira Cabral
+,,181.0,20.0,,,Patricia Fernanda de Oliveira Cabral
+,,,,QUI,18:30 às 20:20,Patricia Fernanda de Oliveira Cabral
+,,110.0,7.0,,,Patricia Fernanda de Oliveira Cabral
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+QUI010 - QUIMICA ANALITICA I,10100.0,119.0,12.0,SEX,07:00 às 08:50,Maria Elisabete Machado
+,,,,,08:50 às 12:30,Maria Elisabete Machado
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+QUI012 - FUNDAMENTOS DE FÍSICO-QUÍMICA,10000.0,204.0,40.0,QUI,13:00 às 14:50,Caio Luis Santos Silva
+,20000.0,204.0,40.0,TER,13:00 às 14:50,Claudio Hanashiro Barbosa Silva
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+QUI028 - FISICO QUIMICA V,10100.0,110.0,12.0,TER,13:00 às 15:45,Rosangela Regia Lima Vidal
+,,,,QUI,08:50 às 11:35,Rosangela Regia Lima Vidal
+,10200.0,103.0,12.0,TER,13:00 às 15:45,Rosangela Regia Lima Vidal
+,,,,QUI,13:00 às 15:45,Rosangela Regia Lima Vidal
+,10300.0,110.0,12.0,TER,13:00 às 15:45,Rosangela Regia Lima Vidal
+,,,,QUI,13:00 às 15:45,Claudio Hanashiro Barbosa Silva
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+QUI029 - QUIMICA GERAL,10100.0,102.0,30.0,TER,07:00 às 08:50,Docente Substituto a Contratar
+,,190.0,4.0,,,Docente Substituto a Contratar
+,,102.0,30.0,QUI,07:00 às 08:50,Docente Substituto a Contratar
+,,190.0,4.0,,,Docente Substituto a Contratar
+,20200.0,190.0,3.0,TER,08:50 às 10:40,Docente Substituto a Contratar
+,,104.0,25.0,,,Docente Substituto a Contratar
+,,102.0,15.0,,,Docente Substituto a Contratar
+,,190.0,3.0,QUI,08:50 às 10:40,Docente Substituto a Contratar
+,,104.0,25.0,,,Docente Substituto a Contratar
+,,102.0,15.0,,,Docente Substituto a Contratar
+,30300.0,104.0,25.0,TER,08:50 às 10:40,Docente Substituto a Contratar
+,,102.0,15.0,,,Docente Substituto a Contratar
+,,190.0,2.0,,,Docente Substituto a Contratar
+,,,,QUI,08:50 às 10:40,Docente Substituto a Contratar
+,,102.0,15.0,,,Docente Substituto a Contratar
+,,104.0,25.0,,,Docente Substituto a Contratar
+,40400.0,105.0,45.0,TER,10:40 às 12:30,Docente Substituto a Contratar
+,,,,QUI,10:40 às 12:30,Docente Substituto a Contratar
+,50500.0,189.0,7.0,TER,14:50 às 16:40,Docente Substituto a Contratar
+,,190.0,2.0,,,Docente Substituto a Contratar
+,,102.0,15.0,,,Docente Substituto a Contratar
+,,104.0,15.0,,,Docente Substituto a Contratar
+,,102.0,15.0,QUI,14:50 às 16:40,Docente Substituto a Contratar
+,,190.0,2.0,,,Docente Substituto a Contratar
+,,189.0,7.0,,,Docente Substituto a Contratar
+,,104.0,15.0,,,Docente Substituto a Contratar
+,60600.0,189.0,8.0,TER,14:50 às 16:40,Ravir Rodrigues Farias
+,,190.0,3.0,,,Ravir Rodrigues Farias
+,,104.0,15.0,,,Ravir Rodrigues Farias
+,,102.0,15.0,,,Ravir Rodrigues Farias
+,,,,QUI,14:50 às 16:40,Ravir Rodrigues Farias
+,,104.0,15.0,,,Ravir Rodrigues Farias
+,,189.0,8.0,,,Ravir Rodrigues Farias
+,,190.0,3.0,,,Ravir Rodrigues Farias
+,70700.0,102.0,18.0,TER,16:40 às 18:30,Ravir Rodrigues Farias
+,,105.0,27.0,,,Ravir Rodrigues Farias
+,,,,QUI,16:40 às 18:30,Ravir Rodrigues Farias
+,,102.0,18.0,,,Ravir Rodrigues Farias
+,80800.0,189.0,5.0,TER,18:30 às 20:20,Docente Substituto a Contratar
+,,186.0,37.0,,,Docente Substituto a Contratar
+,,,,QUI,18:30 às 20:20,Docente Substituto a Contratar
+,,189.0,5.0,,,Docente Substituto a Contratar
+,90900.0,107.0,20.0,SEG,10:40 às 12:30,Docente Substituto a Contratar
+,,,,QUA,10:40 às 12:30,Docente Substituto a Contratar
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+QUI030 - COMPLEMENTOS DE QUIMICA III,10100.0,202.0,30.0,QUA,07:00 às 08:50,Akacia Victoria Silva dos Santos
+,,,,SEX,07:00 às 08:50,Akacia Victoria Silva dos Santos
+,20200.0,202.0,30.0,QUA,08:50 às 10:40,Fernanda Teixeira Cruz
+,,,,SEX,10:40 às 12:30,Fernanda Teixeira Cruz
+,30300.0,280.0,47.0,TER,18:30 às 20:20,Akacia Victoria Silva dos Santos
+,,,,QUI,18:30 às 20:20,Akacia Victoria Silva dos Santos
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+QUI032 - QUIMICA ANALITICA,10100.0,207.0,10.0,SEG,08:50 às 10:40,Gisele Andre Baptista Canuto
+,,190.0,2.0,,,Gisele Andre Baptista Canuto
+,,207.0,10.0,,10:40 às 12:30,Gisele Andre Baptista Canuto
+,,190.0,2.0,,,Gisele Andre Baptista Canuto
+,,207.0,10.0,QUA,08:50 às 10:40,Gisele Andre Baptista Canuto
+,,190.0,2.0,,,Gisele Andre Baptista Canuto
+,10200.0,207.0,10.0,SEG,08:50 às 10:40,Gisele Andre Baptista Canuto
+,,190.0,2.0,,,Gisele Andre Baptista Canuto
+,,207.0,10.0,TER,07:00 às 08:50,Docente Concursado
+,,190.0,2.0,,,Docente Concursado
+,,207.0,10.0,QUA,08:50 às 10:40,Gisele Andre Baptista Canuto
+,,190.0,2.0,,,Gisele Andre Baptista Canuto
+,10300.0,207.0,10.0,SEG,08:50 às 10:40,Gisele Andre Baptista Canuto
+,,190.0,2.0,,,Gisele Andre Baptista Canuto
+,,207.0,10.0,TER,08:50 às 10:40,Gisele Andre Baptista Canuto
+,,190.0,2.0,,,Gisele Andre Baptista Canuto
+,,207.0,10.0,QUA,08:50 às 10:40,Gisele Andre Baptista Canuto
+,,190.0,2.0,,,Gisele Andre Baptista Canuto
+,10400.0,190.0,2.0,SEG,08:50 às 10:40,Gisele Andre Baptista Canuto
+,,207.0,10.0,,,Gisele Andre Baptista Canuto
+,,,,TER,13:00 às 14:50,Docente Concursado
+,,190.0,2.0,,,Docente Concursado
+,,207.0,10.0,QUA,08:50 às 10:40,Gisele Andre Baptista Canuto
+,,190.0,2.0,,,Gisele Andre Baptista Canuto
+,10500.0,207.0,10.0,SEG,08:50 às 10:40,Gisele Andre Baptista Canuto
+,,190.0,2.0,,,Gisele Andre Baptista Canuto
+,,207.0,10.0,TER,14:50 às 16:40,Docente Concursado
+,,190.0,2.0,,,Docente Concursado
+,,207.0,10.0,QUA,08:50 às 10:40,Gisele Andre Baptista Canuto
+,,190.0,2.0,,,Gisele Andre Baptista Canuto
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+QUI037 - QUÍMICA GERAL,10100.0,106.0,17.0,SEG,07:00 às 08:50,Lucas Bomfim Bolzon
+,,,,,08:50 às 10:40,Joicy Santamalvina dos Santos
+,,,,QUA,08:50 às 10:40,Joicy Santamalvina dos Santos
+,,,,SEX,08:50 às 10:40,Joicy Santamalvina dos Santos
+,10200.0,106.0,17.0,SEG,08:50 às 10:40,Joicy Santamalvina dos Santos
+,,,,QUA,07:00 às 08:50,Lucas Bomfim Bolzon
+,,,,,08:50 às 10:40,Joicy Santamalvina dos Santos
+,,,,SEX,08:50 às 10:40,Joicy Santamalvina dos Santos
+,10300.0,106.0,17.0,SEG,08:50 às 10:40,Joicy Santamalvina dos Santos
+,,,,QUA,08:50 às 10:40,Joicy Santamalvina dos Santos
+,,,,SEX,07:00 às 08:50,Lucas Bomfim Bolzon
+,,,,,08:50 às 10:40,Joicy Santamalvina dos Santos
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+QUI136 - QUIMICA INORGANICA BASICA,10100.0,113.0,17.0,TER,13:00 às 15:45,Kleber Queiroz Ferreira
+,,,,QUI,13:00 às 15:45,Kleber Queiroz Ferreira
+,10200.0,184.0,2.0,TER,15:45 às 18:30,Denilson Santos Costa
+,,113.0,13.0,,,Denilson Santos Costa
+,,,,QUI,13:00 às 15:45,Kleber Queiroz Ferreira
+,,184.0,2.0,,,Kleber Queiroz Ferreira
+,10300.0,184.0,1.0,QUI,13:00 às 15:45,Kleber Queiroz Ferreira
+,,113.0,17.0,,,Kleber Queiroz Ferreira
+,,184.0,1.0,,15:45 às 18:30,Denilson Santos Costa
+,,113.0,17.0,,,Denilson Santos Costa
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+QUI137 - QUIMICA INORGANICA DE COORDENACAO,10100.0,190.0,2.0,SEG,09:45 às 12:30,Artur Jose Santos Mascarenhas
+,,184.0,1.0,,,Artur Jose Santos Mascarenhas
+,,113.0,12.0,,,Artur Jose Santos Mascarenhas
+,,,,,13:00 às 15:45,Artur Jose Santos Mascarenhas
+,,190.0,2.0,,,Artur Jose Santos Mascarenhas
+,,184.0,1.0,,,Artur Jose Santos Mascarenhas
+,10200.0,113.0,12.0,SEG,09:45 às 12:30,Artur Jose Santos Mascarenhas
+,,184.0,1.0,,,Artur Jose Santos Mascarenhas
+,,,,QUA,09:45 às 12:30,Raildo Alves Fiuza Junior
+,,113.0,12.0,,,Raildo Alves Fiuza Junior
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+QUI138 - QUIMICA ORGANICA FUNDAMENTAL III,10000.0,113.0,20.0,QUA,08:50 às 10:40,Caline Gomes Ferraz
+,,204.0,25.0,,,Caline Gomes Ferraz
+,,,,SEX,08:50 às 10:40,Caline Gomes Ferraz
+,,113.0,20.0,,,Caline Gomes Ferraz
+,20000.0,204.0,45.0,SEG,16:40 às 18:30,Ronan Batista
+,,,,QUA,16:40 às 18:30,Ronan Batista
+,30000.0,281.0,20.0,SEG,18:30 às 20:20,Ronan Batista
+,,189.0,3.0,,,Ronan Batista
+,,184.0,20.0,,,Ronan Batista
+,,113.0,2.0,,,Ronan Batista
+,,281.0,20.0,QUA,18:30 às 20:20,Ronan Batista
+,,189.0,3.0,,,Ronan Batista
+,,184.0,20.0,,,Ronan Batista
+,,113.0,2.0,,,Ronan Batista
+,40000.0,106.0,45.0,TER,07:00 às 08:50,Valeria Belli Riatto
+,,,,QUI,07:00 às 08:50,Valeria Belli Riatto
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+QUI139 - QUIMICA ORGANICA FUNDAMENTAL IV,10000.0,204.0,35.0,SEG,08:50 às 10:40,Eliane de Oliveira Silva
+,,190.0,4.0,,,Eliane de Oliveira Silva
+,,113.0,10.0,,,Eliane de Oliveira Silva
+,,204.0,35.0,QUA,08:50 às 10:40,Eliane de Oliveira Silva
+,,190.0,4.0,,,Eliane de Oliveira Silva
+,,113.0,10.0,,,Eliane de Oliveira Silva
+,20000.0,189.0,4.0,SEG,16:40 às 18:30,Eliane de Oliveira Silva
+,,113.0,45.0,,,Eliane de Oliveira Silva
+,,189.0,4.0,QUA,16:40 às 18:30,Eliane de Oliveira Silva
+,,113.0,45.0,,,Eliane de Oliveira Silva
+,30000.0,204.0,35.0,TER,07:00 às 08:50,Regina Maria Geris dos Santos
+,,190.0,4.0,,,Regina Maria Geris dos Santos
+,,113.0,10.0,,,Regina Maria Geris dos Santos
+,,204.0,35.0,QUI,07:00 às 08:50,Regina Maria Geris dos Santos
+,,190.0,4.0,,,Regina Maria Geris dos Santos
+,,113.0,10.0,,,Regina Maria Geris dos Santos
+,40000.0,190.0,4.0,TER,13:00 às 14:50,Andre Alexandre Vieira
+,,106.0,45.0,,,Andre Alexandre Vieira
+,,190.0,4.0,QUI,13:00 às 14:50,Andre Alexandre Vieira
+,,106.0,45.0,,,Andre Alexandre Vieira
+,50000.0,281.0,20.0,TER,18:30 às 20:20,Paulo Roberto Ribeiro de Jesus
+,,189.0,5.0,,,Paulo Roberto Ribeiro de Jesus
+,,184.0,20.0,,,Paulo Roberto Ribeiro de Jesus
+,,281.0,20.0,QUI,18:30 às 20:20,Paulo Roberto Ribeiro de Jesus
+,,189.0,5.0,,,Paulo Roberto Ribeiro de Jesus
+,,184.0,20.0,,,Paulo Roberto Ribeiro de Jesus
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+QUI148 - QUÍMICA ORGÂNICA NAS CIÊNCIAS NATURAIS,10100.0,209.0,30.0,QUA,13:00 às 14:50,Jose Roque Mota Carvalho
+,,190.0,3.0,,,Jose Roque Mota Carvalho
+,,209.0,30.0,,14:50 às 16:40,Jose Roque Mota Carvalho
+,,190.0,3.0,,,Jose Roque Mota Carvalho
+,,209.0,30.0,SEX,13:00 às 14:50,Jose Roque Mota Carvalho
+,,190.0,3.0,,,Jose Roque Mota Carvalho
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+QUI153 - OCEANOGRAFIA QUÍMICA I,10100.0,119.0,12.0,QUA,07:00 às 08:50,Vanessa Hatje
+,,,,,08:50 às 10:40,Docente não informado pelo Departamento
+,,,,,10:40 às 12:30,Docente não informado pelo Departamento
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+QUI154 - POLUIÇÃO MARINHA,10100.0,119.0,6.0,SEG,07:00 às 08:50,Vanessa Hatje
+,,113.0,6.0,,,Vanessa Hatje
+,,119.0,6.0,,08:50 às 10:40,Vanessa Hatje
+,,113.0,6.0,,,Vanessa Hatje
+,10200.0,119.0,6.0,SEG,08:50 às 10:40,Vanessa Hatje
+,,113.0,6.0,,,Vanessa Hatje
+,,119.0,6.0,,10:40 às 12:30,Vanessa Hatje
+,,113.0,6.0,,,Vanessa Hatje
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+QUIA01 - PRINCÍPIOS DA ANÁLISE QUÍMICA,10100.0,106.0,12.0,QUA,13:00 às 15:45,Alailson Falcao Dantas
+,,,,SEX,13:00 às 15:45,Leonardo Sena Gomes Teixeira
+,10200.0,106.0,12.0,SEG,15:45 às 18:30,Leonardo Sena Gomes Teixeira
+,,,,QUA,13:00 às 15:45,Alailson Falcao Dantas
+,10300.0,106.0,12.0,SEG,13:00 às 15:45,Leonardo Sena Gomes Teixeira
+,,,,QUA,13:00 às 15:45,Alailson Falcao Dantas
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+QUIA14 - QUÍMICA INORGÂNICA BÁSICA I,10100.0,106.0,15.0,TER,07:00 às 09:45,Luciana Almeida da Silva
+,,,,QUI,07:00 às 08:50,Luciana Almeida da Silva
+,10200.0,106.0,15.0,TER,07:00 às 09:45,Luciana Almeida da Silva
+,,,,QUI,08:50 às 10:40,Luciana Almeida da Silva
+,10300.0,106.0,15.0,TER,07:00 às 09:45,Luciana Almeida da Silva
+,,,,QUI,10:40 às 12:30,Luciana Almeida da Silva
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+QUIA15 - FÍSICO QUÍMICA -A,10100.0,106.0,12.0,SEG,13:00 às 14:50,Docente Concursado
+,,,,QUI,14:50 às 16:40,Docente Concursado
+,10200.0,106.0,12.0,QUI,14:50 às 16:40,Docente Concursado
+,,,,SEX,14:50 às 16:40,Docente Concursado
+,10300.0,106.0,12.0,QUI,14:50 às 16:40,Docente Concursado
+,,,,SEX,13:00 às 14:50,Docente Concursado
+,20400.0,113.0,12.0,SEG,14:50 às 16:40,Valeria Cristina Fernandes
+,,,,QUA,14:50 às 16:40,Valeria Cristina Fernandes
+,20500.0,113.0,12.0,TER,13:00 às 14:50,Mateus Fernandes Venancio
+,,,,QUA,14:50 às 16:40,Valeria Cristina Fernandes
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+QUIA16 - FÍSICO QUÍMICA- C,10100.0,184.0,2.0,QUA,08:50 às 10:40,Claudio Hanashiro Barbosa Silva
+,,113.0,10.0,,,Claudio Hanashiro Barbosa Silva
+,,184.0,2.0,,10:40 às 12:30,Claudio Hanashiro Barbosa Silva
+,,113.0,10.0,,,Claudio Hanashiro Barbosa Silva
+,20200.0,106.0,12.0,QUI,08:50 às 10:40,Mateus Fernandes Venancio
+,,,,SEX,08:50 às 10:40,Mateus Fernandes Venancio
+,20300.0,106.0,12.0,QUI,10:40 às 12:30,Mateus Fernandes Venancio
+,,,,SEX,08:50 às 10:40,Mateus Fernandes Venancio
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+QUIA17 - QUÍMICA ORGÂNICA PRÁTICA,100.0,106.0,12.0,QUI,08:50 às 10:40,Valeria Belli Riatto
+,200.0,106.0,12.0,QUI,10:40 às 12:30,Valeria Belli Riatto
+,300.0,106.0,12.0,TER,08:50 às 10:40,Valeria Belli Riatto
+,400.0,106.0,12.0,TER,10:40 às 12:30,Valeria Belli Riatto
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+QUIA25 - QUÍMICA ORGÂNICA FUNDAMENTAL VI,10000.0,119.0,30.0,TER,14:50 às 16:40,Jose Roque Mota Carvalho
+,,,,QUI,14:50 às 16:40,Jose Roque Mota Carvalho
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+QUIA27 - QUÍMICA FUNDAMENTAL I,10100.0,113.0,16.0,SEG,14:50 às 16:40,Fernanda Teixeira Cruz
+,,,,TER,13:00 às 14:50,Adelaide Maria Vieira Viveiros
+,10200.0,113.0,16.0,TER,13:00 às 14:50,Adelaide Maria Vieira Viveiros
+,,,,QUI,14:50 às 16:40,Fabiana Roberta Goncalves e Silva Hussei
+,10300.0,113.0,16.0,TER,13:00 às 14:50,Adelaide Maria Vieira Viveiros
+,,,,QUI,16:40 às 18:30,Docente Substituto a Contratar
+,20400.0,103.0,15.0,TER,07:00 às 08:50,Adelaide Maria Vieira Viveiros
+,,,,QUI,07:00 às 08:50,Denilson Santos Costa
+,20500.0,103.0,15.0,TER,07:00 às 08:50,Adelaide Maria Vieira Viveiros
+,,,,QUI,10:40 às 12:30,Fernanda Teixeira Cruz
+,20600.0,113.0,10.0,TER,07:00 às 08:50,Adelaide Maria Vieira Viveiros
+,,,,,08:50 às 10:40,Denilson Santos Costa
+,20800.0,113.0,10.0,TER,07:00 às 08:50,Adelaide Maria Vieira Viveiros
+,,,,,10:40 às 12:30,Fernanda Teixeira Cruz
+,40700.0,184.0,16.0,TER,18:30 às 20:20,Docente não informado pelo Departamento
+,,,,,20:20 às 22:10,Docente não informado pelo Departamento
+,40900.0,184.0,15.0,TER,18:30 às 20:20,Docente não informado pelo Departamento
+,,,,QUA,18:30 às 20:20,Docente não informado pelo Departamento
+,41000.0,184.0,15.0,TER,18:30 às 20:20,Docente não informado pelo Departamento
+,,,,QUA,20:20 às 22:10,Docente não informado pelo Departamento
+,51100.0,184.0,16.0,SEG,18:30 às 20:20,Helio da Silva Messeder Neto
+,,,,QUI,18:30 às 20:20,Helio da Silva Messeder Neto
+,51200.0,184.0,15.0,SEG,18:30 às 20:20,Helio da Silva Messeder Neto
+,,,,SEX,18:30 às 20:20,Helio da Silva Messeder Neto
+,51300.0,184.0,15.0,SEG,18:30 às 20:20,Helio da Silva Messeder Neto
+,,,,QUI,20:20 às 22:10,Helio da Silva Messeder Neto
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+QUIA28 - QUÍMICA FUNDAMENTAL II,10100.0,113.0,15.0,QUA,14:50 às 16:40,Lilian Maria Tosta Simplicio Rodrigues
+,,,,QUI,13:00 às 14:50,Lilian Maria Tosta Simplicio Rodrigues
+,10200.0,113.0,15.0,QUI,13:00 às 14:50,Lilian Maria Tosta Simplicio Rodrigues
+,,,,,14:50 às 16:40,Lilian Maria Tosta Simplicio Rodrigues
+,10300.0,113.0,15.0,QUI,13:00 às 14:50,Lilian Maria Tosta Simplicio Rodrigues
+,,,,,16:40 às 18:30,Lilian Maria Tosta Simplicio Rodrigues
+,20400.0,184.0,15.0,QUI,18:30 às 20:20,Docente não informado pelo Departamento
+,,,,,20:20 às 22:10,Docente não informado pelo Departamento
+,20500.0,184.0,15.0,TER,18:30 às 20:20,Docente não informado pelo Departamento
+,,,,QUI,18:30 às 20:20,Docente não informado pelo Departamento
+,20600.0,184.0,15.0,TER,20:20 às 22:10,Docente não informado pelo Departamento
+,,,,QUI,18:30 às 20:20,Docente não informado pelo Departamento
+,30700.0,113.0,15.0,QUI,07:00 às 08:50,Soraia Teixeira Brandao
+,,,,,08:50 às 10:40,Soraia Teixeira Brandao
+,30800.0,113.0,15.0,QUI,07:00 às 08:50,Soraia Teixeira Brandao
+,,,,,10:40 às 12:30,Soraia Teixeira Brandao
+,40900.0,184.0,15.0,QUA,18:30 às 20:20,Mauricio Brandao dos Santos
+,,,,QUI,20:20 às 22:10,Mauricio Brandao dos Santos
+,41000.0,184.0,15.0,QUA,18:30 às 20:20,Mauricio Brandao dos Santos
+,,,,SEX,18:30 às 20:20,Mauricio Brandao dos Santos
+,41100.0,184.0,15.0,QUA,18:30 às 20:20,Mauricio Brandao dos Santos
+,,,,QUI,18:30 às 20:20,Luiza Amim Mercante
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+QUIA29 - MÉTODOS CLÁSSICOS DE ANÁLISE,10100.0,113.0,12.0,QUI,13:00 às 15:45,Sergio Luis Costa Ferreira
+,,,,,15:45 às 18:30,Gisele Olimpio da Rocha
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+QUIA30 - FÍSICO QUÍMICA B,10100.0,113.0,12.0,QUA,10:40 às 12:30,Guilherme Augusto Ferreira
+,,,,SEX,10:40 às 12:30,Guilherme Augusto Ferreira
+,20200.0,189.0,2.0,SEG,18:30 às 20:20,Guilherme Augusto Ferreira
+,,184.0,10.0,,,Guilherme Augusto Ferreira
+,,189.0,2.0,,20:20 às 22:10,Guilherme Augusto Ferreira
+,,184.0,10.0,,,Guilherme Augusto Ferreira
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+QUIA32 - INTRODUÇÃO À QUÍMICA,10000.0,189.0,5.0,TER,16:40 às 18:30,Lilian Maria Tosta Simplicio Rodrigues
+,,113.0,50.0,,,Lilian Maria Tosta Simplicio Rodrigues
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+QUIA34 - TÓPICOS ESPECIAIS EM QUÍMICA GERAL E INORGÂNICA I,10000.0,113.0,45.0,SEG,16:40 às 18:30,Helio da Silva Messeder Neto
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+QUIA35 - TEQGI II -TÓPICOS ESPECIAIS EM QUIMICA GERAL E INORGÂNICA II,10000.0,113.0,15.0,TER,10:40 às 12:30,Zenis Novais da Rocha
+,,,,QUI,10:40 às 12:30,Zenis Novais da Rocha
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+QUIA42 - QUÍMICA FUNDAMENTAL III,10000.0,184.0,1.0,TER,08:50 às 10:40,Adelaide Maria Vieira Viveiros
+,,113.0,40.0,,,Adelaide Maria Vieira Viveiros
+,,184.0,1.0,QUI,08:50 às 10:40,Adelaide Maria Vieira Viveiros
+,,113.0,40.0,,,Adelaide Maria Vieira Viveiros
+,20000.0,184.0,20.0,QUI,18:30 às 20:20,Fabiana Roberta Goncalves e Silva Hussei
+,,113.0,10.0,,,Fabiana Roberta Goncalves e Silva Hussei
+,,184.0,20.0,,20:20 às 22:10,Fabiana Roberta Goncalves e Silva Hussei
+,,113.0,10.0,,,Fabiana Roberta Goncalves e Silva Hussei
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+QUIA43 - O PROFESSOR E O ENSINO DA QUÍMICA,10100.0,189.0,1.0,TER,14:50 às 15:45,Edilson Fortuna de Moradillo
+,,113.0,15.0,,,Edilson Fortuna de Moradillo
+,,189.0,1.0,,15:45 às 17:35,Edilson Fortuna de Moradillo
+,,113.0,15.0,,,Edilson Fortuna de Moradillo
+,,189.0,1.0,,17:35 às 18:30,Edilson Fortuna de Moradillo
+,,113.0,15.0,,,Edilson Fortuna de Moradillo
+,20200.0,189.0,1.0,TER,18:30 às 19:25,Rafael Moreira Siqueira
+,,184.0,15.0,,,Rafael Moreira Siqueira
+,,189.0,1.0,,19:25 às 22:10,Rafael Moreira Siqueira
+,,184.0,15.0,,,Rafael Moreira Siqueira
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+QUIA44 - QUÍMICA ORGÂNICA EXPERIMENTAL II,100.0,113.0,12.0,QUA,07:00 às 08:50,Martins Dias de Cerqueira
+,,,,SEX,07:00 às 08:50,Martins Dias de Cerqueira
+,,,,,08:50 às 10:40,Martins Dias de Cerqueira
+,200.0,113.0,12.0,QUA,07:00 às 08:50,Lafaiete Almeida Cardoso
+,,,,SEX,07:00 às 08:50,Lafaiete Almeida Cardoso
+,,,,,08:50 às 10:40,Lafaiete Almeida Cardoso
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+QUIA45 - HISTÓRIA E EPISTEMOLOGIA NO ENSINO DE QUÍMICA,10100.0,190.0,1.0,TER,13:00 às 13:55,Jailson Alves dos Santos
+,,184.0,1.0,,,Jailson Alves dos Santos
+,,113.0,14.0,,,Jailson Alves dos Santos
+,,190.0,1.0,,13:55 às 16:40,Paloma Nascimento dos Santos
+,,184.0,1.0,,,Paloma Nascimento dos Santos
+,,113.0,14.0,,,Paloma Nascimento dos Santos
+,,190.0,1.0,,,Jailson Alves dos Santos
+,,184.0,1.0,,,Jailson Alves dos Santos
+,,113.0,14.0,,,Jailson Alves dos Santos
+,20200.0,189.0,3.0,SEX,18:30 às 19:25,Jailson Alves dos Santos
+,,184.0,14.0,,,Jailson Alves dos Santos
+,,113.0,1.0,,,Jailson Alves dos Santos
+,,189.0,3.0,,19:25 às 22:10,Jailson Alves dos Santos
+,,184.0,14.0,,,Jailson Alves dos Santos
+,,113.0,1.0,,,Jailson Alves dos Santos
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+QUIA47 - ENSINO DE QUÍMICA NO CONTEXTO,10100.0,190.0,1.0,SEG,08:50 às 09:45,Maria Bernadete de Melo Cunha
+,,113.0,15.0,,,Maria Bernadete de Melo Cunha
+,,190.0,1.0,,09:45 às 12:30,Maria Bernadete de Melo Cunha
+,,113.0,15.0,,,Maria Bernadete de Melo Cunha
+,20200.0,189.0,1.0,SEG,18:30 às 20:20,Docente não informado pelo Departamento
+,,184.0,15.0,,,Docente não informado pelo Departamento
+,,189.0,1.0,,20:20 às 22:10,Docente não informado pelo Departamento
+,,184.0,15.0,,,Docente não informado pelo Departamento
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+QUIA48 - QUÍMICA DE BIOCOMPOSTOS,10000.0,189.0,10.0,SEG,18:30 às 20:20,Martins Dias de Cerqueira
+,,184.0,25.0,,,Martins Dias de Cerqueira
+,,113.0,15.0,,,Martins Dias de Cerqueira
+,,189.0,10.0,QUA,18:30 às 20:20,Martins Dias de Cerqueira
+,,184.0,25.0,,,Martins Dias de Cerqueira
+,,113.0,15.0,,,Martins Dias de Cerqueira
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+QUIA49 - QUÍMICA QUÂNTICA I : ESTRUTURA ATÔMICA E MOLECULAR,10100.0,113.0,22.0,TER,10:40 às 12:30,Tiago Vinicius Alves
+,,,,QUI,10:40 às 12:30,Tiago Vinicius Alves
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+QUIA50 - O EXPERIMENTO NO ENSINO DE QUÍMICA,10100.0,190.0,1.0,TER,13:00 às 13:55,Soraia Freaza Lobo
+,,113.0,15.0,,,Soraia Freaza Lobo
+,,190.0,1.0,,13:55 às 16:40,Soraia Freaza Lobo
+,,113.0,15.0,,,Soraia Freaza Lobo
+,20200.0,189.0,2.0,QUI,18:30 às 19:25,Soraia Freaza Lobo
+,,184.0,13.0,,,Soraia Freaza Lobo
+,,189.0,2.0,,19:25 às 22:10,Soraia Freaza Lobo
+,,184.0,13.0,,,Soraia Freaza Lobo
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+QUIA51 - QUÍMICA ORGÂNICA EXPERIMENTAL IV,100.0,113.0,12.0,SEG,13:00 às 13:55,Lafaiete Almeida Cardoso
+,,,,,13:55 às 16:40,Lafaiete Almeida Cardoso
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+QUIA52 - PROJETOS EM QUÍMICA,100.0,113.0,20.0,SEX,14:50 às 16:40,Elisangela Fabiana Boffo
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+QUIA53 - TRABALHO DE CONCLUSÃO DE CURSO,100.0,113.0,1.0,CMB,00:00 às 23:00,Artur Jose Santos Mascarenhas
+,200.0,113.0,1.0,CMB,00:00 às 23:00,Rennan Geovanny Oliveira Araujo
+,300.0,113.0,1.0,CMB,00:00 às 23:00,Regina Maria Geris dos Santos
+,400.0,113.0,1.0,CMB,00:00 às 23:00,Docente não informado pelo Departamento
+,500.0,113.0,1.0,CMB,00:00 às 23:00,Sergio Luis Costa Ferreira
+,600.0,113.0,1.0,CMB,00:00 às 23:00,Licia Passos dos Santos Cruz
+,700.0,113.0,1.0,CMB,00:00 às 23:00,Valeria Cristina Fernandes
+,800.0,113.0,1.0,CMB,00:00 às 23:00,Docente não informado pelo Departamento
+,900.0,113.0,1.0,CMB,00:00 às 23:00,Docente não informado pelo Departamento
+,1000.0,113.0,1.0,CMB,00:00 às 23:00,Docente não informado pelo Departamento
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+QUIA54 - QUÍMICA INORGÂNICA EM PROCESSOS INDUSTRIAIS,10000.0,190.0,3.0,TER,08:50 às 10:40,Zenis Novais da Rocha
+,,113.0,30.0,,,Zenis Novais da Rocha
+,,190.0,3.0,QUI,08:50 às 10:40,Zenis Novais da Rocha
+,,113.0,30.0,,,Zenis Novais da Rocha
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+QUIA56 - MÉTODOS FÍSICOS DE ANÁLISE ORGÂNICA,10000.0,189.0,3.0,SEG,10:40 às 12:30,Jorge Mauricio David
+,,113.0,42.0,,,Jorge Mauricio David
+,,189.0,3.0,QUA,10:40 às 12:30,Jorge Mauricio David
+,,113.0,42.0,,,Jorge Mauricio David
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+QUIA57 - MECANISMOS DE REAÇÕES ORGÂNICAS,10000.0,113.0,45.0,SEG,14:50 às 16:40,Silvio do Desterro Cunha
+,,,,QUA,14:50 às 16:40,Silvio do Desterro Cunha
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+QUIA61 - MÉTODOS DE SEPARAÇÃO,10100.0,113.0,12.0,TER,13:00 às 14:50,Licia Passos dos Santos Cruz
+,,,,,14:50 às 18:30,Licia Passos dos Santos Cruz
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+QUIA64 - QUÍMICA ORGÂNICA EXPERIMENTAL III,100.0,113.0,12.0,SEG,13:00 às 15:45,Mauricio Moraes Victor
+,,,,,15:45 às 18:30,Mauricio Moraes Victor
+,200.0,113.0,12.0,SEG,13:00 às 15:45,Paulo Roberto Ribeiro de Jesus
+,,,,,15:45 às 18:30,Paulo Roberto Ribeiro de Jesus
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+QUIA65 - CINÉTICA DAS REAÇÕES QUÍMICAS,10100.0,113.0,12.0,TER,13:00 às 15:45,Isabel Cristina Rigoli
+,,,,,15:45 às 18:30,Isabel Cristina Rigoli
+,10200.0,113.0,12.0,TER,13:00 às 15:45,Isabel Cristina Rigoli
+,,,,QUI,13:00 às 15:45,Isabel Cristina Rigoli
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+QUIA66 - ESTÁGIO SUPERVISIONADO I,1.0,113.0,12.0,SEX,16:40 às 18:30,Maria de Lourdes De Mascarenhas De Figue
+,,,,CMB,00:00 às 00:00,Maria de Lourdes De Mascarenhas De Figue
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+QUIA83 - ESTATÍSTICA APLICADA À QUÍMICA,10100.0,189.0,3.0,TER,18:30 às 20:20,Rennan Geovanny Oliveira Araujo
+,,184.0,5.0,,,Rennan Geovanny Oliveira Araujo
+,,113.0,5.0,,,Rennan Geovanny Oliveira Araujo
+,,106.0,7.0,,,Rennan Geovanny Oliveira Araujo
+,,189.0,3.0,,20:20 às 22:10,Rennan Geovanny Oliveira Araujo
+,,184.0,5.0,,,Rennan Geovanny Oliveira Araujo
+,,113.0,5.0,,,Rennan Geovanny Oliveira Araujo
+,,106.0,7.0,,,Rennan Geovanny Oliveira Araujo
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+QUIA90 - TÓPICOS ESPECIAIS EM QUÍMICA ANALÍTICA I,10000.0,113.0,8.0,SEG,08:50 às 10:40,Daniele Cristina Muniz Batista dos Santo
+,20000.0,113.0,8.0,SEG,10:40 às 12:30,Daniele Cristina Muniz Batista dos Santo
+,30000.0,113.0,8.0,QUA,08:50 às 10:40,Maria de Lourdes De Mascarenhas De Figue
+,40000.0,113.0,8.0,QUA,10:40 às 12:30,Maria de Lourdes De Mascarenhas De Figue
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+QUIB02 - PROJETOS EM ENSINO DE QUÍMICA,100.0,184.0,15.0,QUI,20:20 às 22:10,Docente não informado pelo Departamento
+,,113.0,10.0,,,Docente não informado pelo Departamento
+,200.0,113.0,20.0,SEX,13:00 às 14:50,Docente não informado pelo Departamento
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+QUIB03 - TRABALHO DE CONCLUSÃO DE CURSO PARA LICENCIATURA,100.0,113.0,1.0,CMB,00:00 às 23:00,Docente não informado pelo Departamento
+,200.0,113.0,1.0,CMB,00:00 às 23:00,Barbara Carine Soares Pinheiro
+,300.0,113.0,2.0,CMB,00:00 às 23:00,Helio da Silva Messeder Neto
+,400.0,113.0,1.0,CMB,00:00 às 23:00,Leticia dos Santos Pereira
+,500.0,113.0,3.0,CMB,00:00 às 23:00,Lucas Vivas de Sa
+,600.0,113.0,2.0,CMB,00:00 às 23:00,Paloma Nascimento dos Santos
+,700.0,113.0,2.0,CMB,00:00 às 23:00,Patricia Fernanda de Oliveira Cabral
+,800.0,113.0,2.0,CMB,00:00 às 23:00,Rafael Moreira Siqueira
+,900.0,113.0,1.0,CMB,00:00 às 23:00,Docente não informado pelo Departamento
+,1000.0,113.0,1.0,CMB,00:00 às 23:00,Docente não informado pelo Departamento
+,1100.0,113.0,1.0,CMB,00:00 às 23:00,Docente não informado pelo Departamento
+,1200.0,113.0,1.0,CMB,00:00 às 23:00,Docente não informado pelo Departamento
+,1300.0,113.0,1.0,CMB,00:00 às 23:00,Docente não informado pelo Departamento
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+QUIB07 - HISTÓRIA DA QUÍMICA I,10100.0,190.0,1.0,QUA,08:50 às 09:45,Leticia dos Santos Pereira
+,,113.0,15.0,,,Leticia dos Santos Pereira
+,,190.0,1.0,,09:45 às 12:30,Leticia dos Santos Pereira
+,,113.0,15.0,,,Leticia dos Santos Pereira
+,20200.0,189.0,1.0,QUI,18:30 às 19:25,Leticia dos Santos Pereira
+,,184.0,15.0,,,Leticia dos Santos Pereira
+,,189.0,1.0,,19:25 às 22:10,Leticia dos Santos Pereira
+,,184.0,15.0,,,Leticia dos Santos Pereira
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+QUIB12 - LABORATÓRIO I-N,100.0,184.0,12.0,QUI,18:30 às 20:20,Sergio Telles de Oliva
+,200.0,184.0,12.0,QUI,20:20 às 22:10,Sergio Telles de Oliva
+,300.0,184.0,12.0,SEX,18:30 às 20:20,Sergio Telles de Oliva
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+QUIB13 - FUNDAMENTOS DE QUÍMICA,10000.0,204.0,45.0,TER,13:00 às 14:50,Ravir Rodrigues Farias
+,20000.0,204.0,45.0,TER,14:50 às 16:40,Lucas Bomfim Bolzon
+,30000.0,281.0,30.0,SEX,18:30 às 20:20,Luiza Amim Mercante
+,,189.0,5.0,,,Luiza Amim Mercante
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+QUIB14 - QUÍMICA INORGÂNICA E OS SISTEMAS BIOLÓGICOS,10100.0,204.0,45.0,TER,10:40 às 12:30,Joicy Santamalvina dos Santos
+,,,,QUA,10:40 às 12:30,Joicy Santamalvina dos Santos
+,20200.0,281.0,45.0,SEG,18:30 às 20:20,Mauricio Brandao dos Santos
+,,,,,20:20 às 22:10,Mauricio Brandao dos Santos
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+QUIB15 - QUÍMICA ANALÍTICA INSTRUMENTAL I A,10100.0,113.0,12.0,TER,07:00 às 09:45,Maria das Gracas Andrade Korn
+,,,,,,Rodolfo de Melo Magalhaes Santana
+,,,,QUI,07:00 às 09:45,Maria das Gracas Andrade Korn
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+QUIB16 - QUÍMICA ANALÍTICA INSTRUMENTAL II,10100.0,113.0,12.0,TER,09:45 às 12:30,Maria das Gracas Andrade Korn
+,,,,,,Maria de Lourdes De Mascarenhas De Figue
+,,,,QUI,09:45 às 12:30,Maria das Gracas Andrade Korn
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+QUIB17 - QUÍMICA FUNDAMENTAL,10100.0,284.0,40.0,QUA,18:30 às 20:20,Ravir Rodrigues Farias
+,,,,,20:20 às 22:10,Ravir Rodrigues Farias
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+QUIB18 - SEMINÁRIO EM LABORATÓRIO,100.0,189.0,1.0,SEG,18:30 às 20:20,Sergio Telles de Oliva
+,,184.0,12.0,,,Sergio Telles de Oliva
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+QUIB19 - QUÍMICA INORGÂNICA I,10100.0,189.0,1.0,QUA,18:30 às 20:20,Luiza Amim Mercante
+,,184.0,18.0,,,Luiza Amim Mercante
+,,189.0,1.0,,20:20 às 22:10,Luiza Amim Mercante
+,,184.0,18.0,,,Luiza Amim Mercante
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+QUIB21 - QUÍMICA INORGÂNICA III,10100.0,184.0,18.0,SEG,18:30 às 20:20,Raildo Alves Fiuza Junior
+,,,,QUA,18:30 às 20:20,Raildo Alves Fiuza Junior
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+QUIB23 - TCC PARA LICENCIATURA EM QUÍMICA,100.0,184.0,1.0,CMB,00:00 às 23:00,Paulo Roberto Ribeiro de Jesus
+,200.0,184.0,1.0,CMB,00:00 às 23:00,Docente não informado pelo Departamento
+,300.0,184.0,1.0,CMB,00:00 às 23:00,Docente não informado pelo Departamento
+,400.0,184.0,1.0,CMB,00:00 às 23:00,Docente não informado pelo Departamento
+,500.0,184.0,1.0,CMB,00:00 às 23:00,Docente não informado pelo Departamento
+,600.0,184.0,1.0,CMB,00:00 às 23:00,Docente não informado pelo Departamento
+,700.0,184.0,1.0,CMB,00:00 às 23:00,Docente não informado pelo Departamento
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+QUIB24 - MÉTODOS CLÁSSICOS DE ANÁLISE,10100.0,189.0,2.0,TER,18:30 às 20:20,Docente Concursado
+,,184.0,12.0,,,Docente Concursado
+,,189.0,2.0,,20:20 às 22:10,Docente Concursado
+,,184.0,12.0,,,Docente Concursado
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+"QUIB30 - ÁGUA, NATUREZA E VIDA",10000.0,515.0,15.0,QUA,13:00 às 16:40,Marcos Malta dos Santos
+,,327.0,10.0,,,Marcos Malta dos Santos
+,,190.0,15.0,,,Marcos Malta dos Santos
+,20000.0,515.0,10.0,QUA,18:30 às 22:10,Marcos Malta dos Santos
+,,327.0,5.0,,,Marcos Malta dos Santos
+,,190.0,10.0,,,Marcos Malta dos Santos
+,,189.0,15.0,,,Marcos Malta dos Santos
+,30000.0,387.0,10.0,TER,18:30 às 20:20,Helianildes Silva Ferreira
+,,226.0,10.0,,,Helianildes Silva Ferreira
+,,189.0,20.0,,,Helianildes Silva Ferreira
+,,387.0,10.0,QUI,18:30 às 20:20,Helianildes Silva Ferreira
+,,226.0,10.0,,,Helianildes Silva Ferreira
+,,189.0,20.0,,,Helianildes Silva Ferreira
+,40000.0,327.0,5.0,TER,13:00 às 16:40,Helianildes Silva Ferreira
+,,226.0,10.0,,,Helianildes Silva Ferreira
+,,190.0,10.0,,,Helianildes Silva Ferreira
+,,189.0,15.0,,,Helianildes Silva Ferreira
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+"QUIB31 - ENERGIA, AMBIENTE E SOCIEDADE",10000.0,580.0,5.0,QUA,18:30 às 22:10,Humberto Polli
+,,387.0,4.0,,,Humberto Polli
+,,327.0,3.0,,,Humberto Polli
+,,286.0,3.0,,,Humberto Polli
+,,190.0,5.0,,,Humberto Polli
+,,189.0,20.0,,,Humberto Polli
+,20000.0,515.0,15.0,TER,13:00 às 16:40,Humberto Polli
+,,327.0,20.0,,,Humberto Polli
+,30000.0,580.0,20.0,QUA,13:00 às 16:40,Maria Luiza Andrade da Silva
+,,189.0,20.0,,,Maria Luiza Andrade da Silva
+,40000.0,580.0,2.0,QUI,13:00 às 16:40,Maria Luiza Andrade da Silva
+,,387.0,5.0,,,Maria Luiza Andrade da Silva
+,,327.0,10.0,,,Maria Luiza Andrade da Silva
+,,226.0,10.0,,,Maria Luiza Andrade da Silva
+,,190.0,10.0,,,Maria Luiza Andrade da Silva
+,,189.0,3.0,,,Maria Luiza Andrade da Silva
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+QUIB33 - QUÍMICA ORGÂNICA,10100.0,284.0,36.0,SEG,18:30 às 20:20,Jorge Mauricio David
+,,189.0,9.0,,,Jorge Mauricio David
+,,284.0,36.0,QUA,18:30 às 20:20,Jorge Mauricio David
+,,189.0,9.0,,,Jorge Mauricio David
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+QUIB35 - QUIMICA ANALITICA I-A,10100.0,204.0,12.0,QUA,08:50 às 10:40,Alailson Falcao Dantas
+,,,,,10:40 às 12:30,Alailson Falcao Dantas
+,10200.0,204.0,12.0,QUA,08:50 às 10:40,Alailson Falcao Dantas
+,,,,QUI,08:50 às 10:40,Alailson Falcao Dantas
+,10300.0,204.0,12.0,QUA,08:50 às 10:40,Alailson Falcao Dantas
+,,,,QUI,10:40 às 12:30,Alailson Falcao Dantas
+,20400.0,204.0,12.0,QUI,08:50 às 10:40,Fabio de Souza Dias
+,,,,,10:40 às 12:30,Fabio de Souza Dias
+,20500.0,204.0,12.0,QUI,08:50 às 10:40,Fabio de Souza Dias
+,,,,SEX,08:50 às 10:40,Fabio de Souza Dias
+,20600.0,204.0,12.0,QUI,08:50 às 10:40,Fabio de Souza Dias
+,,,,SEX,10:40 às 12:30,Fabio de Souza Dias
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+QUIB36 - QUIMICA ANALÍTICA II-A,10100.0,204.0,12.0,QUA,08:50 às 10:40,Daniele Cristina Muniz Batista dos Santo
+,,,,,13:00 às 14:50,Daniele Cristina Muniz Batista dos Santo
+,10200.0,204.0,12.0,QUA,08:50 às 10:40,Daniele Cristina Muniz Batista dos Santo
+,,,,,14:50 às 16:40,Daniele Cristina Muniz Batista dos Santo
+,10300.0,204.0,12.0,QUA,08:50 às 10:40,Daniele Cristina Muniz Batista dos Santo
+,,,,,16:40 às 18:30,Rodolfo de Melo Magalhaes Santana
+,20400.0,281.0,12.0,QUA,18:30 às 20:20,Rennan Geovanny Oliveira Araujo
+,,,,QUI,18:30 às 20:20,Rennan Geovanny Oliveira Araujo
+,20500.0,281.0,12.0,QUA,18:30 às 20:20,Rennan Geovanny Oliveira Araujo
+,,,,QUI,20:20 às 22:10,Rennan Geovanny Oliveira Araujo
+,30600.0,204.0,12.0,SEG,08:50 às 10:40,Licia Passos dos Santos Cruz
+,,,,,13:00 às 14:50,Gisele Olimpio da Rocha
+,30700.0,204.0,12.0,SEG,08:50 às 10:40,Licia Passos dos Santos Cruz
+,,,,,14:50 às 16:40,Gisele Olimpio da Rocha
+,30800.0,204.0,12.0,SEG,08:50 às 10:40,Licia Passos dos Santos Cruz
+,,,,,16:40 às 18:30,Gisele Olimpio da Rocha
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+QUIB37 - QUÍMICA ORGÂNICA BÁSICA EXPERIMENTAL I-A,100.0,204.0,10.0,SEG,07:00 às 10:40,Regina Maria Geris dos Santos
+,200.0,284.0,6.0,TER,07:00 às 10:40,Floricea Magalhaes Araujo
+,,204.0,6.0,,,Floricea Magalhaes Araujo
+,300.0,204.0,10.0,QUA,07:00 às 10:40,Andre Alexandre Vieira
+,400.0,204.0,10.0,QUI,07:00 às 10:40,Floricea Magalhaes Araujo
+,500.0,281.0,10.0,QUA,18:30 às 22:10,Caline Gomes Ferraz
+,600.0,281.0,10.0,SEX,18:30 às 22:10,Caline Gomes Ferraz
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+QUIB44 - TÓPICOS ESPECIAIS EM QUÍMICA ANALÍTICA II,10000.0,113.0,12.0,QUA,13:00 às 16:40,Rodolfo de Melo Magalhaes Santana
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+QUIB50 - FUNDAMENTOS DE QUÍMICA,10000.0,185.0,45.0,QUI,20:20 às 22:10,Luiza Amim Mercante
+,20000.0,190.0,4.0,QUI,20:20 às 22:10,Docente Substituto a Contratar
+,,189.0,9.0,,,Docente Substituto a Contratar
+,,188.0,22.0,,,Docente Substituto a Contratar
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+QUIB69 - FORMAÇÃO DE CONCEITOS EM QUÍMICA,10100.0,190.0,1.0,QUI,13:55 às 14:50,Lucas Vivas de Sa
+,,113.0,15.0,,,Lucas Vivas de Sa
+,,190.0,1.0,,14:50 às 17:35,Lucas Vivas de Sa
+,,113.0,15.0,,,Lucas Vivas de Sa
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+QUIB74 - TÓPICOS ESPECIAIS EM QUÍMICA,10100.0,190.0,4.0,TER,14:50 às 15:45,Caio Luis Santos Silva
+,,113.0,40.0,,,Caio Luis Santos Silva
+,,190.0,4.0,,15:45 às 16:40,Caio Luis Santos Silva
+,,113.0,40.0,,,Caio Luis Santos Silva
+,20200.0,190.0,4.0,SEX,14:50 às 15:45,Caio Luis Santos Silva
+,,113.0,40.0,,,Caio Luis Santos Silva
+,,190.0,4.0,,15:45 às 16:40,Caio Luis Santos Silva
+,,113.0,40.0,,,Caio Luis Santos Silva
+,30300.0,189.0,7.0,SEX,18:30 às 19:25,Caio Luis Santos Silva
+,,184.0,23.0,,,Caio Luis Santos Silva
+,,113.0,10.0,,,Caio Luis Santos Silva
+,,189.0,7.0,,19:25 às 20:20,Caio Luis Santos Silva
+,,184.0,23.0,,,Caio Luis Santos Silva
+,,113.0,10.0,,,Caio Luis Santos Silva
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+QUIC15 - TÓPICOS ESPECIAIS EM QUÍMICA ORGÂNICA I,10000.0,189.0,4.0,SEX,16:40 às 18:30,Elisangela Fabiana Boffo
+,,113.0,45.0,,,Elisangela Fabiana Boffo
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+QUIC62 - EDUCAÇÃO EM QUÍMICA E RELAÇÕES ÉTNICO-RACIAIS,10000.0,190.0,1.0,QUA,08:50 às 12:30,Paloma Nascimento dos Santos
+,,113.0,15.0,,,Paloma Nascimento dos Santos
+,,190.0,1.0,,,Patricia Fernanda de Oliveira Cabral
+,,113.0,15.0,,,Patricia Fernanda de Oliveira Cabral
+,20000.0,189.0,1.0,QUA,18:30 às 22:10,Paloma Nascimento dos Santos
+,,184.0,15.0,,,Paloma Nascimento dos Santos
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+QUIC76 - FILOSOFIA DA QUÍMICA,10000.0,189.0,1.0,QUI,18:30 às 20:20,Jailson Alves dos Santos
+,,184.0,10.0,,,Jailson Alves dos Santos
+,,113.0,15.0,,,Jailson Alves dos Santos
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+QUIC78 - ASPECTOS TEÓRICOS DE LABORATÓRIO I,10000.0,190.0,5.0,SEG,14:50 às 16:40,Maria de Lourdes De Mascarenhas De Figue
+,,113.0,55.0,,,Maria de Lourdes De Mascarenhas De Figue

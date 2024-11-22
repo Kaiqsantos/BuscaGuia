@@ -1,0 +1,648 @@
+"Disciplina","Turma","Coleg.","Vagas Ofe","Dia","Horário","Docente"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"ICS512 - IMUNOPATOLOGIA E IMUNODEFICIENCIA","010000","238","15","QUA","09:45 às 11:35","Lucas Pedreira de Carvalho"
+NA,NA,"254","15",NA,NA,"Lucas Pedreira de Carvalho"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"ICS514 - METODOLOGIA DAS CIENCIAS EXPERIMENTAIS","010100","254","15","QUA","14:50 às 15:45","Nicolaus Albert Borges Schriefer"
+NA,NA,"238","15",NA,NA,"Nicolaus Albert Borges Schriefer"
+NA,NA,NA,NA,NA,"15:45 às 16:40","Nicolaus Albert Borges Schriefer"
+NA,NA,"254","15",NA,NA,"Nicolaus Albert Borges Schriefer"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"ICS516 - IMUNOLOGIA HUMORAL","010100","238","20","TER","10:40 às 12:30","Maria Luiza Brito de Sousa Atta"
+NA,NA,NA,NA,"QUI","14:50 às 17:35","Maria Luiza Brito de Sousa Atta"
+NA,"020200","254","30","TER","10:40 às 12:30","Ajax Merces Atta"
+NA,NA,NA,NA,"QUI","14:50 às 17:35","Ajax Merces Atta"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"ICS524 - BIOQUIMICA E BIOLOGIA MOLECULAR","010100","254","20","TER","07:55 às 09:45","Maria de Fatima Dias Costa"
+NA,NA,NA,NA,"QUI","07:00 às 09:45","Maria de Fatima Dias Costa"
+NA,"010200","238","10","TER","07:55 às 09:45","Maria de Fatima Dias Costa"
+NA,NA,"254","10",NA,NA,"Maria de Fatima Dias Costa"
+NA,NA,NA,NA,"QUI","07:00 às 09:45","Nicolaus Albert Borges Schriefer"
+NA,NA,"238","10",NA,NA,"Nicolaus Albert Borges Schriefer"
+NA,"010300","238","20","TER","07:55 às 09:45","Maria de Fatima Dias Costa"
+NA,NA,NA,NA,"QUI","07:00 às 09:45","Gyselle Chrystina Baccan"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"ICS525 - IMUNOLOGIA DAS DOENCAS VIRAIS","010000","254","15","SEX","13:55 às 15:45","Alex Jose Leite Torres"
+NA,NA,"238","15",NA,NA,"Alex Jose Leite Torres"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"ICS790 - PESQUISA ORIENTADA","010000","238","50","CMB","00:00 às 23:00","Maria Luiza Brito de Sousa Atta"
+NA,NA,NA,NA,NA,NA,"Ajax Merces Atta"
+NA,NA,NA,NA,NA,NA,"Marilda de Souza Goncalves"
+NA,NA,NA,NA,NA,NA,"Neuza Maria Alcantara Neves"
+NA,NA,NA,NA,NA,NA,"Carlos Roberto Brites Alves"
+NA,NA,NA,NA,NA,NA,"Silvia Lima Costa"
+NA,NA,NA,NA,NA,NA,"Nicolaus Albert Borges Schriefer"
+NA,NA,NA,NA,NA,NA,"Lucas Pedreira de Carvalho"
+NA,NA,NA,NA,NA,NA,"Camila Alexandrina Viana de Figueiredo F"
+NA,NA,NA,NA,NA,NA,"Luciana Santos Cardoso"
+NA,NA,NA,NA,NA,NA,"Roberto Jose Meyer Nascimento"
+NA,NA,NA,NA,NA,NA,"Songeli Menezes Freire"
+NA,"020000","254","160","CMB","00:00 às 23:00","Maria Luiza Brito de Sousa Atta"
+NA,NA,NA,NA,NA,NA,"Ajax Merces Atta"
+NA,NA,NA,NA,NA,NA,"Marilda de Souza Goncalves"
+NA,NA,NA,NA,NA,NA,"Neuza Maria Alcantara Neves"
+NA,NA,NA,NA,NA,NA,"Carlos Roberto Brites Alves"
+NA,NA,NA,NA,NA,NA,"Silvia Lima Costa"
+NA,NA,NA,NA,NA,NA,"Nicolaus Albert Borges Schriefer"
+NA,NA,NA,NA,NA,NA,"Lucas Pedreira de Carvalho"
+NA,NA,NA,NA,NA,NA,"Camila Alexandrina Viana de Figueiredo F"
+NA,NA,NA,NA,NA,NA,"Luciana Santos Cardoso"
+NA,NA,NA,NA,NA,NA,"Roberto Jose Meyer Nascimento"
+NA,NA,NA,NA,NA,NA,"Songeli Menezes Freire"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"ICS791 - TIROCINIO DOCENTE ORIENTADO","010000","254","15","CMB","00:00 às 23:00","Lucas Pedreira de Carvalho"
+NA,NA,"238","10",NA,NA,"Lucas Pedreira de Carvalho"
+NA,"020000","254","15","CMB","00:00 às 23:00","Maria Luiza Brito de Sousa Atta"
+NA,NA,"238","10",NA,NA,"Maria Luiza Brito de Sousa Atta"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"ICS792 - PROJETO DE DISSERTACAO","010000","238","15","CMB","00:00 às 23:00","Maria Luiza Brito de Sousa Atta"
+NA,NA,NA,NA,NA,NA,"Ajax Merces Atta"
+NA,NA,NA,NA,NA,NA,"Marilda de Souza Goncalves"
+NA,NA,NA,NA,NA,NA,"Neuza Maria Alcantara Neves"
+NA,NA,NA,NA,NA,NA,"Carlos Roberto Brites Alves"
+NA,NA,NA,NA,NA,NA,"Silvia Lima Costa"
+NA,NA,NA,NA,NA,NA,"Nicolaus Albert Borges Schriefer"
+NA,NA,NA,NA,NA,NA,"Lucas Pedreira de Carvalho"
+NA,NA,NA,NA,NA,NA,"Camila Alexandrina Viana de Figueiredo F"
+NA,NA,NA,NA,NA,NA,"Luciana Santos Cardoso"
+NA,NA,NA,NA,NA,NA,"Roberto Jose Meyer Nascimento"
+NA,NA,NA,NA,NA,NA,"Songeli Menezes Freire"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"ICS793 - SEMINARIO CIENTIFICO PPGIM","010000","254","30","QUI","09:45 às 11:35","Camila Alexandrina Viana de Figueiredo F"
+NA,"020000","238","30","QUI","10:40 às 12:30","Silvia Lima Costa"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"ICS794 - PROJETO DE TESE","010000","254","15","CMB","00:00 às 23:00","Maria Luiza Brito de Sousa Atta"
+NA,NA,NA,NA,NA,NA,"Ajax Merces Atta"
+NA,NA,NA,NA,NA,NA,"Marilda de Souza Goncalves"
+NA,NA,NA,NA,NA,NA,"Neuza Maria Alcantara Neves"
+NA,NA,NA,NA,NA,NA,"Carlos Roberto Brites Alves"
+NA,NA,NA,NA,NA,NA,"Silvia Lima Costa"
+NA,NA,NA,NA,NA,NA,"Nicolaus Albert Borges Schriefer"
+NA,NA,NA,NA,NA,NA,"Lucas Pedreira de Carvalho"
+NA,NA,NA,NA,NA,NA,"Camila Alexandrina Viana de Figueiredo F"
+NA,NA,NA,NA,NA,NA,"Luciana Santos Cardoso"
+NA,NA,NA,NA,NA,NA,"Roberto Jose Meyer Nascimento"
+NA,NA,NA,NA,NA,NA,"Songeli Menezes Freire"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"ICS939 - ESTAGIO DOCENTE ORIENTADO/MESTRADO","000001","238","10","CMB","00:00 às 23:00","Roberto Jose Meyer Nascimento"
+NA,"000002","238","10","CMB","00:00 às 23:00","Docente não informado pelo Departamento"
+NA,"000003","238","10","CMB","00:00 às 23:00","Docente não informado pelo Departamento"
+NA,"000004","238","10","CMB","00:00 às 23:00","Camila Alexandrina Viana de Figueiredo F"
+NA,"000005","238","10","CMB","00:00 às 23:00","Docente não informado pelo Departamento"
+NA,"000006","238","10","CMB","00:00 às 23:00","Gyselle Chrystina Baccan"
+NA,"000007","238","10","CMB","00:00 às 23:00","Docente não informado pelo Departamento"
+NA,"000008","238","10","CMB","00:00 às 23:00","Lucas Pedreira de Carvalho"
+NA,"000009","238","10","CMB","00:00 às 23:00","Docente não informado pelo Departamento"
+NA,"000010","238","10","CMB","00:00 às 23:00","Docente não informado pelo Departamento"
+NA,"000011","238","10","CMB","00:00 às 23:00","Docente não informado pelo Departamento"
+NA,"000012","238","10","CMB","00:00 às 23:00","Neuza Maria Alcantara Neves"
+NA,"000013","238","10","CMB","00:00 às 23:00","Nicolaus Albert Borges Schriefer"
+NA,"000014","238","10","CMB","00:00 às 23:00","Silvia Lima Costa"
+NA,"000015","238","10","CMB","00:00 às 23:00","Songeli Menezes Freire"
+NA,"000016","238","10","CMB","00:00 às 23:00","Docente não informado pelo Departamento"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"ICS940 - ESTAGIO DOCENTE ORIENTADO/DOUTORADO","000001","254","10","CMB","00:00 às 23:00","Roberto Jose Meyer Nascimento"
+NA,"000002","254","10","CMB","00:00 às 23:00","Docente não informado pelo Departamento"
+NA,"000003","254","10","CMB","00:00 às 23:00","Docente não informado pelo Departamento"
+NA,"000004","254","10","CMB","00:00 às 23:00","Camila Alexandrina Viana de Figueiredo F"
+NA,"000005","254","10","CMB","00:00 às 23:00","Docente não informado pelo Departamento"
+NA,"000006","254","10","CMB","00:00 às 23:00","Lucas Pedreira de Carvalho"
+NA,"000007","254","10","CMB","00:00 às 23:00","Docente não informado pelo Departamento"
+NA,"000008","254","10","CMB","00:00 às 23:00","Docente não informado pelo Departamento"
+NA,"000009","254","10","CMB","00:00 às 23:00","Docente não informado pelo Departamento"
+NA,"000010","254","10","CMB","00:00 às 23:00","Neuza Maria Alcantara Neves"
+NA,"000011","254","10","CMB","00:00 às 23:00","Nicolaus Albert Borges Schriefer"
+NA,"000012","254","10","CMB","00:00 às 23:00","Silvia Lima Costa"
+NA,"000013","254","10","CMB","00:00 às 23:00","Songeli Menezes Freire"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"ICSA01 - BIOQUIMICA AVANÇADA E EXPERIMENTAÇÃO","010000","265","15","TER","13:00 às 14:50","Silvia Lima Costa"
+NA,NA,"247","5",NA,NA,"Silvia Lima Costa"
+NA,NA,"265","15",NA,NA,"Victor Diogenes Amaral da Silva"
+NA,NA,"247","5",NA,NA,"Victor Diogenes Amaral da Silva"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"ICSA73 - PESQUISA ORIENTADA","010000","259","35","CMB","00:00 às 23:00","Eduardo Ponde de Sena"
+NA,NA,"245","35",NA,NA,"Eduardo Ponde de Sena"
+NA,NA,"259","35",NA,NA,"Helton Estrela Ramos"
+NA,NA,"245","35",NA,NA,"Helton Estrela Ramos"
+NA,NA,"259","35",NA,NA,"Fabiana Paim Rosa"
+NA,NA,"245","35",NA,NA,"Fabiana Paim Rosa"
+NA,NA,"259","35",NA,NA,"Maria Isabel Schinoni"
+NA,NA,"245","35",NA,NA,"Maria Isabel Schinoni"
+NA,NA,"259","35",NA,NA,"Elisabete Freire Santos da Cunha"
+NA,NA,"245","35",NA,NA,"Elisabete Freire Santos da Cunha"
+NA,NA,"259","35",NA,NA,"Jozelio Freire de Carvalho"
+NA,NA,"245","35",NA,NA,"Jozelio Freire de Carvalho"
+NA,NA,"259","35",NA,NA,"Ana Caline Nobrega da Costa"
+NA,NA,"245","35",NA,NA,"Ana Caline Nobrega da Costa"
+NA,NA,"259","35",NA,NA,"Camila Alexandrina Viana de Figueiredo F"
+NA,NA,"245","35",NA,NA,"Camila Alexandrina Viana de Figueiredo F"
+NA,NA,"259","35",NA,NA,"Adelmir de Souza Machado"
+NA,NA,"245","35",NA,NA,"Adelmir de Souza Machado"
+NA,NA,"259","35",NA,NA,"Roberto Paulo Correia de Araujo"
+NA,NA,"245","35",NA,NA,"Roberto Paulo Correia de Araujo"
+NA,NA,"259","35",NA,NA,"Maria de Fatima Dias Costa"
+NA,NA,"245","35",NA,NA,"Maria de Fatima Dias Costa"
+NA,NA,"259","35",NA,NA,"Roberto Jose Meyer Nascimento"
+NA,NA,"245","35",NA,NA,"Roberto Jose Meyer Nascimento"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"ICSA74 - PROJETO DE DISSERTAÇÃO","010000","245","35","CMB","00:00 às 23:00","Eduardo Ponde de Sena"
+NA,NA,NA,NA,NA,NA,"Helton Estrela Ramos"
+NA,NA,NA,NA,NA,NA,"Fabiana Paim Rosa"
+NA,NA,NA,NA,NA,NA,"Maria Isabel Schinoni"
+NA,NA,NA,NA,NA,NA,"Elisabete Freire Santos da Cunha"
+NA,NA,NA,NA,NA,NA,"Jozelio Freire de Carvalho"
+NA,NA,NA,NA,NA,NA,"Ana Caline Nobrega da Costa"
+NA,NA,NA,NA,NA,NA,"Camila Alexandrina Viana de Figueiredo F"
+NA,NA,NA,NA,NA,NA,"Adelmir de Souza Machado"
+NA,NA,NA,NA,NA,NA,"Roberto Paulo Correia de Araujo"
+NA,NA,NA,NA,NA,NA,"Maria de Fatima Dias Costa"
+NA,NA,NA,NA,NA,NA,"Roberto Jose Meyer Nascimento"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"ICSA75 - TIROCÍNIO DOCENTE ORIENTADO","010000","259","20","CMB","00:00 às 23:00","Eduardo Ponde de Sena"
+NA,NA,"245","24",NA,NA,"Eduardo Ponde de Sena"
+NA,NA,"259","20",NA,NA,"Helton Estrela Ramos"
+NA,NA,"245","24",NA,NA,"Helton Estrela Ramos"
+NA,NA,"259","20",NA,NA,"Fabiana Paim Rosa"
+NA,NA,"245","24",NA,NA,"Fabiana Paim Rosa"
+NA,NA,"259","20",NA,NA,"Maria Isabel Schinoni"
+NA,NA,"245","24",NA,NA,"Maria Isabel Schinoni"
+NA,NA,"259","20",NA,NA,"Elisabete Freire Santos da Cunha"
+NA,NA,"245","24",NA,NA,"Elisabete Freire Santos da Cunha"
+NA,NA,"259","20",NA,NA,"Ana Caline Nobrega da Costa"
+NA,NA,"245","24",NA,NA,"Ana Caline Nobrega da Costa"
+NA,NA,"259","20",NA,NA,"Adelmir de Souza Machado"
+NA,NA,"245","24",NA,NA,"Adelmir de Souza Machado"
+NA,NA,"259","20",NA,NA,"Roberto Paulo Correia de Araujo"
+NA,NA,"245","24",NA,NA,"Roberto Paulo Correia de Araujo"
+NA,NA,"259","20",NA,NA,"Maria de Fatima Dias Costa"
+NA,NA,"245","24",NA,NA,"Maria de Fatima Dias Costa"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"ICSA76 - ELABORAÇÃO DE ARTIGOS CIENTÍFICOS","010000","259","55","CMB","00:00 às 23:00","Eduardo Ponde de Sena"
+NA,NA,"245","35",NA,NA,"Eduardo Ponde de Sena"
+NA,NA,"259","55",NA,NA,"Helton Estrela Ramos"
+NA,NA,"245","35",NA,NA,"Helton Estrela Ramos"
+NA,NA,"259","55",NA,NA,"Fabiana Paim Rosa"
+NA,NA,"245","35",NA,NA,"Fabiana Paim Rosa"
+NA,NA,"259","55",NA,NA,"Maria Isabel Schinoni"
+NA,NA,"245","35",NA,NA,"Maria Isabel Schinoni"
+NA,NA,"259","55",NA,NA,"Elisabete Freire Santos da Cunha"
+NA,NA,"245","35",NA,NA,"Elisabete Freire Santos da Cunha"
+NA,NA,"259","55",NA,NA,"Jozelio Freire de Carvalho"
+NA,NA,"245","35",NA,NA,"Jozelio Freire de Carvalho"
+NA,NA,"259","55",NA,NA,"Ana Caline Nobrega da Costa"
+NA,NA,"245","35",NA,NA,"Ana Caline Nobrega da Costa"
+NA,NA,"259","55",NA,NA,"Camila Alexandrina Viana de Figueiredo F"
+NA,NA,"245","35",NA,NA,"Camila Alexandrina Viana de Figueiredo F"
+NA,NA,"259","55",NA,NA,"Adelmir de Souza Machado"
+NA,NA,"245","35",NA,NA,"Adelmir de Souza Machado"
+NA,NA,"259","55",NA,NA,"Roberto Paulo Correia de Araujo"
+NA,NA,"245","35",NA,NA,"Roberto Paulo Correia de Araujo"
+NA,NA,"259","55",NA,NA,"Maria de Fatima Dias Costa"
+NA,NA,"245","35",NA,NA,"Maria de Fatima Dias Costa"
+NA,NA,"259","55",NA,NA,"Roberto Jose Meyer Nascimento"
+NA,NA,"245","35",NA,NA,"Roberto Jose Meyer Nascimento"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"ICSA77 - EXAME DE QUALIFICAÇÃO DA DISSERTAÇÃO","010000","245","10","CMB","00:00 às 23:00","Docente não informado pelo Departamento"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"ICSA78 - PROJETO DE TESE","010000","259","55","CMB","00:00 às 23:00","Eduardo Ponde de Sena"
+NA,NA,NA,NA,NA,NA,"Helton Estrela Ramos"
+NA,NA,NA,NA,NA,NA,"Fabiana Paim Rosa"
+NA,NA,NA,NA,NA,NA,"Maria Isabel Schinoni"
+NA,NA,NA,NA,NA,NA,"Elisabete Freire Santos da Cunha"
+NA,NA,NA,NA,NA,NA,"Jozelio Freire de Carvalho"
+NA,NA,NA,NA,NA,NA,"Ana Caline Nobrega da Costa"
+NA,NA,NA,NA,NA,NA,"Adelmir de Souza Machado"
+NA,NA,NA,NA,NA,NA,"Roberto Paulo Correia de Araujo"
+NA,NA,NA,NA,NA,NA,"Maria de Fatima Dias Costa"
+NA,NA,NA,NA,NA,NA,"Roberto Jose Meyer Nascimento"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"ICSA79 - EXAME DE QUALIFICAÇÃO DA TESE","010000","259","10","CMB","00:00 às 23:00","Docente não informado pelo Departamento"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"ICSB75 - PESQUISA ORIENTADA","010000","844","20","CMB","00:00 às 23:00","Lidercia Cavalcanti Ribeiro Cerqueira e"
+NA,NA,"296","40",NA,NA,"Lidercia Cavalcanti Ribeiro Cerqueira e"
+NA,NA,"844","20",NA,NA,"Neuza Maria Alcantara Neves"
+NA,NA,"296","40",NA,NA,"Neuza Maria Alcantara Neves"
+NA,NA,"844","20",NA,NA,"Lilia Ferreira de Moura Costa"
+NA,NA,"296","40",NA,NA,"Lilia Ferreira de Moura Costa"
+NA,NA,"844","20",NA,NA,"Silvia Ines Sardi"
+NA,NA,"296","40",NA,NA,"Silvia Ines Sardi"
+NA,NA,"844","20",NA,NA,"Ricardo Wagner Dias Portela"
+NA,NA,"296","40",NA,NA,"Ricardo Wagner Dias Portela"
+NA,NA,"844","20",NA,NA,"Thiago Campanharo Bahiense"
+NA,NA,"296","40",NA,NA,"Thiago Campanharo Bahiense"
+NA,NA,"844","20",NA,NA,"Suzana Telles da Cunha Lima"
+NA,NA,"296","40",NA,NA,"Suzana Telles da Cunha Lima"
+NA,NA,"844","20",NA,NA,"Vitor Hugo Moreau da Cunha"
+NA,NA,"296","40",NA,NA,"Vitor Hugo Moreau da Cunha"
+NA,NA,"844","20",NA,NA,"Luis Gustavo Carvalho Pacheco"
+NA,NA,"296","40",NA,NA,"Luis Gustavo Carvalho Pacheco"
+NA,NA,"844","20",NA,NA,"Fabio Alexandre Chinalia"
+NA,NA,"296","40",NA,NA,"Fabio Alexandre Chinalia"
+NA,NA,"844","20",NA,NA,"Carina da Silva Pinheiro"
+NA,NA,"296","40",NA,NA,"Carina da Silva Pinheiro"
+NA,NA,"844","20",NA,NA,"Renato Delmondez de Castro"
+NA,NA,"296","40",NA,NA,"Renato Delmondez de Castro"
+NA,NA,"844","20",NA,NA,"Josilene Borges Torres Lima Matos"
+NA,NA,"296","40",NA,NA,"Josilene Borges Torres Lima Matos"
+NA,NA,"844","20",NA,NA,"Paulo Fernando de Almeida"
+NA,NA,"296","40",NA,NA,"Paulo Fernando de Almeida"
+NA,NA,"844","20",NA,NA,"Roberto Jose Meyer Nascimento"
+NA,NA,"296","40",NA,NA,"Roberto Jose Meyer Nascimento"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"ICSB76 - TIROCÍNIO DOCENTE ORIENTADO","010000","296","15","CMB","00:00 às 23:00","Josilene Borges Torres Lima Matos"
+NA,"020000","844","20","CMB","00:00 às 23:00","Lilia Ferreira de Moura Costa"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"ICSB77 - EXAME DE QUALIFICAÇÃO","010000","296","15","CMB","00:00 às 23:00","Silvia Ines Sardi"
+NA,NA,NA,NA,NA,NA,"Suzana Telles da Cunha Lima"
+NA,NA,NA,NA,NA,NA,"Luis Gustavo Carvalho Pacheco"
+NA,NA,NA,NA,NA,NA,"Fabio Alexandre Chinalia"
+NA,NA,NA,NA,NA,NA,"Carina da Silva Pinheiro"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"ICSB78 - PROJETO DE DISSERTAÇÃO","010000","296","15","CMB","00:00 às 23:00","Lilia Ferreira de Moura Costa"
+NA,NA,NA,NA,NA,NA,"Suzana Telles da Cunha Lima"
+NA,NA,NA,NA,NA,NA,"Vitor Hugo Moreau da Cunha"
+NA,NA,NA,NA,NA,NA,"Luis Gustavo Carvalho Pacheco"
+NA,NA,NA,NA,NA,NA,"Fabio Alexandre Chinalia"
+NA,NA,NA,NA,NA,NA,"Josilene Borges Torres Lima Matos"
+NA,NA,NA,NA,NA,NA,"Roberto Jose Meyer Nascimento"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"ICSC61 - ANIMAIS DE LABORATÓRIO: MANEJO ÉTICO","010000","228","10","CMB","00:00 às 23:00","Gyselle Chrystina Baccan"
+NA,NA,"227","20",NA,NA,"Gyselle Chrystina Baccan"
+NA,NA,"228","10",NA,NA,"Victor Diogenes Amaral da Silva"
+NA,NA,"227","20",NA,NA,"Victor Diogenes Amaral da Silva"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"ICSC62 - ÁREAS DE FRONTEIRA: SEMIN EM BIOQUÍMICA E BIOLOGIA MOLECULAR","010000","228","10","CMB","00:00 às 23:00","Luzimar Gonzaga Fernandez"
+NA,NA,"227","20",NA,NA,"Luzimar Gonzaga Fernandez"
+NA,NA,"228","10",NA,NA,"Simone Garcia Macambira"
+NA,NA,"227","20",NA,NA,"Simone Garcia Macambira"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"ICSC84 - FUNDAMENTOS DE BIOQUÍMICA","010000","228","10","CMB","00:00 às 23:00","Luzimar Gonzaga Fernandez"
+NA,NA,"227","20",NA,NA,"Luzimar Gonzaga Fernandez"
+NA,NA,"228","10",NA,NA,"Vitor Antonio Fortuna"
+NA,NA,"227","20",NA,NA,"Vitor Antonio Fortuna"
+NA,NA,NA,NA,NA,NA,"Simone Garcia Macambira"
+NA,NA,"228","10",NA,NA,"Simone Garcia Macambira"
+NA,NA,NA,NA,NA,NA,"Renato Delmondez de Castro"
+NA,NA,"227","20",NA,NA,"Renato Delmondez de Castro"
+NA,NA,"228","10",NA,NA,"Daniele Takahashi Bernal"
+NA,NA,"227","20",NA,NA,"Daniele Takahashi Bernal"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"ICSC85 - FUNDAMENTOS EM BIOLOGIA MOLECULAR","010000","228","10","CMB","00:00 às 23:00","Docente não informado pelo Departamento"
+NA,NA,"227","20",NA,NA,"Docente não informado pelo Departamento"
+NA,NA,"228","10",NA,NA,"Vitor Antonio Fortuna"
+NA,NA,"227","20",NA,NA,"Vitor Antonio Fortuna"
+NA,NA,"228","10",NA,NA,"Luis Gustavo Carvalho Pacheco"
+NA,NA,"227","20",NA,NA,"Luis Gustavo Carvalho Pacheco"
+NA,NA,"228","10",NA,NA,"Daniele Takahashi Bernal"
+NA,NA,"227","20",NA,NA,"Daniele Takahashi Bernal"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"ICSC89 - HORMÔNIOS E METABOLISMO: VISÃO INTEGRATIVA","010000","228","10","CMB","00:00 às 23:00","Gyselle Chrystina Baccan"
+NA,NA,"227","20",NA,NA,"Gyselle Chrystina Baccan"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"ICSD24 - AVANÇOS EM BIOQUIMICA E BIOFISICA","010000","295","20","CMB","00:00 às 23:00","Luzimar Gonzaga Fernandez"
+NA,NA,NA,NA,NA,NA,"Ronan Batista"
+NA,NA,NA,NA,NA,NA,"Renato Delmondez de Castro"
+NA,NA,NA,NA,NA,NA,"Paulo Roberto Ribeiro de Jesus"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"ICSD25 - BIOINFORMÁTICA","010000","295","20","CMB","00:00 às 23:00","Docente não informado pelo Departamento"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"ICSD26 - BIONEGÓCIOS E MARCOS LEGAIS EM BIOTECNOLOGIA","010000","295","20","CMB","00:00 às 23:00","Cristina Maria Assis Lopes Tavares da Ma"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"ICSD27 - BIOÉTICA E BIOSSEGURANÇA","010000","295","20","CMB","00:00 às 23:00","Antonio Luiz Barbosa Pinheiro"
+NA,NA,NA,NA,NA,NA,"Maria Cristina Teixeira Cangussu"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"ICSD29 - COMUNICAÇÃO DE RESULTADO DE PESQIUSA","010000","295","20","CMB","00:00 às 23:00","Antonio Luiz Barbosa Pinheiro"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"ICSD33 - CIÊNCIA E INOVAÇÃO","010000","295","20","CMB","00:00 às 23:00","Cristina Maria Assis Lopes Tavares da Ma"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"ICSD35 - EXTRAÇÃO E PURIFICAÇÃO DE BIOMOLÉCULAS","010000","295","20","CMB","00:00 às 23:00","Janice Izabel Druzian"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"ICSD38 - PLANEJAMENTOS DE EXPERIMENTOS","010000","295","20","CMB","00:00 às 23:00","Antonio Luiz Barbosa Pinheiro"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"ICSD40 - PROSPECÇÃO TECNOLÓGICA","010000","295","20","CMB","00:00 às 23:00","Cristina Maria Assis Lopes Tavares da Ma"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"ICSD80 - BIOSSINTESE DE PRODUTOS NATURAIS","010000","295","20","CMB","00:00 às 23:00","Jorge Mauricio David"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"ICSE47 - PESQUISA ORIENTADA","010000","295","40","CMB","00:00 às 23:00","Neuza Maria Alcantara Neves"
+NA,NA,NA,NA,NA,NA,"Juceni Pereira de Lima David"
+NA,NA,NA,NA,NA,NA,"Luzimar Gonzaga Fernandez"
+NA,NA,NA,NA,NA,NA,"Jorge Mauricio David"
+NA,NA,NA,NA,NA,NA,"Antonio Luiz Barbosa Pinheiro"
+NA,NA,NA,NA,NA,NA,"Maria Cristina Teixeira Cangussu"
+NA,NA,NA,NA,NA,NA,"Ronan Batista"
+NA,NA,NA,NA,NA,NA,"Janice Izabel Druzian"
+NA,NA,NA,NA,NA,NA,"Vitor Hugo Moreau da Cunha"
+NA,NA,NA,NA,NA,NA,"Milton Ricardo de Abreu Roque"
+NA,NA,NA,NA,NA,NA,"Fabio Alexandre Chinalia"
+NA,NA,NA,NA,NA,NA,"Renato Delmondez de Castro"
+NA,NA,NA,NA,NA,NA,"Paulo Roberto Ribeiro de Jesus"
+NA,NA,NA,NA,NA,NA,"Paulo Fernando de Almeida"
+NA,NA,NA,NA,NA,NA,"Roberto Jose Meyer Nascimento"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"ICSE48 - ESTÁGIO DOCÊNCIA","010000","295","31","CMB","00:00 às 23:00","Antonio Luiz Barbosa Pinheiro"
+NA,NA,NA,NA,NA,NA,"Paulo Fernando de Almeida"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"ICSE49 - PROJETO DE TESE","010000","295","20","CMB","00:00 às 23:00","Antonio Luiz Barbosa Pinheiro"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"ICSE50 - PROJETO DE TESE","010000","228","4","CMB","00:00 às 23:00","Aline Cristina Andrade Mota Miranda Masc"
+NA,"020000","228","4","CMB","00:00 às 23:00","Gyselle Chrystina Baccan"
+NA,"030000","228","4","CMB","00:00 às 23:00","Joana Paixao Monteiro Cunha"
+NA,"040000","228","4","CMB","00:00 às 23:00","Luis Gustavo Carvalho Pacheco"
+NA,"050000","228","4","CMB","00:00 às 23:00","Luzimar Gonzaga Fernandez"
+NA,"060000","228","4","CMB","00:00 às 23:00","Vitor Antonio Fortuna"
+NA,"070000","228","4","CMB","00:00 às 23:00","Vitor Hugo Moreau da Cunha"
+NA,"080000","228","4","CMB","00:00 às 23:00","Victor Diogenes Amaral da Silva"
+NA,"090000","228","4","CMB","00:00 às 23:00","Simone Garcia Macambira"
+NA,"100000","228","4","CMB","00:00 às 23:00","Suzana Braga de Souza"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"ICSE51 - PESQUISA ORIENTADA","010000","228","3","CMB","00:00 às 23:00","Aline Cristina Andrade Mota Miranda Masc"
+NA,NA,"227","3",NA,NA,"Aline Cristina Andrade Mota Miranda Masc"
+NA,"020000","228","3","CMB","00:00 às 23:00","Gyselle Chrystina Baccan"
+NA,NA,"227","3",NA,NA,"Gyselle Chrystina Baccan"
+NA,"030000","228","3","CMB","00:00 às 23:00","Joana Paixao Monteiro Cunha"
+NA,NA,"227","3",NA,NA,"Joana Paixao Monteiro Cunha"
+NA,"040000","228","3","CMB","00:00 às 23:00","Luis Gustavo Carvalho Pacheco"
+NA,NA,"227","3",NA,NA,"Luis Gustavo Carvalho Pacheco"
+NA,"050000","228","4","CMB","00:00 às 23:00","Luzimar Gonzaga Fernandez"
+NA,NA,"227","3",NA,NA,"Luzimar Gonzaga Fernandez"
+NA,"060000","228","3","CMB","00:00 às 23:00","Vitor Antonio Fortuna"
+NA,NA,"227","3",NA,NA,"Vitor Antonio Fortuna"
+NA,"070000","228","3","CMB","00:00 às 23:00","Vitor Hugo Moreau da Cunha"
+NA,NA,"227","3",NA,NA,"Vitor Hugo Moreau da Cunha"
+NA,"080000","227","3","CMB","00:00 às 23:00","Victor Diogenes Amaral da Silva"
+NA,"090000","228","3","CMB","00:00 às 23:00","Simone Garcia Macambira"
+NA,NA,"227","3",NA,NA,"Simone Garcia Macambira"
+NA,"100000","228","3","CMB","00:00 às 23:00","Docente não informado pelo Departamento"
+NA,NA,"227","3",NA,NA,"Docente não informado pelo Departamento"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"ICSE52 - ESTÁGIO DOCÊNCIA","010000","227","1","CMB","00:00 às 23:00","Gyselle Chrystina Baccan"
+NA,"020000","228","1","CMB","00:00 às 23:00","Joana Paixao Monteiro Cunha"
+NA,"030000","228","1","CMB","00:00 às 23:00","Luis Gustavo Carvalho Pacheco"
+NA,"040000","228","2","CMB","00:00 às 23:00","Luzimar Gonzaga Fernandez"
+NA,"050000","228","1","CMB","00:00 às 23:00","Simone Garcia Macambira"
+NA,NA,"227","1",NA,NA,"Simone Garcia Macambira"
+NA,"060000","227","1","CMB","00:00 às 23:00","Docente não informado pelo Departamento"
+NA,"070000","227","1","CMB","00:00 às 23:00","Vitor Antonio Fortuna"
+NA,"080000","228","1","CMB","00:00 às 23:00","Vitor Hugo Moreau da Cunha"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"ICSE57 - PROJETO DE DISSERTAÇÃO","010000","227","3","CMB","00:00 às 23:00","Aline Cristina Andrade Mota Miranda Masc"
+NA,"020000","227","3","CMB","00:00 às 23:00","Gyselle Chrystina Baccan"
+NA,"030000","227","3","CMB","00:00 às 23:00","Joana Paixao Monteiro Cunha"
+NA,"040000","227","3","CMB","00:00 às 23:00","Luis Gustavo Carvalho Pacheco"
+NA,"050000","227","3","CMB","00:00 às 23:00","Luzimar Gonzaga Fernandez"
+NA,"060000","227","3","CMB","00:00 às 23:00","Vitor Antonio Fortuna"
+NA,"070000","227","3","CMB","00:00 às 23:00","Vitor Hugo Moreau da Cunha"
+NA,"080000","227","3","CMB","00:00 às 23:00","Victor Diogenes Amaral da Silva"
+NA,"090000","227","3","CMB","00:00 às 23:00","Simone Garcia Macambira"
+NA,"100000","227","3","CMB","00:00 às 23:00","Docente não informado pelo Departamento"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"ICSE62 - PESQUISA ORIENTADA PRESENCIAL","010000","259","20","CMB","00:00 às 23:00","Docente não informado pelo Departamento"
+NA,NA,"245","24",NA,NA,"Docente não informado pelo Departamento"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"ICSE64 - EXAME DE QUALIFICAÇÃO","010000","295","20","CMB","00:00 às 23:00","Antonio Luiz Barbosa Pinheiro"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"ICSE66 - SEMINÁRIOS DE TESE EM ANDAMENTO I","010000","295","20","CMB","00:00 às 23:00","Fabio Alexandre Chinalia"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"ICSE67 - SEMINÁRIOS DE TESE EM ANDAMENTO II","010000","295","20","CMB","00:00 às 23:00","Fabio Alexandre Chinalia"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"ICSE71 - Bieoestatística e Plejanejamento Experimental","010000","844","10","SEG","08:50 às 10:40","Maria Cristina Teixeira Cangussu"
+NA,NA,"296","15",NA,NA,"Maria Cristina Teixeira Cangussu"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"ICSE72 - Biomolecular e Tópicos Especiais em Biotecnologia","010000","296","15","TER","09:45 às 11:35","Suzana Telles da Cunha Lima"
+NA,"020000","844","10","TER","09:45 às 11:35","Luis Gustavo Carvalho Pacheco"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"ICSE76 - Reações biológicas e Vias Metabólicas","010000","296","15","SEG","13:00 às 14:50","Renato Delmondez de Castro"
+NA,"020000","844","10","SEG","13:00 às 14:50","Luzimar Gonzaga Fernandez"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"ICSE78 - Microbiologia Industrial e Ambiental","010000","296","10","QUA","14:50 às 16:40","Fabio Alexandre Chinalia"
+NA,"020000","844","10","QUA","14:50 às 16:40","Paulo Fernando de Almeida"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"ICSE89 - Bioética e Biossegurança em Biotecnologia","010000","296","15","QUI","10:40 às 11:35","Josilene Borges Torres Lima Matos"
+NA,"020000","844","10","QUI","10:40 às 11:35","Lilia Ferreira de Moura Costa"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"ICSF09 - IMUNONUTRIÇÃO","010000","254","10","SEG","08:50 às 10:40","Gyselle Chrystina Baccan"
+NA,NA,"238","10",NA,NA,"Gyselle Chrystina Baccan"

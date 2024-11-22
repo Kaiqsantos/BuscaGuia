@@ -1,0 +1,947 @@
+Disciplina,Turma,Coleg.,Vagas Ofe,Dia,Horário,Docente
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FOF001 - PATOLOGIA I,10100.0,208.0,12.0,QUA,07:00 às 07:55,Jean Nunes dos Santos
+,,,,,07:55 às 09:45,Jean Nunes dos Santos
+,,,,SEX,07:55 às 09:45,Clarissa Araujo Gurgel Rocha
+,10200.0,208.0,12.0,QUA,07:00 às 07:55,Jean Nunes dos Santos
+,,,,,09:45 às 11:35,Jean Nunes dos Santos
+,,,,SEX,07:55 às 09:45,Clarissa Araujo Gurgel Rocha
+,10300.0,208.0,12.0,QUA,07:00 às 07:55,Jean Nunes dos Santos
+,,,,SEX,07:55 às 09:45,Clarissa Araujo Gurgel Rocha
+,,,,,09:45 às 11:35,Clarissa Araujo Gurgel Rocha
+,10400.0,208.0,12.0,QUA,07:00 às 07:55,Jean Nunes dos Santos
+,,,,SEX,07:55 às 09:45,Clarissa Araujo Gurgel Rocha
+,,,,,13:00 às 14:50,Clarissa Araujo Gurgel Rocha
+,10500.0,208.0,12.0,QUA,07:00 às 07:55,Jean Nunes dos Santos
+,,,,SEX,07:55 às 09:45,Clarissa Araujo Gurgel Rocha
+,,,,,14:50 às 16:40,Clarissa Araujo Gurgel Rocha
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FOF002 - HISTOLOGIA BUCAL AVANÇADA,10100.0,208.0,10.0,SEG,13:55 às 15:45,Ludmila de Faro Valverde
+,,,,QUA,10:40 às 11:35,Flavia Calo de Aquino Xavier
+,,,,SEX,10:40 às 12:30,Ludmila de Faro Valverde
+,10200.0,208.0,10.0,SEG,15:45 às 17:35,Ludmila de Faro Valverde
+,,,,QUA,10:40 às 11:35,Flavia Calo de Aquino Xavier
+,,,,SEX,10:40 às 12:30,Ludmila de Faro Valverde
+,10300.0,208.0,10.0,QUA,10:40 às 11:35,Flavia Calo de Aquino Xavier
+,,,,,13:55 às 15:45,Ludmila de Faro Valverde
+,,,,SEX,10:40 às 12:30,Ludmila de Faro Valverde
+,10400.0,208.0,10.0,QUA,10:40 às 11:35,Flavia Calo de Aquino Xavier
+,,,,,15:45 às 17:35,Flavia Calo de Aquino Xavier
+,,,,SEX,10:40 às 12:30,Ludmila de Faro Valverde
+,10500.0,208.0,10.0,QUA,10:40 às 11:35,Flavia Calo de Aquino Xavier
+,,,,QUI,13:55 às 15:45,Ludmila de Faro Valverde
+,,,,SEX,10:40 às 12:30,Ludmila de Faro Valverde
+,10600.0,208.0,14.0,QUA,10:40 às 11:35,Flavia Calo de Aquino Xavier
+,,,,QUI,15:45 às 17:35,Ludmila de Faro Valverde
+,,,,SEX,10:40 às 12:30,Ludmila de Faro Valverde
+,10700.0,208.0,16.0,QUA,10:40 às 11:35,Flavia Calo de Aquino Xavier
+,,,,SEX,07:55 às 09:45,Flavia Calo de Aquino Xavier
+,,,,,10:40 às 12:30,Ludmila de Faro Valverde
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FOF003 - PATOLOGIA II,10100.0,208.0,10.0,TER,07:00 às 08:50,Luciana Maria Pedreira Ramalho
+,,,,,13:00 às 14:50,Luciana Maria Pedreira Ramalho
+,,,,,,Jean Nunes dos Santos
+,,,,,,Flavia Calo de Aquino Xavier
+,,,,QUI,13:00 às 13:55,Luciana Maria Pedreira Ramalho
+,,,,,,Jean Nunes dos Santos
+,,,,,,Flavia Calo de Aquino Xavier
+,10200.0,208.0,10.0,TER,08:50 às 10:40,Luciana Maria Pedreira Ramalho
+,,,,,13:00 às 14:50,Luciana Maria Pedreira Ramalho
+,,,,,,Jean Nunes dos Santos
+,,,,,,Flavia Calo de Aquino Xavier
+,,,,QUI,13:00 às 13:55,Luciana Maria Pedreira Ramalho
+,,,,,,Jean Nunes dos Santos
+,,,,,,Flavia Calo de Aquino Xavier
+,10300.0,208.0,10.0,TER,10:40 às 12:30,Jean Nunes dos Santos
+,,,,,13:00 às 14:50,Luciana Maria Pedreira Ramalho
+,,,,,,Jean Nunes dos Santos
+,,,,,,Flavia Calo de Aquino Xavier
+,,,,QUI,13:00 às 13:55,Luciana Maria Pedreira Ramalho
+,,,,,,Jean Nunes dos Santos
+,,,,,,Flavia Calo de Aquino Xavier
+,10400.0,208.0,10.0,TER,13:00 às 14:50,Luciana Maria Pedreira Ramalho
+,,,,,,Jean Nunes dos Santos
+,,,,,,Flavia Calo de Aquino Xavier
+,,,,,14:50 às 16:40,Flavia Calo de Aquino Xavier
+,,,,QUI,13:00 às 13:55,Luciana Maria Pedreira Ramalho
+,,,,,,Jean Nunes dos Santos
+,,,,,,Flavia Calo de Aquino Xavier
+,10500.0,208.0,10.0,TER,13:00 às 14:50,Luciana Maria Pedreira Ramalho
+,,,,,,Jean Nunes dos Santos
+,,,,,,Flavia Calo de Aquino Xavier
+,,,,QUI,07:00 às 08:50,Jean Nunes dos Santos
+,,,,,13:00 às 13:55,Luciana Maria Pedreira Ramalho
+,,,,,,Jean Nunes dos Santos
+,,,,,,Flavia Calo de Aquino Xavier
+,10600.0,208.0,10.0,TER,13:00 às 14:50,Luciana Maria Pedreira Ramalho
+,,,,,,Jean Nunes dos Santos
+,,,,,,Flavia Calo de Aquino Xavier
+,,,,QUI,08:50 às 10:40,Jean Nunes dos Santos
+,,,,,13:00 às 13:55,Luciana Maria Pedreira Ramalho
+,,,,,,Jean Nunes dos Santos
+,,,,,,Flavia Calo de Aquino Xavier
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FOF004 - CARIOLOGIA,10100.0,208.0,6.0,SEG,13:00 às 14:50,Andreia Cristina Leal Figueiredo
+,,,,,14:50 às 16:40,Andreia Cristina Leal Figueiredo
+,,,,,16:40 às 18:30,Andreia Cristina Leal Figueiredo
+,10200.0,208.0,6.0,SEG,13:00 às 14:50,Marcel Lautenschlager Arriaga
+,,,,,14:50 às 16:40,Marcel Lautenschlager Arriaga
+,,,,,16:40 às 18:30,Andreia Cristina Leal Figueiredo
+,10300.0,208.0,6.0,SEG,13:00 às 14:50,Carla Vecchione Gurgel
+,,,,,14:50 às 16:40,Carla Vecchione Gurgel
+,,,,,16:40 às 18:30,Andreia Cristina Leal Figueiredo
+,10400.0,208.0,6.0,SEG,13:00 às 14:50,Alessandra Castro Alves
+,,,,,14:50 às 16:40,Alessandra Castro Alves
+,,,,,16:40 às 18:30,Andreia Cristina Leal Figueiredo
+,10500.0,208.0,6.0,SEG,13:00 às 14:50,Ana Carla Robatto Nunes
+,,,,,14:50 às 16:40,Ana Carla Robatto Nunes
+,,,,,16:40 às 18:30,Andreia Cristina Leal Figueiredo
+,10600.0,208.0,6.0,SEG,13:00 às 14:50,Docente Substituto a Contratar
+,,,,,14:50 às 16:40,Docente Substituto a Contratar
+,,,,,16:40 às 18:30,Andreia Cristina Leal Figueiredo
+,10700.0,208.0,6.0,SEG,16:40 às 18:30,Andreia Cristina Leal Figueiredo
+,,,,QUA,13:00 às 14:50,Andreia Cristina Leal Figueiredo
+,,,,,14:50 às 16:40,Andreia Cristina Leal Figueiredo
+,10800.0,208.0,8.0,SEG,16:40 às 18:30,Andreia Cristina Leal Figueiredo
+,,,,QUA,13:00 às 14:50,Marcel Lautenschlager Arriaga
+,,,,,14:50 às 16:40,Marcel Lautenschlager Arriaga
+,10900.0,208.0,8.0,SEG,16:40 às 18:30,Andreia Cristina Leal Figueiredo
+,,,,QUA,13:00 às 14:50,Carla Vecchione Gurgel
+,,,,,14:50 às 16:40,Carla Vecchione Gurgel
+,11000.0,208.0,8.0,SEG,16:40 às 18:30,Andreia Cristina Leal Figueiredo
+,,,,QUA,13:00 às 14:50,Ana Carla Robatto Nunes
+,,,,,14:50 às 16:40,Ana Carla Robatto Nunes
+,11100.0,208.0,8.0,SEG,16:40 às 18:30,Andreia Cristina Leal Figueiredo
+,,,,QUA,13:00 às 14:50,Docente Substituto a Contratar
+,,,,,14:50 às 16:40,Docente Substituto a Contratar
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FOF005 - CLINICA MATERNO INFANTIL,10100.0,208.0,3.0,SEG,07:55 às 08:50,Alessandra Castro Alves
+,,,,,08:50 às 10:40,Paloma Dias da Silva Telles
+,,,,,10:40 às 12:30,Paloma Dias da Silva Telles
+,10200.0,208.0,3.0,SEG,07:55 às 08:50,Alessandra Castro Alves
+,,,,,08:50 às 10:40,Alessandra Castro Alves
+,,,,,10:40 às 12:30,Alessandra Castro Alves
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FOF007 - ETICA ODONTOLOGICA,10000.0,208.0,16.0,QUA,17:35 às 18:30,Marcel Lautenschlager Arriaga
+,,,,,18:30 às 21:15,Marcel Lautenschlager Arriaga
+,20000.0,208.0,14.0,CMB,00:00 às 23:00,Marcel Lautenschlager Arriaga
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FOF010 - METODOLOGIA DO TRABALHO CIENTIFICO,10000.0,208.0,40.0,QUA,08:50 às 10:40,Lana Bleicher
+,20000.0,208.0,40.0,QUA,08:50 às 10:40,Marcelo de Castellucci e Barbosa
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FOF013 - ORTODONTIA II,10100.0,208.0,4.0,SEG,07:00 às 08:50,Andre Wilson Lima Machado
+,,,,,08:50 às 10:40,Andre Wilson Lima Machado
+,10200.0,208.0,4.0,SEG,07:00 às 08:50,Andre Wilson Lima Machado
+,,,,,08:50 às 10:40,Marcelo de Castellucci e Barbosa
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FOF015 - ESTOMATOLOGIA II,10100.0,208.0,10.0,SEG,07:55 às 09:45,Manoela Carrera Martinez Cavalcante Pere
+,,,,TER,16:40 às 18:30,Manoela Carrera Martinez Cavalcante Pere
+,,,,,,Joao Frank Carvalho Dantas de Oliveira
+,10200.0,208.0,10.0,SEG,07:55 às 09:45,Luciana Maria Pedreira Ramalho
+,,,,TER,16:40 às 18:30,Manoela Carrera Martinez Cavalcante Pere
+,,,,,,Joao Frank Carvalho Dantas de Oliveira
+,10300.0,208.0,10.0,SEG,09:45 às 11:35,Manoela Carrera Martinez Cavalcante Pere
+,,,,TER,16:40 às 18:30,Manoela Carrera Martinez Cavalcante Pere
+,,,,,,Joao Frank Carvalho Dantas de Oliveira
+,10400.0,208.0,10.0,SEG,09:45 às 11:35,Luciana Maria Pedreira Ramalho
+,,,,TER,16:40 às 18:30,Manoela Carrera Martinez Cavalcante Pere
+,,,,,,Joao Frank Carvalho Dantas de Oliveira
+,10500.0,208.0,10.0,TER,13:00 às 14:50,Patricia Miranda Leite Ribeiro
+,,,,,16:40 às 18:30,Manoela Carrera Martinez Cavalcante Pere
+,,,,,,Joao Frank Carvalho Dantas de Oliveira
+,10600.0,208.0,10.0,TER,13:00 às 14:50,Joao Frank Carvalho Dantas de Oliveira
+,,,,,16:40 às 18:30,Manoela Carrera Martinez Cavalcante Pere
+,,,,,,Joao Frank Carvalho Dantas de Oliveira
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FOF016 - PRÓTESE PARCIAL FIXA II,10100.0,208.0,6.0,SEG,13:00 às 16:40,Emilena Maria Xisto Lima Victal
+,,,,,16:40 às 18:30,Getulio Batista de Oliveira
+,,,,,,Luciano de Castellucci Barbosa
+,,,,,,Luiz Gustavo Cavalcanti Bastos
+,,,,,,Emilena Maria Xisto Lima Victal
+,,,,,,Mariana de Almeida Basilio
+,10200.0,208.0,6.0,SEG,13:00 às 16:40,Mariana de Almeida Basilio
+,,,,,16:40 às 18:30,Getulio Batista de Oliveira
+,,,,,,Luciano de Castellucci Barbosa
+,,,,,,Luiz Gustavo Cavalcanti Bastos
+,,,,,,Emilena Maria Xisto Lima Victal
+,,,,,,Mariana de Almeida Basilio
+,10300.0,208.0,6.0,SEG,13:00 às 16:40,Luiz Gustavo Cavalcanti Bastos
+,,,,,16:40 às 18:30,Getulio Batista de Oliveira
+,,,,,,Luciano de Castellucci Barbosa
+,,,,,,Luiz Gustavo Cavalcanti Bastos
+,,,,,,Emilena Maria Xisto Lima Victal
+,,,,,,Mariana de Almeida Basilio
+,10400.0,208.0,6.0,SEG,16:40 às 18:30,Getulio Batista de Oliveira
+,,,,,,Luciano de Castellucci Barbosa
+,,,,,,Luiz Gustavo Cavalcanti Bastos
+,,,,,,Emilena Maria Xisto Lima Victal
+,,,,,,Mariana de Almeida Basilio
+,,,,TER,07:55 às 11:35,Emilena Maria Xisto Lima Victal
+,10500.0,208.0,6.0,SEG,16:40 às 18:30,Getulio Batista de Oliveira
+,,,,,,Luciano de Castellucci Barbosa
+,,,,,,Luiz Gustavo Cavalcanti Bastos
+,,,,,,Emilena Maria Xisto Lima Victal
+,,,,,,Mariana de Almeida Basilio
+,,,,TER,07:55 às 11:35,Getulio Batista de Oliveira
+,10700.0,208.0,6.0,SEG,16:40 às 18:30,Getulio Batista de Oliveira
+,,,,,,Luciano de Castellucci Barbosa
+,,,,,,Luiz Gustavo Cavalcanti Bastos
+,,,,,,Emilena Maria Xisto Lima Victal
+,,,,,,Mariana de Almeida Basilio
+,,,,TER,13:00 às 16:40,Getulio Batista de Oliveira
+,10800.0,208.0,6.0,SEG,16:40 às 18:30,Getulio Batista de Oliveira
+,,,,,,Luciano de Castellucci Barbosa
+,,,,,,Luiz Gustavo Cavalcanti Bastos
+,,,,,,Emilena Maria Xisto Lima Victal
+,,,,,,Mariana de Almeida Basilio
+,,,,TER,13:00 às 16:40,Luiz Gustavo Cavalcanti Bastos
+,10900.0,208.0,6.0,SEG,16:40 às 18:30,Getulio Batista de Oliveira
+,,,,,,Luciano de Castellucci Barbosa
+,,,,,,Luiz Gustavo Cavalcanti Bastos
+,,,,,,Emilena Maria Xisto Lima Victal
+,,,,,,Mariana de Almeida Basilio
+,,,,SEX,07:55 às 11:35,Andrea Fabiana de Lira
+,11000.0,208.0,6.0,SEG,07:55 às 11:35,Luiz Gustavo Cavalcanti Bastos
+,,,,,16:40 às 18:30,Getulio Batista de Oliveira
+,,,,,,Luciano de Castellucci Barbosa
+,,,,,,Luiz Gustavo Cavalcanti Bastos
+,,,,,,Emilena Maria Xisto Lima Victal
+,,,,,,Mariana de Almeida Basilio
+,11100.0,208.0,6.0,SEG,07:55 às 11:35,Mariana de Almeida Basilio
+,,,,,16:40 às 18:30,Getulio Batista de Oliveira
+,,,,,,Luciano de Castellucci Barbosa
+,,,,,,Luiz Gustavo Cavalcanti Bastos
+,,,,,,Emilena Maria Xisto Lima Victal
+,,,,,,Mariana de Almeida Basilio
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FOF019 - ESTAGIO SUPERVISIONADO,1.0,208.0,12.0,CMB,00:00 às 23:00,Tatiana Frederico de Almeida
+,2.0,208.0,12.0,CMB,00:00 às 23:00,Patricia Suguri Cristino
+,3.0,208.0,12.0,CMB,00:00 às 23:00,Cristiane Ribeiro da Silva Castro
+,4.0,208.0,12.0,CMB,00:00 às 23:00,Marcelo de Castellucci e Barbosa
+,5.0,208.0,12.0,CMB,00:00 às 23:00,Patricia Suguri Cristino
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FOF020 - ESTOMATOLOGIA I,10100.0,208.0,10.0,SEG,13:00 às 16:40,Manoela Carrera Martinez Cavalcante Pere
+,,,,TER,16:40 às 18:30,Leonardo de Araujo Melo
+,,,,,,Patricia Miranda Leite Ribeiro
+,10200.0,208.0,10.0,SEG,13:00 às 16:40,Leonardo de Araujo Melo
+,,,,TER,16:40 às 18:30,Leonardo de Araujo Melo
+,,,,,,Patricia Miranda Leite Ribeiro
+,10300.0,208.0,10.0,SEG,13:00 às 16:40,Joao Frank Carvalho Dantas de Oliveira
+,,,,TER,16:40 às 18:30,Leonardo de Araujo Melo
+,,,,,,Patricia Miranda Leite Ribeiro
+,10400.0,208.0,10.0,TER,07:55 às 11:35,Manoela Carrera Martinez Cavalcante Pere
+,,,,,16:40 às 18:30,Leonardo de Araujo Melo
+,,,,,,Patricia Miranda Leite Ribeiro
+,10500.0,208.0,10.0,TER,07:55 às 11:35,Leonardo de Araujo Melo
+,,,,,16:40 às 18:30,Leonardo de Araujo Melo
+,,,,,,Patricia Miranda Leite Ribeiro
+,10600.0,208.0,10.0,TER,07:55 às 11:35,Joao Frank Carvalho Dantas de Oliveira
+,,,,,16:40 às 18:30,Leonardo de Araujo Melo
+,,,,,,Patricia Miranda Leite Ribeiro
+,10700.0,208.0,10.0,TER,16:40 às 18:30,Leonardo de Araujo Melo
+,,,,,,Patricia Miranda Leite Ribeiro
+,,,,QUA,07:55 às 11:35,Manoela Carrera Martinez Cavalcante Pere
+,10800.0,208.0,10.0,TER,16:40 às 18:30,Leonardo de Araujo Melo
+,,,,,,Patricia Miranda Leite Ribeiro
+,,,,QUA,07:55 às 11:35,Patricia Miranda Leite Ribeiro
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FOF021 - PROTESE PARCIAL FIXA I,10100.0,208.0,10.0,TER,07:00 às 08:50,Luciano de Castellucci Barbosa
+,,,,,08:50 às 12:30,Luciano de Castellucci Barbosa
+,10200.0,208.0,10.0,TER,07:00 às 08:50,Luciano de Castellucci Barbosa
+,,,,,08:50 às 12:30,Armando Prado Oliveira
+,10300.0,208.0,10.0,TER,07:00 às 08:50,Luciano de Castellucci Barbosa
+,,,,,13:00 às 16:40,Luciano de Castellucci Barbosa
+,10400.0,208.0,10.0,TER,07:00 às 08:50,Luciano de Castellucci Barbosa
+,,,,,13:00 às 16:40,Armando Prado Oliveira
+,10500.0,208.0,10.0,TER,07:00 às 08:50,Luciano de Castellucci Barbosa
+,,,,SEX,13:00 às 16:40,Luciano de Castellucci Barbosa
+,10600.0,208.0,10.0,TER,07:00 às 08:50,Luciano de Castellucci Barbosa
+,,,,SEX,13:00 às 16:40,Blanca Liliana Torres Leon
+,10700.0,208.0,10.0,TER,07:00 às 08:50,Luciano de Castellucci Barbosa
+,,,,SEX,13:00 às 16:40,Andrea Fabiana de Lira
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FOF022 - CIRURGIA I,10100.0,208.0,6.0,SEG,07:55 às 11:35,Andre Carlos de Freitas
+,,,,QUA,16:40 às 18:30,Arlei Cerqueira
+,,,,,18:30 às 19:25,Arlei Cerqueira
+,10200.0,208.0,6.0,SEG,07:55 às 11:35,Weber Ceo Cavalcante
+,,,,QUA,16:40 às 18:30,Arlei Cerqueira
+,,,,,18:30 às 19:25,Arlei Cerqueira
+,10300.0,208.0,6.0,SEG,07:55 às 11:35,Arlei Cerqueira
+,,,,QUA,16:40 às 18:30,Arlei Cerqueira
+,,,,,18:30 às 19:25,Arlei Cerqueira
+,10400.0,208.0,6.0,TER,07:55 às 11:35,Arlei Cerqueira
+,,,,QUA,16:40 às 18:30,Arlei Cerqueira
+,,,,,18:30 às 19:25,Arlei Cerqueira
+,10500.0,208.0,6.0,TER,07:55 às 11:35,Andre Carlos de Freitas
+,,,,QUA,16:40 às 18:30,Arlei Cerqueira
+,,,,,18:30 às 19:25,Arlei Cerqueira
+,10600.0,208.0,6.0,TER,07:55 às 11:35,Weber Ceo Cavalcante
+,,,,QUA,16:40 às 18:30,Arlei Cerqueira
+,,,,,18:30 às 19:25,Arlei Cerqueira
+,10700.0,208.0,6.0,QUA,07:55 às 11:35,Sandra de Cassia Santana Sardinha
+,,,,,16:40 às 18:30,Arlei Cerqueira
+,,,,,18:30 às 19:25,Arlei Cerqueira
+,10800.0,208.0,6.0,QUA,16:40 às 18:30,Arlei Cerqueira
+,,,,,18:30 às 19:25,Arlei Cerqueira
+,,,,QUI,07:55 às 11:35,Arlei Cerqueira
+,10900.0,208.0,6.0,QUA,16:40 às 18:30,Arlei Cerqueira
+,,,,,18:30 às 19:25,Arlei Cerqueira
+,,,,QUI,07:55 às 11:35,Weber Ceo Cavalcante
+,11000.0,208.0,6.0,QUA,16:40 às 18:30,Arlei Cerqueira
+,,,,,18:30 às 19:25,Arlei Cerqueira
+,,,,QUI,07:55 às 11:35,Roberto Almeida de Azevedo
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FOF023 - PRÓTESE PARCIAL REMOVÍVEL I,10100.0,208.0,10.0,SEG,07:00 às 08:50,Blanca Liliana Torres Leon
+,,,,,08:50 às 10:40,Blanca Liliana Torres Leon
+,10200.0,208.0,10.0,SEG,07:00 às 08:50,Blanca Liliana Torres Leon
+,,,,,08:50 às 10:40,Viviane Maia Barreto de Oliveira
+,10300.0,208.0,10.0,SEG,07:00 às 08:50,Blanca Liliana Torres Leon
+,,,,,10:40 às 12:30,Blanca Liliana Torres Leon
+,10400.0,208.0,10.0,SEG,07:00 às 08:50,Blanca Liliana Torres Leon
+,,,,,10:40 às 12:30,Viviane Maia Barreto de Oliveira
+,10500.0,208.0,10.0,SEG,07:00 às 08:50,Blanca Liliana Torres Leon
+,,,,,13:55 às 15:45,Blanca Liliana Torres Leon
+,10600.0,208.0,10.0,SEG,07:00 às 08:50,Blanca Liliana Torres Leon
+,,,,,13:55 às 15:45,Viviane Maia Barreto de Oliveira
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FOF024 - CIRURGIA II,10100.0,208.0,6.0,SEG,13:00 às 16:40,Andre Carlos de Freitas
+,,,,QUI,17:35 às 18:30,Sandra de Cassia Santana Sardinha
+,,,,,18:30 às 19:25,Andre Carlos de Freitas
+,10200.0,208.0,6.0,TER,07:55 às 11:35,Sandra de Cassia Santana Sardinha
+,,,,QUI,17:35 às 18:30,Sandra de Cassia Santana Sardinha
+,,,,,18:30 às 19:25,Andre Carlos de Freitas
+,10300.0,208.0,6.0,TER,13:00 às 16:40,Sandra de Cassia Santana Sardinha
+,,,,QUI,17:35 às 18:30,Sandra de Cassia Santana Sardinha
+,,,,,18:30 às 19:25,Andre Carlos de Freitas
+,10400.0,208.0,6.0,TER,13:00 às 16:40,Andre Carlos de Freitas
+,,,,QUI,17:35 às 18:30,Sandra de Cassia Santana Sardinha
+,,,,,18:30 às 19:25,Andre Carlos de Freitas
+,10600.0,208.0,6.0,QUA,07:55 às 11:35,Weber Ceo Cavalcante
+,,,,QUI,17:35 às 18:30,Sandra de Cassia Santana Sardinha
+,,,,,18:30 às 19:25,Andre Carlos de Freitas
+,10700.0,208.0,6.0,QUI,13:00 às 16:40,Roberto Almeida de Azevedo
+,,,,,17:35 às 18:30,Sandra de Cassia Santana Sardinha
+,,,,,18:30 às 19:25,Andre Carlos de Freitas
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FOF025 - ORTODONTIA APLICADA À FONOAUDIOLOGIA,10100.0,210.0,8.0,QUA,13:00 às 14:50,Marcos Alan Vieira Bittencourt
+,,,,,14:50 às 16:40,Marcos Alan Vieira Bittencourt
+,10200.0,210.0,8.0,QUA,13:00 às 14:50,Marcos Alan Vieira Bittencourt
+,,,,,14:50 às 16:40,Emanuel Braga Rego
+,20300.0,210.0,8.0,QUA,13:00 às 14:50,Andre Wilson Lima Machado
+,,,,,14:50 às 16:40,Andre Wilson Lima Machado
+,20400.0,210.0,8.0,QUA,13:00 às 14:50,Andre Wilson Lima Machado
+,,,,,14:50 às 16:40,Marcelo de Castellucci e Barbosa
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FOF029 - CIÊNCIAS SOCIAIS APLICADAS À ODONTOLOGIA,10000.0,208.0,26.0,QUI,07:55 às 10:40,Ana Clara de Reboucas Carvalho
+,20000.0,208.0,28.0,QUI,07:55 às 10:40,Lana Bleicher
+,30000.0,208.0,26.0,SEX,07:55 às 08:50,Ana Clara de Reboucas Carvalho
+,,,,,08:50 às 10:40,Ana Clara de Reboucas Carvalho
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FOF103 - DENTISTICA I,10100.0,208.0,10.0,SEG,07:00 às 08:50,Paula Mathias de Morais Canedo
+,,,,,08:50 às 10:40,Paula Mathias de Morais Canedo
+,10200.0,208.0,10.0,SEG,07:00 às 08:50,Paula Mathias de Morais Canedo
+,,,,,08:50 às 10:40,Thaiane Rodrigues Aguiar Barretto
+,10300.0,208.0,10.0,SEG,07:00 às 08:50,Paula Mathias de Morais Canedo
+,,,,,10:40 às 12:30,Paula Mathias de Morais Canedo
+,10400.0,208.0,10.0,SEG,07:00 às 08:50,Paula Mathias de Morais Canedo
+,,,,,10:40 às 12:30,Thaiane Rodrigues Aguiar Barretto
+,10500.0,208.0,10.0,SEG,07:00 às 08:50,Paula Mathias de Morais Canedo
+,,,,,13:00 às 14:50,Paula Mathias de Morais Canedo
+,10600.0,208.0,10.0,SEG,07:00 às 08:50,Paula Mathias de Morais Canedo
+,,,,,13:00 às 14:50,Thaiane Rodrigues Aguiar Barretto
+,10700.0,208.0,10.0,SEG,07:00 às 08:50,Paula Mathias de Morais Canedo
+,,,,,14:50 às 16:40,Paula Mathias de Morais Canedo
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FOF104 - DENTISTICA II,10100.0,208.0,6.0,QUA,07:55 às 11:35,Rebeca Barroso Bezerra
+,,,,QUI,13:00 às 13:55,Rebeca Barroso Bezerra
+,,,,,,Thaiane Rodrigues Aguiar Barretto
+,,,,,,Andrea Araujo de Nobrega Cavalcanti
+,10200.0,208.0,8.0,QUA,07:55 às 11:35,Paula Mathias de Morais Canedo
+,,,,QUI,13:00 às 13:55,Rebeca Barroso Bezerra
+,,,,,,Thaiane Rodrigues Aguiar Barretto
+,,,,,,Andrea Araujo de Nobrega Cavalcanti
+,10300.0,208.0,8.0,QUI,07:55 às 11:35,Andrea Araujo de Nobrega Cavalcanti
+,,,,,13:00 às 13:55,Rebeca Barroso Bezerra
+,,,,,,Thaiane Rodrigues Aguiar Barretto
+,,,,,,Andrea Araujo de Nobrega Cavalcanti
+,10400.0,208.0,8.0,QUI,07:55 às 11:35,Leonardo Goncalves Cunha
+,,,,,13:00 às 13:55,Rebeca Barroso Bezerra
+,,,,,,Thaiane Rodrigues Aguiar Barretto
+,,,,,,Andrea Araujo de Nobrega Cavalcanti
+,10500.0,208.0,8.0,QUI,07:55 às 11:35,Thaiane Rodrigues Aguiar Barretto
+,,,,,13:00 às 13:55,Rebeca Barroso Bezerra
+,,,,,,Thaiane Rodrigues Aguiar Barretto
+,,,,,,Andrea Araujo de Nobrega Cavalcanti
+,10600.0,208.0,8.0,QUI,07:55 às 11:35,Rebeca Barroso Bezerra
+,,,,,13:00 às 13:55,Rebeca Barroso Bezerra
+,,,,,,Thaiane Rodrigues Aguiar Barretto
+,,,,,,Andrea Araujo de Nobrega Cavalcanti
+,10700.0,208.0,8.0,QUI,07:55 às 11:35,Marcelo Filadelfo Silva
+,,,,,13:00 às 13:55,Rebeca Barroso Bezerra
+,,,,,,Thaiane Rodrigues Aguiar Barretto
+,,,,,,Andrea Araujo de Nobrega Cavalcanti
+,10800.0,208.0,6.0,QUI,13:00 às 13:55,Rebeca Barroso Bezerra
+,,,,,,Thaiane Rodrigues Aguiar Barretto
+,,,,,,Andrea Araujo de Nobrega Cavalcanti
+,,,,,13:55 às 17:35,Thaiane Rodrigues Aguiar Barretto
+,10900.0,208.0,6.0,QUI,13:00 às 13:55,Rebeca Barroso Bezerra
+,,,,,,Thaiane Rodrigues Aguiar Barretto
+,,,,,,Andrea Araujo de Nobrega Cavalcanti
+,,,,,13:55 às 17:35,Marcelo Filadelfo Silva
+,11000.0,208.0,6.0,QUI,13:00 às 13:55,Rebeca Barroso Bezerra
+,,,,,,Thaiane Rodrigues Aguiar Barretto
+,,,,,,Andrea Araujo de Nobrega Cavalcanti
+,,,,,13:55 às 17:35,Andrea Araujo de Nobrega Cavalcanti
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FOF140 - ODONTOPEDIATRIA,10100.0,208.0,6.0,TER,07:00 às 07:55,Paloma Dias da Silva Telles
+,,,,,07:55 às 11:35,Paloma Dias da Silva Telles
+,,,,QUI,07:00 às 07:55,Paloma Dias da Silva Telles
+,10200.0,208.0,6.0,TER,07:00 às 07:55,Paloma Dias da Silva Telles
+,,,,,07:55 às 11:35,Emanuel Braga Rego
+,,,,QUI,07:00 às 07:55,Paloma Dias da Silva Telles
+,10300.0,208.0,6.0,TER,07:00 às 07:55,Paloma Dias da Silva Telles
+,,,,,07:55 às 11:35,Alessandra Castro Alves
+,,,,QUI,07:00 às 07:55,Paloma Dias da Silva Telles
+,10400.0,208.0,6.0,TER,07:00 às 07:55,Paloma Dias da Silva Telles
+,,,,,07:55 às 11:35,Ana Carla Robatto Nunes
+,,,,QUI,07:00 às 07:55,Paloma Dias da Silva Telles
+,10500.0,208.0,6.0,TER,07:00 às 07:55,Paloma Dias da Silva Telles
+,,,,QUI,07:00 às 07:55,Paloma Dias da Silva Telles
+,,,,,07:55 às 11:35,Paloma Dias da Silva Telles
+,10600.0,208.0,6.0,TER,07:00 às 07:55,Paloma Dias da Silva Telles
+,,,,QUI,07:00 às 07:55,Paloma Dias da Silva Telles
+,,,,,07:55 às 11:35,Emanuel Braga Rego
+,10700.0,208.0,6.0,TER,07:00 às 07:55,Paloma Dias da Silva Telles
+,,,,QUI,07:00 às 07:55,Paloma Dias da Silva Telles
+,,,,,07:55 às 11:35,Ana Carla Robatto Nunes
+,10800.0,208.0,6.0,TER,07:00 às 07:55,Paloma Dias da Silva Telles
+,,,,QUI,07:00 às 07:55,Paloma Dias da Silva Telles
+,,,,,07:55 às 11:35,Docente Substituto a Contratar
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FOF141 - ORTODONTIA,10100.0,208.0,8.0,TER,08:50 às 10:40,Fernando Antonio Lima Habib
+,,,,,10:40 às 12:30,Fernando Antonio Lima Habib
+,,,,,16:40 às 18:30,Fernando Antonio Lima Habib
+,10200.0,208.0,8.0,TER,08:50 às 10:40,Marcos Alan Vieira Bittencourt
+,,,,,10:40 às 12:30,Marcos Alan Vieira Bittencourt
+,,,,,16:40 às 18:30,Fernando Antonio Lima Habib
+,10300.0,208.0,8.0,TER,08:50 às 10:40,Andre Wilson Lima Machado
+,,,,,10:40 às 12:30,Andre Wilson Lima Machado
+,,,,,16:40 às 18:30,Fernando Antonio Lima Habib
+,10400.0,208.0,8.0,TER,13:00 às 14:50,Fernando Antonio Lima Habib
+,,,,,14:50 às 16:40,Fernando Antonio Lima Habib
+,,,,,16:40 às 18:30,Fernando Antonio Lima Habib
+,10500.0,208.0,8.0,TER,13:00 às 14:50,Marcos Alan Vieira Bittencourt
+,,,,,14:50 às 16:40,Marcos Alan Vieira Bittencourt
+,,,,,16:40 às 18:30,Fernando Antonio Lima Habib
+,10600.0,208.0,8.0,TER,13:00 às 14:50,Andre Wilson Lima Machado
+,,,,,14:50 às 16:40,Andre Wilson Lima Machado
+,,,,,16:40 às 18:30,Fernando Antonio Lima Habib
+,10700.0,208.0,8.0,TER,13:00 às 14:50,Emanuel Braga Rego
+,,,,,14:50 às 16:40,Emanuel Braga Rego
+,,,,,16:40 às 18:30,Fernando Antonio Lima Habib
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FOF142 - FARMACOTERAPIA ODONTOLOGICA,10000.0,208.0,15.0,SEG,13:55 às 16:40,Rosangela Goes Rabelo
+,20000.0,208.0,15.0,SEG,13:55 às 16:40,Sandra Maria Ferraz Mello
+,30000.0,208.0,15.0,QUA,08:50 às 11:35,Rosangela Goes Rabelo
+,40000.0,208.0,15.0,QUA,08:50 às 11:35,Sandra Maria Ferraz Mello
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FOF147 - MATERIAIS ODONTOLOGICOS,10100.0,208.0,15.0,QUA,08:50 às 12:30,Andrea Araujo de Nobrega Cavalcanti
+,,,,,13:00 às 14:50,Leonardo Goncalves Cunha
+,,,,,,Marcelo Filadelfo Silva
+,,,,,,Andrea Araujo de Nobrega Cavalcanti
+,10200.0,208.0,15.0,QUA,08:50 às 12:30,Leonardo Goncalves Cunha
+,,,,,13:00 às 14:50,Leonardo Goncalves Cunha
+,,,,,,Marcelo Filadelfo Silva
+,,,,,,Andrea Araujo de Nobrega Cavalcanti
+,10300.0,208.0,15.0,QUA,08:50 às 12:30,Marcelo Filadelfo Silva
+,,,,,13:00 às 14:50,Leonardo Goncalves Cunha
+,,,,,,Marcelo Filadelfo Silva
+,,,,,,Andrea Araujo de Nobrega Cavalcanti
+,10400.0,208.0,10.0,QUA,13:00 às 14:50,Leonardo Goncalves Cunha
+,,,,,,Marcelo Filadelfo Silva
+,,,,,,Andrea Araujo de Nobrega Cavalcanti
+,,,,,14:50 às 16:40,Andrea Araujo de Nobrega Cavalcanti
+,,,,,16:40 às 18:30,Andrea Araujo de Nobrega Cavalcanti
+,10500.0,208.0,10.0,QUA,13:00 às 14:50,Leonardo Goncalves Cunha
+,,,,,,Marcelo Filadelfo Silva
+,,,,,,Andrea Araujo de Nobrega Cavalcanti
+,,,,,14:50 às 16:40,Leonardo Goncalves Cunha
+,,,,,16:40 às 18:30,Leonardo Goncalves Cunha
+,10600.0,208.0,10.0,QUA,13:00 às 14:50,Leonardo Goncalves Cunha
+,,,,,,Marcelo Filadelfo Silva
+,,,,,,Andrea Araujo de Nobrega Cavalcanti
+,,,,,14:50 às 16:40,Marcelo Filadelfo Silva
+,,,,,16:40 às 18:30,Marcelo Filadelfo Silva
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FOF149 - ESCULTURA DENTAL,10100.0,208.0,10.0,QUI,08:50 às 12:30,Getulio Batista de Oliveira
+,,,,,13:55 às 14:50,Samilly Evangelista Souza Rabelo
+,,,,,,Luciana Valadares Oliveira
+,,,,,,Mariana de Almeida Basilio
+,10200.0,208.0,10.0,QUI,08:50 às 12:30,Mariana de Almeida Basilio
+,,,,,13:55 às 14:50,Samilly Evangelista Souza Rabelo
+,,,,,,Luciana Valadares Oliveira
+,,,,,,Mariana de Almeida Basilio
+,10300.0,208.0,10.0,QUI,08:50 às 12:30,Samilly Evangelista Souza Rabelo
+,,,,,13:55 às 14:50,Samilly Evangelista Souza Rabelo
+,,,,,,Luciana Valadares Oliveira
+,,,,,,Mariana de Almeida Basilio
+,10400.0,208.0,10.0,QUI,13:55 às 14:50,Samilly Evangelista Souza Rabelo
+,,,,,,Luciana Valadares Oliveira
+,,,,,,Mariana de Almeida Basilio
+,,,,,14:50 às 18:30,Luciana Valadares Oliveira
+,10500.0,208.0,10.0,QUI,13:55 às 14:50,Samilly Evangelista Souza Rabelo
+,,,,,,Luciana Valadares Oliveira
+,,,,,,Mariana de Almeida Basilio
+,,,,,14:50 às 18:30,Mariana de Almeida Basilio
+,10600.0,208.0,10.0,QUI,13:55 às 14:50,Samilly Evangelista Souza Rabelo
+,,,,,,Luciana Valadares Oliveira
+,,,,,,Mariana de Almeida Basilio
+,,,,,14:50 às 18:30,Samilly Evangelista Souza Rabelo
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FOF160 - OCLUSAO,10100.0,208.0,10.0,QUI,07:00 às 08:50,Marcio Vieira Lisboa
+,,,,,08:50 às 10:40,Marcio Vieira Lisboa
+,,,,,10:40 às 12:30,Marcio Vieira Lisboa
+,10200.0,208.0,10.0,QUI,07:00 às 08:50,Marcio Vieira Lisboa
+,,,,,08:50 às 10:40,Guilherme Andrade Meyer
+,,,,,10:40 às 12:30,Guilherme Andrade Meyer
+,10300.0,208.0,10.0,QUI,07:00 às 08:50,Marcio Vieira Lisboa
+,,,,,08:50 às 10:40,Armando Prado Oliveira
+,,,,,10:40 às 12:30,Armando Prado Oliveira
+,10400.0,208.0,10.0,QUI,07:00 às 08:50,Marcio Vieira Lisboa
+,,,,,14:50 às 18:30,Marcio Vieira Lisboa
+,10500.0,208.0,10.0,QUI,07:00 às 08:50,Marcio Vieira Lisboa
+,,,,,14:50 às 18:30,Getulio Batista de Oliveira
+,10600.0,208.0,10.0,QUI,07:00 às 08:50,Marcio Vieira Lisboa
+,,,,,14:50 às 18:30,Guilherme Andrade Meyer
+,10700.0,208.0,10.0,TER,08:50 às 12:30,Marcio Vieira Lisboa
+,,,,QUI,07:00 às 08:50,Marcio Vieira Lisboa
+,10800.0,208.0,10.0,TER,08:50 às 12:30,Luiz Gustavo Cavalcanti Bastos
+,,,,QUI,07:00 às 08:50,Marcio Vieira Lisboa
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FOF161 - RADIOLOGIA CLINICA,10100.0,208.0,12.0,QUA,07:55 às 11:35,Regina Lucia Seixas Pinto
+,,,,,11:35 às 12:30,Regina Lucia Seixas Pinto
+,10200.0,208.0,12.0,QUA,11:35 às 12:30,Regina Lucia Seixas Pinto
+,,,,,13:00 às 16:40,Patricia Miranda Leite Ribeiro
+,10300.0,208.0,12.0,QUA,11:35 às 12:30,Regina Lucia Seixas Pinto
+,,,,,13:00 às 16:40,Viviane Almeida Sarmento
+,10400.0,208.0,12.0,QUA,11:35 às 12:30,Regina Lucia Seixas Pinto
+,,,,QUI,07:55 às 11:35,Regina Lucia Seixas Pinto
+,10500.0,208.0,12.0,QUA,11:35 às 12:30,Regina Lucia Seixas Pinto
+,,,,QUI,13:00 às 16:40,Regina Lucia Seixas Pinto
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FOF162 - ENDODONTIA CLINICA,10100.0,208.0,5.0,TER,13:00 às 16:40,Erika Sales Joviano Pereira
+,,,,QUI,13:00 às 13:55,Fabiola Bastos de Carvalho
+,,,,,,Erika Sales Joviano Pereira
+,,,,,,Maria Tereza Pedrosa de Albuquerque
+,,,,,,Erica dos Santos Carvalho
+,10200.0,208.0,5.0,TER,13:00 às 16:40,Maria Tereza Pedrosa de Albuquerque
+,,,,QUI,13:00 às 13:55,Fabiola Bastos de Carvalho
+,,,,,,Erika Sales Joviano Pereira
+,,,,,,Maria Tereza Pedrosa de Albuquerque
+,,,,,,Erica dos Santos Carvalho
+,10300.0,208.0,5.0,TER,13:00 às 16:40,Erica dos Santos Carvalho
+,,,,QUI,13:00 às 13:55,Fabiola Bastos de Carvalho
+,,,,,,Erika Sales Joviano Pereira
+,,,,,,Maria Tereza Pedrosa de Albuquerque
+,,,,,,Erica dos Santos Carvalho
+,10400.0,208.0,5.0,QUI,13:00 às 13:55,Fabiola Bastos de Carvalho
+,,,,,,Erika Sales Joviano Pereira
+,,,,,,Maria Tereza Pedrosa de Albuquerque
+,,,,,,Erica dos Santos Carvalho
+,,,,,13:55 às 17:35,Fabiola Bastos de Carvalho
+,10500.0,208.0,5.0,QUI,13:00 às 13:55,Fabiola Bastos de Carvalho
+,,,,,,Erika Sales Joviano Pereira
+,,,,,,Maria Tereza Pedrosa de Albuquerque
+,,,,,,Erica dos Santos Carvalho
+,,,,,13:55 às 17:35,Ludmilla Mota da Silva Santos
+,10600.0,208.0,5.0,QUI,13:00 às 13:55,Fabiola Bastos de Carvalho
+,,,,,,Erika Sales Joviano Pereira
+,,,,,,Maria Tereza Pedrosa de Albuquerque
+,,,,,,Erica dos Santos Carvalho
+,,,,,13:55 às 17:35,Erika Sales Joviano Pereira
+,10700.0,208.0,5.0,QUI,13:00 às 13:55,Fabiola Bastos de Carvalho
+,,,,,,Erika Sales Joviano Pereira
+,,,,,,Maria Tereza Pedrosa de Albuquerque
+,,,,,,Erica dos Santos Carvalho
+,,,,,13:55 às 17:35,Maria Tereza Pedrosa de Albuquerque
+,10800.0,208.0,5.0,QUI,13:00 às 13:55,Fabiola Bastos de Carvalho
+,,,,,,Erika Sales Joviano Pereira
+,,,,,,Maria Tereza Pedrosa de Albuquerque
+,,,,,,Erica dos Santos Carvalho
+,,,,SEX,13:00 às 16:40,Fabiola Bastos de Carvalho
+,10900.0,208.0,5.0,QUI,13:00 às 13:55,Fabiola Bastos de Carvalho
+,,,,,,Erika Sales Joviano Pereira
+,,,,,,Maria Tereza Pedrosa de Albuquerque
+,,,,,,Erica dos Santos Carvalho
+,,,,SEX,13:00 às 16:40,Ludmilla Mota da Silva Santos
+,11000.0,208.0,5.0,QUI,13:00 às 13:55,Fabiola Bastos de Carvalho
+,,,,,,Erika Sales Joviano Pereira
+,,,,,,Maria Tereza Pedrosa de Albuquerque
+,,,,,,Erica dos Santos Carvalho
+,,,,SEX,13:00 às 16:40,Erica dos Santos Carvalho
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FOF163 - ONCOLOGIA BUCAL,10100.0,208.0,6.0,QUA,07:00 às 08:50,Luciana Maria Pedreira Ramalho
+,,,,,08:50 às 10:40,Luciana Maria Pedreira Ramalho
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FOF164 - PERIODONTIA I,10100.0,208.0,7.0,QUA,13:00 às 14:50,Marcelo de Azevedo Rios
+,,,,,14:50 às 16:40,Marcelo de Azevedo Rios
+,,,,,16:40 às 18:30,Marcelo de Azevedo Rios
+,10200.0,208.0,6.0,QUA,13:00 às 14:50,Marcelo de Azevedo Rios
+,,,,,14:50 às 16:40,Docente Substituto a Contratar
+,,,,,16:40 às 18:30,Docente Substituto a Contratar
+,10300.0,208.0,6.0,QUA,13:00 às 14:50,Marcelo de Azevedo Rios
+,,,,,14:50 às 16:40,Nelson Gnoatto
+,,,,,16:40 às 18:30,Nelson Gnoatto
+,10400.0,208.0,7.0,QUA,13:00 às 14:50,Marcelo de Azevedo Rios
+,,,,,14:50 às 16:40,Nara Santos Araujo
+,,,,,16:40 às 18:30,Nara Santos Araujo
+,10500.0,208.0,7.0,QUA,13:00 às 14:50,Marcelo de Azevedo Rios
+,,,,SEX,07:55 às 11:35,Marcelo de Azevedo Rios
+,10600.0,208.0,6.0,QUA,13:00 às 14:50,Marcelo de Azevedo Rios
+,,,,SEX,07:55 às 11:35,Docente Substituto a Contratar
+,10700.0,208.0,7.0,QUA,13:00 às 14:50,Marcelo de Azevedo Rios
+,,,,SEX,07:55 às 11:35,Nelson Gnoatto
+,10800.0,208.0,7.0,QUA,13:00 às 14:50,Marcelo de Azevedo Rios
+,,,,SEX,07:55 às 11:35,Patricia Ramos Cury
+,10900.0,208.0,7.0,QUA,13:00 às 14:50,Marcelo de Azevedo Rios
+,,,,SEX,07:55 às 11:35,Nara Santos Araujo
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FOF166 - RADIOLOGIA BASICA,10100.0,208.0,6.0,SEG,08:50 às 12:30,Paulo Sergio Flores Campos
+,,,,TER,07:00 às 08:50,Taruska Ventorini Vasconcelos
+,,,,,,Ieda Margarida Crusoe Rocha Rebello
+,,,,,,Frederico Sampaio Neves
+,,,,,,Paulo Sergio Flores Campos
+,10200.0,208.0,6.0,SEG,13:00 às 16:40,Paulo Sergio Flores Campos
+,,,,TER,07:00 às 08:50,Taruska Ventorini Vasconcelos
+,,,,,,Ieda Margarida Crusoe Rocha Rebello
+,,,,,,Frederico Sampaio Neves
+,,,,,,Paulo Sergio Flores Campos
+,10300.0,208.0,6.0,TER,07:00 às 08:50,Taruska Ventorini Vasconcelos
+,,,,,,Ieda Margarida Crusoe Rocha Rebello
+,,,,,,Frederico Sampaio Neves
+,,,,,,Paulo Sergio Flores Campos
+,,,,,08:50 às 12:30,Ieda Margarida Crusoe Rocha Rebello
+,10400.0,208.0,6.0,TER,07:00 às 08:50,Taruska Ventorini Vasconcelos
+,,,,,,Ieda Margarida Crusoe Rocha Rebello
+,,,,,,Frederico Sampaio Neves
+,,,,,,Paulo Sergio Flores Campos
+,,,,,08:50 às 12:30,Taruska Ventorini Vasconcelos
+,10500.0,208.0,6.0,TER,07:00 às 08:50,Taruska Ventorini Vasconcelos
+,,,,,,Ieda Margarida Crusoe Rocha Rebello
+,,,,,,Frederico Sampaio Neves
+,,,,,,Paulo Sergio Flores Campos
+,,,,,13:00 às 16:40,Ieda Margarida Crusoe Rocha Rebello
+,10600.0,208.0,6.0,TER,07:00 às 08:50,Taruska Ventorini Vasconcelos
+,,,,,,Ieda Margarida Crusoe Rocha Rebello
+,,,,,,Frederico Sampaio Neves
+,,,,,,Paulo Sergio Flores Campos
+,,,,QUA,07:55 às 11:35,Ieda Margarida Crusoe Rocha Rebello
+,10700.0,208.0,6.0,TER,07:00 às 08:50,Taruska Ventorini Vasconcelos
+,,,,,,Ieda Margarida Crusoe Rocha Rebello
+,,,,,,Frederico Sampaio Neves
+,,,,,,Paulo Sergio Flores Campos
+,,,,QUA,07:55 às 11:35,Frederico Sampaio Neves
+,10800.0,208.0,6.0,TER,07:00 às 08:50,Taruska Ventorini Vasconcelos
+,,,,,,Ieda Margarida Crusoe Rocha Rebello
+,,,,,,Frederico Sampaio Neves
+,,,,,,Paulo Sergio Flores Campos
+,,,,QUA,13:00 às 16:40,Regina Lucia Seixas Pinto
+,10900.0,208.0,6.0,TER,07:00 às 08:50,Taruska Ventorini Vasconcelos
+,,,,,,Ieda Margarida Crusoe Rocha Rebello
+,,,,,,Frederico Sampaio Neves
+,,,,,,Paulo Sergio Flores Campos
+,,,,QUI,07:55 às 11:35,Taruska Ventorini Vasconcelos
+,11000.0,208.0,6.0,TER,07:00 às 08:50,Taruska Ventorini Vasconcelos
+,,,,,,Ieda Margarida Crusoe Rocha Rebello
+,,,,,,Frederico Sampaio Neves
+,,,,,,Paulo Sergio Flores Campos
+,,,,QUI,07:55 às 11:35,Frederico Sampaio Neves
+,11100.0,208.0,6.0,TER,07:00 às 08:50,Taruska Ventorini Vasconcelos
+,,,,,,Ieda Margarida Crusoe Rocha Rebello
+,,,,,,Frederico Sampaio Neves
+,,,,,,Paulo Sergio Flores Campos
+,,,,QUI,13:00 às 16:40,Taruska Ventorini Vasconcelos
+,11200.0,208.0,6.0,TER,07:00 às 08:50,Taruska Ventorini Vasconcelos
+,,,,,,Ieda Margarida Crusoe Rocha Rebello
+,,,,,,Frederico Sampaio Neves
+,,,,,,Paulo Sergio Flores Campos
+,,,,QUI,13:00 às 16:40,Frederico Sampaio Neves
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FOF167 - ENDODONTIA DE LABORATORIO,10100.0,208.0,10.0,SEG,07:00 às 07:55,Fabiola Bastos de Carvalho
+,,,,,,Erica dos Santos Carvalho
+,,,,,07:55 às 11:35,Maria Tereza Pedrosa de Albuquerque
+,,,,SEX,07:00 às 07:55,Erika Sales Joviano Pereira
+,,,,,,Maria Tereza Pedrosa de Albuquerque
+,10200.0,208.0,10.0,SEG,07:00 às 07:55,Fabiola Bastos de Carvalho
+,,,,,,Erica dos Santos Carvalho
+,,,,,07:55 às 11:35,Erica dos Santos Carvalho
+,,,,SEX,07:00 às 07:55,Erika Sales Joviano Pereira
+,,,,,,Maria Tereza Pedrosa de Albuquerque
+,10300.0,208.0,10.0,SEG,07:00 às 07:55,Fabiola Bastos de Carvalho
+,,,,,,Erica dos Santos Carvalho
+,,,,QUA,07:55 às 11:35,Erika Sales Joviano Pereira
+,,,,SEX,07:00 às 07:55,Erika Sales Joviano Pereira
+,,,,,,Maria Tereza Pedrosa de Albuquerque
+,10400.0,208.0,10.0,SEG,07:00 às 07:55,Fabiola Bastos de Carvalho
+,,,,,,Erica dos Santos Carvalho
+,,,,QUA,07:55 às 11:35,Ludmilla Mota da Silva Santos
+,,,,SEX,07:00 às 07:55,Erika Sales Joviano Pereira
+,,,,,,Maria Tereza Pedrosa de Albuquerque
+,10500.0,208.0,10.0,SEG,07:00 às 07:55,Fabiola Bastos de Carvalho
+,,,,,,Erica dos Santos Carvalho
+,,,,SEX,07:00 às 07:55,Erika Sales Joviano Pereira
+,,,,,,Maria Tereza Pedrosa de Albuquerque
+,,,,,07:55 às 11:35,Fabiola Bastos de Carvalho
+,10600.0,208.0,10.0,SEG,07:00 às 07:55,Fabiola Bastos de Carvalho
+,,,,,,Erica dos Santos Carvalho
+,,,,SEX,07:00 às 07:55,Erika Sales Joviano Pereira
+,,,,,,Maria Tereza Pedrosa de Albuquerque
+,,,,,07:55 às 11:35,Ludmilla Mota da Silva Santos
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FOF169 - ODONTOLOGIA EM SAUDE COLETIVA I,10100.0,208.0,6.0,QUA,13:00 às 14:50,Tatiana Frederico de Almeida
+,,,,,14:50 às 16:40,Tatiana Frederico de Almeida
+,,,,,16:40 às 17:35,Denise Nogueira Cruz
+,10200.0,208.0,6.0,QUA,13:00 às 14:50,Denise Nogueira Cruz
+,,,,,14:50 às 16:40,Denise Nogueira Cruz
+,,,,,16:40 às 17:35,Denise Nogueira Cruz
+,10300.0,208.0,6.0,QUA,13:00 às 14:50,Johelle de Santana Passos Soares
+,,,,,14:50 às 16:40,Johelle de Santana Passos Soares
+,,,,,16:40 às 17:35,Denise Nogueira Cruz
+,10400.0,208.0,6.0,QUA,13:00 às 14:50,Marilia de Matos Amorim
+,,,,,14:50 às 16:40,Marilia de Matos Amorim
+,,,,,16:40 às 17:35,Denise Nogueira Cruz
+,20500.0,208.0,6.0,QUI,07:00 às 08:50,Tatiana Frederico de Almeida
+,,,,,08:50 às 10:40,Tatiana Frederico de Almeida
+,,,,,10:40 às 11:35,Denise Nogueira Cruz
+,20600.0,208.0,6.0,QUI,07:00 às 08:50,Denise Nogueira Cruz
+,,,,,08:50 às 10:40,Denise Nogueira Cruz
+,,,,,10:40 às 11:35,Denise Nogueira Cruz
+,20700.0,208.0,6.0,QUI,07:00 às 08:50,Johelle de Santana Passos Soares
+,,,,,08:50 às 10:40,Johelle de Santana Passos Soares
+,,,,,10:40 às 11:35,Denise Nogueira Cruz
+,20800.0,208.0,6.0,QUI,07:00 às 08:50,Marilia de Matos Amorim
+,,,,,08:50 às 10:40,Marilia de Matos Amorim
+,,,,,10:40 às 11:35,Denise Nogueira Cruz
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FOF170 - ODONTO.SAUDE COLETIVA II,10100.0,208.0,8.0,SEG,14:50 às 16:40,Cristiane Ribeiro da Silva Castro
+,,,,TER,13:00 às 14:50,Cristiane Ribeiro da Silva Castro
+,,,,,14:50 às 16:40,Cristiane Ribeiro da Silva Castro
+,10200.0,208.0,8.0,SEG,14:50 às 16:40,Cristiane Ribeiro da Silva Castro
+,,,,TER,13:00 às 14:50,Sandra Garrido de Barros
+,,,,,14:50 às 16:40,Sandra Garrido de Barros
+,10300.0,208.0,8.0,SEG,14:50 às 16:40,Cristiane Ribeiro da Silva Castro
+,,,,TER,13:00 às 14:50,Marilia de Matos Amorim
+,,,,,14:50 às 16:40,Marilia de Matos Amorim
+,10400.0,208.0,6.0,SEG,14:50 às 16:40,Cristiane Ribeiro da Silva Castro
+,,,,QUA,07:55 às 11:35,Cristiane Ribeiro da Silva Castro
+,10500.0,208.0,6.0,SEG,14:50 às 16:40,Cristiane Ribeiro da Silva Castro
+,,,,QUA,07:55 às 11:35,Sandra Garrido de Barros
+,10600.0,208.0,6.0,SEG,14:50 às 16:40,Cristiane Ribeiro da Silva Castro
+,,,,QUA,07:55 às 11:35,Maria Cristina Teixeira Cangussu
+,10700.0,208.0,6.0,SEG,14:50 às 16:40,Cristiane Ribeiro da Silva Castro
+,,,,QUA,07:55 às 11:35,Marilia de Matos Amorim
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FOF171 - ODONTOLOGIA EM SAUDE COLETIVA III,10100.0,208.0,6.0,SEG,08:50 às 10:40,Lana Bleicher
+,,,,,10:40 às 12:30,Lana Bleicher
+,10200.0,208.0,6.0,SEG,08:50 às 10:40,Lana Bleicher
+,,,,,10:40 às 12:30,Johelle de Santana Passos Soares
+,10300.0,208.0,6.0,SEG,08:50 às 10:40,Lana Bleicher
+,,,,,10:40 às 12:30,Maria Cristina Teixeira Cangussu
+,10400.0,208.0,6.0,SEG,08:50 às 10:40,Lana Bleicher
+,,,,,10:40 às 12:30,Ana Clara de Reboucas Carvalho
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FOFA01 - LASER EM ODONTOLOGIA,10100.0,208.0,6.0,SEG,07:55 às 11:35,Antonio Luiz Barbosa Pinheiro
+,,,,,13:00 às 13:55,Antonio Luiz Barbosa Pinheiro
+,10200.0,208.0,6.0,SEG,13:00 às 13:55,Antonio Luiz Barbosa Pinheiro
+,,,,QUA,07:55 às 11:35,Fabiola Bastos de Carvalho
+,10300.0,208.0,6.0,SEG,13:00 às 13:55,Antonio Luiz Barbosa Pinheiro
+,,,,SEX,07:55 às 11:35,Antonio Luiz Barbosa Pinheiro
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FOFA51 - TRABALHO DE CONCLUSÃO DE CURSO I,100.0,226.0,2.0,QUA,07:00 às 07:55,Sandra Maria Ferraz Mello
+,,208.0,20.0,,,Sandra Maria Ferraz Mello
+,200.0,226.0,2.0,QUA,07:00 às 07:55,Erika Sales Joviano Pereira
+,,208.0,20.0,,,Erika Sales Joviano Pereira
+,300.0,226.0,2.0,QUA,07:00 às 07:55,Luis Cardoso Rasquin
+,,208.0,20.0,,,Luis Cardoso Rasquin
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FOFA52 - TRABALHO DE CONCLUSÃO DE CURSO II,10000.0,208.0,16.0,CMB,00:00 às 23:00,Viviane Maia Barreto de Oliveira
+,20000.0,208.0,16.0,CMB,00:00 às 23:00,Marcelo de Castellucci e Barbosa
+,30000.0,208.0,16.0,CMB,00:00 às 23:00,Paulo Vicente Barbosa da Rocha
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FOFA53 - RADIOLOGIA III,10100.0,208.0,10.0,SEG,13:00 às 14:50,Viviane Almeida Sarmento
+,,,,,,Patricia Miranda Leite Ribeiro
+,,,,,14:50 às 16:40,Viviane Almeida Sarmento
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FOFB34 - ACCs: PREVENÇÃO DE VIOLÊNCIA E PROM DA PAZ ABORD. INTERDISC.,100.0,226.0,1.0,QUI,13:55 às 17:35,Ana Clara de Reboucas Carvalho
+,,208.0,16.0,,,Ana Clara de Reboucas Carvalho
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FOFC48 - ODONTOLOGIA HOSPITALAR,10100.0,208.0,5.0,TER,07:55 às 11:35,Patricia Miranda Leite Ribeiro
+,,,,SEX,07:00 às 07:55,Viviane Almeida Sarmento
+,,,,,,Patricia Miranda Leite Ribeiro
+,10200.0,208.0,5.0,SEX,07:00 às 07:55,Viviane Almeida Sarmento
+,,,,,,Patricia Miranda Leite Ribeiro
+,,,,,07:55 às 11:35,Viviane Almeida Sarmento

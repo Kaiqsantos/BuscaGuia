@@ -1,0 +1,558 @@
+"Disciplina","Turma","Coleg.","Vagas Ofe","Dia","Horário","Docente"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"MAT508 - ANALISE NO RN","010100","133","10","SEG","13:00 às 14:50","Thiago Bomfim Sao Luiz Nunes"
+NA,NA,NA,NA,"QUA","13:00 às 14:50","Thiago Bomfim Sao Luiz Nunes"
+NA,NA,NA,NA,"SEX","13:00 às 14:50","Thiago Bomfim Sao Luiz Nunes"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"MAT509 - GEOMETRIA DIFERENCIAL","010100","133","10","SEG","16:40 às 18:30","Jaime Leonardo Orjuela Chamorro"
+NA,NA,NA,NA,"QUA","16:40 às 18:30","Jaime Leonardo Orjuela Chamorro"
+NA,NA,NA,NA,"SEX","16:40 às 18:30","Jaime Leonardo Orjuela Chamorro"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"MAT512 - VARIAVEIS COMPLEXAS","010100","133","10","SEG","14:50 às 16:40","Vilton Jeovan Viana Pinheiro"
+NA,NA,NA,NA,"QUA","14:50 às 16:40","Vilton Jeovan Viana Pinheiro"
+NA,NA,NA,NA,"SEX","14:50 às 16:40","Vilton Jeovan Viana Pinheiro"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"MAT518 - TÓPICOS DE ANÁLISE","010100","133","10","SEG","10:40 às 12:30","Luciana Silva Salgado"
+NA,NA,NA,NA,"QUA","10:40 às 12:30","Juan Andres Gonzalez Marin"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"MAT566 - SISTEMAS OPERACIONAIS","010000","701","5","TER","08:50 às 11:35","Vinicius Tavares Petrucci"
+NA,NA,"112","8",NA,NA,"Vinicius Tavares Petrucci"
+NA,NA,"195","2",NA,NA,"Vinicius Tavares Petrucci"
+NA,NA,"169","25",NA,NA,"Vinicius Tavares Petrucci"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"MAT571 - SISTEMAS DE TEMPO REAL","010000","169","20","QUA","15:45 às 18:30","George Marconi de Araujo Lima"
+NA,NA,"145","20",NA,NA,"George Marconi de Araujo Lima"
+NA,NA,"153","15",NA,NA,"George Marconi de Araujo Lima"
+NA,NA,"701","10",NA,NA,"George Marconi de Araujo Lima"
+NA,NA,NA,NA,NA,NA,"Paul Denis Etienne Regnier"
+NA,NA,"153","15",NA,NA,"Paul Denis Etienne Regnier"
+NA,NA,"145","20",NA,NA,"Paul Denis Etienne Regnier"
+NA,NA,"169","20",NA,NA,"Paul Denis Etienne Regnier"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"MAT700 - TOPICOS ESPECIAIS EM MECATRONICA II","010000","701","5","TER","08:50 às 11:35","Daniela Barreiro Claro"
+NA,NA,"145","15",NA,NA,"Daniela Barreiro Claro"
+NA,NA,"169","5",NA,NA,"Daniela Barreiro Claro"
+NA,NA,"153","10",NA,NA,"Daniela Barreiro Claro"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"MAT701 - TOPICOS ESPECIAIS EM MECATRONICA IV","010000","145","20","QUA","08:50 às 11:35","Aline Maria Santos Andrade"
+NA,NA,"169","5",NA,NA,"Aline Maria Santos Andrade"
+NA,NA,"112","3",NA,NA,"Aline Maria Santos Andrade"
+NA,NA,"153","15",NA,NA,"Aline Maria Santos Andrade"
+NA,NA,"195","2",NA,NA,"Aline Maria Santos Andrade"
+NA,NA,"701","5",NA,NA,"Aline Maria Santos Andrade"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"MAT790 - PESQUISA ORIENTADA","010000","133","6","CMB","00:00 às 23:00","Joilson Oliveira Ribeiro"
+NA,NA,"003","1",NA,NA,"Joilson Oliveira Ribeiro"
+NA,"020000","133","5","CMB","00:00 às 23:00","Giovana Oliveira Silva"
+NA,"030000","133","5","CMB","00:00 às 23:00","Luciana Silva Salgado"
+NA,"040000","133","5","CMB","00:00 às 23:00","Joilson Oliveira Ribeiro"
+NA,"050000","133","5","CMB","00:00 às 23:00","Thierry Correa Petit Lobao"
+NA,"060000","133","5","CMB","00:00 às 23:00","Carmela Sica"
+NA,"070000","133","5","CMB","00:00 às 23:00","Juan Andres Gonzalez Marin"
+NA,"080000","133","5","CMB","00:00 às 23:00","Kleyber Mota da Cunha"
+NA,"090000","133","5","CMB","00:00 às 23:00","Vilton Jeovan Viana Pinheiro"
+NA,"100000","133","5","CMB","00:00 às 23:00","Mathieu Molitor"
+NA,"110000","179","20","CMB","00:00 às 23:00","Marco Antonio Nogueira Fernandes"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"MAT791 - TIROCINIO DOCENTE ORIENTADO","010000","133","5","CMB","00:00 às 23:00","Manuela da Silva Souza"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"MAT792 - PROJETO DE DISSERTAÇÃO","010000","133","5","CMB","00:00 às 23:00","Luciana Silva Salgado"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"MATA31 - PESQUISA ORIENTADA","010000","169","10","CMB","00:00 às 23:00","Aline Maria Santos Andrade"
+NA,NA,"701","10",NA,NA,"Aline Maria Santos Andrade"
+NA,"030000","169","10","CMB","00:00 às 23:00","Docente Convênio"
+NA,NA,"701","10",NA,NA,"Docente Convênio"
+NA,"040000","168","10","CMB","00:00 às 23:00","Antonio Lopes Apolinario Junior"
+NA,NA,"169","10",NA,NA,"Antonio Lopes Apolinario Junior"
+NA,NA,"701","10",NA,NA,"Antonio Lopes Apolinario Junior"
+NA,"050000","701","10","CMB","00:00 às 23:00","Cassio Vinicius Serafim Prazeres"
+NA,NA,"169","10",NA,NA,"Cassio Vinicius Serafim Prazeres"
+NA,"060000","169","10","CMB","00:00 às 23:00","Christina Von Flach Garcia Chavez"
+NA,NA,"701","10",NA,NA,"Christina Von Flach Garcia Chavez"
+NA,"070000","701","10","CMB","00:00 às 23:00","Claudio Nogueira Sant Anna"
+NA,NA,"169","10",NA,NA,"Claudio Nogueira Sant Anna"
+NA,NA,"159","10",NA,NA,"Claudio Nogueira Sant Anna"
+NA,"080000","701","10","CMB","00:00 às 23:00","Daniela Barreiro Claro"
+NA,NA,"169","10",NA,NA,"Daniela Barreiro Claro"
+NA,"090000","701","10","CMB","00:00 às 23:00","Debora Abdalla Santos"
+NA,NA,"169","10",NA,NA,"Debora Abdalla Santos"
+NA,"100000","701","10","CMB","00:00 às 23:00","Ecivaldo de Souza Matos"
+NA,NA,"169","10",NA,NA,"Ecivaldo de Souza Matos"
+NA,"110000","701","10","CMB","00:00 às 23:00","Eduardo Santana de Almeida"
+NA,NA,"169","10",NA,NA,"Eduardo Santana de Almeida"
+NA,"120000","701","10","CMB","00:00 às 23:00","Fabiola Goncalves Pereira Greve"
+NA,NA,"169","10",NA,NA,"Fabiola Goncalves Pereira Greve"
+NA,"130000","701","10","CMB","00:00 às 23:00","Flavio Morais de Assis Silva"
+NA,NA,"169","10",NA,NA,"Flavio Morais de Assis Silva"
+NA,"150000","701","10","CMB","00:00 às 23:00","George Marconi de Araujo Lima"
+NA,NA,"169","10",NA,NA,"George Marconi de Araujo Lima"
+NA,"160000","701","10","CMB","00:00 às 23:00","Gustavo Bittencourt Figueiredo"
+NA,NA,"169","10",NA,NA,"Gustavo Bittencourt Figueiredo"
+NA,"170000","701","10","CMB","00:00 às 23:00","Lais do Nascimento Salvador"
+NA,NA,"169","10",NA,NA,"Lais do Nascimento Salvador"
+NA,"180000","701","10","CMB","00:00 às 23:00","Leobino Nascimento Sampaio"
+NA,NA,"169","10",NA,NA,"Leobino Nascimento Sampaio"
+NA,"190000","701","10","CMB","00:00 às 23:00","Luciano Reboucas de Oliveira"
+NA,NA,"169","10",NA,NA,"Luciano Reboucas de Oliveira"
+NA,"200000","701","10","CMB","00:00 às 23:00","Manoel Gomes de Mendonca Neto"
+NA,NA,"169","10",NA,NA,"Manoel Gomes de Mendonca Neto"
+NA,"210000","701","10","CMB","00:00 às 23:00","Marcos Ennes Barreto"
+NA,NA,"169","10",NA,NA,"Marcos Ennes Barreto"
+NA,"220000","701","10","CMB","00:00 às 23:00","Mauricio Pamplona Segundo"
+NA,NA,"169","10",NA,NA,"Mauricio Pamplona Segundo"
+NA,"230000","701","10","CMB","00:00 às 23:00","Maycon Leone Maciel Peixoto"
+NA,NA,"169","10",NA,NA,"Maycon Leone Maciel Peixoto"
+NA,"240000","701","10","CMB","00:00 às 23:00","Paul Denis Etienne Regnier"
+NA,NA,"169","10",NA,NA,"Paul Denis Etienne Regnier"
+NA,"250000","701","10","CMB","00:00 às 23:00","Rafael Augusto de Melo"
+NA,NA,"169","10",NA,NA,"Rafael Augusto de Melo"
+NA,"260000","701","10","CMB","00:00 às 23:00","Docente Convênio"
+NA,NA,"169","10",NA,NA,"Docente Convênio"
+NA,"270000","701","10","CMB","00:00 às 23:00","Ricardo Araujo Rios"
+NA,NA,"169","10",NA,NA,"Ricardo Araujo Rios"
+NA,"280000","701","10","CMB","00:00 às 23:00","Rita Suzana Pitangueira Maciel"
+NA,NA,"169","10",NA,NA,"Rita Suzana Pitangueira Maciel"
+NA,"290000","701","10","CMB","00:00 às 23:00","Rubisley de Paula Lemes"
+NA,NA,"169","10",NA,NA,"Rubisley de Paula Lemes"
+NA,"300000","701","10","CMB","00:00 às 23:00","Docente Convênio"
+NA,NA,"169","10",NA,NA,"Docente Convênio"
+NA,"310000","701","10","CMB","00:00 às 23:00","Steffen Lewitzka"
+NA,NA,"169","10",NA,NA,"Steffen Lewitzka"
+NA,"320000","701","10","CMB","00:00 às 23:00","Tatiane Nogueira Rios"
+NA,NA,"169","10",NA,NA,"Tatiane Nogueira Rios"
+NA,"330000","701","10","CMB","00:00 às 23:00","Vaninha Vieira dos Santos"
+NA,NA,"169","10",NA,NA,"Vaninha Vieira dos Santos"
+NA,"340000","701","10","CMB","00:00 às 23:00","Vinicius Tavares Petrucci"
+NA,NA,"169","10",NA,NA,"Vinicius Tavares Petrucci"
+NA,"350000","701","10","CMB","00:00 às 23:00","Ivan do Carmo Machado"
+NA,NA,"169","10",NA,NA,"Ivan do Carmo Machado"
+NA,"360000","701","10","CMB","00:00 às 23:00","Karl Philips Apaza Aguero"
+NA,NA,"169","10",NA,NA,"Karl Philips Apaza Aguero"
+NA,"370000","701","10","CMB","00:00 às 23:00","Rodrigo Rocha Gomes e Souza"
+NA,NA,"169","10",NA,NA,"Rodrigo Rocha Gomes e Souza"
+NA,"380000","701","10","CMB","00:00 às 23:00","Tiago de Oliveira Januario"
+NA,NA,"169","10",NA,NA,"Tiago de Oliveira Januario"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"MATA32 - ESTAGIO DOCENTE ORIENTADO","010000","701","20","CMB","00:00 às 23:00","Christina Von Flach Garcia Chavez"
+NA,NA,"169","30",NA,NA,"Christina Von Flach Garcia Chavez"
+NA,"020000","168","10","CMB","00:00 às 23:00","Antonio Lopes Apolinario Junior"
+NA,"030000","159","15","CMB","00:00 às 23:00","Claudio Nogueira Sant Anna"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"MATA33 - SEMINARIOS DE AVALIACAO ANUAIS","010000","701","30","CMB","00:00 às 23:00","Christina Von Flach Garcia Chavez"
+NA,"020000","159","15","CMB","00:00 às 23:00","Claudio Nogueira Sant Anna"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"MATA34 - EXAME DE QUALIFICACAO","010000","701","30","CMB","00:00 às 23:00","Christina Von Flach Garcia Chavez"
+NA,"020000","159","15","CMB","00:00 às 23:00","Claudio Nogueira Sant Anna"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"MATA35 - ELABORACAO DE TESE DE DOUTORADO","010000","701","15","CMB","00:00 às 23:00","Docente não informado pelo Departamento"
+NA,"020000","159","10","CMB","00:00 às 23:00","Claudio Nogueira Sant Anna"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"MATD07 - ASPECTOS RECENTES EM ÁLGEBRA","010000","165","10","TER","14:50 às 16:40","Thierry Correa Petit Lobao"
+NA,NA,NA,NA,"QUI","14:50 às 16:40","Thierry Correa Petit Lobao"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"MATD13 - ANÁLISE FUNCIONAL","010000","165","10","QUA","13:00 às 15:45","Kleyber Mota da Cunha"
+NA,NA,"133","5",NA,NA,"Kleyber Mota da Cunha"
+NA,NA,"165","10","SEX","09:45 às 12:30","Kleyber Mota da Cunha"
+NA,NA,"133","5",NA,NA,"Kleyber Mota da Cunha"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"MATD15 - ASPECTOS RECENTES EM ANÁLISE","010000","165","10","TER","13:00 às 14:50","Joilson Oliveira Ribeiro"
+NA,NA,"133","5",NA,NA,"Joilson Oliveira Ribeiro"
+NA,NA,"165","10","QUI","13:00 às 14:50","Joilson Oliveira Ribeiro"
+NA,NA,"133","5",NA,NA,"Joilson Oliveira Ribeiro"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"MATD22 - GEOMETRIA RIEMANNIANA I","010000","165","5","CMB","00:00 às 23:00","Diego Catalano Ferraioli"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"MATD31 - TEORIA ERGÓDICA","010000","165","10","TER","13:00 às 16:40","Vitor Domingos Martins de Araujo"
+NA,NA,NA,NA,"QUI","14:50 às 16:40","Vitor Domingos Martins de Araujo"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"MATD35 - PESQUISA ORIENTADA","010000","165","5","CMB","00:00 às 23:00","Vitor Domingos Martins de Araujo"
+NA,"020000","165","5","CMB","00:00 às 23:00","Vilton Jeovan Viana Pinheiro"
+NA,"030000","165","5","CMB","00:00 às 23:00","Paulo Cesar Rodrigues Pinto Varandas"
+NA,"040000","165","5","CMB","00:00 às 23:00","Thierry Correa Petit Lobao"
+NA,"050000","165","5","CMB","00:00 às 23:00","Tertuliano Franco Santos Franco"
+NA,"060000","165","5","CMB","00:00 às 23:00","Ezio de Araujo Costa"
+NA,"070000","165","5","CMB","00:00 às 23:00","Jerome Francois Alain Jean Rousseau"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"MATD36 - EXAME DE QUALIFICAÇÃO","010000","165","5","CMB","00:00 às 23:00","Tertuliano Franco Santos Franco"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"MATD37 - ESTÁGIO DOCENTE ORIENTADO","010000","165","5","CMB","00:00 às 23:00","Vitor Domingos Martins de Araujo"
+NA,"020000","165","5","CMB","00:00 às 23:00","Vilton Jeovan Viana Pinheiro"
+NA,"030000","165","5","CMB","00:00 às 23:00","Thierry Correa Petit Lobao"
+NA,"040000","165","5","CMB","00:00 às 23:00","Tertuliano Franco Santos Franco"
+NA,"050000","165","5","CMB","00:00 às 23:00","Paulo Cesar Rodrigues Pinto Varandas"
+NA,"060000","165","5","CMB","00:00 às 23:00","Joilson Oliveira Ribeiro"
+NA,"070000","165","5","CMB","00:00 às 23:00","Jerome Francois Alain Jean Rousseau"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"MATD74 - ALGORITMOS E GRAFOS","010000","701","10","QUA","13:00 às 15:45","Tiago de Oliveira Januario"
+NA,NA,"196","2",NA,NA,"Tiago de Oliveira Januario"
+NA,NA,"195","3",NA,NA,"Tiago de Oliveira Januario"
+NA,NA,"169","35",NA,NA,"Tiago de Oliveira Januario"
+NA,NA,"112","10",NA,NA,"Tiago de Oliveira Januario"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"MATD75 - PROJETO DE DISSERTAÇÃO DE MESTRADO","010000","169","50","CMB","00:00 às 23:00","Christina Von Flach Garcia Chavez"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"MATD81 - REDES DE SENSORES SEM FIO","010000","701","5","TER","14:50 às 17:35","Flavio Morais de Assis Silva"
+NA,NA,"195","2",NA,NA,"Flavio Morais de Assis Silva"
+NA,NA,"169","5",NA,NA,"Flavio Morais de Assis Silva"
+NA,NA,"153","15",NA,NA,"Flavio Morais de Assis Silva"
+NA,NA,"145","20",NA,NA,"Flavio Morais de Assis Silva"
+NA,NA,"112","3",NA,NA,"Flavio Morais de Assis Silva"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"MATD85 - MA13 - Geometria","010000","179","21","SEX","13:55 às 16:40","Elais Cidely Souza Malheiro"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"MATD86 - MA14 - Aritmética","010000","179","21","SEX","17:35 às 18:30","Joseph Nee Anyah Yartey"
+NA,NA,NA,NA,NA,"18:30 às 20:20","Joseph Nee Anyah Yartey"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"MATD87 - MA21 - Resolução de Problemas","010000","179","21","CMB","00:00 às 23:00","Docente não informado pelo Departamento"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"MATD89 - MA23 - Geometria Analítica","010000","179","20","SAB","08:50 às 11:35","Rita de Cassia De Jesus Silva"
+NA,NA,NA,NA,NA,NA,"Joseph Nee Anyah Yartey"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"MATD90 - MA24 - Trabalho de Conclusão de Curso","010000","179","20","CMB","00:00 às 23:00","Marco Antonio Nogueira Fernandes"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"MATD98 - MAT38- Tópicos de Matemática","010000","179","20","CMB","00:00 às 23:00","Marco Antonio Nogueira Fernandes"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"MATE05 - TÓPICOS EM REDES DE COMPUTADORES I","010000","701","10","QUA","13:00 às 15:45","Leobino Nascimento Sampaio"
+NA,NA,"169","15",NA,NA,"Leobino Nascimento Sampaio"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"MATE09 - TÓPICOS EM METODOS FRMAIS E TEORIA DA COMPUTAÇÃO I","010000","701","10","TER","08:50 às 11:35","Christina Von Flach Garcia Chavez"
+NA,NA,"195","1",NA,NA,"Christina Von Flach Garcia Chavez"
+NA,NA,"169","17",NA,NA,"Christina Von Flach Garcia Chavez"
+NA,NA,"112","3",NA,NA,"Christina Von Flach Garcia Chavez"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"MATE17 - Tópicos em Redes de Computadores II","010000","701","10","SEG","13:00 às 15:45","Gustavo Bittencourt Figueiredo"
+NA,NA,"195","1",NA,NA,"Gustavo Bittencourt Figueiredo"
+NA,NA,"169","25",NA,NA,"Gustavo Bittencourt Figueiredo"
+NA,NA,"112","5",NA,NA,"Gustavo Bittencourt Figueiredo"
+NA,NA,"701","10",NA,NA,"Maycon Leone Maciel Peixoto"
+NA,NA,"195","1",NA,NA,"Maycon Leone Maciel Peixoto"
+NA,NA,"169","25",NA,NA,"Maycon Leone Maciel Peixoto"
+NA,NA,"112","5",NA,NA,"Maycon Leone Maciel Peixoto"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"MATE27 - Tópicos em Engenharia de Software III","010000","701","10","QUI","15:45 às 18:30","Manoel Gomes de Mendonca Neto"
+NA,NA,"169","20",NA,NA,"Manoel Gomes de Mendonca Neto"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"MATE33 - Tópicos em Inteligência Computacional III","010000","701","10","TER","08:50 às 11:35","Tatiane Nogueira Rios"
+NA,NA,"195","1",NA,NA,"Tatiane Nogueira Rios"
+NA,NA,"169","20",NA,NA,"Tatiane Nogueira Rios"
+NA,NA,"112","5",NA,NA,"Tatiane Nogueira Rios"
+NA,NA,"701","10",NA,NA,"Ricardo Araujo Rios"
+NA,NA,"195","1",NA,NA,"Ricardo Araujo Rios"
+NA,NA,"169","20",NA,NA,"Ricardo Araujo Rios"
+NA,NA,"112","5",NA,NA,"Ricardo Araujo Rios"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"MATE42 - Teoria da Probabilidade","010000","165","10","SEG","09:45 às 11:35","Tertuliano Franco Santos Franco"
+NA,NA,NA,NA,"QUA","09:45 às 10:40","Tertuliano Franco Santos Franco"
+NA,NA,NA,NA,NA,"10:40 às 11:35","Tertuliano Franco Santos Franco"
+NA,NA,NA,NA,"SEX","09:45 às 11:35","Tertuliano Franco Santos Franco"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"MATE53 - Dinâmica Parcialmente Hiperbólica","010000","165","10","SEG","07:55 às 10:40","Luciana Silva Salgado"
+NA,NA,NA,NA,"QUA","07:55 às 10:40","Luciana Silva Salgado"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"MATE64 - SEMINÁRIOS CIENTÍFICOS","010000","701","10","QUA","09:45 às 12:30","Christina Von Flach Garcia Chavez"
+NA,NA,"169","40",NA,NA,"Christina Von Flach Garcia Chavez"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"MATE65 - FUNDAMENTOS DE PESQUISA EM CIÊNCIA DA COMPUTAÇÃO I","010000","169","35","QUI","09:45 às 12:30","Ecivaldo de Souza Matos"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"MATE66 - FUNDAMENTOS DE PESQUISA EM CIÊNCIA DA COMPUTAÇÃO II","010000","701","35","QUI","08:50 às 11:35","Luciano Reboucas de Oliveira"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"MATE67 - ARQUITETURA DE SOFTWARE","010000","701","10","SEG","09:45 às 12:30","Christina Von Flach Garcia Chavez"
+NA,NA,"169","20",NA,NA,"Christina Von Flach Garcia Chavez"
+NA,NA,"112","2",NA,NA,"Christina Von Flach Garcia Chavez"
+NA,NA,"701","10",NA,NA,"Rita Suzana Pitangueira Maciel"
+NA,NA,"169","20",NA,NA,"Rita Suzana Pitangueira Maciel"
+NA,NA,"112","2",NA,NA,"Rita Suzana Pitangueira Maciel"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"MATE70 - COMPUTAÇÃO UBÍQUA E SENSÍVEL AO CONTEXTO","010000","701","10","SEG","13:00 às 15:45","Vaninha Vieira dos Santos"
+NA,NA,"169","25",NA,NA,"Vaninha Vieira dos Santos"
+NA,NA,"112","2",NA,NA,"Vaninha Vieira dos Santos"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"MATE71 - COMPUTAÇÃO VISUAL","010000","701","10","TER","13:00 às 15:45","Antonio Lopes Apolinario Junior"
+NA,NA,"195","1",NA,NA,"Antonio Lopes Apolinario Junior"
+NA,NA,"169","20",NA,NA,"Antonio Lopes Apolinario Junior"
+NA,NA,"112","5",NA,NA,"Antonio Lopes Apolinario Junior"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"MATE74 - REUSO DE SOFTWARE","010000","701","10","TER","08:50 às 11:35","Eduardo Santana de Almeida"
+NA,NA,"195","2",NA,NA,"Eduardo Santana de Almeida"
+NA,NA,"169","25",NA,NA,"Eduardo Santana de Almeida"
+NA,NA,"112","10",NA,NA,"Eduardo Santana de Almeida"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"MATE75 - SISTEMAS WEB","010000","701","10","SEG","15:45 às 18:30","Cassio Vinicius Serafim Prazeres"
+NA,NA,"195","1",NA,NA,"Cassio Vinicius Serafim Prazeres"
+NA,NA,"169","20",NA,NA,"Cassio Vinicius Serafim Prazeres"
+NA,NA,"112","5",NA,NA,"Cassio Vinicius Serafim Prazeres"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"MATE93 - DEFESA DE PROPOSTA DE MESTRADO","010000","169","50","CMB","00:00 às 23:00","Christina Von Flach Garcia Chavez"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"MATE94 - ENGENHARIA DE SOFTWARE EXPERIMENTAL","010000","701","10","QUI","13:00 às 15:45","Claudio Nogueira Sant Anna"
+NA,NA,"169","35",NA,NA,"Claudio Nogueira Sant Anna"
+NA,NA,"701","10",NA,NA,"Rodrigo Rocha Gomes e Souza"
+NA,NA,"169","35",NA,NA,"Rodrigo Rocha Gomes e Souza"
+NA,NA,"701","10",NA,NA,"Ivan do Carmo Machado"
+NA,NA,"169","35",NA,NA,"Ivan do Carmo Machado"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"MATE98 - ANÁLISE DE SOBREVIVÊNCIA","010100","133","10","TER","10:40 às 12:30","Giovana Oliveira Silva"
+NA,NA,NA,NA,"QUI","10:40 às 12:30","Giovana Oliveira Silva"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"MATF08 - ELABORAÇÃO DE TESE","010000","165","5","CMB","00:00 às 23:00","Vitor Domingos Martins de Araujo"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"MATF16 - MODELOS LINEARES GENERALIZADOS A","010100","133","10","SEG","08:50 às 10:40","Rosemeire Leovigildo Fiaccone"
+NA,NA,NA,NA,"QUA","08:50 às 10:40","Rosemeire Leovigildo Fiaccone"
+NA,NA,NA,NA,"SEX","08:50 às 10:40","Rosemeire Leovigildo Fiaccone"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"MATF20 - FUNDAMENTOS DE PESQUISA II","010100","153","15","CMB","00:00 às 23:00","Luciano Reboucas de Oliveira"
+NA,NA,"145","20",NA,NA,"Luciano Reboucas de Oliveira"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"MATF25 - TÓPICOS EM INFORMÁTICA E EDUCAÇÃO I","010000","701","10","QUA","15:45 às 18:30","Lais do Nascimento Salvador"
+NA,NA,"169","15",NA,NA,"Lais do Nascimento Salvador"
+NA,NA,"701","10",NA,NA,"Debora Abdalla Santos"
+NA,NA,"169","15",NA,NA,"Debora Abdalla Santos"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"MATF29 - TÓPICOS EM SISTEMA DINÂMICOS IV","010000","165","10","TER","10:40 às 12:30","Jerome Francois Alain Jean Rousseau"
+NA,NA,NA,NA,"QUI","10:40 às 12:30","Jerome Francois Alain Jean Rousseau"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"MATF30 - TÓPICOS EM SISTEMA DINÂMICOS II- FOR.TERMO. E APLICAÇÕES II","010000","165","10","TER","08:50 às 10:40","Paulo Cesar Rodrigues Pinto Varandas"
+NA,NA,NA,NA,"QUI","08:50 às 10:40","Paulo Cesar Rodrigues Pinto Varandas"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"MATF31 - TÓPICOS EM SISTEMAS DINÂMICOS III- ERGODICIDADE E TOPOLOGIA","010000","165","10","SEG","13:00 às 14:50","Vilton Jeovan Viana Pinheiro"
+NA,NA,NA,NA,"QUA","13:00 às 14:50","Vilton Jeovan Viana Pinheiro"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"MATF32 - TÉCNICAS COMPUTACIONAIS EM ESTATÍSTICA","010100","133","10","SEG","16:40 às 18:30","Paulo Henrique Ferreira da Silva"
+NA,NA,NA,NA,"QUA","16:40 às 18:30","Paulo Henrique Ferreira da Silva"
+NA,NA,NA,NA,"SEX","16:40 às 18:30","Paulo Henrique Ferreira da Silva"

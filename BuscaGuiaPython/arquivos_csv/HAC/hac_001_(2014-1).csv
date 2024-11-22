@@ -1,0 +1,609 @@
+Disciplina,Turma,Coleg.,Vagas Ofe,Dia,Horário,Docente
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+HACA01 - ESTUDOS SOBRE A CONTEMPORANEIDADE I,10000.0,190.0,5.0,SEG,13:00 às 17:00,Gilmaro Nogueira
+,,515.0,5.0,,,Gilmaro Nogueira
+,,327.0,25.0,,,Gilmaro Nogueira
+,,226.0,25.0,,,Gilmaro Nogueira
+,20000.0,515.0,50.0,QUA,13:00 às 17:00,Haenz Gutierrez Quintana
+,,506.0,2.0,,,Haenz Gutierrez Quintana
+,,226.0,5.0,,,Haenz Gutierrez Quintana
+,,327.0,5.0,,,Haenz Gutierrez Quintana
+,30000.0,515.0,50.0,QUA,13:00 às 17:00,Andre Luis Mattedi Dias
+,,226.0,5.0,,,Andre Luis Mattedi Dias
+,,327.0,5.0,,,Andre Luis Mattedi Dias
+,40000.0,190.0,5.0,SEG,13:00 às 17:00,Anamelia Lins e Silva Franco
+,,226.0,25.0,,,Anamelia Lins e Silva Franco
+,,327.0,25.0,,,Anamelia Lins e Silva Franco
+,,515.0,5.0,,,Anamelia Lins e Silva Franco
+,50000.0,226.0,12.0,SEX,13:00 às 17:00,Leonardo Vincenzo Boccia
+,,327.0,13.0,,,Leonardo Vincenzo Boccia
+,,515.0,5.0,,,Leonardo Vincenzo Boccia
+,,190.0,25.0,,,Leonardo Vincenzo Boccia
+,,380.0,5.0,,,Leonardo Vincenzo Boccia
+,60000.0,226.0,13.0,SEX,13:00 às 17:00,Ana Lucia Lage Pereira
+,,190.0,25.0,,,Ana Lucia Lage Pereira
+,,327.0,19.0,,,Ana Lucia Lage Pereira
+,,515.0,3.0,,,Ana Lucia Lage Pereira
+,70000.0,190.0,25.0,SEX,13:00 às 17:00,Brian Teles Fonseca de Macedo
+,,515.0,4.0,,,Brian Teles Fonseca de Macedo
+,,327.0,18.0,,,Brian Teles Fonseca de Macedo
+,,226.0,13.0,,,Brian Teles Fonseca de Macedo
+,80000.0,327.0,12.0,SEX,13:00 às 17:00,Gilmaro Nogueira
+,,226.0,18.0,,,Gilmaro Nogueira
+,,190.0,25.0,,,Gilmaro Nogueira
+,,515.0,5.0,,,Gilmaro Nogueira
+,90000.0,580.0,9.0,SEG,18:30 às 22:30,Rita de Cassia Aragao Matos
+,,112.0,5.0,,,Rita de Cassia Aragao Matos
+,,286.0,11.0,,,Rita de Cassia Aragao Matos
+,,387.0,20.0,,,Rita de Cassia Aragao Matos
+,,189.0,15.0,,,Rita de Cassia Aragao Matos
+,100000.0,189.0,15.0,SEG,18:30 às 22:30,Docente Concursado
+,,286.0,13.0,,,Docente Concursado
+,,580.0,7.0,,,Docente Concursado
+,,387.0,25.0,,,Docente Concursado
+,110000.0,580.0,12.0,SEG,18:30 às 22:30,Sonia Maria Rocha Sampaio
+,,387.0,20.0,,,Sonia Maria Rocha Sampaio
+,,189.0,15.0,,,Sonia Maria Rocha Sampaio
+,,286.0,13.0,,,Sonia Maria Rocha Sampaio
+,120000.0,580.0,8.0,SEG,18:30 às 22:30,Ana Lucia Lage Pereira
+,,387.0,30.0,,,Ana Lucia Lage Pereira
+,,189.0,15.0,,,Ana Lucia Lage Pereira
+,,286.0,7.0,,,Ana Lucia Lage Pereira
+,130000.0,387.0,25.0,SEG,18:30 às 22:30,Gilmaro Nogueira
+,,580.0,7.0,,,Gilmaro Nogueira
+,,286.0,13.0,,,Gilmaro Nogueira
+,,189.0,15.0,,,Gilmaro Nogueira
+,140000.0,580.0,7.0,SEG,18:30 às 22:30,Angela Maria de Almeida Franco
+,,387.0,30.0,,,Angela Maria de Almeida Franco
+,,189.0,15.0,,,Angela Maria de Almeida Franco
+,,286.0,8.0,,,Angela Maria de Almeida Franco
+,150000.0,580.0,7.0,SEG,18:30 às 22:30,Brian Teles Fonseca de Macedo
+,,387.0,30.0,,,Brian Teles Fonseca de Macedo
+,,286.0,13.0,,,Brian Teles Fonseca de Macedo
+,,189.0,10.0,,,Brian Teles Fonseca de Macedo
+,160000.0,304.0,1.0,QUA,18:30 às 22:30,Clarissa Bittencourt de Pinho e Braga
+,,286.0,21.0,,,Clarissa Bittencourt de Pinho e Braga
+,,306.0,1.0,,,Clarissa Bittencourt de Pinho e Braga
+,,580.0,16.0,,,Clarissa Bittencourt de Pinho e Braga
+,,308.0,1.0,,,Clarissa Bittencourt de Pinho e Braga
+,,387.0,20.0,,,Clarissa Bittencourt de Pinho e Braga
+,170000.0,580.0,16.0,QUA,18:30 às 22:30,Ana Lucia Lage Pereira
+,,512.0,1.0,,,Ana Lucia Lage Pereira
+,,401.0,2.0,,,Ana Lucia Lage Pereira
+,,387.0,23.0,,,Ana Lucia Lage Pereira
+,,286.0,17.0,,,Ana Lucia Lage Pereira
+,180000.0,580.0,17.0,QUA,18:30 às 22:30,Angela Maria de Almeida Franco
+,,515.0,1.0,,,Angela Maria de Almeida Franco
+,,501.0,1.0,,,Angela Maria de Almeida Franco
+,,506.0,1.0,,,Angela Maria de Almeida Franco
+,,387.0,20.0,,,Angela Maria de Almeida Franco
+,,111.0,1.0,,,Angela Maria de Almeida Franco
+,,107.0,1.0,,,Angela Maria de Almeida Franco
+,,110.0,1.0,,,Angela Maria de Almeida Franco
+,,286.0,17.0,,,Angela Maria de Almeida Franco
+,190000.0,580.0,17.0,QUA,18:30 às 22:30,Docente Concursado
+,,387.0,20.0,,,Docente Concursado
+,,286.0,20.0,,,Docente Concursado
+,,207.0,2.0,,,Docente Concursado
+,,206.0,1.0,,,Docente Concursado
+,,205.0,1.0,,,Docente Concursado
+,200000.0,580.0,17.0,QUA,18:30 às 22:30,Brian Teles Fonseca de Macedo
+,,317.0,1.0,,,Brian Teles Fonseca de Macedo
+,,318.0,1.0,,,Brian Teles Fonseca de Macedo
+,,325.0,1.0,,,Brian Teles Fonseca de Macedo
+,,286.0,16.0,,,Brian Teles Fonseca de Macedo
+,,387.0,17.0,,,Brian Teles Fonseca de Macedo
+,,327.0,3.0,,,Brian Teles Fonseca de Macedo
+,,189.0,3.0,,,Brian Teles Fonseca de Macedo
+,210000.0,207.0,1.0,QUA,18:30 às 22:30,Fernanda Rebelo Pinto
+,,580.0,17.0,,,Fernanda Rebelo Pinto
+,,387.0,20.0,,,Fernanda Rebelo Pinto
+,,286.0,20.0,,,Fernanda Rebelo Pinto
+,,206.0,1.0,,,Fernanda Rebelo Pinto
+,,205.0,1.0,,,Fernanda Rebelo Pinto
+,220000.0,580.0,10.0,SEX,18:30 às 22:30,Brian Teles Fonseca de Macedo
+,,387.0,11.0,,,Brian Teles Fonseca de Macedo
+,,286.0,10.0,,,Brian Teles Fonseca de Macedo
+,,189.0,30.0,,,Brian Teles Fonseca de Macedo
+,230000.0,580.0,14.0,SEX,18:30 às 22:30,Gilmaro Nogueira
+,,387.0,14.0,,,Gilmaro Nogueira
+,,286.0,13.0,,,Gilmaro Nogueira
+,,189.0,20.0,,,Gilmaro Nogueira
+,240000.0,580.0,18.0,SEX,18:30 às 22:30,Ana Lucia Lage Pereira
+,,387.0,15.0,,,Ana Lucia Lage Pereira
+,,286.0,17.0,,,Ana Lucia Lage Pereira
+,,189.0,10.0,,,Ana Lucia Lage Pereira
+,250000.0,387.0,10.0,SEX,18:30 às 22:30,Clarissa Bittencourt de Pinho e Braga
+,,286.0,10.0,,,Clarissa Bittencourt de Pinho e Braga
+,,189.0,30.0,,,Clarissa Bittencourt de Pinho e Braga
+,,580.0,10.0,,,Clarissa Bittencourt de Pinho e Braga
+,260000.0,282.0,50.0,SEX,18:30 às 22:30,Docente Concursado
+,,189.0,10.0,,,Docente Concursado
+,270000.0,387.0,20.0,QUA,18:30 às 22:30,Rita de Cassia Aragao Matos
+,,286.0,20.0,,,Rita de Cassia Aragao Matos
+,,580.0,20.0,,,Rita de Cassia Aragao Matos
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+HACA02 - ELEMENTOS ACADÊMICOS E PROFISSIONAIS EM CIÊNCIA E TECNOLOGIA,10000.0,380.0,1.0,TER,18:30 às 20:30,Pedro Jose Di Novella Cordero
+,,190.0,28.0,,,Pedro Jose Di Novella Cordero
+,,189.0,28.0,,,Pedro Jose Di Novella Cordero
+,,190.0,28.0,QUI,18:30 às 20:30,Pedro Jose Di Novella Cordero
+,,189.0,28.0,,,Pedro Jose Di Novella Cordero
+,,380.0,1.0,,,Pedro Jose Di Novella Cordero
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+HACA03 - ESTUDOS DAS HUMANIDADES,10000.0,514.0,3.0,QUA,13:00 às 17:00,Leonardo Vincenzo Boccia
+,,506.0,2.0,,,Leonardo Vincenzo Boccia
+,,327.0,50.0,,,Leonardo Vincenzo Boccia
+,20000.0,515.0,3.0,QUA,13:00 às 17:00,Fernando Gigante Ferraz
+,,327.0,50.0,,,Fernando Gigante Ferraz
+,30000.0,387.0,50.0,SEG,18:30 às 22:30,Fernando Gigante Ferraz
+,40000.0,580.0,9.0,SEG,18:30 às 22:30,Francisco Antonio Zorzo
+,,387.0,50.0,,,Francisco Antonio Zorzo
+,50000.0,580.0,3.0,QUA,18:30 às 22:30,Jose Aurivaldo Sacchetta Ramos Mendes
+,,387.0,50.0,,,Jose Aurivaldo Sacchetta Ramos Mendes
+,60000.0,387.0,50.0,QUA,18:30 às 22:30,Mauricio Matos dos Santos Pereira
+,70000.0,505.0,5.0,SEX,18:30 às 22:30,Mauricio Matos dos Santos Pereira
+,,387.0,50.0,,,Mauricio Matos dos Santos Pereira
+,80000.0,387.0,50.0,SEX,18:30 às 22:30,Jose Aurivaldo Sacchetta Ramos Mendes
+,,580.0,5.0,,,Jose Aurivaldo Sacchetta Ramos Mendes
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+HACA04 - AÇÃO ARTÍSTICA I,10100.0,515.0,30.0,SEG,13:00 às 15:00,Djalma Rodrigues Lima Neto
+,,,,,15:00 às 17:00,Djalma Rodrigues Lima Neto
+,20200.0,515.0,30.0,SEG,13:00 às 15:00,Eloisa Leite Domenici
+,,,,,15:00 às 17:00,Eloisa Leite Domenici
+,30300.0,515.0,30.0,SEX,09:00 às 11:00,Angelo Tavares Castro
+,,,,,11:00 às 13:00,Angelo Tavares Castro
+,40400.0,515.0,30.0,SEX,13:00 às 15:00,Adalberto Silva Santos
+,,,,,15:00 às 17:00,Adalberto Silva Santos
+,50500.0,580.0,30.0,SEG,18:30 às 20:30,Djalma Rodrigues Lima Neto
+,,,,,20:30 às 22:30,Djalma Rodrigues Lima Neto
+,60600.0,580.0,30.0,SEG,18:30 às 20:30,Elisa Mendes Oliveira Santos
+,,,,,20:30 às 22:30,Elisa Mendes Oliveira Santos
+,70700.0,580.0,30.0,SEG,18:30 às 20:30,Joaquim Antonio Rodrigues Viana Neto
+,,,,,20:30 às 22:30,Joaquim Antonio Rodrigues Viana Neto
+,80800.0,580.0,30.0,SEG,18:30 às 20:30,Cristiano Severo Figueiro
+,,,,,20:30 às 22:30,Cristiano Severo Figueiro
+,90900.0,580.0,30.0,QUA,18:30 às 20:30,Docente Substituto a Contratar
+,,,,,20:30 às 22:30,Docente Substituto a Contratar
+,101000.0,580.0,30.0,QUA,18:30 às 20:30,Eloisa Leite Domenici
+,,,,,20:30 às 22:30,Eloisa Leite Domenici
+,111100.0,580.0,30.0,SEX,18:30 às 20:30,Docente Substituto a Contratar
+,,,,,20:30 às 22:30,Docente Substituto a Contratar
+,121200.0,580.0,30.0,SEX,18:30 às 20:30,Haenz Gutierrez Quintana
+,,,,,20:30 às 22:30,Haenz Gutierrez Quintana
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+HACA05 - POLÍTICAS CULTURAIS,10000.0,580.0,55.0,QUA,18:30 às 22:30,Clelia Neri Cortes
+,,506.0,1.0,,,Clelia Neri Cortes
+,,387.0,1.0,,,Clelia Neri Cortes
+,,380.0,2.0,,,Clelia Neri Cortes
+,,304.0,1.0,,,Clelia Neri Cortes
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+HACA09 - CIÊNCIA E TECNOLOGIA I,10000.0,190.0,25.0,TER,18:30 às 20:30,Genaro Fernandes de Carvalho Costa
+,,189.0,35.0,,,Genaro Fernandes de Carvalho Costa
+,,190.0,25.0,QUI,18:30 às 20:30,Genaro Fernandes de Carvalho Costa
+,,189.0,35.0,,,Genaro Fernandes de Carvalho Costa
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+HACA10 - INTRODUÇÃO AO CAMPO DA SAÚDE,10000.0,327.0,2.0,SEG,13:00 às 17:00,Maria Thereza Avila Dantas Coelho
+,,226.0,55.0,,,Maria Thereza Avila Dantas Coelho
+,20000.0,327.0,2.0,QUA,13:00 às 17:00,Renata Meira Veras
+,,226.0,55.0,,,Renata Meira Veras
+,30000.0,387.0,2.0,SEG,18:30 às 22:30,Fernanda Rebelo Pinto
+,,286.0,55.0,,,Fernanda Rebelo Pinto
+,40000.0,387.0,2.0,SEG,18:30 às 22:30,Maria Constantina Caputo
+,,286.0,55.0,,,Maria Constantina Caputo
+,50000.0,387.0,2.0,QUA,18:30 às 22:30,Maria Thereza Avila Dantas Coelho
+,,286.0,55.0,,,Maria Thereza Avila Dantas Coelho
+,60000.0,387.0,2.0,SEX,18:30 às 22:30,Leticia Marques dos Santos
+,,286.0,55.0,,,Leticia Marques dos Santos
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+HACA35 - ESTUDOS DAS SOCIEDADES,10000.0,387.0,100.0,SEX,18:30 às 22:30,Milton Julio de Carvalho Filho
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+HACA36 - ESTUDOS DAS CULTURAS,10000.0,506.0,2.0,SEG,13:00 às 17:00,Paulo Cesar Miguez de Oliveira
+,,327.0,60.0,,,Paulo Cesar Miguez de Oliveira
+,20000.0,387.0,60.0,QUA,18:30 às 22:30,Carlos Alberto Bonfim
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+HACA38 - CIÊNCIA E TECNOLOGIA II,10000.0,190.0,55.0,SEG,13:00 às 15:00,Eduardo do Nascimento
+,,,,QUA,13:00 às 15:00,Eduardo do Nascimento
+,20000.0,190.0,55.0,SEG,15:00 às 17:00,Eduardo do Nascimento
+,,,,QUA,15:00 às 17:00,Eduardo do Nascimento
+,30000.0,189.0,55.0,SEG,18:30 às 20:30,Paulo Alberto Paes Gomes
+,,,,QUA,18:30 às 20:30,Paulo Alberto Paes Gomes
+,40000.0,189.0,55.0,SEG,20:30 às 22:30,Paulo Alberto Paes Gomes
+,,,,QUA,20:30 às 22:30,Paulo Alberto Paes Gomes
+,50000.0,189.0,55.0,TER,18:30 às 20:30,Ademar Nogueira do Nascimento
+,,,,QUI,18:30 às 20:30,Ademar Nogueira do Nascimento
+,60000.0,189.0,55.0,TER,20:30 às 22:30,Ademar Nogueira do Nascimento
+,,,,QUI,20:30 às 22:30,Ademar Nogueira do Nascimento
+,70000.0,190.0,25.0,TER,18:30 às 20:30,Rafael Levi Batista Costa
+,,189.0,35.0,,,Rafael Levi Batista Costa
+,,190.0,25.0,QUI,18:30 às 20:30,Rafael Levi Batista Costa
+,,189.0,35.0,,,Rafael Levi Batista Costa
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+HACA44 - LABORATÓRIOS DE CRIAÇÃO E PRÁTICAS ARTÍSTICAS,100.0,515.0,25.0,QUI,09:00 às 13:00,Elisa Mendes Oliveira Santos
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+HACA45 - OFICINAS DE INICIAÇÃO ARTÍSTICA,1000.0,580.0,25.0,TER,18:30 às 22:30,Marise Berta de Souza
+,2000.0,580.0,25.0,QUI,18:30 às 22:30,Elisa Mendes Oliveira Santos
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+HACA46 - TOPICOS ESPECIAIS EM CIÊNCIAS I,10000.0,580.0,10.0,TER,18:30 às 20:30,Docente Visitante
+,,387.0,10.0,,,Docente Visitante
+,,286.0,10.0,,,Docente Visitante
+,,189.0,20.0,,,Docente Visitante
+,,580.0,10.0,QUI,18:30 às 20:30,Docente Visitante
+,,387.0,10.0,,,Docente Visitante
+,,286.0,10.0,,,Docente Visitante
+,,189.0,20.0,,,Docente Visitante
+,20000.0,189.0,55.0,QUA,18:30 às 20:30,Docente Concursado
+,,,,SEX,18:30 às 20:30,Docente Concursado
+,30000.0,189.0,55.0,QUA,20:30 às 22:30,Docente Concursado
+,,,,SEX,20:30 às 22:30,Docente Concursado
+,40000.0,284.0,1.0,TER,18:30 às 20:30,Eduardo do Nascimento
+,,283.0,1.0,,,Eduardo do Nascimento
+,,281.0,1.0,,,Eduardo do Nascimento
+,,280.0,1.0,,,Eduardo do Nascimento
+,,208.0,1.0,,,Eduardo do Nascimento
+,,207.0,1.0,,,Eduardo do Nascimento
+,,205.0,1.0,,,Eduardo do Nascimento
+,,204.0,1.0,,,Eduardo do Nascimento
+,,203.0,1.0,,,Eduardo do Nascimento
+,,202.0,1.0,,,Eduardo do Nascimento
+,,286.0,17.0,,,Eduardo do Nascimento
+,,189.0,28.0,,,Eduardo do Nascimento
+,,284.0,1.0,QUI,18:30 às 20:30,Eduardo do Nascimento
+,,283.0,1.0,,,Eduardo do Nascimento
+,,281.0,1.0,,,Eduardo do Nascimento
+,,280.0,1.0,,,Eduardo do Nascimento
+,,208.0,1.0,,,Eduardo do Nascimento
+,,207.0,1.0,,,Eduardo do Nascimento
+,,205.0,1.0,,,Eduardo do Nascimento
+,,204.0,1.0,,,Eduardo do Nascimento
+,,203.0,1.0,,,Eduardo do Nascimento
+,,202.0,1.0,,,Eduardo do Nascimento
+,,286.0,17.0,,,Eduardo do Nascimento
+,,189.0,28.0,,,Eduardo do Nascimento
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+HACA47 - TÓPICOS ESPECIAIS EM TECNOLOGIA I,10000.0,190.0,55.0,SEG,13:00 às 15:00,Docente Concursado
+,,,,QUA,13:00 às 15:00,Docente Concursado
+,20000.0,189.0,55.0,SEG,20:30 às 22:30,Docente Concursado
+,,,,QUA,20:30 às 22:30,Docente Concursado
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+HACA48 - ARTE E ESTÉTICA,10000.0,506.0,2.0,TER,20:30 às 22:30,Docente Substituto a Contratar
+,,282.0,50.0,,,Docente Substituto a Contratar
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+HACA49 - AÇÃO E MEDIAÇÃO CULTURAL ATRAVÉS DAS ARTES,10000.0,515.0,50.0,QUA,09:00 às 13:00,Edilene Dias Matos
+,,506.0,2.0,,,Edilene Dias Matos
+,20000.0,515.0,50.0,QUA,13:00 às 17:00,Monclar Eduardo Goes de Lima Valverde
+,,514.0,2.0,,,Monclar Eduardo Goes de Lima Valverde
+,,509.0,2.0,,,Monclar Eduardo Goes de Lima Valverde
+,,502.0,2.0,,,Monclar Eduardo Goes de Lima Valverde
+,,327.0,2.0,,,Monclar Eduardo Goes de Lima Valverde
+,30000.0,580.0,50.0,QUA,18:30 às 22:30,Angelo Tavares Castro
+,,387.0,2.0,,,Angelo Tavares Castro
+,40000.0,580.0,50.0,SEX,18:30 às 22:30,Joaquim Antonio Rodrigues Viana Neto
+,,387.0,4.0,,,Joaquim Antonio Rodrigues Viana Neto
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+HACA51 - ESTUDOS DO DESENVOLVIMENTO,10000.0,515.0,3.0,SEX,13:00 às 17:00,Marcos Guedes Vaz Sampaio
+,,327.0,60.0,,,Marcos Guedes Vaz Sampaio
+,20000.0,387.0,60.0,SEG,18:30 às 22:30,Elsa Sousa Kraychete
+,30000.0,387.0,60.0,QUA,18:30 às 22:30,Elsa Sousa Kraychete
+,,304.0,1.0,,,Elsa Sousa Kraychete
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+HACA77 - ESTUDOS DAS SUBJETIVIDADES,10000.0,506.0,2.0,QUA,13:00 às 17:00,Denise Vieira da Silva
+,,327.0,60.0,,,Denise Vieira da Silva
+,20000.0,387.0,60.0,QUI,18:30 às 22:30,Denise Vieira da Silva
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+HACA78 - OFICINA DE TEXTOS ACADEMICOS E TECNICOS EM SAUDE,10000.0,226.0,30.0,SEG,13:00 às 17:00,Vanessa Prado dos Santos Alvarez
+,20000.0,226.0,30.0,SEX,13:00 às 17:00,Leticia Marques dos Santos
+,30000.0,286.0,50.0,SEG,18:30 às 22:30,Luis Augusto Vasconcelos da Silva
+,40000.0,286.0,30.0,SEG,18:30 às 22:30,Renata Meira Veras
+,50000.0,286.0,50.0,QUA,18:30 às 22:30,Adriana Miranda Pimentel
+,60000.0,286.0,30.0,QUA,18:30 às 22:30,Carmen Fontes de Souza Teixeira
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+HACA79 - TOPICOS ESPECIAIS EM ARTES I,10000.0,515.0,30.0,SEX,13:00 às 17:00,Monclar Eduardo Goes de Lima Valverde
+,,506.0,2.0,,,Monclar Eduardo Goes de Lima Valverde
+,,327.0,5.0,,,Monclar Eduardo Goes de Lima Valverde
+,,307.0,2.0,,,Monclar Eduardo Goes de Lima Valverde
+,,286.0,5.0,,,Monclar Eduardo Goes de Lima Valverde
+,,226.0,3.0,,,Monclar Eduardo Goes de Lima Valverde
+,,190.0,5.0,,,Monclar Eduardo Goes de Lima Valverde
+,,189.0,3.0,,,Monclar Eduardo Goes de Lima Valverde
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+HACA82 - ARTE E MATEMATICA,10000.0,308.0,2.0,SEX,13:00 às 17:00,Marcio Luis Ferreira Nascimento
+,,190.0,27.0,,,Marcio Luis Ferreira Nascimento
+,,189.0,28.0,,,Marcio Luis Ferreira Nascimento
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+HACA92 - GESTÃO DE PROJETOS DE PESQUISA E DESENVOLVIMENTO,10000.0,190.0,55.0,SEG,15:00 às 17:00,Docente Concursado
+,,,,QUA,15:00 às 17:00,Docente Concursado
+,20000.0,189.0,55.0,SEG,18:30 às 20:30,Docente Concursado
+,,,,QUA,18:30 às 20:30,Docente Concursado
+,30000.0,189.0,55.0,TER,20:30 às 22:30,Genaro Fernandes de Carvalho Costa
+,,,,QUI,20:30 às 22:30,Genaro Fernandes de Carvalho Costa
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+HACB10 - LINGUAGENS E AMBIENTES DE PROGRAMAÇÃO EM ARTES,100.0,580.0,10.0,TER,18:30 às 22:30,Cristiano Severo Figueiro
+,,515.0,3.0,,,Cristiano Severo Figueiro
+,,190.0,6.0,,,Cristiano Severo Figueiro
+,,189.0,7.0,,,Cristiano Severo Figueiro
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+HACB12 - LABORATÓRIO DE ARTE INTERATIVA: ARTE E INTERFACES,100.0,580.0,10.0,QUI,18:30 às 22:30,Docente Substituto a Contratar
+,,515.0,3.0,,,Docente Substituto a Contratar
+,,190.0,6.0,,,Docente Substituto a Contratar
+,,189.0,7.0,,,Docente Substituto a Contratar
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+HACB14 - SISTEMAS DIGITAIS EM ARTES,10000.0,580.0,10.0,QUA,18:30 às 22:30,Ivani Lucia Oliveira de Santana
+,,515.0,3.0,,,Ivani Lucia Oliveira de Santana
+,,190.0,6.0,,,Ivani Lucia Oliveira de Santana
+,,189.0,7.0,,,Ivani Lucia Oliveira de Santana
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+HACB18 - TÓPICOS ESPECIAIS EM SAÚDE I,10000.0,580.0,4.0,QUI,18:30 às 22:30,Docente Visitante
+,,286.0,40.0,,,Docente Visitante
+,,207.0,2.0,,,Docente Visitante
+,,205.0,2.0,,,Docente Visitante
+,,203.0,2.0,,,Docente Visitante
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+HACB19 - TÓPICOS ESPECIAIS EM SAÚDE II,10000.0,226.0,50.0,QUA,13:00 às 17:00,Docente Visitante
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+HACB20 - SEMINARIOS INTERDISCIPLINARES DE PESQUISA EM SAUDE,10000.0,226.0,55.0,SEX,13:00 às 17:00,Vanessa Prado dos Santos Alvarez
+,20000.0,286.0,55.0,QUA,18:30 às 22:30,Vanessa Prado dos Santos Alvarez
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+HACB26 - INTRODUÇÃO À HISTÓRIA DAS CIÊNCIAS,10000.0,580.0,5.0,TER,13:00 às 15:00,Andre Luis Mattedi Dias
+,,515.0,10.0,,,Andre Luis Mattedi Dias
+,,387.0,5.0,,,Andre Luis Mattedi Dias
+,,327.0,10.0,,,Andre Luis Mattedi Dias
+,,286.0,5.0,,,Andre Luis Mattedi Dias
+,,226.0,10.0,,,Andre Luis Mattedi Dias
+,,190.0,55.0,,,Andre Luis Mattedi Dias
+,,580.0,5.0,QUI,13:00 às 15:00,Andre Luis Mattedi Dias
+,,515.0,10.0,,,Andre Luis Mattedi Dias
+,,387.0,5.0,,,Andre Luis Mattedi Dias
+,,327.0,10.0,,,Andre Luis Mattedi Dias
+,,286.0,5.0,,,Andre Luis Mattedi Dias
+,,226.0,10.0,,,Andre Luis Mattedi Dias
+,,190.0,55.0,,,Andre Luis Mattedi Dias
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+HACB27 - FUNDAMENTOS DE ECOLOGIA E CIÊNCIAS AMBIENTAIS,10000.0,580.0,10.0,QUA,18:30 às 22:30,Docente Visitante
+,,387.0,10.0,,,Docente Visitante
+,,286.0,10.0,,,Docente Visitante
+,,190.0,10.0,,,Docente Visitante
+,,189.0,10.0,,,Docente Visitante
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+HACB28 - COMPUTAÇÃO APLICADA,10000.0,190.0,55.0,QUA,18:30 às 20:30,Docente Concursado
+,,,,SEX,18:30 às 20:30,Docente Concursado
+,20000.0,190.0,55.0,QUA,20:30 às 22:30,Docente Concursado
+,,,,SEX,20:30 às 22:30,Docente Concursado
+,30000.0,190.0,55.0,TER,15:00 às 17:00,Docente Concursado
+,,,,QUI,15:00 às 17:00,Docente Concursado
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+HACB31 - ORGANIZAÇÕES E SOCIEDADES,10000.0,580.0,10.0,QUA,18:30 às 22:30,Adalberto Silva Santos
+,,515.0,9.0,,,Adalberto Silva Santos
+,,387.0,41.0,,,Adalberto Silva Santos
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+HACB33 - ECONOMIA POLÍTICA INTERNACIONAL I,10000.0,387.0,60.0,QUA,18:30 às 22:30,Marcos Guedes Vaz Sampaio
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+HACB35 - POLÍTICA EXTERNA I,10000.0,387.0,50.0,TER,18:30 às 22:30,Denise Cristina Vitale Ramos Mendes
+,,301.0,10.0,,,Denise Cristina Vitale Ramos Mendes
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+HACB38 - OFICINA DE TEXTOS EM HUMANIDADES,10100.0,327.0,40.0,QUA,13:00 às 15:00,Denise Cristina Vitale Ramos Mendes
+,,,,,15:00 às 17:00,Denise Cristina Vitale Ramos Mendes
+,20200.0,387.0,40.0,TER,18:30 às 20:30,Francisco Antonio Zorzo
+,,,,,20:30 às 22:30,Francisco Antonio Zorzo
+,30300.0,387.0,40.0,TER,18:30 às 20:30,Luis Augusto Vasconcelos da Silva
+,,,,,20:30 às 22:30,Luis Augusto Vasconcelos da Silva
+,40400.0,387.0,40.0,QUI,18:30 às 20:30,Carlos Alberto Bonfim
+,,,,,20:30 às 22:30,Carlos Alberto Bonfim
+,50500.0,387.0,40.0,SEX,18:30 às 20:30,Docente não informado pelo Departamento
+,,,,,20:30 às 22:30,Docente não informado pelo Departamento
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+HACB77 - ACC: AÇÕES INTERDISCIPLINARES EM SAÚDE MATERNO-INFANTIL,100.0,515.0,1.0,CMB,00:00 às 23:00,Anamelia Lins e Silva Franco
+,,327.0,1.0,,,Anamelia Lins e Silva Franco
+,,313.0,1.0,,,Anamelia Lins e Silva Franco
+,,307.0,1.0,,,Anamelia Lins e Silva Franco
+,,226.0,3.0,,,Anamelia Lins e Silva Franco
+,,222.0,1.0,,,Anamelia Lins e Silva Franco
+,,210.0,1.0,,,Anamelia Lins e Silva Franco
+,,207.0,1.0,,,Anamelia Lins e Silva Franco
+,,205.0,1.0,,,Anamelia Lins e Silva Franco
+,,203.0,1.0,,,Anamelia Lins e Silva Franco
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+HACB79 - ACC: PROMOÇÃO DA SAÚDE E QUALIDADE DE VIDA,100.0,515.0,1.0,CMB,00:00 às 23:00,Maria Constantina Caputo
+,,327.0,1.0,,,Maria Constantina Caputo
+,,325.0,2.0,,,Maria Constantina Caputo
+,,310.0,2.0,,,Maria Constantina Caputo
+,,308.0,2.0,,,Maria Constantina Caputo
+,,306.0,2.0,,,Maria Constantina Caputo
+,,286.0,2.0,,,Maria Constantina Caputo
+,,226.0,2.0,,,Maria Constantina Caputo
+,,208.0,2.0,,,Maria Constantina Caputo
+,,207.0,2.0,,,Maria Constantina Caputo
+,,205.0,2.0,,,Maria Constantina Caputo
+,,313.0,2.0,,,Maria Constantina Caputo
+,,204.0,2.0,,,Maria Constantina Caputo
+,,203.0,2.0,,,Maria Constantina Caputo
+,,190.0,1.0,,,Maria Constantina Caputo
+,,101.0,1.0,,,Maria Constantina Caputo
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+HACB82 - DIVERSIDADE CULTURAL,10000.0,580.0,13.0,TER,18:30 às 22:30,Clelia Neri Cortes
+,,515.0,12.0,,,Clelia Neri Cortes
+,,387.0,30.0,,,Clelia Neri Cortes
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+HACB91 - CULTURA E DESENVOLVIMENTO,10000.0,580.0,13.0,SEG,18:30 às 22:30,Paulo Cesar Miguez de Oliveira
+,,515.0,12.0,,,Paulo Cesar Miguez de Oliveira
+,,387.0,30.0,,,Paulo Cesar Miguez de Oliveira
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+HACC45 - TÓPICOS ESPECIAIS EM SAÚDE III,10000.0,580.0,5.0,QUA,18:00 às 20:00,Maria Constantina Caputo
+,,387.0,5.0,,,Maria Constantina Caputo
+,,286.0,10.0,,,Maria Constantina Caputo
+,,226.0,10.0,,,Maria Constantina Caputo
+,,208.0,1.0,,,Maria Constantina Caputo
+,,207.0,2.0,,,Maria Constantina Caputo
+,,203.0,2.0,,,Maria Constantina Caputo
+,20000.0,387.0,10.0,TER,17:00 às 18:00,Docente Visitante
+,,286.0,10.0,,,Docente Visitante
+,,226.0,10.0,,,Docente Visitante
+,,387.0,10.0,QUI,17:00 às 18:00,Docente Visitante
+,,286.0,10.0,,,Docente Visitante
+,,226.0,10.0,,,Docente Visitante
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+HACC59 - ESPAÇO MUNDIAL CONTEMPORÂNEO,10000.0,580.0,5.0,QUI,18:30 às 22:30,Daniel Mauricio Cavalcanti de Aragao
+,,387.0,50.0,,,Daniel Mauricio Cavalcanti de Aragao

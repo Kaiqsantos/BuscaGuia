@@ -1,0 +1,819 @@
+"Disciplina","Turma","Coleg.","Vagas Ofe","Dia","Horário","Docente"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"MAT045 - PROCESSAMENTO DE DADOS","010100","104","20","SEG","07:00 às 08:50","Karl Philips Apaza Aguero"
+NA,NA,"102","25",NA,NA,"Karl Philips Apaza Aguero"
+NA,NA,"104","20","QUA","07:00 às 08:50","Karl Philips Apaza Aguero"
+NA,NA,"102","25",NA,NA,"Karl Philips Apaza Aguero"
+NA,"020200","104","20","SEG","13:00 às 14:50","Gustavo Bittencourt Figueiredo"
+NA,NA,"107","10",NA,NA,"Gustavo Bittencourt Figueiredo"
+NA,NA,"119","2",NA,NA,"Gustavo Bittencourt Figueiredo"
+NA,NA,"118","3",NA,NA,"Gustavo Bittencourt Figueiredo"
+NA,NA,"111","5",NA,NA,"Gustavo Bittencourt Figueiredo"
+NA,NA,"881","5",NA,NA,"Gustavo Bittencourt Figueiredo"
+NA,NA,"119","2","QUA","13:00 às 14:50","Gustavo Bittencourt Figueiredo"
+NA,NA,"111","5",NA,NA,"Gustavo Bittencourt Figueiredo"
+NA,NA,"107","10",NA,NA,"Gustavo Bittencourt Figueiredo"
+NA,NA,"118","3",NA,NA,"Gustavo Bittencourt Figueiredo"
+NA,NA,"881","5",NA,NA,"Gustavo Bittencourt Figueiredo"
+NA,NA,"104","20",NA,NA,"Gustavo Bittencourt Figueiredo"
+NA,"030300","105","20","TER","14:50 às 16:40","Rafael Augusto de Melo"
+NA,NA,"111","5",NA,NA,"Rafael Augusto de Melo"
+NA,NA,"103","20",NA,NA,"Rafael Augusto de Melo"
+NA,NA,"111","5","QUI","14:50 às 16:40","Rafael Augusto de Melo"
+NA,NA,"105","20",NA,NA,"Rafael Augusto de Melo"
+NA,NA,"103","20",NA,NA,"Rafael Augusto de Melo"
+NA,"040400","183","5","TER","16:40 às 18:30","Danilo Barbosa Coimbra"
+NA,NA,"102","20",NA,NA,"Danilo Barbosa Coimbra"
+NA,NA,"184","5",NA,NA,"Danilo Barbosa Coimbra"
+NA,NA,"105","15",NA,NA,"Danilo Barbosa Coimbra"
+NA,NA,"184","5","QUI","16:40 às 18:30","Danilo Barbosa Coimbra"
+NA,NA,"105","15",NA,NA,"Danilo Barbosa Coimbra"
+NA,NA,"183","5",NA,NA,"Danilo Barbosa Coimbra"
+NA,NA,"102","20",NA,NA,"Danilo Barbosa Coimbra"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"MAT115 - INTRODUCAO AO PROCESSAMENTO DE DADOS","010100","209","10","TER","18:30 às 20:20","Paul Denis Etienne Regnier"
+NA,NA,"304","20",NA,NA,"Paul Denis Etienne Regnier"
+NA,NA,"380","20",NA,NA,"Paul Denis Etienne Regnier"
+NA,NA,"304","20","QUI","18:30 às 20:20","Paul Denis Etienne Regnier"
+NA,NA,"380","20",NA,NA,"Paul Denis Etienne Regnier"
+NA,NA,"209","10",NA,NA,"Paul Denis Etienne Regnier"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"MAT174 - CÁLCULO NUMÉRICO  I","010100","102","30","SEG","14:50 às 16:40","Docente não informado pelo Departamento"
+NA,NA,"194","5",NA,NA,"Docente não informado pelo Departamento"
+NA,NA,"186","10",NA,NA,"Docente não informado pelo Departamento"
+NA,NA,"112","10",NA,NA,"Docente não informado pelo Departamento"
+NA,NA,"102","30","QUA","14:50 às 16:40","Docente não informado pelo Departamento"
+NA,NA,"186","10",NA,NA,"Docente não informado pelo Departamento"
+NA,NA,"112","10",NA,NA,"Docente não informado pelo Departamento"
+NA,NA,"194","5",NA,NA,"Docente não informado pelo Departamento"
+NA,"020200","104","35","TER","07:00 às 08:50","Docente não informado pelo Departamento"
+NA,NA,"103","15",NA,NA,"Docente não informado pelo Departamento"
+NA,NA,"116","7",NA,NA,"Docente não informado pelo Departamento"
+NA,NA,"111","3",NA,NA,"Docente não informado pelo Departamento"
+NA,NA,NA,NA,"QUI","07:00 às 08:50","Docente não informado pelo Departamento"
+NA,NA,"103","15",NA,NA,"Docente não informado pelo Departamento"
+NA,NA,"116","7",NA,NA,"Docente não informado pelo Departamento"
+NA,NA,"104","35",NA,NA,"Docente não informado pelo Departamento"
+NA,"030300","116","1","TER","10:40 às 12:30","Docente não informado pelo Departamento"
+NA,NA,"108","20",NA,NA,"Docente não informado pelo Departamento"
+NA,NA,"102","30",NA,NA,"Docente não informado pelo Departamento"
+NA,NA,"108","20","QUI","10:40 às 12:30","Docente não informado pelo Departamento"
+NA,NA,"116","1",NA,NA,"Docente não informado pelo Departamento"
+NA,NA,"102","30",NA,NA,"Docente não informado pelo Departamento"
+NA,"040400","118","1","TER","13:00 às 14:50","Docente não informado pelo Departamento"
+NA,NA,"107","10",NA,NA,"Docente não informado pelo Departamento"
+NA,NA,"108","10",NA,NA,"Docente não informado pelo Departamento"
+NA,NA,"105","30",NA,NA,"Docente não informado pelo Departamento"
+NA,NA,"104","5",NA,NA,"Docente não informado pelo Departamento"
+NA,NA,NA,NA,"QUI","13:00 às 14:50","Docente não informado pelo Departamento"
+NA,NA,"118","1",NA,NA,"Docente não informado pelo Departamento"
+NA,NA,"108","10",NA,NA,"Docente não informado pelo Departamento"
+NA,NA,"107","10",NA,NA,"Docente não informado pelo Departamento"
+NA,NA,"105","30",NA,NA,"Docente não informado pelo Departamento"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"MAT220 - EMPREENDEDORES EM INFORMATICA","010100","196","8","TER","13:00 às 14:50","Leobino Nascimento Sampaio"
+NA,NA,"195","17",NA,NA,"Leobino Nascimento Sampaio"
+NA,NA,"112","20",NA,NA,"Leobino Nascimento Sampaio"
+NA,NA,"196","8","QUI","13:00 às 14:50","Leobino Nascimento Sampaio"
+NA,NA,"195","17",NA,NA,"Leobino Nascimento Sampaio"
+NA,NA,"112","20",NA,NA,"Leobino Nascimento Sampaio"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"MATA37 - INTRODUÇÃO À LÓGICA DE PROGRAMAÇÃO","010100","112","45","TER","13:00 às 14:50","Rubisley de Paula Lemes"
+NA,NA,NA,NA,"QUI","13:00 às 14:50","Rubisley de Paula Lemes"
+NA,"020200","112","45","TER","13:00 às 14:50","Rodrigo Rocha Gomes e Souza"
+NA,NA,NA,NA,"QUI","13:00 às 14:50","Rodrigo Rocha Gomes e Souza"
+NA,"030300","195","40","TER","20:20 às 22:10","Rubisley de Paula Lemes"
+NA,NA,"189","5",NA,NA,"Rubisley de Paula Lemes"
+NA,NA,NA,NA,"QUI","20:20 às 22:10","Rubisley de Paula Lemes"
+NA,NA,"195","40",NA,NA,"Rubisley de Paula Lemes"
+NA,"040400","196","45","SEG","18:30 às 20:20","Karl Philips Apaza Aguero"
+NA,NA,NA,NA,"SEX","18:30 às 20:20","Karl Philips Apaza Aguero"
+NA,"050500","186","10","TER","18:30 às 20:20","George Marconi de Araujo Lima"
+NA,NA,"188","35",NA,NA,"George Marconi de Araujo Lima"
+NA,NA,NA,NA,"QUI","18:30 às 20:20","George Marconi de Araujo Lima"
+NA,NA,"186","10",NA,NA,"George Marconi de Araujo Lima"
+NA,"060600","111","3","TER","14:50 às 16:40","Eduardo Santana de Almeida"
+NA,NA,"112","15",NA,NA,"Eduardo Santana de Almeida"
+NA,NA,"108","20",NA,NA,"Eduardo Santana de Almeida"
+NA,NA,"116","7",NA,NA,"Eduardo Santana de Almeida"
+NA,NA,"111","3","QUI","14:50 às 16:40","Eduardo Santana de Almeida"
+NA,NA,"116","7",NA,NA,"Eduardo Santana de Almeida"
+NA,NA,"112","15",NA,NA,"Eduardo Santana de Almeida"
+NA,NA,"108","20",NA,NA,"Eduardo Santana de Almeida"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"MATA38 - PROJETO DE CIRCUITOS LÓGICOS","010100","112","45","TER","16:40 às 18:30","Luciano Reboucas de Oliveira"
+NA,NA,NA,NA,"QUI","16:40 às 18:30","Luciano Reboucas de Oliveira"
+NA,"020200","188","10","TER","16:40 às 18:30","Bruno Pereira dos Santos"
+NA,NA,"112","35",NA,NA,"Bruno Pereira dos Santos"
+NA,NA,NA,NA,"QUI","16:40 às 18:30","Bruno Pereira dos Santos"
+NA,NA,"188","10",NA,NA,"Bruno Pereira dos Santos"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"MATA39 - SEMINÁRIOS DE INTRODUÇÃO AO CURSO","010000","112","70","SEG","16:40 às 18:30","Roberto Freitas Parente"
+NA,NA,NA,NA,"CMB","00:00 às 00:00","Roberto Freitas Parente"
+NA,"020000","195","45","SEG","18:30 às 20:20","Roberto Freitas Parente"
+NA,NA,"189","12",NA,NA,"Roberto Freitas Parente"
+NA,NA,NA,NA,"CMB","00:00 às 00:00","Roberto Freitas Parente"
+NA,NA,"195","45",NA,NA,"Roberto Freitas Parente"
+NA,"030000","196","59","SEG","20:20 às 21:15","Marlo Vieira dos Santos e Souza"
+NA,NA,NA,NA,NA,"21:15 às 22:10","Debora Abdalla Santos"
+NA,NA,NA,NA,"CMB","00:00 às 00:00","Paul Denis Etienne Regnier"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"MATA40 - ESTRUTURAS DE DADOS E ALGORITMOS I","010100","112","45","TER","16:40 às 18:30","Ricardo Araujo Rios"
+NA,NA,NA,NA,"QUI","16:40 às 18:30","Ricardo Araujo Rios"
+NA,"020200","189","2","TER","18:30 às 20:20","Antonio Lopes Apolinario Junior"
+NA,NA,"186","19",NA,NA,"Antonio Lopes Apolinario Junior"
+NA,NA,"188","24",NA,NA,"Antonio Lopes Apolinario Junior"
+NA,NA,"189","2","QUI","18:30 às 20:20","Antonio Lopes Apolinario Junior"
+NA,NA,"188","24",NA,NA,"Antonio Lopes Apolinario Junior"
+NA,NA,"186","19",NA,NA,"Antonio Lopes Apolinario Junior"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"MATA41 - INFORMÁTICA NA EDUCAÇÃO","010100","196","21","QUA","18:30 às 20:20","Lais do Nascimento Salvador"
+NA,NA,"189","12",NA,NA,"Lais do Nascimento Salvador"
+NA,NA,"196","21","CMB","00:00 às 00:00","Lais do Nascimento Salvador"
+NA,NA,"189","12",NA,NA,"Lais do Nascimento Salvador"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"MATA47 - LÓGICA PARA COMPUTAÇÃO","010000","189","3","TER","18:30 às 20:20","Steffen Lewitzka"
+NA,NA,"186","20",NA,NA,"Steffen Lewitzka"
+NA,NA,"112","22",NA,NA,"Steffen Lewitzka"
+NA,NA,NA,NA,"QUI","18:30 às 20:20","Steffen Lewitzka"
+NA,NA,"186","20",NA,NA,"Steffen Lewitzka"
+NA,NA,"189","3",NA,NA,"Steffen Lewitzka"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"MATA48 - ARQUITETURA DE COMPUTADORES","010100","881","5","TER","14:50 às 16:40","Docente Substituto a Contratar"
+NA,NA,"112","40",NA,NA,"Docente Substituto a Contratar"
+NA,NA,"881","5","QUI","14:50 às 16:40","Docente Substituto a Contratar"
+NA,NA,"112","40",NA,NA,"Docente Substituto a Contratar"
+NA,"020200","189","10","TER","20:20 às 22:10","Docente Substituto a Contratar"
+NA,NA,"188","35",NA,NA,"Docente Substituto a Contratar"
+NA,NA,"189","10","QUI","20:20 às 22:10","Docente Substituto a Contratar"
+NA,NA,"188","35",NA,NA,"Docente Substituto a Contratar"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"MATA49 - PROGRAMAÇÃO DE SOFTWARE BÁSICO","010100","112","45","SEG","13:00 às 14:50","Docente Substituto a Contratar"
+NA,NA,NA,NA,"QUA","13:00 às 14:50","Docente Substituto a Contratar"
+NA,"020200","195","15","SEG","20:20 às 22:10","Docente Substituto a Contratar"
+NA,NA,"186","30",NA,NA,"Docente Substituto a Contratar"
+NA,NA,"195","15","QUA","20:20 às 22:10","Docente Substituto a Contratar"
+NA,NA,"186","30",NA,NA,"Docente Substituto a Contratar"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"MATA50 - LINGUAGENS FORMAIS E AUTÔMATOS","010100","196","5","TER","16:40 às 18:30","Roberto Freitas Parente"
+NA,NA,"195","5",NA,NA,"Roberto Freitas Parente"
+NA,NA,"112","35",NA,NA,"Roberto Freitas Parente"
+NA,NA,"196","5","QUI","16:40 às 18:30","Roberto Freitas Parente"
+NA,NA,"195","5",NA,NA,"Roberto Freitas Parente"
+NA,NA,"112","35",NA,NA,"Roberto Freitas Parente"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"MATA51 - TEORIA DA COMPUTAÇÃO","010100","189","1","TER","14:50 às 16:40","Islame Felipe da Costa Fernandes"
+NA,NA,"186","15",NA,NA,"Islame Felipe da Costa Fernandes"
+NA,NA,"183","3",NA,NA,"Islame Felipe da Costa Fernandes"
+NA,NA,"112","25",NA,NA,"Islame Felipe da Costa Fernandes"
+NA,NA,"111","1",NA,NA,"Islame Felipe da Costa Fernandes"
+NA,NA,"189","1","QUI","14:50 às 16:40","Islame Felipe da Costa Fernandes"
+NA,NA,"186","15",NA,NA,"Islame Felipe da Costa Fernandes"
+NA,NA,"183","3",NA,NA,"Islame Felipe da Costa Fernandes"
+NA,NA,"112","25",NA,NA,"Islame Felipe da Costa Fernandes"
+NA,NA,"111","1",NA,NA,"Islame Felipe da Costa Fernandes"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"MATA52 - ANÁLISE E PROJETO DE ALGORITMOS","010100","189","1","TER","16:40 às 18:30","Rafael Augusto de Melo"
+NA,NA,"186","20",NA,NA,"Rafael Augusto de Melo"
+NA,NA,"112","25",NA,NA,"Rafael Augusto de Melo"
+NA,NA,"189","1","QUI","16:40 às 18:30","Rafael Augusto de Melo"
+NA,NA,"186","20",NA,NA,"Rafael Augusto de Melo"
+NA,NA,"112","25",NA,NA,"Rafael Augusto de Melo"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"MATA53 - TEORIA DOS GRAFOS","010100","183","3","TER","14:50 às 16:40","Steffen Lewitzka"
+NA,NA,"112","39",NA,NA,"Steffen Lewitzka"
+NA,NA,"111","3",NA,NA,"Steffen Lewitzka"
+NA,NA,"183","3","QUI","14:50 às 16:40","Steffen Lewitzka"
+NA,NA,"112","39",NA,NA,"Steffen Lewitzka"
+NA,NA,"111","3",NA,NA,"Steffen Lewitzka"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"MATA54 - ESTRUTURAS DE DADOS E ALGORITMOS II","010100","186","5","SEG","16:40 às 18:30","George Marconi de Araujo Lima"
+NA,NA,"112","40",NA,NA,"George Marconi de Araujo Lima"
+NA,NA,"186","5","QUA","16:40 às 18:30","George Marconi de Araujo Lima"
+NA,NA,"112","40",NA,NA,"George Marconi de Araujo Lima"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"MATA55 - PROGRAMAÇÃO ORIENTADA A OBJETOS","010100","186","15","SEG","16:40 às 18:30","Rita Suzana Pitangueira Maciel"
+NA,NA,"112","30",NA,NA,"Rita Suzana Pitangueira Maciel"
+NA,NA,"186","15","QUA","16:40 às 18:30","Rita Suzana Pitangueira Maciel"
+NA,NA,"112","30",NA,NA,"Rita Suzana Pitangueira Maciel"
+NA,"020200","196","20","SEG","18:30 às 20:20","Rodrigo Rocha Gomes e Souza"
+NA,NA,"195","20",NA,NA,"Rodrigo Rocha Gomes e Souza"
+NA,NA,"186","5",NA,NA,"Rodrigo Rocha Gomes e Souza"
+NA,NA,"195","20","QUA","18:30 às 20:20","Rodrigo Rocha Gomes e Souza"
+NA,NA,"186","5",NA,NA,"Rodrigo Rocha Gomes e Souza"
+NA,NA,"196","20",NA,NA,"Rodrigo Rocha Gomes e Souza"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"MATA56 - PARADIGMAS DE LINGUAGENS DE PROGRAMAÇÃO","010100","195","25","SEG","18:30 às 20:20","Docente Substituto a Contratar"
+NA,NA,"189","2",NA,NA,"Docente Substituto a Contratar"
+NA,NA,"112","20",NA,NA,"Docente Substituto a Contratar"
+NA,NA,"195","25","QUA","18:30 às 20:20","Docente Substituto a Contratar"
+NA,NA,"189","2",NA,NA,"Docente Substituto a Contratar"
+NA,NA,"112","20",NA,NA,"Docente Substituto a Contratar"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"MATA57 - LABORATÓRIO DE PROGRAMAÇÃO I","000100","195","10","SEX","15:45 às 18:30","Docente Substituto a Contratar"
+NA,NA,"112","35",NA,NA,"Docente Substituto a Contratar"
+NA,"000200","196","10","QUI","17:35 às 18:30","Docente Substituto a Contratar"
+NA,NA,"112","10",NA,NA,"Docente Substituto a Contratar"
+NA,NA,"188","25",NA,NA,"Docente Substituto a Contratar"
+NA,NA,"196","10",NA,"18:30 às 20:20","Docente Substituto a Contratar"
+NA,NA,"188","25",NA,NA,"Docente Substituto a Contratar"
+NA,NA,"112","10",NA,NA,"Docente Substituto a Contratar"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"MATA58 - SISTEMAS OPERACIONAIS","010100","881","5","TER","13:00 às 14:50","Maycon Leone Maciel Peixoto"
+NA,NA,"112","40",NA,NA,"Maycon Leone Maciel Peixoto"
+NA,NA,"881","5","QUI","13:00 às 14:50","Maycon Leone Maciel Peixoto"
+NA,NA,"112","40",NA,NA,"Maycon Leone Maciel Peixoto"
+NA,"020200","195","35","TER","20:20 às 22:10","Robespierre Dantas da Rocha Pita"
+NA,NA,"186","10",NA,NA,"Robespierre Dantas da Rocha Pita"
+NA,NA,"195","35","QUI","20:20 às 22:10","Robespierre Dantas da Rocha Pita"
+NA,NA,"186","10",NA,NA,"Robespierre Dantas da Rocha Pita"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"MATA59 - REDES DE COMPUTADORES I","010100","881","2","TER","16:40 às 18:30","Gustavo Bittencourt Figueiredo"
+NA,NA,"196","10",NA,NA,"Gustavo Bittencourt Figueiredo"
+NA,NA,"195","15",NA,NA,"Gustavo Bittencourt Figueiredo"
+NA,NA,"189","1",NA,NA,"Gustavo Bittencourt Figueiredo"
+NA,NA,"112","22",NA,NA,"Gustavo Bittencourt Figueiredo"
+NA,NA,"881","2","QUI","16:40 às 18:30","Gustavo Bittencourt Figueiredo"
+NA,NA,"196","10",NA,NA,"Gustavo Bittencourt Figueiredo"
+NA,NA,"195","15",NA,NA,"Gustavo Bittencourt Figueiredo"
+NA,NA,"189","1",NA,NA,"Gustavo Bittencourt Figueiredo"
+NA,NA,"112","22",NA,NA,"Gustavo Bittencourt Figueiredo"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"MATA60 - BANCO DE DADOS","010100","195","25","TER","18:30 às 20:20","Daniela Barreiro Claro"
+NA,NA,"112","25",NA,NA,"Daniela Barreiro Claro"
+NA,NA,"195","25","QUI","18:30 às 20:20","Daniela Barreiro Claro"
+NA,NA,"112","25",NA,NA,"Daniela Barreiro Claro"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"MATA61 - COMPILADORES","010100","195","10","SEG","16:40 às 18:30","Christina Von Flach Garcia Chavez"
+NA,NA,"186","10",NA,NA,"Christina Von Flach Garcia Chavez"
+NA,NA,"112","25",NA,NA,"Christina Von Flach Garcia Chavez"
+NA,NA,"195","10","QUA","16:40 às 18:30","Christina Von Flach Garcia Chavez"
+NA,NA,"186","10",NA,NA,"Christina Von Flach Garcia Chavez"
+NA,NA,"112","25",NA,NA,"Christina Von Flach Garcia Chavez"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"MATA62 - ENGENHARIA DE SOFTWARE I","010100","196","10","TER","18:30 às 20:20","Claudio Nogueira Sant Anna"
+NA,NA,"195","10",NA,NA,"Claudio Nogueira Sant Anna"
+NA,NA,"186","10",NA,NA,"Claudio Nogueira Sant Anna"
+NA,NA,"112","20",NA,NA,"Claudio Nogueira Sant Anna"
+NA,NA,"196","10","QUI","18:30 às 20:20","Claudio Nogueira Sant Anna"
+NA,NA,"195","10",NA,NA,"Claudio Nogueira Sant Anna"
+NA,NA,"186","10",NA,NA,"Claudio Nogueira Sant Anna"
+NA,NA,"112","20",NA,NA,"Claudio Nogueira Sant Anna"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"MATA63 - ENGENHARIA DE SOFTWARE II","010100","196","5","SEG","16:40 às 18:30","Eduardo Santana de Almeida"
+NA,NA,"112","40",NA,NA,"Eduardo Santana de Almeida"
+NA,NA,"196","5","QUA","16:40 às 18:30","Eduardo Santana de Almeida"
+NA,NA,"112","40",NA,NA,"Eduardo Santana de Almeida"
+NA,"020200","195","40","SEG","20:20 às 22:10","Ivan do Carmo Machado"
+NA,NA,"186","5",NA,NA,"Ivan do Carmo Machado"
+NA,NA,"195","40","QUA","20:20 às 22:10","Ivan do Carmo Machado"
+NA,NA,"186","5",NA,NA,"Ivan do Carmo Machado"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"MATA64 - INTELIGÊNCIA ARTIFICIAL","010100","186","5","SEG","14:50 às 16:40","Tatiane Nogueira Rios"
+NA,NA,"112","40",NA,NA,"Tatiane Nogueira Rios"
+NA,NA,"186","5","QUA","14:50 às 16:40","Tatiane Nogueira Rios"
+NA,NA,"112","40",NA,NA,"Tatiane Nogueira Rios"
+NA,"020200","196","10","SEG","18:30 às 20:20","Luciano Reboucas de Oliveira"
+NA,NA,"195","40",NA,NA,"Luciano Reboucas de Oliveira"
+NA,NA,"196","10","QUA","18:30 às 20:20","Luciano Reboucas de Oliveira"
+NA,NA,"195","40",NA,NA,"Luciano Reboucas de Oliveira"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"MATA65 - COMPUTAÇÃO GRÁFICA","010100","186","5","TER","16:40 às 18:30","Antonio Lopes Apolinario Junior"
+NA,NA,"112","40",NA,NA,"Antonio Lopes Apolinario Junior"
+NA,NA,"186","5","QUI","16:40 às 18:30","Antonio Lopes Apolinario Junior"
+NA,NA,"112","40",NA,NA,"Antonio Lopes Apolinario Junior"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"MATA66 - PROJETO FINAL DE CURSO I","010000","112","2","CMB","00:00 às 23:00","Cassio Vinicius Serafim Prazeres"
+NA,"020000","112","2","CMB","00:00 às 23:00","Sergio Gorender"
+NA,"030000","112","5","CMB","00:00 às 23:00","Frederico Araujo Durao"
+NA,"040000","112","3","CMB","00:00 às 23:00","Eduardo Santana de Almeida"
+NA,"050000","112","1","CMB","00:00 às 23:00","Rita Suzana Pitangueira Maciel"
+NA,"060000","112","2","CMB","00:00 às 23:00","George Marconi de Araujo Lima"
+NA,"070000","112","5","CMB","00:00 às 23:00","Daniela Barreiro Claro"
+NA,"080000","112","2","CMB","00:00 às 23:00","Danilo Barbosa Coimbra"
+NA,"090000","112","2","CMB","00:00 às 23:00","Karl Philips Apaza Aguero"
+NA,"100000","112","3","CMB","00:00 às 23:00","Islame Felipe da Costa Fernandes"
+NA,"110000","112","1","CMB","00:00 às 23:00","Vaninha Vieira dos Santos"
+NA,"120000","112","3","CMB","00:00 às 23:00","Rubisley de Paula Lemes"
+NA,"130000","112","2","CMB","00:00 às 23:00","Tatiane Nogueira Rios"
+NA,"140000","112","5","CMB","00:00 às 23:00","Maycon Leone Maciel Peixoto"
+NA,"150000","112","1","CMB","00:00 às 23:00","Luma da Rocha Seixas"
+NA,"160000","112","2","CMB","00:00 às 23:00","Leobino Nascimento Sampaio"
+NA,"170000","112","2","CMB","00:00 às 23:00","Christina Von Flach Garcia Chavez"
+NA,"180000","112","2","CMB","00:00 às 23:00","Bruno Pereira dos Santos"
+NA,"190000","112","2","CMB","00:00 às 23:00","Roberto Freitas Parente"
+NA,"200000","112","2","CMB","00:00 às 23:00","Ricardo Araujo Rios"
+NA,"210000","112","3","CMB","00:00 às 23:00","Antonio Lopes Apolinario Junior"
+NA,"220000","112","4","CMB","00:00 às 23:00","Ecivaldo de Souza Matos"
+NA,"230000","112","3","CMB","00:00 às 23:00","Rafael Augusto de Melo"
+NA,"240000","112","2","CMB","00:00 às 23:00","Steffen Lewitzka"
+NA,"250000","112","2","CMB","00:00 às 23:00","Ivan do Carmo Machado"
+NA,"260000","112","1","CMB","00:00 às 23:00","Rodrigo Rocha Gomes e Souza"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"MATA67 - PROJETO FINAL DE CURSO II","010100","112","2","CMB","00:00 às 23:00","Cassio Vinicius Serafim Prazeres"
+NA,"020200","112","2","CMB","00:00 às 23:00","Sergio Gorender"
+NA,"030300","112","5","CMB","00:00 às 23:00","Frederico Araujo Durao"
+NA,"040400","112","3","CMB","00:00 às 23:00","Eduardo Santana de Almeida"
+NA,"050500","112","1","CMB","00:00 às 23:00","Rita Suzana Pitangueira Maciel"
+NA,"060600","112","2","CMB","00:00 às 23:00","George Marconi de Araujo Lima"
+NA,"070700","112","5","CMB","00:00 às 23:00","Daniela Barreiro Claro"
+NA,"080800","112","2","CMB","00:00 às 23:00","Danilo Barbosa Coimbra"
+NA,"090900","112","2","CMB","00:00 às 23:00","Karl Philips Apaza Aguero"
+NA,"101000","112","3","CMB","00:00 às 23:00","Vaninha Vieira dos Santos"
+NA,"111100","112","3","CMB","00:00 às 23:00","Rubisley de Paula Lemes"
+NA,"121200","112","5","CMB","00:00 às 23:00","Maycon Leone Maciel Peixoto"
+NA,"131300","112","2","CMB","00:00 às 23:00","Leobino Nascimento Sampaio"
+NA,"141400","112","2","CMB","00:00 às 23:00","Christina Von Flach Garcia Chavez"
+NA,"151500","112","2","CMB","00:00 às 23:00","Roberto Freitas Parente"
+NA,"161600","112","3","CMB","00:00 às 23:00","Antonio Lopes Apolinario Junior"
+NA,"171700","112","2","CMB","00:00 às 23:00","Ecivaldo de Souza Matos"
+NA,"181800","112","3","CMB","00:00 às 23:00","Rafael Augusto de Melo"
+NA,"191900","112","2","CMB","00:00 às 23:00","Steffen Lewitzka"
+NA,"202000","112","2","CMB","00:00 às 23:00","Rodrigo Rocha Gomes e Souza"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"MATA68 - COMPUTADOR, ÉTICA E SOCIEDADE","010100","196","21","QUA","18:30 às 20:20","Debora Abdalla Santos"
+NA,NA,"186","5",NA,NA,"Debora Abdalla Santos"
+NA,NA,"112","40",NA,NA,"Debora Abdalla Santos"
+NA,NA,"196","21","CMB","00:00 às 00:00","Debora Abdalla Santos"
+NA,NA,"186","5",NA,NA,"Debora Abdalla Santos"
+NA,NA,"112","40",NA,NA,"Debora Abdalla Santos"
+NA,"020200","195","45","QUA","18:30 às 20:20","Anna Friedericka Schwarzelmuller"
+NA,NA,"189","27",NA,NA,"Anna Friedericka Schwarzelmuller"
+NA,NA,"195","45","CMB","00:00 às 00:00","Anna Friedericka Schwarzelmuller"
+NA,NA,"189","27",NA,NA,"Anna Friedericka Schwarzelmuller"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"MATA82 - SISTEMAS DE TEMPO REAL","010100","195","15","SEX","18:30 às 20:20","Paul Denis Etienne Regnier"
+NA,NA,"186","25",NA,NA,"Paul Denis Etienne Regnier"
+NA,NA,"195","15",NA,"20:20 às 22:10","Paul Denis Etienne Regnier"
+NA,NA,"186","25",NA,NA,"Paul Denis Etienne Regnier"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"MATA88 - FUNDAMENTOS DE SISTEMAS DISTRIBUÍDOS","010100","186","5","QUA","18:30 às 19:25","Raimundo Jose de Araujo Macedo"
+NA,NA,"112","35",NA,NA,"Raimundo Jose de Araujo Macedo"
+NA,NA,"186","5",NA,"19:25 às 21:15","Raimundo Jose de Araujo Macedo"
+NA,NA,"112","35",NA,NA,"Raimundo Jose de Araujo Macedo"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"MATB02 - QUALIDADE DE SOFTWARE","010100","195","30","SEX","18:30 às 20:20","Claudio Nogueira Sant Anna"
+NA,NA,"186","5",NA,NA,"Claudio Nogueira Sant Anna"
+NA,NA,"112","10",NA,NA,"Claudio Nogueira Sant Anna"
+NA,NA,"195","30",NA,"20:20 às 21:15","Claudio Nogueira Sant Anna"
+NA,NA,"186","5",NA,NA,"Claudio Nogueira Sant Anna"
+NA,NA,"112","10",NA,NA,"Claudio Nogueira Sant Anna"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"MATB05 - TÓPICOS EM INTELIGÊNCIA ARTIFICIAL","010100","196","10","TER","18:30 às 19:25","Ricardo Araujo Rios"
+NA,NA,"195","15",NA,NA,"Ricardo Araujo Rios"
+NA,NA,"112","20",NA,NA,"Ricardo Araujo Rios"
+NA,NA,"196","10",NA,"19:25 às 21:15","Ricardo Araujo Rios"
+NA,NA,"195","15",NA,NA,"Ricardo Araujo Rios"
+NA,NA,"112","20",NA,NA,"Ricardo Araujo Rios"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"MATB09 - LABORATÓRIO DE BANCO DE DADOS","000100","196","10","QUA","18:30 às 21:15","Daniela Barreiro Claro"
+NA,NA,"195","15",NA,NA,"Daniela Barreiro Claro"
+NA,NA,"112","20",NA,NA,"Daniela Barreiro Claro"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"MATB10 - TÓPICOS EM BANCO DE DADOS","010100","196","10","QUA","21:15 às 22:10","Robespierre Dantas da Rocha Pita"
+NA,NA,"195","15",NA,NA,"Robespierre Dantas da Rocha Pita"
+NA,NA,"112","20",NA,NA,"Robespierre Dantas da Rocha Pita"
+NA,NA,"196","10","QUI","18:30 às 20:20","Robespierre Dantas da Rocha Pita"
+NA,NA,"195","15",NA,NA,"Robespierre Dantas da Rocha Pita"
+NA,NA,"112","20",NA,NA,"Robespierre Dantas da Rocha Pita"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"MATB19 - SISTEMAS MULTIMÍDIA","010100","196","18","TER","20:20 às 22:10","Danilo Barbosa Coimbra"
+NA,NA,"195","25",NA,NA,"Danilo Barbosa Coimbra"
+NA,NA,"186","2",NA,NA,"Danilo Barbosa Coimbra"
+NA,NA,"196","18","QUI","20:20 às 22:10","Danilo Barbosa Coimbra"
+NA,NA,"195","25",NA,NA,"Danilo Barbosa Coimbra"
+NA,NA,"186","2",NA,NA,"Danilo Barbosa Coimbra"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"MATB20 - INTELIGÊNCIA ARTIFICIAL EM EDUCAÇÃO","010100","196","31","SEG","18:30 às 20:20","Marlo Vieira dos Santos e Souza"
+NA,NA,"186","5",NA,NA,"Marlo Vieira dos Santos e Souza"
+NA,NA,"196","31","QUA","18:30 às 20:20","Marlo Vieira dos Santos e Souza"
+NA,NA,"186","5",NA,NA,"Marlo Vieira dos Santos e Souza"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"MATB21 - AMBIENTES INTERATIVOS DE APRENDIZAGEM","010100","196","30","SEX","18:30 às 20:20","Luma da Rocha Seixas"
+NA,NA,"112","10",NA,NA,"Luma da Rocha Seixas"
+NA,NA,"196","30","CMB","00:00 às 00:00","Luma da Rocha Seixas"
+NA,NA,"112","10",NA,NA,"Luma da Rocha Seixas"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"MATC53 - ACC:ONDA SOLIDÁRIA DE INCLUSÃO DIGITAL-TECNOLOGIA A SERVIÇO","000100","881","1","SEG","16:40 às 18:30","Debora Abdalla Santos"
+NA,NA,"580","1",NA,NA,"Debora Abdalla Santos"
+NA,NA,"515","1",NA,NA,"Debora Abdalla Santos"
+NA,NA,"387","5",NA,NA,"Debora Abdalla Santos"
+NA,NA,"327","1",NA,NA,"Debora Abdalla Santos"
+NA,NA,"325","1",NA,NA,"Debora Abdalla Santos"
+NA,NA,"313","1",NA,NA,"Debora Abdalla Santos"
+NA,NA,"312","2",NA,NA,"Debora Abdalla Santos"
+NA,NA,"307","1",NA,NA,"Debora Abdalla Santos"
+NA,NA,"306","1",NA,NA,"Debora Abdalla Santos"
+NA,NA,"286","7",NA,NA,"Debora Abdalla Santos"
+NA,NA,"226","3",NA,NA,"Debora Abdalla Santos"
+NA,NA,"196","4",NA,NA,"Debora Abdalla Santos"
+NA,NA,"195","2",NA,NA,"Debora Abdalla Santos"
+NA,NA,"190","3",NA,NA,"Debora Abdalla Santos"
+NA,NA,"189","5",NA,NA,"Debora Abdalla Santos"
+NA,NA,"186","1",NA,NA,"Debora Abdalla Santos"
+NA,NA,"112","5",NA,NA,"Debora Abdalla Santos"
+NA,NA,"881","1","CMB","00:00 às 00:00","Debora Abdalla Santos"
+NA,NA,"580","1",NA,NA,"Debora Abdalla Santos"
+NA,NA,"515","1",NA,NA,"Debora Abdalla Santos"
+NA,NA,"387","5",NA,NA,"Debora Abdalla Santos"
+NA,NA,"327","1",NA,NA,"Debora Abdalla Santos"
+NA,NA,"325","1",NA,NA,"Debora Abdalla Santos"
+NA,NA,"313","1",NA,NA,"Debora Abdalla Santos"
+NA,NA,"312","2",NA,NA,"Debora Abdalla Santos"
+NA,NA,"307","1",NA,NA,"Debora Abdalla Santos"
+NA,NA,"306","1",NA,NA,"Debora Abdalla Santos"
+NA,NA,"286","7",NA,NA,"Debora Abdalla Santos"
+NA,NA,"226","3",NA,NA,"Debora Abdalla Santos"
+NA,NA,"196","4",NA,NA,"Debora Abdalla Santos"
+NA,NA,"195","2",NA,NA,"Debora Abdalla Santos"
+NA,NA,"190","3",NA,NA,"Debora Abdalla Santos"
+NA,NA,"189","5",NA,NA,"Debora Abdalla Santos"
+NA,NA,"186","1",NA,NA,"Debora Abdalla Santos"
+NA,NA,"112","5",NA,NA,"Debora Abdalla Santos"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"MATC68 - ESTÁGIO SUPERVISIONADO I","000001","196","15","TER","20:20 às 22:10","Ecivaldo de Souza Matos"
+NA,NA,NA,NA,"CMB","00:00 às 00:00","Ecivaldo de Souza Matos"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"MATC69 - ESTÁGIO SUPERVISIONADO II","000001","196","15","QUA","20:20 às 22:10","Marlo Vieira dos Santos e Souza"
+NA,NA,NA,NA,"CMB","00:00 às 00:00","Marlo Vieira dos Santos e Souza"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"MATC70 - ESTÁGIO SUPERVISIONADO III","000001","196","15","QUA","20:20 às 22:10","Luma da Rocha Seixas"
+NA,NA,NA,NA,"CMB","00:00 às 00:00","Luma da Rocha Seixas"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"MATC71 - ESTÁGIO SUPERVISIONADO IV","000001","196","15","CMB","00:00 às 23:00","Anna Friedericka Schwarzelmuller"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"MATC72 - INTERAÇÃO HUMANO-COMPUTADOR","010100","196","8","SEG","20:20 às 22:10","Vaninha Vieira dos Santos"
+NA,NA,"195","35",NA,NA,"Vaninha Vieira dos Santos"
+NA,NA,"189","1",NA,NA,"Vaninha Vieira dos Santos"
+NA,NA,"186","7",NA,NA,"Vaninha Vieira dos Santos"
+NA,NA,"112","10",NA,NA,"Vaninha Vieira dos Santos"
+NA,NA,"196","8","QUA","20:20 às 22:10","Vaninha Vieira dos Santos"
+NA,NA,"195","35",NA,NA,"Vaninha Vieira dos Santos"
+NA,NA,"189","1",NA,NA,"Vaninha Vieira dos Santos"
+NA,NA,"186","7",NA,NA,"Vaninha Vieira dos Santos"
+NA,NA,"112","10",NA,NA,"Vaninha Vieira dos Santos"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"MATC73 - INTRODUÇÃO À LÓGICA MATEMÁTICA","010100","196","20","TER","20:20 às 22:10","Sergio Gorender"
+NA,NA,"195","20",NA,NA,"Sergio Gorender"
+NA,NA,"189","5",NA,NA,"Sergio Gorender"
+NA,NA,"196","20","QUI","20:20 às 22:10","Sergio Gorender"
+NA,NA,"195","20",NA,NA,"Sergio Gorender"
+NA,NA,"189","5",NA,NA,"Sergio Gorender"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"MATC77 - PRÁTICA DE ENSINO DE COMPUTAÇÃO II","000100","196","31","TER","18:30 às 20:20","Ecivaldo de Souza Matos"
+NA,NA,NA,NA,"CMB","00:00 às 00:00","Ecivaldo de Souza Matos"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"MATC79 - PROJETOS INTERDISCIPLINARES: CONCEPÇÃO E PRÁTICA","010100","196","31","TER","20:20 às 22:10","Anna Friedericka Schwarzelmuller"
+NA,NA,NA,NA,"QUI","20:20 às 22:10","Anna Friedericka Schwarzelmuller"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"MATC81 - SISTEMAS BÁSICOS DE COMPUTAÇÃO: ARQUITETURA E SOFTWARE","010100","196","20","QUA","20:20 às 22:10","Alirio Santos de Sa"
+NA,NA,"189","1",NA,NA,"Alirio Santos de Sa"
+NA,NA,"196","20","SEX","20:20 às 22:10","Alirio Santos de Sa"
+NA,NA,"189","1",NA,NA,"Alirio Santos de Sa"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"MATC82 - SISTEMAS WEB","010100","196","19","QUA","20:20 às 22:10","Docente Substituto a Contratar"
+NA,NA,"195","20",NA,NA,"Docente Substituto a Contratar"
+NA,NA,"112","8",NA,NA,"Docente Substituto a Contratar"
+NA,NA,"196","19","SEX","20:20 às 22:10","Docente Substituto a Contratar"
+NA,NA,"195","20",NA,NA,"Docente Substituto a Contratar"
+NA,NA,"112","8",NA,NA,"Docente Substituto a Contratar"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"MATC83 - DESENVOLVIMENTO DE OBJETOS DE APRENDIZAGEM","010100","196","20","QUA","18:30 às 20:20","Luma da Rocha Seixas"
+NA,NA,NA,NA,"CMB","00:00 às 00:00","Luma da Rocha Seixas"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"MATC84 - LABORATÓRIO DE PROGRAMAÇÃO WEB","000100","196","3","TER","20:20 às 22:10","Docente Substituto a Contratar"
+NA,NA,"195","32",NA,NA,"Docente Substituto a Contratar"
+NA,NA,"112","10",NA,NA,"Docente Substituto a Contratar"
+NA,NA,"196","3","QUI","20:20 às 21:15","Docente Substituto a Contratar"
+NA,NA,"195","32",NA,NA,"Docente Substituto a Contratar"
+NA,NA,"112","10",NA,NA,"Docente Substituto a Contratar"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"MATC90 - CIRCUITOS DIGITAIS E ARQUITETURA DE COMPUTADORES","010000","881","8","QUA","20:20 às 22:10","Bruno Pereira dos Santos"
+NA,NA,"195","30",NA,NA,"Bruno Pereira dos Santos"
+NA,NA,"189","7",NA,NA,"Bruno Pereira dos Santos"
+NA,NA,"881","8","SEX","20:20 às 22:10","Bruno Pereira dos Santos"
+NA,NA,"195","30",NA,NA,"Bruno Pereira dos Santos"
+NA,NA,"189","7",NA,NA,"Bruno Pereira dos Santos"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"MATC94 - INTRODUÇÃO AS LINGUAGENS FORMAIS E TEORIA DA COMPUTAÇÃO","010000","196","20","SEG","20:20 às 22:10","Islame Felipe da Costa Fernandes"
+NA,NA,"195","25",NA,NA,"Islame Felipe da Costa Fernandes"
+NA,NA,"196","20","QUA","20:20 às 22:10","Islame Felipe da Costa Fernandes"
+NA,NA,"195","25",NA,NA,"Islame Felipe da Costa Fernandes"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"MATC96 - ORGANIZAÇÃO, GERENCIAMENTO E RECUPERAÇÃO DA INFORMAÇÃO","010100","196","10","SEG","20:20 às 22:10","Frederico Araujo Durao"
+NA,NA,"195","15",NA,NA,"Frederico Araujo Durao"
+NA,NA,"112","20",NA,NA,"Frederico Araujo Durao"
+NA,NA,"196","10","TER","21:15 às 22:10","Frederico Araujo Durao"
+NA,NA,"195","15",NA,NA,"Frederico Araujo Durao"
+NA,NA,"112","20",NA,NA,"Frederico Araujo Durao"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"MATC97 - TCC BACHARELADO SISTEMAS DE INFORMAÇÃO I","010000","195","2","CMB","00:00 às 23:00","Cassio Vinicius Serafim Prazeres"
+NA,"020000","195","2","CMB","00:00 às 23:00","Sergio Gorender"
+NA,"030000","195","5","CMB","00:00 às 23:00","Frederico Araujo Durao"
+NA,"040000","195","3","CMB","00:00 às 23:00","Eduardo Santana de Almeida"
+NA,"050000","195","1","CMB","00:00 às 23:00","Rita Suzana Pitangueira Maciel"
+NA,"060000","195","5","CMB","00:00 às 23:00","Daniela Barreiro Claro"
+NA,"070000","195","2","CMB","00:00 às 23:00","Danilo Barbosa Coimbra"
+NA,"080000","195","2","CMB","00:00 às 23:00","Karl Philips Apaza Aguero"
+NA,"090000","195","3","CMB","00:00 às 23:00","Islame Felipe da Costa Fernandes"
+NA,"100000","195","2","CMB","00:00 às 23:00","Robespierre Dantas da Rocha Pita"
+NA,"110000","195","1","CMB","00:00 às 23:00","Vaninha Vieira dos Santos"
+NA,"120000","195","2","CMB","00:00 às 23:00","Rubisley de Paula Lemes"
+NA,"130000","195","5","CMB","00:00 às 23:00","Maycon Leone Maciel Peixoto"
+NA,"140000","195","1","CMB","00:00 às 23:00","Luma da Rocha Seixas"
+NA,"150000","195","2","CMB","00:00 às 23:00","Leobino Nascimento Sampaio"
+NA,"160000","195","2","CMB","00:00 às 23:00","Christina Von Flach Garcia Chavez"
+NA,"170000","195","1","CMB","00:00 às 23:00","Bruno Pereira dos Santos"
+NA,"180000","195","1","CMB","00:00 às 23:00","Roberto Freitas Parente"
+NA,"190000","195","4","CMB","00:00 às 23:00","Ecivaldo de Souza Matos"
+NA,"200000","195","1","CMB","00:00 às 23:00","Rafael Augusto de Melo"
+NA,"210000","195","2","CMB","00:00 às 23:00","Ivan do Carmo Machado"
+NA,"220000","195","1","CMB","00:00 às 23:00","Rodrigo Rocha Gomes e Souza"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"MATC98 - TCC BACHARELADO SISTEMAS DE INFORMAÇÃO II","010100","195","2","CMB","00:00 às 23:00","Sergio Gorender"
+NA,"020200","195","5","CMB","00:00 às 23:00","Frederico Araujo Durao"
+NA,"030300","195","3","CMB","00:00 às 23:00","Eduardo Santana de Almeida"
+NA,"040400","195","1","CMB","00:00 às 23:00","Rita Suzana Pitangueira Maciel"
+NA,"050500","195","5","CMB","00:00 às 23:00","Daniela Barreiro Claro"
+NA,"060600","195","2","CMB","00:00 às 23:00","Danilo Barbosa Coimbra"
+NA,"070700","195","2","CMB","00:00 às 23:00","Karl Philips Apaza Aguero"
+NA,"080800","195","1","CMB","00:00 às 23:00","Islame Felipe da Costa Fernandes"
+NA,"090900","195","3","CMB","00:00 às 23:00","Vaninha Vieira dos Santos"
+NA,"101000","195","2","CMB","00:00 às 23:00","Rubisley de Paula Lemes"
+NA,"111100","195","5","CMB","00:00 às 23:00","Maycon Leone Maciel Peixoto"
+NA,"121200","195","2","CMB","00:00 às 23:00","Leobino Nascimento Sampaio"
+NA,"131300","195","1","CMB","00:00 às 23:00","Christina Von Flach Garcia Chavez"
+NA,"141400","195","3","CMB","00:00 às 23:00","Ecivaldo de Souza Matos"
+NA,"151500","195","1","CMB","00:00 às 23:00","Rafael Augusto de Melo"
+NA,"161600","195","1","CMB","00:00 às 23:00","Rodrigo Rocha Gomes e Souza"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"MATC99 - SEGURANÇA E AUDITORIA DE SISTEMAS DE INFORMAÇÃO","010000","195","37","TER","18:30 às 20:20","Leobino Nascimento Sampaio"
+NA,NA,"186","2",NA,NA,"Leobino Nascimento Sampaio"
+NA,NA,"112","8",NA,NA,"Leobino Nascimento Sampaio"
+NA,NA,"195","37","QUI","18:30 às 20:20","Leobino Nascimento Sampaio"
+NA,NA,"186","2",NA,NA,"Leobino Nascimento Sampaio"
+NA,NA,"112","8",NA,NA,"Leobino Nascimento Sampaio"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"MATD04 - ESTRUTURAS DE DADOS","010100","196","15","TER","18:30 às 20:20","Flavio Morais de Assis Silva"
+NA,NA,"195","25",NA,NA,"Flavio Morais de Assis Silva"
+NA,NA,"189","5",NA,NA,"Flavio Morais de Assis Silva"
+NA,NA,"196","15","QUI","18:30 às 20:20","Flavio Morais de Assis Silva"
+NA,NA,"195","25",NA,NA,"Flavio Morais de Assis Silva"
+NA,NA,"189","5",NA,NA,"Flavio Morais de Assis Silva"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"MATF34 - ACCS:PROGRAMAÇÃO COMPETITIVA-COMPUTAÇÃO PARA ALUNOS","000100","196","10","SAB","13:55 às 14:50","Rubisley de Paula Lemes"
+NA,NA,"195","15",NA,NA,"Rubisley de Paula Lemes"
+NA,NA,"112","20",NA,NA,"Rubisley de Paula Lemes"
+NA,NA,"196","10",NA,"14:50 às 15:45","Rubisley de Paula Lemes"
+NA,NA,"195","15",NA,NA,"Rubisley de Paula Lemes"
+NA,NA,"112","20",NA,NA,"Rubisley de Paula Lemes"
+NA,NA,"196","10",NA,"15:45 às 16:40","Rubisley de Paula Lemes"
+NA,NA,"195","15",NA,NA,"Rubisley de Paula Lemes"
+NA,NA,"112","20",NA,NA,"Rubisley de Paula Lemes"
+NA,NA,NA,NA,NA,"16:40 às 17:35","Ricardo Araujo Rios"
+NA,NA,"196","10",NA,NA,"Ricardo Araujo Rios"
+NA,NA,"195","15",NA,NA,"Ricardo Araujo Rios"

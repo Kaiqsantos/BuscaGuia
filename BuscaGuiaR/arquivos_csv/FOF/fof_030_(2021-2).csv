@@ -1,0 +1,536 @@
+"Disciplina","Turma","Coleg.","Vagas Ofe","Dia","Horário","Docente"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"FOF001 - PATOLOGIA I","010100","208","35","QUA","07:00 às 07:55","Jean Nunes dos Santos"
+NA,NA,NA,NA,NA,NA,"Clarissa Araujo Gurgel Rocha"
+NA,NA,NA,NA,"SEX","07:55 às 09:45","Jean Nunes dos Santos"
+NA,NA,NA,NA,NA,NA,"Clarissa Araujo Gurgel Rocha"
+NA,NA,NA,NA,NA,"09:45 às 11:35","Jean Nunes dos Santos"
+NA,"010200","208","35","QUA","07:00 às 07:55","Jean Nunes dos Santos"
+NA,NA,NA,NA,NA,NA,"Clarissa Araujo Gurgel Rocha"
+NA,NA,NA,NA,"SEX","07:55 às 09:45","Jean Nunes dos Santos"
+NA,NA,NA,NA,NA,NA,"Clarissa Araujo Gurgel Rocha"
+NA,NA,NA,NA,NA,"09:45 às 11:35","Clarissa Araujo Gurgel Rocha"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"FOF002 - HISTOLOGIA BUCAL AVANCADA","010100","208","18","SEG","13:55 às 15:45","Aguida Cristina Gomes Henriques Leitao"
+NA,NA,NA,NA,"QUA","10:40 às 11:35","Flavia Calo de Aquino Xavier"
+NA,NA,NA,NA,"SEX","10:40 às 12:30","Aguida Cristina Gomes Henriques Leitao"
+NA,"010200","208","16","SEG","15:45 às 17:35","Aguida Cristina Gomes Henriques Leitao"
+NA,NA,NA,NA,"QUA","10:40 às 11:35","Flavia Calo de Aquino Xavier"
+NA,NA,NA,NA,"SEX","10:40 às 12:30","Aguida Cristina Gomes Henriques Leitao"
+NA,"010300","208","16","QUA","10:40 às 11:35","Flavia Calo de Aquino Xavier"
+NA,NA,NA,NA,NA,"13:55 às 15:45","Flavia Calo de Aquino Xavier"
+NA,NA,NA,NA,"SEX","10:40 às 12:30","Aguida Cristina Gomes Henriques Leitao"
+NA,"010400","286","16","QUA","10:40 às 11:35","Flavia Calo de Aquino Xavier"
+NA,NA,NA,NA,NA,"15:45 às 17:35","Flavia Calo de Aquino Xavier"
+NA,NA,NA,NA,"SEX","10:40 às 12:30","Aguida Cristina Gomes Henriques Leitao"
+NA,"010500","208","16","QUA","10:40 às 11:35","Flavia Calo de Aquino Xavier"
+NA,NA,NA,NA,"QUI","13:55 às 15:45","Manoela Carrera Martinez Cavalcante Pere"
+NA,NA,NA,NA,"SEX","10:40 às 12:30","Aguida Cristina Gomes Henriques Leitao"
+NA,"010600","208","18","QUA","10:40 às 11:35","Flavia Calo de Aquino Xavier"
+NA,NA,NA,NA,"QUI","15:45 às 17:35","Aguida Cristina Gomes Henriques Leitao"
+NA,NA,NA,NA,"SEX","10:40 às 12:30","Aguida Cristina Gomes Henriques Leitao"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"FOF003 - PATOLOGIA II","010100","208","17","TER","07:00 às 08:50","Jean Nunes dos Santos"
+NA,NA,NA,NA,NA,"13:00 às 14:50","Luciana Maria Pedreira Ramalho"
+NA,NA,NA,NA,NA,NA,"Jean Nunes dos Santos"
+NA,NA,NA,NA,NA,NA,"Flavia Calo de Aquino Xavier"
+NA,NA,NA,NA,"QUI","13:00 às 13:55","Luciana Maria Pedreira Ramalho"
+NA,NA,NA,NA,NA,NA,"Jean Nunes dos Santos"
+NA,NA,NA,NA,NA,NA,"Flavia Calo de Aquino Xavier"
+NA,"010200","208","17","TER","08:50 às 10:40","Jean Nunes dos Santos"
+NA,NA,NA,NA,NA,"13:00 às 14:50","Luciana Maria Pedreira Ramalho"
+NA,NA,NA,NA,NA,NA,"Jean Nunes dos Santos"
+NA,NA,NA,NA,NA,NA,"Flavia Calo de Aquino Xavier"
+NA,NA,NA,NA,"QUI","13:00 às 13:55","Luciana Maria Pedreira Ramalho"
+NA,NA,NA,NA,NA,NA,"Jean Nunes dos Santos"
+NA,NA,NA,NA,NA,NA,"Flavia Calo de Aquino Xavier"
+NA,"010300","208","16","TER","13:00 às 14:50","Luciana Maria Pedreira Ramalho"
+NA,NA,NA,NA,NA,NA,"Jean Nunes dos Santos"
+NA,NA,NA,NA,NA,NA,"Flavia Calo de Aquino Xavier"
+NA,NA,NA,NA,"QUI","07:00 às 08:50","Luciana Maria Pedreira Ramalho"
+NA,NA,NA,NA,NA,"13:00 às 13:55","Luciana Maria Pedreira Ramalho"
+NA,NA,NA,NA,NA,NA,"Jean Nunes dos Santos"
+NA,NA,NA,NA,NA,NA,"Flavia Calo de Aquino Xavier"
+NA,"010400","208","17","TER","13:00 às 14:50","Luciana Maria Pedreira Ramalho"
+NA,NA,NA,NA,NA,NA,"Jean Nunes dos Santos"
+NA,NA,NA,NA,NA,NA,"Flavia Calo de Aquino Xavier"
+NA,NA,NA,NA,"QUI","08:50 às 10:40","Luciana Maria Pedreira Ramalho"
+NA,NA,NA,NA,NA,"13:00 às 13:55","Luciana Maria Pedreira Ramalho"
+NA,NA,NA,NA,NA,NA,"Jean Nunes dos Santos"
+NA,NA,NA,NA,NA,NA,"Flavia Calo de Aquino Xavier"
+NA,"010500","208","17","TER","13:00 às 14:50","Luciana Maria Pedreira Ramalho"
+NA,NA,NA,NA,NA,NA,"Jean Nunes dos Santos"
+NA,NA,NA,NA,NA,NA,"Flavia Calo de Aquino Xavier"
+NA,NA,NA,NA,"QUI","08:50 às 10:40","Jean Nunes dos Santos"
+NA,NA,NA,NA,NA,"13:00 às 13:55","Luciana Maria Pedreira Ramalho"
+NA,NA,NA,NA,NA,NA,"Jean Nunes dos Santos"
+NA,NA,NA,NA,NA,NA,"Flavia Calo de Aquino Xavier"
+NA,"010600","208","16","TER","13:00 às 14:50","Luciana Maria Pedreira Ramalho"
+NA,NA,NA,NA,NA,NA,"Jean Nunes dos Santos"
+NA,NA,NA,NA,NA,NA,"Flavia Calo de Aquino Xavier"
+NA,NA,NA,NA,NA,"14:50 às 16:40","Flavia Calo de Aquino Xavier"
+NA,NA,NA,NA,"QUI","13:00 às 13:55","Luciana Maria Pedreira Ramalho"
+NA,NA,NA,NA,NA,NA,"Jean Nunes dos Santos"
+NA,NA,NA,NA,NA,NA,"Flavia Calo de Aquino Xavier"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"FOF007 - ETICA ODONTOLOGICA","010000","226","3","QUA","07:55 às 11:35","Marcel Lautenschlager Arriaga"
+NA,NA,"208","12",NA,NA,"Marcel Lautenschlager Arriaga"
+NA,"020000","286","3","TER","18:30 às 22:10","Marcel Lautenschlager Arriaga"
+NA,NA,"208","12",NA,NA,"Marcel Lautenschlager Arriaga"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"FOF010 - METODOLOGIA DO TRABALHO CIENTIFICO","010000","208","30","QUA","08:50 às 10:40","Lana Bleicher"
+NA,"020000","208","30","QUA","08:50 às 10:40","Marcelo de Castellucci e Barbosa"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"FOF014 - TRAUMATOL.BUCOMAXILOFACIAL","010100","208","10","TER","16:40 às 18:30","Weber Ceo Cavalcante"
+NA,NA,NA,NA,"QUA","13:00 às 14:50","Weber Ceo Cavalcante"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"FOF019 - ESTAGIO SUPERVISIONADO","000001","208","7","CMB","00:00 às 23:00","Tatiana Frederico de Almeida"
+NA,"000002","208","7","CMB","00:00 às 23:00","Patricia Suguri Cristino"
+NA,"000003","208","7","CMB","00:00 às 23:00","Marcelo de Castellucci e Barbosa"
+NA,"000004","208","7","CMB","00:00 às 23:00","Luiz Gustavo Cavalcanti Bastos"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"FOF021 - PROTESE PARCIAL FIXA I","010100","208","5","SEG","19:25 às 21:15","Luciano de Castellucci Barbosa"
+NA,NA,NA,NA,"TER","08:50 às 12:30","Luciano de Castellucci Barbosa"
+NA,"010200","208","5","SEG","19:25 às 21:15","Luciano de Castellucci Barbosa"
+NA,NA,NA,NA,"TER","08:50 às 12:30","Armando Prado Oliveira"
+NA,"010300","208","5","SEG","19:25 às 21:15","Luciano de Castellucci Barbosa"
+NA,NA,NA,NA,"TER","08:50 às 12:30","Luiz Gustavo Cavalcanti Bastos"
+NA,"010400","208","5","SEG","19:25 às 21:15","Luciano de Castellucci Barbosa"
+NA,NA,NA,NA,"TER","13:00 às 16:40","Luciano de Castellucci Barbosa"
+NA,"010500","208","5","SEG","19:25 às 21:15","Luciano de Castellucci Barbosa"
+NA,NA,NA,NA,"TER","13:00 às 16:40","Armando Prado Oliveira"
+NA,"010600","208","5","SEG","19:25 às 21:15","Luciano de Castellucci Barbosa"
+NA,NA,NA,NA,"TER","13:00 às 16:40","Luiz Gustavo Cavalcanti Bastos"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"FOF025 - ORTODONTIA APLICADA À FONOAUDIOLOGIA","010100","210","6","QUA","13:00 às 14:50","Marcos Alan Vieira Bittencourt"
+NA,NA,NA,NA,NA,"14:50 às 16:40","Marcos Alan Vieira Bittencourt"
+NA,"020200","210","6","QUA","13:00 às 14:50","Marcelo de Castellucci e Barbosa"
+NA,NA,NA,NA,NA,"14:50 às 16:40","Marcelo de Castellucci e Barbosa"
+NA,"030300","210","6","QUA","13:00 às 14:50","Emanuel Braga Rego"
+NA,NA,NA,NA,NA,"14:50 às 16:40","Emanuel Braga Rego"
+NA,"040400","210","6","QUA","13:00 às 14:50","Fernando Antonio Lima Habib"
+NA,NA,NA,NA,NA,"14:50 às 16:40","Fernando Antonio Lima Habib"
+NA,"050500","210","6","QUA","13:00 às 14:50","Andre Wilson Lima Machado"
+NA,NA,NA,NA,NA,"14:50 às 16:40","Andre Wilson Lima Machado"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"FOF029 - CIÊNCIAS SOCIAIS APLICADAS À ODONTOLOGIA","010000","208","16","QUI","07:55 às 10:40","Lana Bleicher"
+NA,"020000","208","16","QUI","07:55 às 10:40","Ana Clara de Reboucas Carvalho"
+NA,"030000","208","16","SEX","07:55 às 08:50","Lana Bleicher"
+NA,NA,NA,NA,NA,"08:50 às 10:40","Lana Bleicher"
+NA,"040000","208","16","SEX","07:55 às 08:50","Ana Clara de Reboucas Carvalho"
+NA,NA,NA,NA,NA,"08:50 às 10:40","Ana Clara de Reboucas Carvalho"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"FOF103 - DENTISTICA I","010100","208","8","SEG","08:50 às 10:40","Paula Mathias de Morais Canedo"
+NA,NA,NA,NA,NA,"18:30 às 20:20","Paula Mathias de Morais Canedo"
+NA,"010200","208","7","SEG","08:50 às 10:40","Thaiane Rodrigues Aguiar Barretto"
+NA,NA,NA,NA,NA,"18:30 às 20:20","Paula Mathias de Morais Canedo"
+NA,"010300","208","8","SEG","10:40 às 12:30","Paula Mathias de Morais Canedo"
+NA,NA,NA,NA,NA,"18:30 às 20:20","Paula Mathias de Morais Canedo"
+NA,"010400","208","7","SEG","10:40 às 12:30","Thaiane Rodrigues Aguiar Barretto"
+NA,NA,NA,NA,NA,"18:30 às 20:20","Paula Mathias de Morais Canedo"
+NA,"010500","208","8","SEG","13:55 às 15:45","Rebeca Barroso Bezerra"
+NA,NA,NA,NA,NA,"18:30 às 20:20","Paula Mathias de Morais Canedo"
+NA,"010600","208","7","SEG","13:55 às 15:45","Thaiane Rodrigues Aguiar Barretto"
+NA,NA,NA,NA,NA,"18:30 às 20:20","Paula Mathias de Morais Canedo"
+NA,"010700","208","8","SEG","15:45 às 17:35","Rebeca Barroso Bezerra"
+NA,NA,NA,NA,NA,"18:30 às 20:20","Paula Mathias de Morais Canedo"
+NA,"010800","208","7","SEG","15:45 às 17:35","Thaiane Rodrigues Aguiar Barretto"
+NA,NA,NA,NA,NA,"18:30 às 20:20","Paula Mathias de Morais Canedo"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"FOF141 - ORTODONTIA","010100","208","3","TER","08:50 às 10:40","Fernando Antonio Lima Habib"
+NA,NA,NA,NA,NA,"10:40 às 12:30","Fernando Antonio Lima Habib"
+NA,NA,NA,NA,NA,"16:40 às 18:30","Fernando Antonio Lima Habib"
+NA,"010200","208","3","TER","08:50 às 10:40","Andre Wilson Lima Machado"
+NA,NA,NA,NA,NA,"10:40 às 12:30","Andre Wilson Lima Machado"
+NA,NA,NA,NA,NA,"16:40 às 18:30","Fernando Antonio Lima Habib"
+NA,"010300","208","3","TER","08:50 às 10:40","Marcos Alan Vieira Bittencourt"
+NA,NA,NA,NA,NA,"10:40 às 12:30","Marcos Alan Vieira Bittencourt"
+NA,NA,NA,NA,NA,"16:40 às 18:30","Fernando Antonio Lima Habib"
+NA,"010400","208","3","TER","08:50 às 10:40","Emanuel Braga Rego"
+NA,NA,NA,NA,NA,"10:40 às 12:30","Emanuel Braga Rego"
+NA,NA,NA,NA,NA,"16:40 às 18:30","Fernando Antonio Lima Habib"
+NA,"010500","208","3","TER","13:00 às 14:50","Fernando Antonio Lima Habib"
+NA,NA,NA,NA,NA,"14:50 às 16:40","Fernando Antonio Lima Habib"
+NA,NA,NA,NA,NA,"16:40 às 18:30","Fernando Antonio Lima Habib"
+NA,"010600","208","3","TER","13:00 às 14:50","Andre Wilson Lima Machado"
+NA,NA,NA,NA,NA,"14:50 às 16:40","Andre Wilson Lima Machado"
+NA,NA,NA,NA,NA,"16:40 às 18:30","Fernando Antonio Lima Habib"
+NA,"010700","208","3","TER","13:00 às 14:50","Marcos Alan Vieira Bittencourt"
+NA,NA,NA,NA,NA,"14:50 às 16:40","Marcos Alan Vieira Bittencourt"
+NA,NA,NA,NA,NA,"16:40 às 18:30","Fernando Antonio Lima Habib"
+NA,"010800","208","3","TER","13:00 às 14:50","Emanuel Braga Rego"
+NA,NA,NA,NA,NA,"14:50 às 16:40","Emanuel Braga Rego"
+NA,NA,NA,NA,NA,"16:40 às 18:30","Fernando Antonio Lima Habib"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"FOF142 - FARMACOTERAPIA ODONTOLOGICA","010000","208","15","SEG","13:55 às 16:40","Rosangela Goes Rabelo"
+NA,"020000","208","15","SEG","13:55 às 16:40","Sandra Maria Ferraz Mello"
+NA,"030000","208","15","QUA","08:50 às 11:35","Rosangela Goes Rabelo"
+NA,"040000","208","15","QUA","08:50 às 11:35","Sandra Maria Ferraz Mello"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"FOF147 - MATERIAIS ODONTOLOGICOS","010100","208","6","QUA","07:55 às 11:35","Andrea Araujo de Nobrega Cavalcanti"
+NA,NA,NA,NA,NA,"18:30 às 20:20","Leonardo Goncalves Cunha"
+NA,NA,NA,NA,NA,NA,"Marcelo Filadelfo Silva"
+NA,NA,NA,NA,NA,NA,"Andrea Araujo de Nobrega Cavalcanti"
+NA,"010200","208","6","QUA","07:55 às 11:35","Paula Mathias de Morais Canedo"
+NA,NA,NA,NA,NA,"18:30 às 20:20","Leonardo Goncalves Cunha"
+NA,NA,NA,NA,NA,NA,"Marcelo Filadelfo Silva"
+NA,NA,NA,NA,NA,NA,"Andrea Araujo de Nobrega Cavalcanti"
+NA,"010300","208","8","QUA","08:50 às 12:30","Marcelo Filadelfo Silva"
+NA,NA,NA,NA,NA,"18:30 às 20:20","Leonardo Goncalves Cunha"
+NA,NA,NA,NA,NA,NA,"Marcelo Filadelfo Silva"
+NA,NA,NA,NA,NA,NA,"Andrea Araujo de Nobrega Cavalcanti"
+NA,"010400","208","7","QUA","08:50 às 12:30","Leonardo Goncalves Cunha"
+NA,NA,NA,NA,NA,"18:30 às 20:20","Leonardo Goncalves Cunha"
+NA,NA,NA,NA,NA,NA,"Marcelo Filadelfo Silva"
+NA,NA,NA,NA,NA,NA,"Andrea Araujo de Nobrega Cavalcanti"
+NA,"010500","208","6","QUA","13:00 às 16:40","Andrea Araujo de Nobrega Cavalcanti"
+NA,NA,NA,NA,NA,"18:30 às 20:20","Leonardo Goncalves Cunha"
+NA,NA,NA,NA,NA,NA,"Marcelo Filadelfo Silva"
+NA,NA,NA,NA,NA,NA,"Andrea Araujo de Nobrega Cavalcanti"
+NA,"010600","208","6","QUA","13:00 às 16:40","Paula Mathias de Morais Canedo"
+NA,NA,NA,NA,NA,"18:30 às 20:20","Leonardo Goncalves Cunha"
+NA,NA,NA,NA,NA,NA,"Marcelo Filadelfo Silva"
+NA,NA,NA,NA,NA,NA,"Andrea Araujo de Nobrega Cavalcanti"
+NA,"010700","208","8","QUA","13:55 às 17:35","Marcelo Filadelfo Silva"
+NA,NA,NA,NA,NA,"18:30 às 20:20","Leonardo Goncalves Cunha"
+NA,NA,NA,NA,NA,NA,"Marcelo Filadelfo Silva"
+NA,NA,NA,NA,NA,NA,"Andrea Araujo de Nobrega Cavalcanti"
+NA,"010800","208","7","QUA","13:55 às 17:35","Leonardo Goncalves Cunha"
+NA,NA,NA,NA,NA,"18:30 às 20:20","Leonardo Goncalves Cunha"
+NA,NA,NA,NA,NA,NA,"Marcelo Filadelfo Silva"
+NA,NA,NA,NA,NA,NA,"Andrea Araujo de Nobrega Cavalcanti"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"FOF149 - ESCULTURA DENTAL","010100","208","8","QUI","07:55 às 11:35","Mariana de Almeida Basilio"
+NA,NA,NA,NA,NA,"19:25 às 20:20","Samilly Evangelista Souza"
+NA,NA,NA,NA,NA,NA,"Luciana Valadares Oliveira"
+NA,NA,NA,NA,NA,NA,"Mariana de Almeida Basilio"
+NA,"010200","208","7","QUI","07:55 às 11:35","Getulio Batista de Oliveira"
+NA,NA,NA,NA,NA,"19:25 às 20:20","Samilly Evangelista Souza"
+NA,NA,NA,NA,NA,NA,"Luciana Valadares Oliveira"
+NA,NA,NA,NA,NA,NA,"Mariana de Almeida Basilio"
+NA,"010300","208","6","QUI","08:50 às 12:30","Luciana Valadares Oliveira"
+NA,NA,NA,NA,NA,"19:25 às 20:20","Samilly Evangelista Souza"
+NA,NA,NA,NA,NA,NA,"Luciana Valadares Oliveira"
+NA,NA,NA,NA,NA,NA,"Mariana de Almeida Basilio"
+NA,"010400","208","6","QUI","08:50 às 12:30","Samilly Evangelista Souza"
+NA,NA,NA,NA,NA,"19:25 às 20:20","Samilly Evangelista Souza"
+NA,NA,NA,NA,NA,NA,"Luciana Valadares Oliveira"
+NA,NA,NA,NA,NA,NA,"Mariana de Almeida Basilio"
+NA,"010500","208","8","QUI","13:00 às 16:40","Mariana de Almeida Basilio"
+NA,NA,NA,NA,NA,"19:25 às 20:20","Samilly Evangelista Souza"
+NA,NA,NA,NA,NA,NA,"Luciana Valadares Oliveira"
+NA,NA,NA,NA,NA,NA,"Mariana de Almeida Basilio"
+NA,"010600","208","7","QUI","13:00 às 16:40","Getulio Batista de Oliveira"
+NA,NA,NA,NA,NA,"19:25 às 20:20","Samilly Evangelista Souza"
+NA,NA,NA,NA,NA,NA,"Luciana Valadares Oliveira"
+NA,NA,NA,NA,NA,NA,"Mariana de Almeida Basilio"
+NA,"010700","208","6","QUI","13:55 às 17:35","Luciana Valadares Oliveira"
+NA,NA,NA,NA,NA,"19:25 às 20:20","Samilly Evangelista Souza"
+NA,NA,NA,NA,NA,NA,"Luciana Valadares Oliveira"
+NA,NA,NA,NA,NA,NA,"Mariana de Almeida Basilio"
+NA,"010800","208","6","QUI","13:55 às 17:35","Samilly Evangelista Souza"
+NA,NA,NA,NA,NA,"19:25 às 20:20","Samilly Evangelista Souza"
+NA,NA,NA,NA,NA,NA,"Luciana Valadares Oliveira"
+NA,NA,NA,NA,NA,NA,"Mariana de Almeida Basilio"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"FOF161 - RADIOLOGIA CLINICA","010100","208","6","QUA","11:35 às 12:30","Regina Lucia Seixas Pinto"
+NA,NA,NA,NA,NA,"13:00 às 16:40","Regina Lucia Seixas Pinto"
+NA,"010200","208","6","QUA","11:35 às 12:30","Regina Lucia Seixas Pinto"
+NA,NA,NA,NA,"QUI","08:50 às 12:30","Regina Lucia Seixas Pinto"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"FOF166 - RADIOLOGIA BASICA","010100","208","6","SEG","07:55 às 11:35","Paulo Sergio Flores Campos"
+NA,NA,NA,NA,NA,"18:30 às 20:20","Taruska Ventorini Vasconcelos"
+NA,NA,NA,NA,NA,NA,"Ieda Margarida Crusoe Rocha Rebello"
+NA,NA,NA,NA,NA,NA,"Frederico Sampaio Neves"
+NA,NA,NA,NA,NA,NA,"Paulo Sergio Flores Campos"
+NA,"010200","208","6","SEG","18:30 às 20:20","Taruska Ventorini Vasconcelos"
+NA,NA,NA,NA,NA,NA,"Ieda Margarida Crusoe Rocha Rebello"
+NA,NA,NA,NA,NA,NA,"Frederico Sampaio Neves"
+NA,NA,NA,NA,NA,NA,"Paulo Sergio Flores Campos"
+NA,NA,NA,NA,"TER","07:55 às 11:35","Taruska Ventorini Vasconcelos"
+NA,"010300","208","6","SEG","18:30 às 20:20","Taruska Ventorini Vasconcelos"
+NA,NA,NA,NA,NA,NA,"Ieda Margarida Crusoe Rocha Rebello"
+NA,NA,NA,NA,NA,NA,"Frederico Sampaio Neves"
+NA,NA,NA,NA,NA,NA,"Paulo Sergio Flores Campos"
+NA,NA,NA,NA,"QUA","07:55 às 11:35","Ieda Margarida Crusoe Rocha Rebello"
+NA,"010400","208","6","SEG","18:30 às 20:20","Taruska Ventorini Vasconcelos"
+NA,NA,NA,NA,NA,NA,"Ieda Margarida Crusoe Rocha Rebello"
+NA,NA,NA,NA,NA,NA,"Frederico Sampaio Neves"
+NA,NA,NA,NA,NA,NA,"Paulo Sergio Flores Campos"
+NA,NA,NA,NA,"QUI","07:55 às 11:35","Paulo Sergio Flores Campos"
+NA,"010500","208","6","SEG","18:30 às 20:20","Taruska Ventorini Vasconcelos"
+NA,NA,NA,NA,NA,NA,"Ieda Margarida Crusoe Rocha Rebello"
+NA,NA,NA,NA,NA,NA,"Frederico Sampaio Neves"
+NA,NA,NA,NA,NA,NA,"Paulo Sergio Flores Campos"
+NA,NA,NA,NA,"SEX","07:55 às 11:35","Frederico Sampaio Neves"
+NA,"010600","208","6","SEG","13:00 às 16:40","Paulo Sergio Flores Campos"
+NA,NA,NA,NA,NA,"18:30 às 20:20","Taruska Ventorini Vasconcelos"
+NA,NA,NA,NA,NA,NA,"Ieda Margarida Crusoe Rocha Rebello"
+NA,NA,NA,NA,NA,NA,"Frederico Sampaio Neves"
+NA,NA,NA,NA,NA,NA,"Paulo Sergio Flores Campos"
+NA,"010700","208","6","SEG","18:30 às 20:20","Taruska Ventorini Vasconcelos"
+NA,NA,NA,NA,NA,NA,"Ieda Margarida Crusoe Rocha Rebello"
+NA,NA,NA,NA,NA,NA,"Frederico Sampaio Neves"
+NA,NA,NA,NA,NA,NA,"Paulo Sergio Flores Campos"
+NA,NA,NA,NA,"TER","13:00 às 16:40","Taruska Ventorini Vasconcelos"
+NA,"010800","208","6","SEG","18:30 às 20:20","Taruska Ventorini Vasconcelos"
+NA,NA,NA,NA,NA,NA,"Ieda Margarida Crusoe Rocha Rebello"
+NA,NA,NA,NA,NA,NA,"Frederico Sampaio Neves"
+NA,NA,NA,NA,NA,NA,"Paulo Sergio Flores Campos"
+NA,NA,NA,NA,"QUA","13:00 às 16:40","Ieda Margarida Crusoe Rocha Rebello"
+NA,"010900","208","6","SEG","18:30 às 20:20","Taruska Ventorini Vasconcelos"
+NA,NA,NA,NA,NA,NA,"Ieda Margarida Crusoe Rocha Rebello"
+NA,NA,NA,NA,NA,NA,"Frederico Sampaio Neves"
+NA,NA,NA,NA,NA,NA,"Paulo Sergio Flores Campos"
+NA,NA,NA,NA,"QUI","13:00 às 16:40","Taruska Ventorini Vasconcelos"
+NA,"011000","208","6","SEG","18:30 às 20:20","Taruska Ventorini Vasconcelos"
+NA,NA,NA,NA,NA,NA,"Ieda Margarida Crusoe Rocha Rebello"
+NA,NA,NA,NA,NA,NA,"Frederico Sampaio Neves"
+NA,NA,NA,NA,NA,NA,"Paulo Sergio Flores Campos"
+NA,NA,NA,NA,"SEX","13:00 às 16:40","Frederico Sampaio Neves"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"FOF169 - ODONTOLOGIA EM SAUDE COLETIVA I","010100","208","4","QUA","13:00 às 14:50","Denise Nogueira Cruz"
+NA,NA,NA,NA,NA,"14:50 às 16:40","Denise Nogueira Cruz"
+NA,NA,NA,NA,NA,"16:40 às 17:35","Denise Nogueira Cruz"
+NA,"010200","208","4","QUA","13:00 às 14:50","Johelle de Santana Passos Soares"
+NA,NA,NA,NA,NA,"14:50 às 16:40","Johelle de Santana Passos Soares"
+NA,NA,NA,NA,NA,"16:40 às 17:35","Denise Nogueira Cruz"
+NA,"010300","208","4","QUA","13:00 às 14:50","Tatiana Frederico de Almeida"
+NA,NA,NA,NA,NA,"14:50 às 16:40","Tatiana Frederico de Almeida"
+NA,NA,NA,NA,NA,"16:40 às 17:35","Denise Nogueira Cruz"
+NA,"010400","208","4","QUA","13:00 às 14:50","Docente Substituto a Contratar"
+NA,NA,NA,NA,NA,"14:50 às 16:40","Docente Substituto a Contratar"
+NA,NA,NA,NA,NA,"16:40 às 17:35","Denise Nogueira Cruz"
+NA,"010500","208","4","QUA","13:00 às 14:50","Docente Substituto a Contratar"
+NA,NA,NA,NA,NA,"14:50 às 16:40","Docente Substituto a Contratar"
+NA,NA,NA,NA,NA,"16:40 às 17:35","Denise Nogueira Cruz"
+NA,"020600","208","4","QUI","07:00 às 08:50","Denise Nogueira Cruz"
+NA,NA,NA,NA,NA,"08:50 às 10:40","Denise Nogueira Cruz"
+NA,NA,NA,NA,NA,"10:40 às 11:35","Denise Nogueira Cruz"
+NA,"020700","208","4","QUI","07:00 às 08:50","Johelle de Santana Passos Soares"
+NA,NA,NA,NA,NA,"08:50 às 10:40","Johelle de Santana Passos Soares"
+NA,NA,NA,NA,NA,"10:40 às 11:35","Denise Nogueira Cruz"
+NA,"020800","208","4","QUI","07:00 às 08:50","Tatiana Frederico de Almeida"
+NA,NA,NA,NA,NA,"08:50 às 10:40","Tatiana Frederico de Almeida"
+NA,NA,NA,NA,NA,"10:40 às 11:35","Denise Nogueira Cruz"
+NA,"020900","208","4","QUI","07:00 às 08:50","Docente Substituto a Contratar"
+NA,NA,NA,NA,NA,"08:50 às 10:40","Docente Substituto a Contratar"
+NA,NA,NA,NA,NA,"10:40 às 11:35","Denise Nogueira Cruz"
+NA,"021000","208","4","QUI","07:00 às 08:50","Docente Substituto a Contratar"
+NA,NA,NA,NA,NA,"08:50 às 10:40","Docente Substituto a Contratar"
+NA,NA,NA,NA,NA,"10:40 às 11:35","Denise Nogueira Cruz"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"FOF170 - ODONTO.SAUDE COLETIVA II","010100","208","4","SEG","14:50 às 16:40","Sandra Garrido de Barros"
+NA,NA,NA,NA,"TER","13:00 às 14:50","Sandra Garrido de Barros"
+NA,NA,NA,NA,NA,"14:50 às 16:40","Sandra Garrido de Barros"
+NA,"010200","208","4","SEG","14:50 às 16:40","Sandra Garrido de Barros"
+NA,NA,NA,NA,"TER","13:00 às 14:50","Maria Cristina Teixeira Cangussu"
+NA,NA,NA,NA,NA,"14:50 às 16:40","Maria Cristina Teixeira Cangussu"
+NA,"010300","208","4","SEG","14:50 às 16:40","Sandra Garrido de Barros"
+NA,NA,NA,NA,"TER","13:00 às 14:50","Andreia Cristina Leal Figueiredo"
+NA,NA,NA,NA,NA,"14:50 às 16:40","Andreia Cristina Leal Figueiredo"
+NA,"010400","208","4","SEG","14:50 às 16:40","Sandra Garrido de Barros"
+NA,NA,NA,NA,"TER","13:00 às 14:50","Sonia Cristina Lima Chaves"
+NA,NA,NA,NA,NA,"14:50 às 16:40","Sonia Cristina Lima Chaves"
+NA,"010500","208","4","SEG","14:50 às 16:40","Sandra Garrido de Barros"
+NA,NA,NA,NA,"TER","13:00 às 14:50","Docente Substituto a Contratar"
+NA,NA,NA,NA,NA,"14:50 às 16:40","Docente Substituto a Contratar"
+NA,"010600","208","4","SEG","14:50 às 16:40","Sandra Garrido de Barros"
+NA,NA,NA,NA,"TER","13:00 às 14:50","Docente Substituto a Contratar"
+NA,NA,NA,NA,NA,"14:50 às 16:40","Docente Substituto a Contratar"
+NA,"010700","208","4","SEG","14:50 às 16:40","Sandra Garrido de Barros"
+NA,NA,NA,NA,"QUA","07:55 às 11:35","Sandra Garrido de Barros"
+NA,"010800","208","4","SEG","14:50 às 16:40","Sandra Garrido de Barros"
+NA,NA,NA,NA,"QUA","07:55 às 11:35","Maria Cristina Teixeira Cangussu"
+NA,"010900","208","4","SEG","14:50 às 16:40","Sandra Garrido de Barros"
+NA,NA,NA,NA,"QUA","07:55 às 11:35","Andreia Cristina Leal Figueiredo"
+NA,"011000","208","4","SEG","14:50 às 16:40","Sandra Garrido de Barros"
+NA,NA,NA,NA,"QUA","07:55 às 11:35","Sonia Cristina Lima Chaves"
+NA,"011100","208","4","SEG","14:50 às 16:40","Sandra Garrido de Barros"
+NA,NA,NA,NA,"QUA","07:55 às 11:35","Docente Substituto a Contratar"
+NA,"011200","208","4","SEG","14:50 às 16:40","Sandra Garrido de Barros"
+NA,NA,NA,NA,"QUA","07:55 às 11:35","Docente Substituto a Contratar"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"FOF171 - ODONTOLOGIA EM SAUDE COLETIVA III","010100","208","8","SEG","08:50 às 10:40","Johelle de Santana Passos Soares"
+NA,NA,NA,NA,NA,"10:40 às 12:30","Johelle de Santana Passos Soares"
+NA,"010200","208","8","SEG","08:50 às 10:40","Johelle de Santana Passos Soares"
+NA,NA,NA,NA,NA,"10:40 às 12:30","Lana Bleicher"
+NA,"010300","208","8","SEG","08:50 às 10:40","Johelle de Santana Passos Soares"
+NA,NA,NA,NA,NA,"10:40 às 12:30","Maria Cristina Teixeira Cangussu"
+NA,"010400","208","8","SEG","08:50 às 10:40","Johelle de Santana Passos Soares"
+NA,NA,NA,NA,NA,"10:40 às 12:30","Ana Clara de Reboucas Carvalho"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"FOFA51 - TRABALHO DE CONCLUSÃO DE CURSO I","000100","208","8","CMB","00:00 às 23:00","Sandra Maria Ferraz Mello"
+NA,"000200","208","8","CMB","00:00 às 23:00","Luis Cardoso Rasquin"
+NA,"000300","208","8","CMB","00:00 às 23:00","Erika Sales Joviano Pereira"
+NA,"000400","208","8","CMB","00:00 às 23:00","Sandra Maria Ferraz Mello"
+NA,"000500","208","8","CMB","00:00 às 23:00","Luis Cardoso Rasquin"
+NA,"000600","208","8","CMB","00:00 às 23:00","Erika Sales Joviano Pereira"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"FOFA52 - TRABALHO DE CONCLUSÃO DE CURSO  II","010000","208","7","CMB","00:00 às 23:00","Viviane Maia Barreto de Oliveira"
+NA,"020000","208","7","CMB","00:00 às 23:00","Marcelo de Castellucci e Barbosa"
+NA,"030000","208","7","CMB","00:00 às 23:00","Paulo Vicente Barbosa da Rocha"
+NA,"040000","208","7","CMB","00:00 às 23:00","Viviane Maia Barreto de Oliveira"
+NA,"050000","208","7","CMB","00:00 às 23:00","Marcelo de Castellucci e Barbosa"
+NA,"060000","208","7","CMB","00:00 às 23:00","Paulo Vicente Barbosa da Rocha"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"FOFA53 - RADIOLOGIA III","010100","208","6","SEG","10:40 às 12:30","Viviane Almeida Sarmento"
+NA,NA,NA,NA,NA,"13:00 às 14:50","Viviane Almeida Sarmento"
+NA,NA,NA,NA,NA,NA,"Patricia Miranda Leite Ribeiro"
+NA,"010200","208","6","SEG","13:00 às 14:50","Viviane Almeida Sarmento"
+NA,NA,NA,NA,NA,NA,"Patricia Miranda Leite Ribeiro"
+NA,NA,NA,NA,NA,"14:50 às 16:40","Patricia Miranda Leite Ribeiro"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"FOFC48 - ODONTOLOGIA HOSPITALAR","010100","208","6","SEX","07:00 às 07:55","Viviane Almeida Sarmento"
+NA,NA,NA,NA,NA,NA,"Patricia Miranda Leite Ribeiro"
+NA,NA,NA,NA,NA,"07:55 às 11:35","Viviane Almeida Sarmento"
+NA,"010200","208","6","TER","07:55 às 11:35","Patricia Miranda Leite Ribeiro"
+NA,NA,NA,NA,"SEX","07:00 às 07:55","Viviane Almeida Sarmento"
+NA,NA,NA,NA,NA,NA,"Patricia Miranda Leite Ribeiro"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"FOFC99 - DTM/DOR OROFACIAL","010000","208","30","TER","18:30 às 22:10","Arlei Cerqueira"
+NA,NA,NA,NA,NA,NA,"Samilly Evangelista Souza"
+NA,NA,NA,NA,NA,NA,"Marcio Vieira Lisboa"
+NA,NA,NA,NA,NA,NA,"Joao Frank Carvalho Dantas de Oliveira"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"FOFD01 - TÓPICOS EM ENDODONTIA","010000","208","15","SEG","18:30 às 20:20","Erica dos Santos Carvalho"
+NA,NA,NA,NA,"QUA","18:30 às 20:20","Erica dos Santos Carvalho"
+NA,NA,NA,NA,"CMB","00:00 às 00:00","Erica dos Santos Carvalho"
+NA,"020000","208","15","SEG","18:30 às 20:20","Erika Sales Joviano Pereira"
+NA,NA,NA,NA,"QUA","18:30 às 20:20","Erika Sales Joviano Pereira"
+NA,NA,NA,NA,"CMB","00:00 às 00:00","Erika Sales Joviano Pereira"
+NA,"030000","208","15","SEG","18:30 às 20:20","Fabiola Bastos de Carvalho"
+NA,NA,NA,NA,"QUA","18:30 às 20:20","Fabiola Bastos de Carvalho"
+NA,NA,NA,NA,"CMB","00:00 às 00:00","Fabiola Bastos de Carvalho"
+NA,"040000","208","15","SEG","18:30 às 20:20","Maria Tereza Pedrosa de Albuquerque"
+NA,NA,NA,NA,"QUA","18:30 às 20:20","Maria Tereza Pedrosa de Albuquerque"
+NA,NA,NA,NA,"CMB","00:00 às 00:00","Maria Tereza Pedrosa de Albuquerque"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"FOFD03 - IMPLANTODONTIA: DA CIRURGIA À PRÓTESE SOBRE IMPLANTES","010100","208","9","TER","07:55 às 08:50","Andre Carlos de Freitas"
+NA,NA,NA,NA,NA,NA,"Anderson Pinheiro de Freitas"
+NA,NA,NA,NA,NA,"08:50 às 12:30","Andre Carlos de Freitas"
+NA,"010200","208","9","TER","07:55 às 08:50","Andre Carlos de Freitas"
+NA,NA,NA,NA,NA,NA,"Anderson Pinheiro de Freitas"
+NA,NA,NA,NA,NA,"08:50 às 12:30","Anderson Pinheiro de Freitas"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"FOFD08 - TÓPICOS EM SAÚDE INTEGRATIVA NA ODONTOLOGIA","010100","208","5","TER","07:55 às 08:50","Gisela Estela Rapp"
+NA,NA,NA,NA,NA,NA,"Rebeca Barroso Bezerra"
+NA,NA,NA,NA,NA,"08:50 às 11:35","Gisela Estela Rapp"
+NA,"010200","208","5","TER","07:55 às 08:50","Gisela Estela Rapp"
+NA,NA,NA,NA,NA,NA,"Rebeca Barroso Bezerra"
+NA,NA,NA,NA,"QUA","08:50 às 11:35","Gisela Estela Rapp"
+NA,"010300","208","5","TER","07:55 às 08:50","Gisela Estela Rapp"
+NA,NA,NA,NA,NA,NA,"Rebeca Barroso Bezerra"
+NA,NA,NA,NA,"QUI","08:50 às 11:35","Gisela Estela Rapp"

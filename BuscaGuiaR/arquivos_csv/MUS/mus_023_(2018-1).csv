@@ -1,0 +1,658 @@
+"Disciplina","Turma","Coleg.","Vagas Ofe","Dia","Horário","Docente"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"MUS502 - ESTUDOS BIBLIOGRAFICOS E METODOLOGICOS I","010000","535","30","CMB","00:00 às 23:00","Lucas Robatto"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"MUS504 - ESTUDOS ESPECIAIS","010000","530","10","SEX","13:55 às 16:40","Guilherme Bertissolo"
+NA,NA,"550","20",NA,NA,"Guilherme Bertissolo"
+NA,"020000","530","10","CMB","00:00 às 23:00","Laila Andresa Cavalcante Rosa"
+NA,NA,"550","10",NA,NA,"Laila Andresa Cavalcante Rosa"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"MUS525 - SEMINARIOS EM COMPOSICAO II","010000","530","8","SEG","14:50 às 17:35","Guilherme Bertissolo"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"MUS530 - PROCESSOS COMPOSICIONAIS DO SECULO  XX","010000","530","5","SEG","08:50 às 11:35","Wellington Gomes da Silva"
+NA,NA,"550","8",NA,NA,"Wellington Gomes da Silva"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"MUS571 - PEDAGOGIA INSTRUMENTAL","010000","550","8","TER","13:00 às 15:45","Joel Luis da Silva Barbosa"
+NA,NA,"530","8",NA,NA,"Joel Luis da Silva Barbosa"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"MUS581 - MUSICA BRASILEIRA: OS ESTILOS URBANOS","010000","530","4","QUA","13:55 às 16:40","Laila Andresa Cavalcante Rosa"
+NA,NA,"550","5",NA,NA,"Laila Andresa Cavalcante Rosa"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"MUS597 - SEMINARIOS EM ETNOMUSICOLOGIA V","010000","550","6","QUI","08:50 às 11:35","Angela Elisabeth Luhning"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"MUS598 - FUNDAMENTOS DA EDUCACAO MUSICAL IV","010000","550","2","CMB","00:00 às 23:00","Laila Andresa Cavalcante Rosa"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"MUS711 - SEMINARIOS EM COMPOSICAO V","010000","550","5","CMB","00:00 às 23:00","Guilherme Bertissolo"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"MUS715 - SEMINARIOS EM EXECUCAO MUSICAL V","010100","550","5","CMB","00:00 às 23:00","Heinz Karl Novaes Schwebel"
+NA,"020200","550","5","CMB","00:00 às 23:00","Jose Mauricio Valle Brandao"
+NA,"030300","550","5","CMB","00:00 às 23:00","Lucas Robatto"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"MUS790 - PESQUISA ORIENTADA","010000","550","5","CMB","00:00 às 23:00","Ana Cristina Gama dos Santos Tourinho"
+NA,NA,"530","5",NA,NA,"Ana Cristina Gama dos Santos Tourinho"
+NA,"020000","550","5","CMB","00:00 às 23:00","Angela Elisabeth Luhning"
+NA,NA,"530","5",NA,NA,"Angela Elisabeth Luhning"
+NA,"030000","550","5","CMB","00:00 às 23:00","Paulo Costa Lima"
+NA,NA,"530","5",NA,NA,"Paulo Costa Lima"
+NA,"040000","530","5","CMB","00:00 às 23:00","Pablo Sotuyo Blanco"
+NA,NA,"550","5",NA,NA,"Pablo Sotuyo Blanco"
+NA,"050000","530","5","CMB","00:00 às 23:00","Joel Luis da Silva Barbosa"
+NA,NA,"550","5",NA,NA,"Joel Luis da Silva Barbosa"
+NA,"060000","530","5","CMB","00:00 às 23:00","Lucas Robatto"
+NA,NA,"550","5",NA,NA,"Lucas Robatto"
+NA,"070000","530","5","CMB","00:00 às 23:00","Jose Mauricio Valle Brandao"
+NA,NA,"550","5",NA,NA,"Jose Mauricio Valle Brandao"
+NA,"080000","530","5","CMB","00:00 às 23:00","Wellington Mendes da Silva Filho"
+NA,NA,"550","5",NA,NA,"Wellington Mendes da Silva Filho"
+NA,"090000","550","5","CMB","00:00 às 23:00","Wellington Gomes da Silva"
+NA,NA,"530","5",NA,NA,"Wellington Gomes da Silva"
+NA,"100000","530","5","CMB","00:00 às 23:00","Laila Andresa Cavalcante Rosa"
+NA,NA,"550","5",NA,NA,"Laila Andresa Cavalcante Rosa"
+NA,"110000","550","5","CMB","00:00 às 23:00","Flavia Maria Chiara Candusso"
+NA,NA,"530","5",NA,NA,"Flavia Maria Chiara Candusso"
+NA,"120000","530","5","CMB","00:00 às 23:00","Laila Andresa Cavalcante Rosa"
+NA,NA,"550","5",NA,NA,"Laila Andresa Cavalcante Rosa"
+NA,"130000","550","5","CMB","00:00 às 23:00","Laila Andresa Cavalcante Rosa"
+NA,NA,"530","5",NA,NA,"Laila Andresa Cavalcante Rosa"
+NA,"140000","530","5","CMB","00:00 às 23:00","Heinz Karl Novaes Schwebel"
+NA,NA,"550","5",NA,NA,"Heinz Karl Novaes Schwebel"
+NA,"150000","550","5","CMB","00:00 às 23:00","Guilherme Bertissolo"
+NA,NA,"530","5",NA,NA,"Guilherme Bertissolo"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"MUS791 - TIROCINIO DOCENTE ORIENTADO","010000","530","10","CMB","00:00 às 23:00","Jose Mauricio Valle Brandao"
+NA,NA,"550","10",NA,NA,"Jose Mauricio Valle Brandao"
+NA,"020000","550","10","CMB","00:00 às 23:00","Pablo Sotuyo Blanco"
+NA,NA,"530","10",NA,NA,"Pablo Sotuyo Blanco"
+NA,"030000","530","10","CMB","00:00 às 23:00","Laila Andresa Cavalcante Rosa"
+NA,NA,"550","10",NA,NA,"Laila Andresa Cavalcante Rosa"
+NA,"040000","550","10","CMB","00:00 às 23:00","Laila Andresa Cavalcante Rosa"
+NA,NA,"530","10",NA,NA,"Laila Andresa Cavalcante Rosa"
+NA,"050000","530","10","CMB","00:00 às 23:00","Angela Elisabeth Luhning"
+NA,NA,"550","10",NA,NA,"Angela Elisabeth Luhning"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"MUS792 - PROJETO DE DISSERTACAO","010000","530","5","CMB","00:00 às 23:00","Ana Cristina Gama dos Santos Tourinho"
+NA,"020000","530","5","CMB","00:00 às 23:00","Angela Elisabeth Luhning"
+NA,"030000","530","5","CMB","00:00 às 23:00","Paulo Costa Lima"
+NA,"040000","530","5","CMB","00:00 às 23:00","Pablo Sotuyo Blanco"
+NA,"050000","530","5","CMB","00:00 às 23:00","Joel Luis da Silva Barbosa"
+NA,"060000","530","5","CMB","00:00 às 23:00","Lucas Robatto"
+NA,"070000","530","5","CMB","00:00 às 23:00","Jose Mauricio Valle Brandao"
+NA,"080000","530","5","CMB","00:00 às 23:00","Wellington Mendes da Silva Filho"
+NA,"090000","530","5","CMB","00:00 às 23:00","Wellington Gomes da Silva"
+NA,"100000","530","5","CMB","00:00 às 23:00","Laila Andresa Cavalcante Rosa"
+NA,"110000","530","5","CMB","00:00 às 23:00","Flavia Maria Chiara Candusso"
+NA,"120000","530","5","CMB","00:00 às 23:00","Laila Andresa Cavalcante Rosa"
+NA,"130000","530","5","CMB","00:00 às 23:00","Laila Andresa Cavalcante Rosa"
+NA,"140000","530","5","CMB","00:00 às 23:00","Heinz Karl Novaes Schwebel"
+NA,"150000","530","5","CMB","00:00 às 23:00","Guilherme Bertissolo"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"MUS793 - PROJETO DE TESE","010000","550","5","CMB","00:00 às 23:00","Ana Cristina Gama dos Santos Tourinho"
+NA,"020000","550","5","CMB","00:00 às 23:00","Angela Elisabeth Luhning"
+NA,"030000","550","5","CMB","00:00 às 23:00","Paulo Costa Lima"
+NA,"040000","550","5","CMB","00:00 às 23:00","Pablo Sotuyo Blanco"
+NA,"050000","550","5","CMB","00:00 às 23:00","Joel Luis da Silva Barbosa"
+NA,"060000","550","5","CMB","00:00 às 23:00","Lucas Robatto"
+NA,"070000","550","5","CMB","00:00 às 23:00","Jose Mauricio Valle Brandao"
+NA,"080000","550","5","CMB","00:00 às 23:00","Wellington Mendes da Silva Filho"
+NA,"090000","550","5","CMB","00:00 às 23:00","Wellington Gomes da Silva"
+NA,"100000","550","5","CMB","00:00 às 23:00","Laila Andresa Cavalcante Rosa"
+NA,"110000","550","5","CMB","00:00 às 23:00","Flavia Maria Chiara Candusso"
+NA,"120000","550","5","CMB","00:00 às 23:00","Laila Andresa Cavalcante Rosa"
+NA,"130000","550","5","CMB","00:00 às 23:00","Laila Andresa Cavalcante Rosa"
+NA,"140000","550","5","CMB","00:00 às 23:00","Heinz Karl Novaes Schwebel"
+NA,"150000","550","5","CMB","00:00 às 23:00","Guilherme Bertissolo"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"MUS794 - RECITAL I","010000","550","10","CMB","00:00 às 23:00","Jose Mauricio Valle Brandao"
+NA,NA,"530","10",NA,NA,"Jose Mauricio Valle Brandao"
+NA,"020000","550","10","CMB","00:00 às 23:00","Joel Luis da Silva Barbosa"
+NA,NA,"530","10",NA,NA,"Joel Luis da Silva Barbosa"
+NA,"030000","550","10","CMB","00:00 às 23:00","Lucas Robatto"
+NA,NA,"530","10",NA,NA,"Lucas Robatto"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"MUS795 - RECITAL","010000","530","5","CMB","00:00 às 23:00","Flavia Maria Chiara Candusso"
+NA,"020000","530","5","CMB","00:00 às 23:00","Ana Cristina Gama dos Santos Tourinho"
+NA,"030000","530","5","CMB","00:00 às 23:00","Laila Andresa Cavalcante Rosa"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"MUS796 - RECITAL II","010000","550","8","CMB","00:00 às 23:00","Jose Mauricio Valle Brandao"
+NA,"020000","550","8","CMB","00:00 às 23:00","Heinz Karl Novaes Schwebel"
+NA,"030000","550","8","CMB","00:00 às 23:00","Lucas Robatto"
+NA,"040000","550","8","CMB","00:00 às 23:00","Joel Luis da Silva Barbosa"
+NA,"050000","550","8","CMB","00:00 às 23:00","Laila Andresa Cavalcante Rosa"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"MUS797 - RECITAL III","010000","550","10","CMB","00:00 às 23:00","Jose Mauricio Valle Brandao"
+NA,"020000","550","10","CMB","00:00 às 23:00","Heinz Karl Novaes Schwebel"
+NA,"030000","550","10","CMB","00:00 às 23:00","Lucas Robatto"
+NA,"040000","550","10","CMB","00:00 às 23:00","Joel Luis da Silva Barbosa"
+NA,"050000","550","10","CMB","00:00 às 23:00","Laila Andresa Cavalcante Rosa"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"MUS798 - PALESTRA/APRESENTACAO DA PESQUISA DE CAMPO","010000","550","5","CMB","00:00 às 23:00","Pablo Sotuyo Blanco"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"MUS799 - RECITAL DE MUSICA ERUDITA, TRAD OU FOLCLORICA BRASILEIRA","010000","550","5","CMB","00:00 às 23:00","Angela Elisabeth Luhning"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"MUS900 - FORUM DE COMPOSITORES","010000","550","10","CMB","00:00 às 23:00","Wellington Gomes da Silva"
+NA,"020000","550","10","CMB","00:00 às 23:00","Paulo Costa Lima"
+NA,"030000","550","10","CMB","00:00 às 23:00","Guilherme Bertissolo"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"MUS901 - PARTICIPACAO EM WORKSHOP","010000","550","5","CMB","00:00 às 23:00","Angela Elisabeth Luhning"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"MUS902 - EXAME DE QUALIFICACAO","010000","550","10","CMB","00:00 às 23:00","Ana Cristina Gama dos Santos Tourinho"
+NA,"020000","550","10","CMB","00:00 às 23:00","Angela Elisabeth Luhning"
+NA,"030000","550","10","CMB","00:00 às 23:00","Paulo Costa Lima"
+NA,"040000","550","10","CMB","00:00 às 23:00","Pablo Sotuyo Blanco"
+NA,"050000","550","10","CMB","00:00 às 23:00","Joel Luis da Silva Barbosa"
+NA,"060000","550","10","CMB","00:00 às 23:00","Lucas Robatto"
+NA,"070000","550","10","CMB","00:00 às 23:00","Jose Mauricio Valle Brandao"
+NA,"080000","550","10","CMB","00:00 às 23:00","Wellington Mendes da Silva Filho"
+NA,"090000","550","10","CMB","00:00 às 23:00","Wellington Gomes da Silva"
+NA,"100000","550","10","CMB","00:00 às 23:00","Laila Andresa Cavalcante Rosa"
+NA,"110000","550","10","CMB","00:00 às 23:00","Flavia Maria Chiara Candusso"
+NA,"120000","550","10","CMB","00:00 às 23:00","Laila Andresa Cavalcante Rosa"
+NA,"130000","550","10","CMB","00:00 às 23:00","Laila Andresa Cavalcante Rosa"
+NA,"140000","550","10","CMB","00:00 às 23:00","Heinz Karl Novaes Schwebel"
+NA,"150000","550","10","CMB","00:00 às 23:00","Guilherme Bertissolo"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"MUSA44 - SEMINARIOS EM MUSICOLOGIA I","020000","530","2","CMB","00:00 às 23:00","Pablo Sotuyo Blanco"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"MUSA45 - SEMINARIOS EM MUSICOLOGIA II","010000","530","5","CMB","00:00 às 23:00","Pablo Sotuyo Blanco"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"MUSA51 - METODOLOGIA EM PESQUISA DE CAMPO E ARQUIVISTICA","010000","530","4","CMB","00:00 às 23:00","Pablo Sotuyo Blanco"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"MUSA52 - LABORATORIO EM MUSICOLOGIA I","010000","530","3","CMB","00:00 às 23:00","Pablo Sotuyo Blanco"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"MUSA55 - ESTAGIO EM PROJETOS DE NATUREZA ARQUIVISTICA-MUSICAL","010000","550","4","CMB","00:00 às 23:00","Pablo Sotuyo Blanco"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"MUSA56 - LABORATORIO EM MUSICOLOGIA II","010000","530","3","CMB","00:00 às 23:00","Pablo Sotuyo Blanco"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"MUSD45 - Estudos Especiais em Interpretação","010000","535","20","CMB","00:00 às 23:00","Lucas Robatto"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"MUSD46 - Estudos Especiais em Educação Musical","000100","535","30","CMB","00:00 às 23:00","Flavia Maria Chiara Candusso"
+NA,"000200","535","30","CMB","00:00 às 23:00","Lucas Robatto"
+NA,"000300","535","30","CMB","00:00 às 23:00","Lucas Robatto"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"MUSD47 - Projeto de Trabalho de Conclusão  Final","010000","535","10","CMB","00:00 às 23:00","Alexandre Alves Casado"
+NA,"020000","535","10","CMB","00:00 às 23:00","Ana Cristina Gama dos Santos Tourinho"
+NA,"030000","535","10","CMB","00:00 às 23:00","Beatriz Alessio de Aguiar"
+NA,"040000","535","10","CMB","00:00 às 23:00","Celso Jose Rodrigues Benedito"
+NA,"050000","535","10","CMB","00:00 às 23:00","Lucas Robatto"
+NA,"060000","535","10","CMB","00:00 às 23:00","Ekaterina Konopleva"
+NA,"070000","535","10","CMB","00:00 às 23:00","Flavia Maria Chiara Candusso"
+NA,"080000","535","10","CMB","00:00 às 23:00","Heinz Karl Novaes Schwebel"
+NA,"090000","535","10","CMB","00:00 às 23:00","Joatan Mendonca do Nascimento"
+NA,"100000","535","10","CMB","00:00 às 23:00","Joel Luis da Silva Barbosa"
+NA,"110000","535","10","CMB","00:00 às 23:00","Jose Mauricio Valle Brandao"
+NA,"120000","535","10","CMB","00:00 às 23:00","Lucas Robatto"
+NA,"130000","535","10","CMB","00:00 às 23:00","Lelio Eduardo Alves da Silva"
+NA,"140000","535","10","CMB","00:00 às 23:00","Lucas Robatto"
+NA,"150000","535","10","CMB","00:00 às 23:00","Docente não informado pelo Departamento"
+NA,"160000","535","10","CMB","00:00 às 23:00","Mario Enrique Ulloa Penaranda"
+NA,"170000","535","10","CMB","00:00 às 23:00","Pedro Robatto"
+NA,"180000","535","10","CMB","00:00 às 23:00","Lucas Robatto"
+NA,"190000","535","10","CMB","00:00 às 23:00","Robson Barreto Matos"
+NA,"200000","535","10","CMB","00:00 às 23:00","Rowney Archibald Scott Junior"
+NA,"210000","535","10","CMB","00:00 às 23:00","Suzana Kato"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"MUSD48 - Oficina de Prática Técnico-Interpretativa","010000","535","10","CMB","00:00 às 23:00","Alexandre Alves Casado"
+NA,"020000","535","10","CMB","00:00 às 23:00","Ana Cristina Gama dos Santos Tourinho"
+NA,"030000","535","10","CMB","00:00 às 23:00","Beatriz Alessio de Aguiar"
+NA,"040000","535","10","CMB","00:00 às 23:00","Celso Jose Rodrigues Benedito"
+NA,"050000","535","10","CMB","00:00 às 23:00","Lucas Robatto"
+NA,"060000","535","10","CMB","00:00 às 23:00","Ekaterina Konopleva"
+NA,"070000","535","10","CMB","00:00 às 23:00","Flavia Maria Chiara Candusso"
+NA,"080000","535","10","CMB","00:00 às 23:00","Heinz Karl Novaes Schwebel"
+NA,"090000","535","10","CMB","00:00 às 23:00","Joatan Mendonca do Nascimento"
+NA,"100000","535","10","CMB","00:00 às 23:00","Joel Luis da Silva Barbosa"
+NA,"110000","535","10","CMB","00:00 às 23:00","Jose Mauricio Valle Brandao"
+NA,"120000","535","10","CMB","00:00 às 23:00","Lucas Robatto"
+NA,"130000","535","10","CMB","00:00 às 23:00","Lelio Eduardo Alves da Silva"
+NA,"140000","535","10","CMB","00:00 às 23:00","Lucas Robatto"
+NA,"150000","535","10","CMB","00:00 às 23:00","Docente não informado pelo Departamento"
+NA,"160000","535","10","CMB","00:00 às 23:00","Mario Enrique Ulloa Penaranda"
+NA,"170000","535","10","CMB","00:00 às 23:00","Pedro Robatto"
+NA,"180000","535","10","CMB","00:00 às 23:00","Lucas Robatto"
+NA,"190000","535","10","CMB","00:00 às 23:00","Robson Barreto Matos"
+NA,"200000","535","10","CMB","00:00 às 23:00","Rowney Archibald Scott Junior"
+NA,"210000","535","10","CMB","00:00 às 23:00","Suzana Kato"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"MUSD49 - Prática Orquestral","010000","535","10","CMB","00:00 às 23:00","Alexandre Alves Casado"
+NA,"020000","535","10","CMB","00:00 às 23:00","Ana Cristina Gama dos Santos Tourinho"
+NA,"030000","535","10","CMB","00:00 às 23:00","Beatriz Alessio de Aguiar"
+NA,"040000","535","10","CMB","00:00 às 23:00","Celso Jose Rodrigues Benedito"
+NA,"050000","535","10","CMB","00:00 às 23:00","Lucas Robatto"
+NA,"060000","535","10","CMB","00:00 às 23:00","Ekaterina Konopleva"
+NA,"070000","535","10","CMB","00:00 às 23:00","Flavia Maria Chiara Candusso"
+NA,"080000","535","10","CMB","00:00 às 23:00","Heinz Karl Novaes Schwebel"
+NA,"090000","535","10","CMB","00:00 às 23:00","Joatan Mendonca do Nascimento"
+NA,"100000","535","10","CMB","00:00 às 23:00","Joel Luis da Silva Barbosa"
+NA,"110000","535","10","CMB","00:00 às 23:00","Jose Mauricio Valle Brandao"
+NA,"120000","535","10","CMB","00:00 às 23:00","Lucas Robatto"
+NA,"130000","535","10","CMB","00:00 às 23:00","Lelio Eduardo Alves da Silva"
+NA,"140000","535","10","CMB","00:00 às 23:00","Lucas Robatto"
+NA,"150000","535","10","CMB","00:00 às 23:00","Docente não informado pelo Departamento"
+NA,"160000","535","10","CMB","00:00 às 23:00","Mario Enrique Ulloa Penaranda"
+NA,"170000","535","10","CMB","00:00 às 23:00","Pedro Robatto"
+NA,"180000","535","10","CMB","00:00 às 23:00","Lucas Robatto"
+NA,"190000","535","10","CMB","00:00 às 23:00","Robson Barreto Matos"
+NA,"200000","535","10","CMB","00:00 às 23:00","Rowney Archibald Scott Junior"
+NA,"210000","535","10","CMB","00:00 às 23:00","Suzana Kato"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"MUSD50 - Prática Cameristica","010000","535","10","CMB","00:00 às 23:00","Alexandre Alves Casado"
+NA,"020000","535","10","CMB","00:00 às 23:00","Ana Cristina Gama dos Santos Tourinho"
+NA,"030000","535","10","CMB","00:00 às 23:00","Beatriz Alessio de Aguiar"
+NA,"040000","535","10","CMB","00:00 às 23:00","Celso Jose Rodrigues Benedito"
+NA,"050000","535","10","CMB","00:00 às 23:00","Lucas Robatto"
+NA,"060000","535","10","CMB","00:00 às 23:00","Ekaterina Konopleva"
+NA,"070000","535","10","CMB","00:00 às 23:00","Flavia Maria Chiara Candusso"
+NA,"080000","535","10","CMB","00:00 às 23:00","Heinz Karl Novaes Schwebel"
+NA,"090000","535","10","CMB","00:00 às 23:00","Joatan Mendonca do Nascimento"
+NA,"100000","535","10","CMB","00:00 às 23:00","Joel Luis da Silva Barbosa"
+NA,"110000","535","10","CMB","00:00 às 23:00","Jose Mauricio Valle Brandao"
+NA,"120000","535","10","CMB","00:00 às 23:00","Lucas Robatto"
+NA,"130000","535","10","CMB","00:00 às 23:00","Lelio Eduardo Alves da Silva"
+NA,"140000","535","10","CMB","00:00 às 23:00","Lucas Robatto"
+NA,"150000","535","10","CMB","00:00 às 23:00","Docente não informado pelo Departamento"
+NA,"160000","535","10","CMB","00:00 às 23:00","Mario Enrique Ulloa Penaranda"
+NA,"170000","535","10","CMB","00:00 às 23:00","Pedro Robatto"
+NA,"180000","535","10","CMB","00:00 às 23:00","Lucas Robatto"
+NA,"190000","535","10","CMB","00:00 às 23:00","Robson Barreto Matos"
+NA,"200000","535","10","CMB","00:00 às 23:00","Rowney Archibald Scott Junior"
+NA,"210000","535","10","CMB","00:00 às 23:00","Suzana Kato"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"MUSD51 - Prática de Banda","010000","535","10","CMB","00:00 às 23:00","Alexandre Alves Casado"
+NA,"020000","535","10","CMB","00:00 às 23:00","Ana Cristina Gama dos Santos Tourinho"
+NA,"030000","535","10","CMB","00:00 às 23:00","Beatriz Alessio de Aguiar"
+NA,"040000","535","10","CMB","00:00 às 23:00","Celso Jose Rodrigues Benedito"
+NA,"050000","535","10","CMB","00:00 às 23:00","Lucas Robatto"
+NA,"060000","535","10","CMB","00:00 às 23:00","Ekaterina Konopleva"
+NA,"070000","535","10","CMB","00:00 às 23:00","Flavia Maria Chiara Candusso"
+NA,"080000","535","10","CMB","00:00 às 23:00","Heinz Karl Novaes Schwebel"
+NA,"090000","535","10","CMB","00:00 às 23:00","Joatan Mendonca do Nascimento"
+NA,"100000","535","10","CMB","00:00 às 23:00","Joel Luis da Silva Barbosa"
+NA,"110000","535","10","CMB","00:00 às 23:00","Jose Mauricio Valle Brandao"
+NA,"120000","535","10","CMB","00:00 às 23:00","Lucas Robatto"
+NA,"130000","535","10","CMB","00:00 às 23:00","Lelio Eduardo Alves da Silva"
+NA,"140000","535","10","CMB","00:00 às 23:00","Lucas Robatto"
+NA,"150000","535","10","CMB","00:00 às 23:00","Docente não informado pelo Departamento"
+NA,"160000","535","10","CMB","00:00 às 23:00","Mario Enrique Ulloa Penaranda"
+NA,"170000","535","10","CMB","00:00 às 23:00","Pedro Robatto"
+NA,"180000","535","10","CMB","00:00 às 23:00","Lucas Robatto"
+NA,"190000","535","10","CMB","00:00 às 23:00","Robson Barreto Matos"
+NA,"200000","535","10","CMB","00:00 às 23:00","Rowney Archibald Scott Junior"
+NA,"210000","535","10","CMB","00:00 às 23:00","Suzana Kato"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"MUSD52 - Prática Coral","010000","535","10","CMB","00:00 às 23:00","Alexandre Alves Casado"
+NA,"020000","535","10","CMB","00:00 às 23:00","Ana Cristina Gama dos Santos Tourinho"
+NA,"030000","535","10","CMB","00:00 às 23:00","Beatriz Alessio de Aguiar"
+NA,"040000","535","10","CMB","00:00 às 23:00","Celso Jose Rodrigues Benedito"
+NA,"050000","535","10","CMB","00:00 às 23:00","Lucas Robatto"
+NA,"060000","535","10","CMB","00:00 às 23:00","Ekaterina Konopleva"
+NA,"070000","535","10","CMB","00:00 às 23:00","Flavia Maria Chiara Candusso"
+NA,"080000","535","10","CMB","00:00 às 23:00","Heinz Karl Novaes Schwebel"
+NA,"090000","535","10","CMB","00:00 às 23:00","Joatan Mendonca do Nascimento"
+NA,"100000","535","10","CMB","00:00 às 23:00","Joel Luis da Silva Barbosa"
+NA,"110000","535","10","CMB","00:00 às 23:00","Jose Mauricio Valle Brandao"
+NA,"120000","535","10","CMB","00:00 às 23:00","Lucas Robatto"
+NA,"130000","535","10","CMB","00:00 às 23:00","Lelio Eduardo Alves da Silva"
+NA,"140000","535","10","CMB","00:00 às 23:00","Lucas Robatto"
+NA,"150000","535","10","CMB","00:00 às 23:00","Docente não informado pelo Departamento"
+NA,"160000","535","10","CMB","00:00 às 23:00","Mario Enrique Ulloa Penaranda"
+NA,"170000","535","10","CMB","00:00 às 23:00","Pedro Robatto"
+NA,"180000","535","10","CMB","00:00 às 23:00","Lucas Robatto"
+NA,"190000","535","10","CMB","00:00 às 23:00","Robson Barreto Matos"
+NA,"200000","535","10","CMB","00:00 às 23:00","Rowney Archibald Scott Junior"
+NA,"210000","535","10","CMB","00:00 às 23:00","Suzana Kato"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"MUSD53 - Preparação de Recital/Concerto Solistico","010000","535","10","CMB","00:00 às 23:00","Alexandre Alves Casado"
+NA,"020000","535","10","CMB","00:00 às 23:00","Ana Cristina Gama dos Santos Tourinho"
+NA,"030000","535","10","CMB","00:00 às 23:00","Beatriz Alessio de Aguiar"
+NA,"040000","535","10","CMB","00:00 às 23:00","Celso Jose Rodrigues Benedito"
+NA,"050000","535","10","CMB","00:00 às 23:00","Lucas Robatto"
+NA,"060000","535","10","CMB","00:00 às 23:00","Ekaterina Konopleva"
+NA,"070000","535","10","CMB","00:00 às 23:00","Flavia Maria Chiara Candusso"
+NA,"080000","535","10","CMB","00:00 às 23:00","Heinz Karl Novaes Schwebel"
+NA,"090000","535","10","CMB","00:00 às 23:00","Joatan Mendonca do Nascimento"
+NA,"100000","535","10","CMB","00:00 às 23:00","Joel Luis da Silva Barbosa"
+NA,"110000","535","10","CMB","00:00 às 23:00","Jose Mauricio Valle Brandao"
+NA,"120000","535","10","CMB","00:00 às 23:00","Lucas Robatto"
+NA,"130000","535","10","CMB","00:00 às 23:00","Lelio Eduardo Alves da Silva"
+NA,"140000","535","10","CMB","00:00 às 23:00","Lucas Robatto"
+NA,"150000","535","10","CMB","00:00 às 23:00","Docente não informado pelo Departamento"
+NA,"160000","535","10","CMB","00:00 às 23:00","Mario Enrique Ulloa Penaranda"
+NA,"170000","535","10","CMB","00:00 às 23:00","Pedro Robatto"
+NA,"180000","535","10","CMB","00:00 às 23:00","Lucas Robatto"
+NA,"190000","535","10","CMB","00:00 às 23:00","Robson Barreto Matos"
+NA,"200000","535","10","CMB","00:00 às 23:00","Rowney Archibald Scott Junior"
+NA,"210000","535","10","CMB","00:00 às 23:00","Suzana Kato"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"MUSD54 - Prática em Criatividade Musical","010000","535","10","CMB","00:00 às 23:00","Alexandre Alves Casado"
+NA,"020000","535","10","CMB","00:00 às 23:00","Ana Cristina Gama dos Santos Tourinho"
+NA,"030000","535","10","CMB","00:00 às 23:00","Beatriz Alessio de Aguiar"
+NA,"040000","535","10","CMB","00:00 às 23:00","Celso Jose Rodrigues Benedito"
+NA,"050000","535","10","CMB","00:00 às 23:00","Lucas Robatto"
+NA,"060000","535","10","CMB","00:00 às 23:00","Ekaterina Konopleva"
+NA,"070000","535","10","CMB","00:00 às 23:00","Flavia Maria Chiara Candusso"
+NA,"080000","535","10","CMB","00:00 às 23:00","Heinz Karl Novaes Schwebel"
+NA,"090000","535","10","CMB","00:00 às 23:00","Joatan Mendonca do Nascimento"
+NA,"100000","535","10","CMB","00:00 às 23:00","Joel Luis da Silva Barbosa"
+NA,"110000","535","10","CMB","00:00 às 23:00","Jose Mauricio Valle Brandao"
+NA,"120000","535","10","CMB","00:00 às 23:00","Lucas Robatto"
+NA,"130000","535","10","CMB","00:00 às 23:00","Lelio Eduardo Alves da Silva"
+NA,"140000","535","10","CMB","00:00 às 23:00","Lucas Robatto"
+NA,"150000","535","10","CMB","00:00 às 23:00","Docente não informado pelo Departamento"
+NA,"160000","535","10","CMB","00:00 às 23:00","Mario Enrique Ulloa Penaranda"
+NA,"170000","535","10","CMB","00:00 às 23:00","Pedro Robatto"
+NA,"180000","535","10","CMB","00:00 às 23:00","Lucas Robatto"
+NA,"190000","535","10","CMB","00:00 às 23:00","Robson Barreto Matos"
+NA,"200000","535","10","CMB","00:00 às 23:00","Rowney Archibald Scott Junior"
+NA,"210000","535","10","CMB","00:00 às 23:00","Suzana Kato"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"MUSD55 - Práticas em Grupos Mus.Lig.a Manif.Trad.Com.e/ou Populares","010000","535","10","CMB","00:00 às 23:00","Alexandre Alves Casado"
+NA,"020000","535","10","CMB","00:00 às 23:00","Ana Cristina Gama dos Santos Tourinho"
+NA,"030000","535","10","CMB","00:00 às 23:00","Beatriz Alessio de Aguiar"
+NA,"040000","535","10","CMB","00:00 às 23:00","Celso Jose Rodrigues Benedito"
+NA,"050000","535","10","CMB","00:00 às 23:00","Lucas Robatto"
+NA,"060000","535","10","CMB","00:00 às 23:00","Ekaterina Konopleva"
+NA,"070000","535","10","CMB","00:00 às 23:00","Flavia Maria Chiara Candusso"
+NA,"080000","535","10","CMB","00:00 às 23:00","Heinz Karl Novaes Schwebel"
+NA,"090000","535","10","CMB","00:00 às 23:00","Joatan Mendonca do Nascimento"
+NA,"100000","535","10","CMB","00:00 às 23:00","Joel Luis da Silva Barbosa"
+NA,"110000","535","10","CMB","00:00 às 23:00","Jose Mauricio Valle Brandao"
+NA,"120000","535","10","CMB","00:00 às 23:00","Lucas Robatto"
+NA,"130000","535","10","CMB","00:00 às 23:00","Lelio Eduardo Alves da Silva"
+NA,"140000","535","10","CMB","00:00 às 23:00","Lucas Robatto"
+NA,"150000","535","10","CMB","00:00 às 23:00","Docente não informado pelo Departamento"
+NA,"160000","535","10","CMB","00:00 às 23:00","Mario Enrique Ulloa Penaranda"
+NA,"170000","535","10","CMB","00:00 às 23:00","Pedro Robatto"
+NA,"180000","535","10","CMB","00:00 às 23:00","Lucas Robatto"
+NA,"190000","535","10","CMB","00:00 às 23:00","Robson Barreto Matos"
+NA,"200000","535","10","CMB","00:00 às 23:00","Rowney Archibald Scott Junior"
+NA,"210000","535","10","CMB","00:00 às 23:00","Suzana Kato"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"MUSD56 - Prática Docente em Ensino Coletivo Instrumental/Vocal","010000","535","10","CMB","00:00 às 23:00","Alexandre Alves Casado"
+NA,"020000","535","10","CMB","00:00 às 23:00","Ana Cristina Gama dos Santos Tourinho"
+NA,"030000","535","10","CMB","00:00 às 23:00","Beatriz Alessio de Aguiar"
+NA,"040000","535","10","CMB","00:00 às 23:00","Celso Jose Rodrigues Benedito"
+NA,"050000","535","10","CMB","00:00 às 23:00","Lucas Robatto"
+NA,"060000","535","10","CMB","00:00 às 23:00","Ekaterina Konopleva"
+NA,"070000","535","10","CMB","00:00 às 23:00","Flavia Maria Chiara Candusso"
+NA,"080000","535","10","CMB","00:00 às 23:00","Heinz Karl Novaes Schwebel"
+NA,"090000","535","10","CMB","00:00 às 23:00","Joatan Mendonca do Nascimento"
+NA,"100000","535","10","CMB","00:00 às 23:00","Joel Luis da Silva Barbosa"
+NA,"110000","535","10","CMB","00:00 às 23:00","Jose Mauricio Valle Brandao"
+NA,"120000","535","10","CMB","00:00 às 23:00","Lucas Robatto"
+NA,"130000","535","10","CMB","00:00 às 23:00","Lelio Eduardo Alves da Silva"
+NA,"140000","535","10","CMB","00:00 às 23:00","Lucas Robatto"
+NA,"150000","535","10","CMB","00:00 às 23:00","Docente não informado pelo Departamento"
+NA,"160000","535","10","CMB","00:00 às 23:00","Mario Enrique Ulloa Penaranda"
+NA,"170000","535","10","CMB","00:00 às 23:00","Pedro Robatto"
+NA,"180000","535","10","CMB","00:00 às 23:00","Lucas Robatto"
+NA,"190000","535","10","CMB","00:00 às 23:00","Robson Barreto Matos"
+NA,"200000","535","10","CMB","00:00 às 23:00","Rowney Archibald Scott Junior"
+NA,"210000","535","10","CMB","00:00 às 23:00","Suzana Kato"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"MUSD57 - Prática Docente em Ensino Individual Instrumental / Vocal","010000","535","10","CMB","00:00 às 23:00","Alexandre Alves Casado"
+NA,"020000","535","10","CMB","00:00 às 23:00","Ana Cristina Gama dos Santos Tourinho"
+NA,"030000","535","10","CMB","00:00 às 23:00","Beatriz Alessio de Aguiar"
+NA,"040000","535","10","CMB","00:00 às 23:00","Celso Jose Rodrigues Benedito"
+NA,"050000","535","10","CMB","00:00 às 23:00","Lucas Robatto"
+NA,"060000","535","10","CMB","00:00 às 23:00","Ekaterina Konopleva"
+NA,"070000","535","10","CMB","00:00 às 23:00","Flavia Maria Chiara Candusso"
+NA,"080000","535","10","CMB","00:00 às 23:00","Heinz Karl Novaes Schwebel"
+NA,"090000","535","10","CMB","00:00 às 23:00","Joatan Mendonca do Nascimento"
+NA,"100000","535","10","CMB","00:00 às 23:00","Joel Luis da Silva Barbosa"
+NA,"110000","535","10","CMB","00:00 às 23:00","Jose Mauricio Valle Brandao"
+NA,"120000","535","10","CMB","00:00 às 23:00","Lucas Robatto"
+NA,"130000","535","10","CMB","00:00 às 23:00","Lelio Eduardo Alves da Silva"
+NA,"140000","535","10","CMB","00:00 às 23:00","Lucas Robatto"
+NA,"150000","535","10","CMB","00:00 às 23:00","Docente não informado pelo Departamento"
+NA,"160000","535","10","CMB","00:00 às 23:00","Mario Enrique Ulloa Penaranda"
+NA,"170000","535","10","CMB","00:00 às 23:00","Pedro Robatto"
+NA,"180000","535","10","CMB","00:00 às 23:00","Lucas Robatto"
+NA,"190000","535","10","CMB","00:00 às 23:00","Robson Barreto Matos"
+NA,"200000","535","10","CMB","00:00 às 23:00","Rowney Archibald Scott Junior"
+NA,"210000","535","10","CMB","00:00 às 23:00","Suzana Kato"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"MUSD58 - Prática Docente no Ensino Básico","010000","535","10","CMB","00:00 às 23:00","Alexandre Alves Casado"
+NA,"020000","535","10","CMB","00:00 às 23:00","Ana Cristina Gama dos Santos Tourinho"
+NA,"030000","535","10","CMB","00:00 às 23:00","Beatriz Alessio de Aguiar"
+NA,"040000","535","10","CMB","00:00 às 23:00","Celso Jose Rodrigues Benedito"
+NA,"050000","535","10","CMB","00:00 às 23:00","Lucas Robatto"
+NA,"060000","535","10","CMB","00:00 às 23:00","Ekaterina Konopleva"
+NA,"070000","535","10","CMB","00:00 às 23:00","Flavia Maria Chiara Candusso"
+NA,"080000","535","10","CMB","00:00 às 23:00","Heinz Karl Novaes Schwebel"
+NA,"090000","535","10","CMB","00:00 às 23:00","Joatan Mendonca do Nascimento"
+NA,"100000","535","10","CMB","00:00 às 23:00","Joel Luis da Silva Barbosa"
+NA,"110000","535","10","CMB","00:00 às 23:00","Jose Mauricio Valle Brandao"
+NA,"120000","535","10","CMB","00:00 às 23:00","Lucas Robatto"
+NA,"130000","535","10","CMB","00:00 às 23:00","Lelio Eduardo Alves da Silva"
+NA,"140000","535","10","CMB","00:00 às 23:00","Lucas Robatto"
+NA,"150000","535","10","CMB","00:00 às 23:00","Docente não informado pelo Departamento"
+NA,"160000","535","10","CMB","00:00 às 23:00","Mario Enrique Ulloa Penaranda"
+NA,"170000","535","10","CMB","00:00 às 23:00","Pedro Robatto"
+NA,"180000","535","10","CMB","00:00 às 23:00","Lucas Robatto"
+NA,"190000","535","10","CMB","00:00 às 23:00","Robson Barreto Matos"
+NA,"200000","535","10","CMB","00:00 às 23:00","Rowney Archibald Scott Junior"
+NA,"210000","535","10","CMB","00:00 às 23:00","Suzana Kato"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"MUSD59 - Prática de educação em Comunidades","010000","535","10","CMB","00:00 às 23:00","Alexandre Alves Casado"
+NA,"020000","535","10","CMB","00:00 às 23:00","Ana Cristina Gama dos Santos Tourinho"
+NA,"030000","535","10","CMB","00:00 às 23:00","Beatriz Alessio de Aguiar"
+NA,"040000","535","10","CMB","00:00 às 23:00","Celso Jose Rodrigues Benedito"
+NA,"050000","535","10","CMB","00:00 às 23:00","Lucas Robatto"
+NA,"060000","535","10","CMB","00:00 às 23:00","Ekaterina Konopleva"
+NA,"070000","535","10","CMB","00:00 às 23:00","Flavia Maria Chiara Candusso"
+NA,"080000","535","10","CMB","00:00 às 23:00","Heinz Karl Novaes Schwebel"
+NA,"090000","535","10","CMB","00:00 às 23:00","Joatan Mendonca do Nascimento"
+NA,"100000","535","10","CMB","00:00 às 23:00","Joel Luis da Silva Barbosa"
+NA,"110000","535","10","CMB","00:00 às 23:00","Jose Mauricio Valle Brandao"
+NA,"120000","535","10","CMB","00:00 às 23:00","Lucas Robatto"
+NA,"130000","535","10","CMB","00:00 às 23:00","Lelio Eduardo Alves da Silva"
+NA,"140000","535","10","CMB","00:00 às 23:00","Lucas Robatto"
+NA,"150000","535","10","CMB","00:00 às 23:00","Docente não informado pelo Departamento"
+NA,"160000","535","10","CMB","00:00 às 23:00","Mario Enrique Ulloa Penaranda"
+NA,"170000","535","10","CMB","00:00 às 23:00","Pedro Robatto"
+NA,"180000","535","10","CMB","00:00 às 23:00","Lucas Robatto"
+NA,"190000","535","10","CMB","00:00 às 23:00","Robson Barreto Matos"
+NA,"200000","535","10","CMB","00:00 às 23:00","Rowney Archibald Scott Junior"
+NA,"210000","535","10","CMB","00:00 às 23:00","Suzana Kato"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"MUSD60 - Pesquisa Orientada","010000","535","10","CMB","00:00 às 23:00","Alexandre Alves Casado"
+NA,"020000","535","10","CMB","00:00 às 23:00","Ana Cristina Gama dos Santos Tourinho"
+NA,"030000","535","10","CMB","00:00 às 23:00","Beatriz Alessio de Aguiar"
+NA,"040000","535","10","CMB","00:00 às 23:00","Celso Jose Rodrigues Benedito"
+NA,"050000","535","10","CMB","00:00 às 23:00","Lucas Robatto"
+NA,"060000","535","10","CMB","00:00 às 23:00","Ekaterina Konopleva"
+NA,"070000","535","10","CMB","00:00 às 23:00","Flavia Maria Chiara Candusso"
+NA,"080000","535","10","CMB","00:00 às 23:00","Heinz Karl Novaes Schwebel"
+NA,"090000","535","10","CMB","00:00 às 23:00","Joatan Mendonca do Nascimento"
+NA,"100000","535","10","CMB","00:00 às 23:00","Joel Luis da Silva Barbosa"
+NA,"110000","535","10","CMB","00:00 às 23:00","Jose Mauricio Valle Brandao"
+NA,"120000","535","10","CMB","00:00 às 23:00","Lucas Robatto"
+NA,"130000","535","10","CMB","00:00 às 23:00","Lelio Eduardo Alves da Silva"
+NA,"140000","535","10","CMB","00:00 às 23:00","Lucas Robatto"
+NA,"150000","535","10","CMB","00:00 às 23:00","Docente não informado pelo Departamento"
+NA,"160000","535","10","CMB","00:00 às 23:00","Mario Enrique Ulloa Penaranda"
+NA,"170000","535","10","CMB","00:00 às 23:00","Pedro Robatto"
+NA,"180000","535","10","CMB","00:00 às 23:00","Lucas Robatto"
+NA,"190000","535","10","CMB","00:00 às 23:00","Robson Barreto Matos"
+NA,"200000","535","10","CMB","00:00 às 23:00","Rowney Archibald Scott Junior"
+NA,"210000","535","10","CMB","00:00 às 23:00","Suzana Kato"

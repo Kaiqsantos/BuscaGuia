@@ -1,0 +1,2355 @@
+Disciplina,Turma,Coleg.,Vagas Ofe,Dia,Horário,Docente
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FCH001 - INTRODUÇÃO À FILOSOFIA,10000.0,327.0,10.0,QUA,10:40 às 12:30,Docente Substituto a Contratar
+,,190.0,1.0,,,Docente Substituto a Contratar
+,,314.0,52.0,,,Docente Substituto a Contratar
+,,387.0,5.0,,,Docente Substituto a Contratar
+,,327.0,10.0,SEX,10:40 às 12:30,Docente Substituto a Contratar
+,,190.0,1.0,,,Docente Substituto a Contratar
+,,387.0,5.0,,,Docente Substituto a Contratar
+,,314.0,52.0,,,Docente Substituto a Contratar
+,20000.0,189.0,2.0,QUI,07:00 às 08:50,Docente Substituto a Contratar
+,,305.0,45.0,,,Docente Substituto a Contratar
+,,190.0,5.0,,,Docente Substituto a Contratar
+,,327.0,10.0,,,Docente Substituto a Contratar
+,,387.0,5.0,,,Docente Substituto a Contratar
+,,190.0,5.0,SEX,07:00 às 08:50,Docente Substituto a Contratar
+,,387.0,5.0,,,Docente Substituto a Contratar
+,,189.0,2.0,,,Docente Substituto a Contratar
+,,305.0,45.0,,,Docente Substituto a Contratar
+,,327.0,10.0,,,Docente Substituto a Contratar
+,30000.0,308.0,60.0,SEG,07:00 às 08:50,Giovanni Rolla
+,,327.0,10.0,,,Giovanni Rolla
+,,,,QUA,07:00 às 08:50,Giovanni Rolla
+,,308.0,60.0,,,Giovanni Rolla
+,40000.0,327.0,10.0,SEG,08:50 às 10:40,Vinicius dos Santos
+,,306.0,63.0,,,Vinicius dos Santos
+,,327.0,10.0,QUA,08:50 às 10:40,Vinicius dos Santos
+,,306.0,63.0,,,Vinicius dos Santos
+,50000.0,327.0,10.0,SEG,08:50 às 10:40,Gislene Vale dos Santos
+,,308.0,62.0,,,Gislene Vale dos Santos
+,,,,QUA,08:50 às 10:40,Gislene Vale dos Santos
+,,327.0,10.0,,,Gislene Vale dos Santos
+,60000.0,310.0,13.0,SEG,08:50 às 10:40,Docente Substituto a Contratar
+,,327.0,10.0,,,Docente Substituto a Contratar
+,,309.0,1.0,,,Docente Substituto a Contratar
+,,313.0,45.0,,,Docente Substituto a Contratar
+,,309.0,1.0,QUA,08:50 às 10:40,Docente Substituto a Contratar
+,,327.0,10.0,,,Docente Substituto a Contratar
+,,313.0,45.0,,,Docente Substituto a Contratar
+,,310.0,13.0,,,Docente Substituto a Contratar
+,70000.0,387.0,10.0,SEG,18:30 às 20:20,Docente Substituto a Contratar
+,,382.0,60.0,,,Docente Substituto a Contratar
+,,387.0,10.0,QUA,18:30 às 20:20,Docente Substituto a Contratar
+,,382.0,60.0,,,Docente Substituto a Contratar
+,80000.0,382.0,62.0,SEG,20:20 às 22:10,Docente Substituto a Contratar
+,,387.0,10.0,,,Docente Substituto a Contratar
+,,382.0,62.0,QUA,20:20 às 22:10,Docente Substituto a Contratar
+,,387.0,10.0,,,Docente Substituto a Contratar
+,90000.0,304.0,20.0,SEX,07:00 às 10:40,Antonio Mario Dantas Bastos Filho
+,,327.0,20.0,,,Antonio Mario Dantas Bastos Filho
+,,506.0,5.0,,,Antonio Mario Dantas Bastos Filho
+,,315.0,20.0,,,Antonio Mario Dantas Bastos Filho
+,,119.0,3.0,,,Antonio Mario Dantas Bastos Filho
+,100000.0,327.0,20.0,SEX,07:55 às 09:45,Docente Substituto a Contratar
+,,109.0,42.0,,,Docente Substituto a Contratar
+,,327.0,20.0,,09:45 às 11:35,Docente Substituto a Contratar
+,,109.0,42.0,,,Docente Substituto a Contratar
+,110000.0,306.0,60.0,TER,08:50 às 10:40,Leonardo Jorge da Hora Pereira
+,,311.0,4.0,,,Leonardo Jorge da Hora Pereira
+,,,,QUI,08:50 às 10:40,Leonardo Jorge da Hora Pereira
+,,306.0,60.0,,,Leonardo Jorge da Hora Pereira
+,120000.0,327.0,20.0,TER,10:40 às 12:30,Docente Substituto a Contratar
+,,305.0,45.0,,,Docente Substituto a Contratar
+,,327.0,20.0,QUI,10:40 às 12:30,Docente Substituto a Contratar
+,,305.0,45.0,,,Docente Substituto a Contratar
+,130000.0,325.0,52.0,TER,13:00 às 14:50,Mariana de Almeida Campos
+,,304.0,10.0,,,Mariana de Almeida Campos
+,,515.0,5.0,,,Mariana de Almeida Campos
+,,304.0,10.0,QUI,13:00 às 14:50,Mariana de Almeida Campos
+,,515.0,5.0,,,Mariana de Almeida Campos
+,,325.0,52.0,,,Mariana de Almeida Campos
+,140000.0,327.0,10.0,TER,07:00 às 08:50,Docente Substituto a Contratar
+,,301.0,51.0,,,Docente Substituto a Contratar
+,,,,QUI,07:00 às 08:50,Docente Substituto a Contratar
+,,327.0,10.0,,,Docente Substituto a Contratar
+,150000.0,327.0,10.0,TER,10:40 às 12:30,Docente Substituto a Contratar
+,,301.0,50.0,,,Docente Substituto a Contratar
+,,286.0,5.0,,,Docente Substituto a Contratar
+,,327.0,10.0,QUI,10:40 às 12:30,Docente Substituto a Contratar
+,,286.0,5.0,,,Docente Substituto a Contratar
+,,301.0,50.0,,,Docente Substituto a Contratar
+,160000.0,310.0,5.0,SEG,18:30 às 20:20,Docente Substituto a Contratar
+,,304.0,10.0,,,Docente Substituto a Contratar
+,,580.0,10.0,,,Docente Substituto a Contratar
+,,383.0,3.0,,,Docente Substituto a Contratar
+,,380.0,20.0,,,Docente Substituto a Contratar
+,,386.0,16.0,,,Docente Substituto a Contratar
+,,189.0,5.0,,,Docente Substituto a Contratar
+,,383.0,3.0,QUA,18:30 às 20:20,Docente Substituto a Contratar
+,,580.0,10.0,,,Docente Substituto a Contratar
+,,310.0,5.0,,,Docente Substituto a Contratar
+,,386.0,16.0,,,Docente Substituto a Contratar
+,,380.0,20.0,,,Docente Substituto a Contratar
+,,304.0,10.0,,,Docente Substituto a Contratar
+,,189.0,5.0,,,Docente Substituto a Contratar
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FCH002 - ESTETICA I,10100.0,515.0,5.0,SEG,10:40 às 12:30,Antonio Mario Dantas Bastos Filho
+,,387.0,10.0,,,Antonio Mario Dantas Bastos Filho
+,,509.0,3.0,,,Antonio Mario Dantas Bastos Filho
+,,505.0,20.0,,,Antonio Mario Dantas Bastos Filho
+,,327.0,4.0,,,Antonio Mario Dantas Bastos Filho
+,,502.0,2.0,,,Antonio Mario Dantas Bastos Filho
+,,507.0,4.0,,,Antonio Mario Dantas Bastos Filho
+,,311.0,4.0,,,Antonio Mario Dantas Bastos Filho
+,,226.0,2.0,,,Antonio Mario Dantas Bastos Filho
+,,507.0,4.0,QUA,10:40 às 12:30,Antonio Mario Dantas Bastos Filho
+,,505.0,20.0,,,Antonio Mario Dantas Bastos Filho
+,,387.0,10.0,,,Antonio Mario Dantas Bastos Filho
+,,509.0,3.0,,,Antonio Mario Dantas Bastos Filho
+,,327.0,4.0,,,Antonio Mario Dantas Bastos Filho
+,,502.0,2.0,,,Antonio Mario Dantas Bastos Filho
+,,311.0,4.0,,,Antonio Mario Dantas Bastos Filho
+,,515.0,5.0,,,Antonio Mario Dantas Bastos Filho
+,,226.0,2.0,,,Antonio Mario Dantas Bastos Filho
+,20200.0,513.0,10.0,TER,10:40 às 12:30,Ricardo Calheiros Pereira
+,,387.0,5.0,,,Ricardo Calheiros Pereira
+,,505.0,20.0,,,Ricardo Calheiros Pereira
+,,327.0,5.0,,,Ricardo Calheiros Pereira
+,,509.0,2.0,,,Ricardo Calheiros Pereira
+,,286.0,5.0,,,Ricardo Calheiros Pereira
+,,226.0,1.0,,,Ricardo Calheiros Pereira
+,,190.0,2.0,,,Ricardo Calheiros Pereira
+,,512.0,5.0,,,Ricardo Calheiros Pereira
+,,513.0,10.0,QUI,10:40 às 12:30,Ricardo Calheiros Pereira
+,,505.0,20.0,,,Ricardo Calheiros Pereira
+,,327.0,5.0,,,Ricardo Calheiros Pereira
+,,286.0,5.0,,,Ricardo Calheiros Pereira
+,,190.0,2.0,,,Ricardo Calheiros Pereira
+,,509.0,2.0,,,Ricardo Calheiros Pereira
+,,226.0,1.0,,,Ricardo Calheiros Pereira
+,,387.0,5.0,,,Ricardo Calheiros Pereira
+,,512.0,5.0,,,Ricardo Calheiros Pereira
+,30300.0,580.0,3.0,TER,13:00 às 14:50,Rafael Lopes Azize
+,,503.0,2.0,,,Rafael Lopes Azize
+,,327.0,5.0,,,Rafael Lopes Azize
+,,286.0,4.0,,,Rafael Lopes Azize
+,,226.0,2.0,,,Rafael Lopes Azize
+,,501.0,30.0,,,Rafael Lopes Azize
+,,503.0,2.0,QUI,13:00 às 14:50,Rafael Lopes Azize
+,,580.0,3.0,,,Rafael Lopes Azize
+,,327.0,5.0,,,Rafael Lopes Azize
+,,286.0,4.0,,,Rafael Lopes Azize
+,,226.0,2.0,,,Rafael Lopes Azize
+,,501.0,30.0,,,Rafael Lopes Azize
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FCH004 - LOGICA I,10100.0,580.0,5.0,SEG,10:40 às 12:30,Marco Aurelio Oliveira da Silva
+,,303.0,45.0,,,Marco Aurelio Oliveira da Silva
+,,226.0,3.0,,,Marco Aurelio Oliveira da Silva
+,,303.0,45.0,QUA,10:40 às 12:30,Marco Aurelio Oliveira da Silva
+,,580.0,5.0,,,Marco Aurelio Oliveira da Silva
+,,226.0,3.0,,,Marco Aurelio Oliveira da Silva
+,20200.0,387.0,10.0,SEG,10:40 às 12:30,Docente Substituto a Contratar
+,,515.0,5.0,,,Docente Substituto a Contratar
+,,314.0,40.0,,,Docente Substituto a Contratar
+,,515.0,5.0,QUA,10:40 às 12:30,Docente Substituto a Contratar
+,,387.0,10.0,,,Docente Substituto a Contratar
+,,314.0,40.0,,,Docente Substituto a Contratar
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FCH005 - ÉTICA I,10000.0,325.0,45.0,SEG,13:00 às 16:40,Genildo Ferreira da Silva
+,,580.0,1.0,,,Genildo Ferreira da Silva
+,,515.0,1.0,,,Genildo Ferreira da Silva
+,,387.0,1.0,,,Genildo Ferreira da Silva
+,,327.0,1.0,,,Genildo Ferreira da Silva
+,,313.0,5.0,,,Genildo Ferreira da Silva
+,,209.0,1.0,,,Genildo Ferreira da Silva
+,,208.0,10.0,,,Genildo Ferreira da Silva
+,,190.0,1.0,,,Genildo Ferreira da Silva
+,,226.0,1.0,,,Genildo Ferreira da Silva
+,,113.0,1.0,,,Genildo Ferreira da Silva
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FCH006 - INTRODUÇÃO SOCIOLOGIA I,10000.0,513.0,5.0,SEG,13:00 às 15:45,Kelly Carneiro de Oliveira Fontoura
+,,512.0,5.0,,,Kelly Carneiro de Oliveira Fontoura
+,,210.0,32.0,,,Kelly Carneiro de Oliveira Fontoura
+,,207.0,20.0,,,Kelly Carneiro de Oliveira Fontoura
+,20000.0,387.0,5.0,SEX,08:50 às 11:35,Ana Magda Mota Carvalho Cerqueira
+,,512.0,17.0,,,Ana Magda Mota Carvalho Cerqueira
+,,513.0,5.0,,,Ana Magda Mota Carvalho Cerqueira
+,,286.0,2.0,,,Ana Magda Mota Carvalho Cerqueira
+,,580.0,2.0,,,Ana Magda Mota Carvalho Cerqueira
+,,207.0,20.0,,,Ana Magda Mota Carvalho Cerqueira
+,,505.0,15.0,,,Ana Magda Mota Carvalho Cerqueira
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FCH007 - INTRODUCAO SOCIOLOGIA II,10000.0,311.0,8.0,SEG,07:00 às 09:45,Kelly Carneiro de Oliveira Fontoura
+,,387.0,2.0,,,Kelly Carneiro de Oliveira Fontoura
+,,327.0,5.0,,,Kelly Carneiro de Oliveira Fontoura
+,,305.0,45.0,,,Kelly Carneiro de Oliveira Fontoura
+,,387.0,2.0,QUA,08:50 às 10:40,Kelly Carneiro de Oliveira Fontoura
+,,327.0,5.0,,,Kelly Carneiro de Oliveira Fontoura
+,,305.0,45.0,,,Kelly Carneiro de Oliveira Fontoura
+,,311.0,8.0,,,Kelly Carneiro de Oliveira Fontoura
+,20000.0,387.0,2.0,TER,07:00 às 09:45,Ana Magda Mota Carvalho Cerqueira
+,,386.0,2.0,,,Ana Magda Mota Carvalho Cerqueira
+,,327.0,5.0,,,Ana Magda Mota Carvalho Cerqueira
+,,304.0,10.0,,,Ana Magda Mota Carvalho Cerqueira
+,,305.0,45.0,,,Ana Magda Mota Carvalho Cerqueira
+,,327.0,5.0,QUI,07:00 às 08:50,Ana Magda Mota Carvalho Cerqueira
+,,304.0,10.0,,,Ana Magda Mota Carvalho Cerqueira
+,,387.0,2.0,,,Ana Magda Mota Carvalho Cerqueira
+,,386.0,2.0,,,Ana Magda Mota Carvalho Cerqueira
+,,305.0,45.0,,,Ana Magda Mota Carvalho Cerqueira
+,30000.0,189.0,2.0,TER,18:30 às 20:20,Ana Magda Mota Carvalho Cerqueira
+,,387.0,3.0,,,Ana Magda Mota Carvalho Cerqueira
+,,304.0,10.0,,,Ana Magda Mota Carvalho Cerqueira
+,,382.0,52.0,,,Ana Magda Mota Carvalho Cerqueira
+,,387.0,3.0,QUI,18:30 às 20:20,Ana Magda Mota Carvalho Cerqueira
+,,382.0,52.0,,,Ana Magda Mota Carvalho Cerqueira
+,,189.0,2.0,,,Ana Magda Mota Carvalho Cerqueira
+,,304.0,10.0,,,Ana Magda Mota Carvalho Cerqueira
+,,387.0,3.0,CMB,00:00 às 00:00,Ana Magda Mota Carvalho Cerqueira
+,,304.0,10.0,,,Ana Magda Mota Carvalho Cerqueira
+,,189.0,2.0,,,Ana Magda Mota Carvalho Cerqueira
+,,382.0,52.0,,,Ana Magda Mota Carvalho Cerqueira
+,40000.0,387.0,5.0,TER,20:20 às 22:10,Ana Magda Mota Carvalho Cerqueira
+,,382.0,50.0,,,Ana Magda Mota Carvalho Cerqueira
+,,304.0,10.0,,,Ana Magda Mota Carvalho Cerqueira
+,,382.0,50.0,QUI,20:20 às 22:10,Ana Magda Mota Carvalho Cerqueira
+,,387.0,5.0,,,Ana Magda Mota Carvalho Cerqueira
+,,304.0,10.0,,,Ana Magda Mota Carvalho Cerqueira
+,,387.0,5.0,CMB,00:00 às 00:00,Ana Magda Mota Carvalho Cerqueira
+,,382.0,50.0,,,Ana Magda Mota Carvalho Cerqueira
+,,304.0,10.0,,,Ana Magda Mota Carvalho Cerqueira
+,50000.0,310.0,5.0,SEX,08:50 às 10:40,Umeru Bahia de Azevedo
+,,327.0,5.0,,,Umeru Bahia de Azevedo
+,,308.0,57.0,,,Umeru Bahia de Azevedo
+,,327.0,5.0,SAB,08:50 às 10:40,Umeru Bahia de Azevedo
+,,310.0,5.0,,,Umeru Bahia de Azevedo
+,,308.0,57.0,,,Umeru Bahia de Azevedo
+,,327.0,5.0,CMB,00:00 às 00:00,Umeru Bahia de Azevedo
+,,308.0,57.0,,,Umeru Bahia de Azevedo
+,,310.0,5.0,,,Umeru Bahia de Azevedo
+,60000.0,286.0,5.0,SEX,10:40 às 12:30,Umeru Bahia de Azevedo
+,,308.0,60.0,,,Umeru Bahia de Azevedo
+,,286.0,5.0,SAB,10:40 às 12:30,Umeru Bahia de Azevedo
+,,308.0,60.0,,,Umeru Bahia de Azevedo
+,,,,CMB,00:00 às 00:00,Umeru Bahia de Azevedo
+,,286.0,5.0,,,Umeru Bahia de Azevedo
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FCH011 - CIENCIA POLITICA,10000.0,387.0,7.0,TER,10:40 às 12:30,Valdemar Ferreira de Araujo Filho
+,,386.0,8.0,,,Valdemar Ferreira de Araujo Filho
+,,327.0,8.0,,,Valdemar Ferreira de Araujo Filho
+,,310.0,8.0,,,Valdemar Ferreira de Araujo Filho
+,,309.0,5.0,,,Valdemar Ferreira de Araujo Filho
+,,307.0,5.0,,,Valdemar Ferreira de Araujo Filho
+,,305.0,10.0,,,Valdemar Ferreira de Araujo Filho
+,,190.0,1.0,,,Valdemar Ferreira de Araujo Filho
+,,109.0,5.0,,,Valdemar Ferreira de Araujo Filho
+,,386.0,8.0,QUI,10:40 às 12:30,Valdemar Ferreira de Araujo Filho
+,,327.0,8.0,,,Valdemar Ferreira de Araujo Filho
+,,310.0,8.0,,,Valdemar Ferreira de Araujo Filho
+,,309.0,5.0,,,Valdemar Ferreira de Araujo Filho
+,,307.0,5.0,,,Valdemar Ferreira de Araujo Filho
+,,190.0,1.0,,,Valdemar Ferreira de Araujo Filho
+,,305.0,10.0,,,Valdemar Ferreira de Araujo Filho
+,,387.0,7.0,,,Valdemar Ferreira de Araujo Filho
+,,109.0,5.0,,,Valdemar Ferreira de Araujo Filho
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FCH015 - HISTÓRIA ANTIGA II,10000.0,387.0,3.0,SEG,08:50 às 10:40,Marina Regis Cavicchioli
+,,386.0,7.0,,,Marina Regis Cavicchioli
+,,310.0,45.0,,,Marina Regis Cavicchioli
+,,386.0,7.0,QUA,08:50 às 10:40,Marina Regis Cavicchioli
+,,310.0,45.0,,,Marina Regis Cavicchioli
+,,387.0,3.0,,,Marina Regis Cavicchioli
+,20000.0,310.0,10.0,SEG,18:30 às 22:10,Marina Regis Cavicchioli
+,,386.0,40.0,,,Marina Regis Cavicchioli
+,,387.0,3.0,,,Marina Regis Cavicchioli
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FCH017 - HISTÓRIA MEDIEVAL II,10000.0,387.0,3.0,SEG,08:50 às 10:40,Edilece Souza Couto
+,,386.0,5.0,,,Edilece Souza Couto
+,,310.0,40.0,,,Edilece Souza Couto
+,,387.0,3.0,QUA,08:50 às 10:40,Edilece Souza Couto
+,,310.0,40.0,,,Edilece Souza Couto
+,,386.0,5.0,,,Edilece Souza Couto
+,20000.0,327.0,5.0,SEG,18:30 às 22:10,Marcelo Pereira Lima
+,,387.0,3.0,,,Marcelo Pereira Lima
+,,310.0,15.0,,,Marcelo Pereira Lima
+,,386.0,35.0,,,Marcelo Pereira Lima
+,,189.0,1.0,,,Marcelo Pereira Lima
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FCH020 - HISTÓRIA MODERNA II,10000.0,386.0,5.0,SEG,10:40 às 12:30,Moreno Laborda Pacheco
+,,310.0,40.0,,,Moreno Laborda Pacheco
+,,386.0,5.0,QUA,10:40 às 12:30,Moreno Laborda Pacheco
+,,310.0,40.0,,,Moreno Laborda Pacheco
+,20000.0,387.0,3.0,SEG,18:30 às 22:10,Moreno Laborda Pacheco
+,,327.0,5.0,,,Moreno Laborda Pacheco
+,,386.0,30.0,,,Moreno Laborda Pacheco
+,,310.0,15.0,,,Moreno Laborda Pacheco
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FCH023 - HISTÓRIA CONTEMPORÂNEA II,10000.0,386.0,5.0,SEG,10:40 às 12:30,Vinicius Donizete de Rezende
+,,310.0,30.0,,,Vinicius Donizete de Rezende
+,,386.0,5.0,QUA,10:40 às 12:30,Vinicius Donizete de Rezende
+,,310.0,30.0,,,Vinicius Donizete de Rezende
+,20000.0,310.0,15.0,QUA,18:30 às 22:10,Lucileide Costa Cardoso
+,,327.0,5.0,,,Lucileide Costa Cardoso
+,,190.0,1.0,,,Lucileide Costa Cardoso
+,,386.0,30.0,,,Lucileide Costa Cardoso
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FCH024 - INTRODUÇÃO AO ESTUDO DA HISTÓRIA,10000.0,306.0,50.0,SEG,10:40 às 12:30,Luciana de Castro Nunes Novaes
+,,,,QUA,10:40 às 12:30,Luciana de Castro Nunes Novaes
+,20000.0,306.0,53.0,TER,10:40 às 12:30,Luciana de Castro Nunes Novaes
+,,,,QUI,10:40 às 12:30,Luciana de Castro Nunes Novaes
+,30000.0,327.0,2.0,TER,08:50 às 10:40,Luciana de Castro Nunes Novaes
+,,386.0,2.0,,,Luciana de Castro Nunes Novaes
+,,306.0,20.0,,,Luciana de Castro Nunes Novaes
+,,310.0,2.0,,,Luciana de Castro Nunes Novaes
+,,190.0,2.0,,,Luciana de Castro Nunes Novaes
+,,386.0,2.0,QUI,08:50 às 10:40,Luciana de Castro Nunes Novaes
+,,327.0,2.0,,,Luciana de Castro Nunes Novaes
+,,306.0,20.0,,,Luciana de Castro Nunes Novaes
+,,190.0,2.0,,,Luciana de Castro Nunes Novaes
+,,310.0,2.0,,,Luciana de Castro Nunes Novaes
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FCH043 - ESTETICA - FILOSOFIA DAS ARTES,10100.0,387.0,5.0,TER,10:40 às 12:30,Antonio Mario Dantas Bastos Filho
+,,101.0,30.0,,,Antonio Mario Dantas Bastos Filho
+,,327.0,5.0,,,Antonio Mario Dantas Bastos Filho
+,,189.0,5.0,,,Antonio Mario Dantas Bastos Filho
+,,226.0,2.0,,,Antonio Mario Dantas Bastos Filho
+,,190.0,5.0,,,Antonio Mario Dantas Bastos Filho
+,,515.0,15.0,,,Antonio Mario Dantas Bastos Filho
+,,,,QUI,10:40 às 12:30,Antonio Mario Dantas Bastos Filho
+,,387.0,5.0,,,Antonio Mario Dantas Bastos Filho
+,,327.0,5.0,,,Antonio Mario Dantas Bastos Filho
+,,226.0,2.0,,,Antonio Mario Dantas Bastos Filho
+,,190.0,5.0,,,Antonio Mario Dantas Bastos Filho
+,,189.0,5.0,,,Antonio Mario Dantas Bastos Filho
+,,101.0,30.0,,,Antonio Mario Dantas Bastos Filho
+,20200.0,580.0,5.0,TER,16:40 às 18:30,Antonio Mario Dantas Bastos Filho
+,,327.0,3.0,,,Antonio Mario Dantas Bastos Filho
+,,226.0,2.0,,,Antonio Mario Dantas Bastos Filho
+,,387.0,5.0,,,Antonio Mario Dantas Bastos Filho
+,,190.0,11.0,,,Antonio Mario Dantas Bastos Filho
+,,189.0,7.0,,,Antonio Mario Dantas Bastos Filho
+,,101.0,30.0,,,Antonio Mario Dantas Bastos Filho
+,,187.0,5.0,,,Antonio Mario Dantas Bastos Filho
+,,101.0,30.0,QUI,16:40 às 18:30,Antonio Mario Dantas Bastos Filho
+,,190.0,11.0,,,Antonio Mario Dantas Bastos Filho
+,,580.0,5.0,,,Antonio Mario Dantas Bastos Filho
+,,387.0,5.0,,,Antonio Mario Dantas Bastos Filho
+,,327.0,3.0,,,Antonio Mario Dantas Bastos Filho
+,,189.0,7.0,,,Antonio Mario Dantas Bastos Filho
+,,187.0,5.0,,,Antonio Mario Dantas Bastos Filho
+,,226.0,2.0,,,Antonio Mario Dantas Bastos Filho
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FCH114 - SOCIOLOGIA I,10000.0,306.0,60.0,SEG,08:50 às 10:40,Lidia Maria Pires Soares Cardel
+,,309.0,5.0,,,Lidia Maria Pires Soares Cardel
+,,327.0,3.0,,,Lidia Maria Pires Soares Cardel
+,,189.0,2.0,,,Lidia Maria Pires Soares Cardel
+,,327.0,3.0,QUA,08:50 às 10:40,Lidia Maria Pires Soares Cardel
+,,306.0,60.0,,,Lidia Maria Pires Soares Cardel
+,,309.0,5.0,,,Lidia Maria Pires Soares Cardel
+,,189.0,2.0,,,Lidia Maria Pires Soares Cardel
+,20000.0,189.0,2.0,TER,07:00 às 08:50,Clovis Roberto Zimmermann
+,,327.0,3.0,,,Clovis Roberto Zimmermann
+,,306.0,63.0,,,Clovis Roberto Zimmermann
+,,327.0,3.0,QUI,07:00 às 08:50,Clovis Roberto Zimmermann
+,,189.0,2.0,,,Clovis Roberto Zimmermann
+,,306.0,63.0,,,Clovis Roberto Zimmermann
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FCH115 - SOCIOLOGIA II,10000.0,387.0,5.0,SEG,07:00 às 08:50,Jair Batista da Silva
+,,309.0,5.0,,,Jair Batista da Silva
+,,327.0,5.0,,,Jair Batista da Silva
+,,306.0,50.0,,,Jair Batista da Silva
+,,387.0,5.0,QUA,07:00 às 08:50,Jair Batista da Silva
+,,309.0,5.0,,,Jair Batista da Silva
+,,327.0,5.0,,,Jair Batista da Silva
+,,306.0,50.0,,,Jair Batista da Silva
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FCH116 - SOCIOLOGIA III,10000.0,387.0,5.0,SEG,08:50 às 10:40,Paula Cristina da Silva Barreto
+,,327.0,5.0,,,Paula Cristina da Silva Barreto
+,,306.0,45.0,,,Paula Cristina da Silva Barreto
+,,387.0,5.0,QUA,08:50 às 10:40,Paula Cristina da Silva Barreto
+,,327.0,5.0,,,Paula Cristina da Silva Barreto
+,,306.0,45.0,,,Paula Cristina da Silva Barreto
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FCH117 - SOCIOLOGIA IV,10000.0,387.0,5.0,TER,10:40 às 12:30,Iara Maria de Almeida Souza
+,,309.0,5.0,,,Iara Maria de Almeida Souza
+,,306.0,45.0,,,Iara Maria de Almeida Souza
+,,226.0,5.0,,,Iara Maria de Almeida Souza
+,,387.0,5.0,QUI,10:40 às 12:30,Iara Maria de Almeida Souza
+,,309.0,5.0,,,Iara Maria de Almeida Souza
+,,306.0,45.0,,,Iara Maria de Almeida Souza
+,,226.0,5.0,,,Iara Maria de Almeida Souza
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FCH124 - ANTROPOLOGIA I,10000.0,387.0,2.0,SEG,07:00 às 08:50,Danilo Paiva Ramos
+,,327.0,5.0,,,Danilo Paiva Ramos
+,,306.0,48.0,,,Danilo Paiva Ramos
+,,226.0,5.0,,,Danilo Paiva Ramos
+,,286.0,3.0,,,Danilo Paiva Ramos
+,,387.0,2.0,QUA,07:00 às 08:50,Danilo Paiva Ramos
+,,327.0,5.0,,,Danilo Paiva Ramos
+,,226.0,5.0,,,Danilo Paiva Ramos
+,,286.0,3.0,,,Danilo Paiva Ramos
+,,306.0,48.0,,,Danilo Paiva Ramos
+,20000.0,387.0,3.0,TER,10:40 às 12:30,Roselene Cassia de Alencar Silva
+,,513.0,3.0,,,Roselene Cassia de Alencar Silva
+,,327.0,5.0,,,Roselene Cassia de Alencar Silva
+,,308.0,40.0,,,Roselene Cassia de Alencar Silva
+,,189.0,1.0,,,Roselene Cassia de Alencar Silva
+,,513.0,3.0,QUI,10:40 às 12:30,Roselene Cassia de Alencar Silva
+,,387.0,3.0,,,Roselene Cassia de Alencar Silva
+,,327.0,5.0,,,Roselene Cassia de Alencar Silva
+,,308.0,40.0,,,Roselene Cassia de Alencar Silva
+,,189.0,1.0,,,Roselene Cassia de Alencar Silva
+,30000.0,306.0,55.0,SEG,08:50 às 10:40,Cintia Beatriz Muller
+,,311.0,5.0,,,Cintia Beatriz Muller
+,,306.0,55.0,QUA,08:50 às 10:40,Cintia Beatriz Muller
+,,311.0,5.0,,,Cintia Beatriz Muller
+,40000.0,387.0,10.0,SEG,18:30 às 20:20,Bruna Pastro Zagatto
+,,327.0,2.0,,,Bruna Pastro Zagatto
+,,382.0,50.0,,,Bruna Pastro Zagatto
+,,387.0,10.0,QUA,18:30 às 20:20,Bruna Pastro Zagatto
+,,382.0,50.0,,,Bruna Pastro Zagatto
+,,327.0,2.0,,,Bruna Pastro Zagatto
+,50000.0,387.0,5.0,SEG,20:20 às 22:10,Bruna Pastro Zagatto
+,,382.0,54.0,,,Bruna Pastro Zagatto
+,,189.0,1.0,,,Bruna Pastro Zagatto
+,,387.0,5.0,QUA,20:20 às 22:10,Bruna Pastro Zagatto
+,,382.0,54.0,,,Bruna Pastro Zagatto
+,,189.0,1.0,,,Bruna Pastro Zagatto
+,60000.0,327.0,2.0,TER,07:00 às 08:50,Fatima Regina Gomes Tavares
+,,310.0,6.0,,,Fatima Regina Gomes Tavares
+,,306.0,50.0,,,Fatima Regina Gomes Tavares
+,,327.0,2.0,QUI,07:00 às 08:50,Fatima Regina Gomes Tavares
+,,310.0,6.0,,,Fatima Regina Gomes Tavares
+,,306.0,50.0,,,Fatima Regina Gomes Tavares
+,70000.0,387.0,3.0,TER,07:00 às 08:50,Bruna Pastro Zagatto
+,,308.0,50.0,,,Bruna Pastro Zagatto
+,,209.0,5.0,,,Bruna Pastro Zagatto
+,,387.0,3.0,QUI,07:00 às 08:50,Bruna Pastro Zagatto
+,,308.0,50.0,,,Bruna Pastro Zagatto
+,,209.0,5.0,,,Bruna Pastro Zagatto
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FCH125 - ANTROPOLOGIA II,10000.0,387.0,5.0,TER,08:50 às 10:40,Marina Guimaraes Vieira
+,,313.0,5.0,,,Marina Guimaraes Vieira
+,,306.0,45.0,,,Marina Guimaraes Vieira
+,,387.0,5.0,QUI,08:50 às 10:40,Marina Guimaraes Vieira
+,,313.0,5.0,,,Marina Guimaraes Vieira
+,,306.0,45.0,,,Marina Guimaraes Vieira
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FCH128 - CULTURA BRASILEIRA,10000.0,501.0,15.0,QUA,08:50 às 11:35,Cassia Maria Muniz Carletto
+,,387.0,5.0,,,Cassia Maria Muniz Carletto
+,,327.0,5.0,,,Cassia Maria Muniz Carletto
+,,311.0,12.0,,,Cassia Maria Muniz Carletto
+,,286.0,2.0,,,Cassia Maria Muniz Carletto
+,,226.0,5.0,,,Cassia Maria Muniz Carletto
+,20000.0,505.0,20.0,SEX,08:50 às 11:35,Savio Queiroz Lima
+,,502.0,5.0,,,Savio Queiroz Lima
+,,387.0,5.0,,,Savio Queiroz Lima
+,,286.0,5.0,,,Savio Queiroz Lima
+,,226.0,5.0,,,Savio Queiroz Lima
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FCH163 - HISTÓRIA DAS IDÉIAS POLÍTICAS,10000.0,387.0,5.0,TER,08:50 às 10:40,Antonio Santos Oliveira
+,,382.0,3.0,,,Antonio Santos Oliveira
+,,327.0,10.0,,,Antonio Santos Oliveira
+,,310.0,8.0,,,Antonio Santos Oliveira
+,,309.0,5.0,,,Antonio Santos Oliveira
+,,308.0,3.0,,,Antonio Santos Oliveira
+,,226.0,8.0,,,Antonio Santos Oliveira
+,,387.0,5.0,QUI,08:50 às 10:40,Antonio Santos Oliveira
+,,382.0,3.0,,,Antonio Santos Oliveira
+,,327.0,10.0,,,Antonio Santos Oliveira
+,,310.0,8.0,,,Antonio Santos Oliveira
+,,309.0,5.0,,,Antonio Santos Oliveira
+,,308.0,3.0,,,Antonio Santos Oliveira
+,,226.0,8.0,,,Antonio Santos Oliveira
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FCH164 - ORGANIZACAO POLITICA DO BRASIL,10000.0,387.0,5.0,TER,07:00 às 08:50,Paulo Fabio Dantas Neto
+,,327.0,5.0,,,Paulo Fabio Dantas Neto
+,,306.0,45.0,,,Paulo Fabio Dantas Neto
+,,226.0,2.0,,,Paulo Fabio Dantas Neto
+,,387.0,5.0,QUI,07:00 às 08:50,Paulo Fabio Dantas Neto
+,,327.0,5.0,,,Paulo Fabio Dantas Neto
+,,306.0,45.0,,,Paulo Fabio Dantas Neto
+,,226.0,2.0,,,Paulo Fabio Dantas Neto
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FCH175 - HISTÓRIA ECONÔMICA GERAL E DO BRASIL,10000.0,305.0,35.0,SEG,08:50 às 12:30,Marcial Humberto Saavedra Castro
+,,109.0,20.0,,,Marcial Humberto Saavedra Castro
+,20000.0,387.0,1.0,TER,18:30 às 20:20,Marcial Humberto Saavedra Castro
+,,327.0,3.0,,,Marcial Humberto Saavedra Castro
+,,305.0,20.0,,,Marcial Humberto Saavedra Castro
+,,182.0,15.0,,,Marcial Humberto Saavedra Castro
+,,109.0,10.0,,,Marcial Humberto Saavedra Castro
+,,387.0,1.0,,20:20 às 22:10,Marcial Humberto Saavedra Castro
+,,327.0,3.0,,,Marcial Humberto Saavedra Castro
+,,305.0,20.0,,,Marcial Humberto Saavedra Castro
+,,182.0,15.0,,,Marcial Humberto Saavedra Castro
+,,109.0,10.0,,,Marcial Humberto Saavedra Castro
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FCH176 - HISTORIOGRAFIA I,10100.0,386.0,8.0,TER,07:00 às 08:50,Milton Araujo Moura
+,,310.0,40.0,,,Milton Araujo Moura
+,,386.0,8.0,,08:50 às 10:40,Milton Araujo Moura
+,,310.0,40.0,,,Milton Araujo Moura
+,20200.0,387.0,5.0,TER,18:30 às 20:20,Maria de Fatima Novaes Pires
+,,386.0,40.0,,,Maria de Fatima Novaes Pires
+,,310.0,15.0,,,Maria de Fatima Novaes Pires
+,,387.0,5.0,,20:20 às 22:10,Maria de Fatima Novaes Pires
+,,386.0,40.0,,,Maria de Fatima Novaes Pires
+,,310.0,15.0,,,Maria de Fatima Novaes Pires
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FCH177 - HISTÓRIA DA CULTURA I,10000.0,502.0,2.0,QUA,13:00 às 16:40,Savio Queiroz Lima
+,,386.0,10.0,,,Savio Queiroz Lima
+,,383.0,2.0,,,Savio Queiroz Lima
+,,311.0,10.0,,,Savio Queiroz Lima
+,,310.0,15.0,,,Savio Queiroz Lima
+,,309.0,1.0,,,Savio Queiroz Lima
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FCH180 - ESTETICA II,10000.0,512.0,2.0,SEG,08:50 às 10:40,Docente Substituto a Contratar
+,,505.0,20.0,,,Docente Substituto a Contratar
+,,501.0,20.0,,,Docente Substituto a Contratar
+,,327.0,5.0,,,Docente Substituto a Contratar
+,,226.0,3.0,,,Docente Substituto a Contratar
+,,512.0,2.0,QUA,08:50 às 10:40,Docente Substituto a Contratar
+,,505.0,20.0,,,Docente Substituto a Contratar
+,,501.0,20.0,,,Docente Substituto a Contratar
+,,327.0,5.0,,,Docente Substituto a Contratar
+,,226.0,3.0,,,Docente Substituto a Contratar
+,20000.0,580.0,5.0,TER,13:00 às 14:50,Docente Substituto a Contratar
+,,506.0,10.0,,,Docente Substituto a Contratar
+,,501.0,15.0,,,Docente Substituto a Contratar
+,,286.0,4.0,,,Docente Substituto a Contratar
+,,226.0,2.0,,,Docente Substituto a Contratar
+,,580.0,5.0,QUI,13:00 às 14:50,Docente Substituto a Contratar
+,,506.0,10.0,,,Docente Substituto a Contratar
+,,501.0,15.0,,,Docente Substituto a Contratar
+,,286.0,4.0,,,Docente Substituto a Contratar
+,,226.0,2.0,,,Docente Substituto a Contratar
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FCH183 - FORMACAO SOCIED BRASILEIRA,10000.0,387.0,5.0,TER,10:40 às 12:30,Ricardo Pagliuso Regatieri
+,,327.0,2.0,,,Ricardo Pagliuso Regatieri
+,,313.0,3.0,,,Ricardo Pagliuso Regatieri
+,,309.0,3.0,,,Ricardo Pagliuso Regatieri
+,,306.0,50.0,,,Ricardo Pagliuso Regatieri
+,,387.0,5.0,QUI,10:40 às 12:30,Ricardo Pagliuso Regatieri
+,,327.0,2.0,,,Ricardo Pagliuso Regatieri
+,,313.0,3.0,,,Ricardo Pagliuso Regatieri
+,,309.0,3.0,,,Ricardo Pagliuso Regatieri
+,,306.0,50.0,,,Ricardo Pagliuso Regatieri
+,20000.0,301.0,8.0,TER,14:50 às 18:30,Umeru Bahia de Azevedo
+,,226.0,5.0,,,Umeru Bahia de Azevedo
+,,190.0,2.0,,,Umeru Bahia de Azevedo
+,,387.0,3.0,,,Umeru Bahia de Azevedo
+,,327.0,2.0,,,Umeru Bahia de Azevedo
+,,325.0,45.0,,,Umeru Bahia de Azevedo
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FCH185 - HISTÓRIA DO BRASIL II,10000.0,386.0,8.0,SEG,08:50 às 10:40,Wlamyra Ribeiro de Albuquerque
+,,310.0,40.0,,,Wlamyra Ribeiro de Albuquerque
+,,386.0,8.0,QUA,08:50 às 10:40,Wlamyra Ribeiro de Albuquerque
+,,310.0,40.0,,,Wlamyra Ribeiro de Albuquerque
+,20000.0,386.0,36.0,QUA,18:30 às 22:10,Wlamyra Ribeiro de Albuquerque
+,,310.0,15.0,,,Wlamyra Ribeiro de Albuquerque
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FCH187 - HISTÓRIA DA CIVILIZAÇÃO BRASILEIRA,10000.0,387.0,2.0,SEG,08:50 às 11:35,Savio Queiroz Lima
+,,327.0,2.0,,,Savio Queiroz Lima
+,,312.0,40.0,,,Savio Queiroz Lima
+,,311.0,10.0,,,Savio Queiroz Lima
+,20000.0,387.0,5.0,QUI,18:30 às 21:15,Savio Queiroz Lima
+,,385.0,35.0,,,Savio Queiroz Lima
+,,327.0,5.0,,,Savio Queiroz Lima
+,,311.0,5.0,,,Savio Queiroz Lima
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FCH188 - HISTÓRIA DA CIVILIZAÇÃO AMERICANA,10000.0,386.0,10.0,SEX,13:00 às 15:45,Marcial Humberto Saavedra Castro
+,,327.0,5.0,,,Marcial Humberto Saavedra Castro
+,,311.0,5.0,,,Marcial Humberto Saavedra Castro
+,,310.0,15.0,,,Marcial Humberto Saavedra Castro
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FCH192 - HISTORIOGRAFIA II,10100.0,387.0,5.0,TER,08:50 às 10:40,Rodrigo Perez Oliveira
+,,386.0,15.0,,,Rodrigo Perez Oliveira
+,,310.0,20.0,,,Rodrigo Perez Oliveira
+,,387.0,5.0,,10:40 às 12:30,Rodrigo Perez Oliveira
+,,386.0,15.0,,,Rodrigo Perez Oliveira
+,,310.0,20.0,,,Rodrigo Perez Oliveira
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FCH196 - HISTÓRIA DA BAHIA II,10000.0,386.0,5.0,TER,10:40 às 12:30,Antonio Luigi Negro
+,,327.0,5.0,,,Antonio Luigi Negro
+,,310.0,40.0,,,Antonio Luigi Negro
+,,386.0,5.0,QUI,10:40 às 12:30,Antonio Luigi Negro
+,,327.0,5.0,,,Antonio Luigi Negro
+,,310.0,40.0,,,Antonio Luigi Negro
+,20000.0,387.0,2.0,QUI,18:30 às 20:20,Antonio Luigi Negro
+,,386.0,30.0,,,Antonio Luigi Negro
+,,310.0,15.0,,,Antonio Luigi Negro
+,,387.0,2.0,,20:20 às 22:10,Antonio Luigi Negro
+,,386.0,30.0,,,Antonio Luigi Negro
+,,310.0,15.0,,,Antonio Luigi Negro
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FCH243 - CURSO MONOGRÁFICO EM CIÊNCIA POLÍTICA,10000.0,387.0,2.0,TER,10:40 às 12:30,Armando Avena Filho
+,,382.0,2.0,,,Armando Avena Filho
+,,327.0,3.0,,,Armando Avena Filho
+,,309.0,2.0,,,Armando Avena Filho
+,,308.0,2.0,,,Armando Avena Filho
+,,306.0,20.0,,,Armando Avena Filho
+,,301.0,2.0,,,Armando Avena Filho
+,,387.0,2.0,QUI,10:40 às 12:30,Armando Avena Filho
+,,382.0,2.0,,,Armando Avena Filho
+,,327.0,3.0,,,Armando Avena Filho
+,,309.0,2.0,,,Armando Avena Filho
+,,308.0,2.0,,,Armando Avena Filho
+,,306.0,20.0,,,Armando Avena Filho
+,,301.0,2.0,,,Armando Avena Filho
+,20000.0,325.0,45.0,TER,14:50 às 18:30,Docente não informado pelo Departamento
+,,306.0,10.0,,,Docente não informado pelo Departamento
+,,327.0,5.0,,,Docente não informado pelo Departamento
+,30000.0,306.0,20.0,TER,07:00 às 08:50,Armando Avena Filho
+,,,,QUI,07:00 às 08:50,Armando Avena Filho
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FCH245 - CURSO MONOGRÁFICO EM ANTROPOLOGIA,10000.0,311.0,10.0,QUI,13:55 às 17:35,Marco Tromboni de Souza Nascimento
+,,306.0,10.0,,,Marco Tromboni de Souza Nascimento
+,20000.0,327.0,5.0,TER,13:00 às 14:50,Carlos Alberto Caroso Soares
+,,325.0,2.0,,,Carlos Alberto Caroso Soares
+,,306.0,20.0,,,Carlos Alberto Caroso Soares
+,,305.0,2.0,,,Carlos Alberto Caroso Soares
+,,301.0,2.0,,,Carlos Alberto Caroso Soares
+,,226.0,2.0,,,Carlos Alberto Caroso Soares
+,,206.0,2.0,,,Carlos Alberto Caroso Soares
+,,202.0,2.0,,,Carlos Alberto Caroso Soares
+,,327.0,5.0,QUI,13:00 às 14:50,Carlos Alberto Caroso Soares
+,,325.0,2.0,,,Carlos Alberto Caroso Soares
+,,301.0,2.0,,,Carlos Alberto Caroso Soares
+,,305.0,2.0,,,Carlos Alberto Caroso Soares
+,,306.0,20.0,,,Carlos Alberto Caroso Soares
+,,226.0,2.0,,,Carlos Alberto Caroso Soares
+,,206.0,2.0,,,Carlos Alberto Caroso Soares
+,,202.0,2.0,,,Carlos Alberto Caroso Soares
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FCH248 - HISTÓRIA DAS RELIGIÕES,10000.0,506.0,2.0,SEX,07:55 às 08:50,Juliana Torres Rodrigues Pereira
+,,386.0,10.0,,,Juliana Torres Rodrigues Pereira
+,,311.0,4.0,,,Juliana Torres Rodrigues Pereira
+,,310.0,30.0,,,Juliana Torres Rodrigues Pereira
+,,309.0,1.0,,,Juliana Torres Rodrigues Pereira
+,,506.0,2.0,,08:50 às 10:40,Juliana Torres Rodrigues Pereira
+,,386.0,10.0,,,Juliana Torres Rodrigues Pereira
+,,311.0,4.0,,,Juliana Torres Rodrigues Pereira
+,,310.0,30.0,,,Juliana Torres Rodrigues Pereira
+,,309.0,1.0,,,Juliana Torres Rodrigues Pereira
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FCH265 - SOCIOLOGIA DA DESIG SOCIAL,10000.0,325.0,52.0,QUI,14:50 às 18:30,Kelly Carneiro de Oliveira Fontoura
+,,313.0,3.0,,,Kelly Carneiro de Oliveira Fontoura
+,,286.0,3.0,,,Kelly Carneiro de Oliveira Fontoura
+,,383.0,3.0,,,Kelly Carneiro de Oliveira Fontoura
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FCH266 - SOCIOLOGIA DA ARTE,10000.0,513.0,2.0,QUI,13:55 às 14:50,Antonio da Silva Camara
+,,512.0,2.0,,,Antonio da Silva Camara
+,,505.0,9.0,,,Antonio da Silva Camara
+,,327.0,5.0,,,Antonio da Silva Camara
+,,309.0,5.0,,,Antonio da Silva Camara
+,,306.0,30.0,,,Antonio da Silva Camara
+,,513.0,2.0,,14:50 às 17:35,Antonio da Silva Camara
+,,512.0,2.0,,,Antonio da Silva Camara
+,,309.0,5.0,,,Antonio da Silva Camara
+,,306.0,30.0,,,Antonio da Silva Camara
+,,505.0,9.0,,,Antonio da Silva Camara
+,,327.0,5.0,,,Antonio da Silva Camara
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FCH274 - FILOSOFIA DA HISTORIA I,10000.0,515.0,5.0,SEG,07:00 às 08:50,Ricardo Calheiros Pereira
+,,386.0,5.0,,,Ricardo Calheiros Pereira
+,,327.0,3.0,,,Ricardo Calheiros Pereira
+,,310.0,40.0,,,Ricardo Calheiros Pereira
+,,515.0,5.0,QUA,07:00 às 08:50,Ricardo Calheiros Pereira
+,,386.0,5.0,,,Ricardo Calheiros Pereira
+,,327.0,3.0,,,Ricardo Calheiros Pereira
+,,310.0,40.0,,,Ricardo Calheiros Pereira
+,20000.0,580.0,10.0,TER,18:30 às 19:25,Docente Substituto a Contratar
+,,387.0,10.0,,,Docente Substituto a Contratar
+,,386.0,20.0,,,Docente Substituto a Contratar
+,,580.0,10.0,,19:25 às 22:10,Docente Substituto a Contratar
+,,387.0,10.0,,,Docente Substituto a Contratar
+,,386.0,20.0,,,Docente Substituto a Contratar
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FCH283 - ESTETICA I-A,10000.0,580.0,2.0,TER,10:40 às 12:30,Rafael Lopes Azize
+,,387.0,2.0,,,Rafael Lopes Azize
+,,309.0,45.0,,,Rafael Lopes Azize
+,,190.0,2.0,,,Rafael Lopes Azize
+,,580.0,2.0,QUI,10:40 às 12:30,Rafael Lopes Azize
+,,387.0,2.0,,,Rafael Lopes Azize
+,,309.0,45.0,,,Rafael Lopes Azize
+,,190.0,2.0,,,Rafael Lopes Azize
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FCH287 - HISTÓRIA DO BRASIL IV,10000.0,386.0,5.0,SEG,08:50 às 10:40,Antonio Mauricio Freitas Brito
+,,310.0,25.0,,,Antonio Mauricio Freitas Brito
+,,386.0,5.0,QUA,08:50 às 10:40,Antonio Mauricio Freitas Brito
+,,310.0,25.0,,,Antonio Mauricio Freitas Brito
+,20000.0,387.0,3.0,SEG,18:30 às 22:10,Antonio Mauricio Freitas Brito
+,,386.0,30.0,,,Antonio Mauricio Freitas Brito
+,,310.0,15.0,,,Antonio Mauricio Freitas Brito
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FCH289 - PESQUISA HISTÓRICA SUPERVISIONADA I,1.0,310.0,5.0,CMB,00:00 às 23:00,Ana Carolina Barbosa Pereira
+,2.0,310.0,5.0,CMB,00:00 às 23:00,Ana Paula Medicci
+,3.0,310.0,5.0,CMB,00:00 às 23:00,Antonio Luigi Negro
+,4.0,310.0,5.0,CMB,00:00 às 23:00,Antonio Mauricio Freitas Brito
+,5.0,310.0,5.0,CMB,00:00 às 23:00,Carlos Zacarias Figueiroa de Sena Junior
+,6.0,310.0,5.0,CMB,00:00 às 23:00,Edilece Souza Couto
+,7.0,310.0,5.0,CMB,00:00 às 23:00,Gabriela dos Reis Sampaio
+,8.0,310.0,5.0,CMB,00:00 às 23:00,George Evergton Sales Souza
+,9.0,310.0,5.0,CMB,00:00 às 23:00,Iacy Maia Mata
+,10.0,310.0,5.0,CMB,00:00 às 23:00,Iraneidson Santos Costa
+,11.0,310.0,5.0,CMB,00:00 às 23:00,Juliana Torres Rodrigues Pereira
+,12.0,310.0,5.0,CMB,00:00 às 23:00,Laura de Oliveira
+,13.0,310.0,5.0,CMB,00:00 às 23:00,Lina Maria Brandao de Aras
+,14.0,310.0,5.0,CMB,00:00 às 23:00,Lucileide Costa Cardoso
+,15.0,310.0,5.0,CMB,00:00 às 23:00,Marcelo Pereira Lima
+,16.0,310.0,5.0,CMB,00:00 às 23:00,Maria de Fatima Novaes Pires
+,17.0,310.0,5.0,CMB,00:00 às 23:00,Maria Hilda Baqueiro Paraiso
+,18.0,310.0,5.0,CMB,00:00 às 23:00,Marina Regis Cavicchioli
+,19.0,310.0,5.0,CMB,00:00 às 23:00,Milton Araujo Moura
+,20.0,310.0,5.0,CMB,00:00 às 23:00,Moreno Laborda Pacheco
+,21.0,310.0,5.0,CMB,00:00 às 23:00,Patricia Valim
+,22.0,310.0,5.0,CMB,00:00 às 23:00,Rodrigo Perez Oliveira
+,23.0,310.0,5.0,CMB,00:00 às 23:00,Valdemir Donizette Zamparoni
+,24.0,310.0,5.0,CMB,00:00 às 23:00,Vinicius Donizete de Rezende
+,25.0,310.0,5.0,CMB,00:00 às 23:00,Wlamyra Ribeiro de Albuquerque
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FCH290 - PESQUISA HISTÓRICA SUPERVISIONADA II,1.0,310.0,5.0,CMB,00:00 às 23:00,Ana Carolina Barbosa Pereira
+,2.0,310.0,5.0,CMB,00:00 às 23:00,Ana Paula Medicci
+,3.0,310.0,5.0,CMB,00:00 às 23:00,Antonio Luigi Negro
+,4.0,310.0,5.0,CMB,00:00 às 23:00,Antonio Mauricio Freitas Brito
+,5.0,310.0,5.0,CMB,00:00 às 23:00,Carlos Zacarias Figueiroa de Sena Junior
+,6.0,310.0,5.0,CMB,00:00 às 23:00,Edilece Souza Couto
+,7.0,310.0,5.0,CMB,00:00 às 23:00,Gabriela dos Reis Sampaio
+,8.0,310.0,5.0,CMB,00:00 às 23:00,George Evergton Sales Souza
+,9.0,310.0,5.0,CMB,00:00 às 23:00,Iacy Maia Mata
+,10.0,310.0,5.0,CMB,00:00 às 23:00,Iraneidson Santos Costa
+,11.0,310.0,5.0,CMB,00:00 às 23:00,Juliana Torres Rodrigues Pereira
+,12.0,310.0,5.0,CMB,00:00 às 23:00,Laura de Oliveira
+,13.0,310.0,5.0,CMB,00:00 às 23:00,Lina Maria Brandao de Aras
+,14.0,310.0,5.0,CMB,00:00 às 23:00,Lucileide Costa Cardoso
+,15.0,310.0,5.0,CMB,00:00 às 23:00,Marcelo Pereira Lima
+,16.0,310.0,5.0,CMB,00:00 às 23:00,Maria de Fatima Novaes Pires
+,17.0,310.0,5.0,CMB,00:00 às 23:00,Maria Hilda Baqueiro Paraiso
+,18.0,310.0,5.0,CMB,00:00 às 23:00,Marina Regis Cavicchioli
+,19.0,310.0,59.0,CMB,00:00 às 23:00,Milton Araujo Moura
+,20.0,310.0,5.0,CMB,00:00 às 23:00,Patricia Valim
+,21.0,310.0,5.0,CMB,00:00 às 23:00,Rodrigo Perez Oliveira
+,22.0,310.0,5.0,CMB,00:00 às 23:00,Rodrigo Perez Oliveira
+,23.0,310.0,5.0,CMB,00:00 às 23:00,Valdemir Donizette Zamparoni
+,24.0,310.0,5.0,CMB,00:00 às 23:00,Vinicius Donizete de Rezende
+,25.0,310.0,5.0,CMB,00:00 às 23:00,Wlamyra Ribeiro de Albuquerque
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FCH291 - ANTROPOLOGIA III,10000.0,327.0,5.0,TER,10:40 às 12:30,Diego Ferreira Marques
+,,306.0,45.0,,,Diego Ferreira Marques
+,,327.0,5.0,QUI,10:40 às 12:30,Diego Ferreira Marques
+,,306.0,45.0,,,Diego Ferreira Marques
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FCH294 - ANTROPOLOGIA IV,10000.0,387.0,5.0,TER,07:00 às 08:50,Guillermo Vega Sanabria
+,,306.0,45.0,,,Guillermo Vega Sanabria
+,,387.0,5.0,QUI,07:00 às 08:50,Guillermo Vega Sanabria
+,,306.0,45.0,,,Guillermo Vega Sanabria
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FCH295 - ANTROPOLOGIA V,10000.0,387.0,5.0,TER,08:50 às 10:40,Nubia Bento Rodrigues
+,,306.0,45.0,,,Nubia Bento Rodrigues
+,,387.0,5.0,QUI,08:50 às 10:40,Nubia Bento Rodrigues
+,,306.0,45.0,,,Nubia Bento Rodrigues
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FCH296 - TEC. INVEST. E ANÁLISE EM ANTROPOLOGIA,10100.0,306.0,20.0,SEX,08:50 às 09:45,Jocelio Teles dos Santos
+,,,,,09:45 às 12:30,Jocelio Teles dos Santos
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FCH300 - POLITICA III,10000.0,387.0,5.0,TER,08:50 às 10:40,Carla Galvao Pereira Arantes
+,,306.0,45.0,,,Carla Galvao Pereira Arantes
+,,387.0,5.0,QUI,08:50 às 10:40,Carla Galvao Pereira Arantes
+,,306.0,45.0,,,Carla Galvao Pereira Arantes
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FCH301 - POLITICA IV,10000.0,387.0,5.0,SEG,08:50 às 10:40,Alvino Oliveira Sanches Filho
+,,306.0,45.0,,,Alvino Oliveira Sanches Filho
+,,387.0,5.0,QUA,08:50 às 10:40,Alvino Oliveira Sanches Filho
+,,306.0,45.0,,,Alvino Oliveira Sanches Filho
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FCH302 - POLITICA V,10000.0,387.0,5.0,TER,08:50 às 10:40,Renato Francisquini Teixeira
+,,382.0,3.0,,,Renato Francisquini Teixeira
+,,327.0,5.0,,,Renato Francisquini Teixeira
+,,309.0,3.0,,,Renato Francisquini Teixeira
+,,308.0,3.0,,,Renato Francisquini Teixeira
+,,306.0,15.0,,,Renato Francisquini Teixeira
+,,387.0,5.0,QUI,08:50 às 10:40,Renato Francisquini Teixeira
+,,382.0,3.0,,,Renato Francisquini Teixeira
+,,327.0,5.0,,,Renato Francisquini Teixeira
+,,309.0,3.0,,,Renato Francisquini Teixeira
+,,308.0,3.0,,,Renato Francisquini Teixeira
+,,306.0,15.0,,,Renato Francisquini Teixeira
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FCH303 - TEC. INVEST. E ANÁLISE EM CIÊNCIA POLÍTICA,10100.0,306.0,20.0,SEX,08:50 às 10:40,Maria Salete Souza de Amorim
+,,,,,10:40 às 12:30,Maria Salete Souza de Amorim
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FCH306 - TEC. INVEST. E ANÁLISE EM SOCIOLOGIA,10100.0,306.0,20.0,SEX,08:50 às 10:40,Luiz Enrique Vieira de Souza
+,,,,,10:40 às 12:30,Luiz Enrique Vieira de Souza
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FCH318 - ESTADO E SOCIEDADE NO BRASIL,10000.0,387.0,2.0,TER,08:50 às 10:40,Valdemar Ferreira de Araujo Filho
+,,382.0,2.0,,,Valdemar Ferreira de Araujo Filho
+,,327.0,3.0,,,Valdemar Ferreira de Araujo Filho
+,,325.0,4.0,,,Valdemar Ferreira de Araujo Filho
+,,309.0,2.0,,,Valdemar Ferreira de Araujo Filho
+,,308.0,2.0,,,Valdemar Ferreira de Araujo Filho
+,,307.0,4.0,,,Valdemar Ferreira de Araujo Filho
+,,306.0,20.0,,,Valdemar Ferreira de Araujo Filho
+,,305.0,4.0,,,Valdemar Ferreira de Araujo Filho
+,,301.0,3.0,,,Valdemar Ferreira de Araujo Filho
+,,387.0,2.0,QUI,08:50 às 10:40,Valdemar Ferreira de Araujo Filho
+,,382.0,2.0,,,Valdemar Ferreira de Araujo Filho
+,,327.0,3.0,,,Valdemar Ferreira de Araujo Filho
+,,325.0,4.0,,,Valdemar Ferreira de Araujo Filho
+,,309.0,2.0,,,Valdemar Ferreira de Araujo Filho
+,,308.0,2.0,,,Valdemar Ferreira de Araujo Filho
+,,307.0,4.0,,,Valdemar Ferreira de Araujo Filho
+,,306.0,20.0,,,Valdemar Ferreira de Araujo Filho
+,,305.0,4.0,,,Valdemar Ferreira de Araujo Filho
+,,301.0,3.0,,,Valdemar Ferreira de Araujo Filho
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FCH321 - LIBERALISMO E ESTADO,10000.0,387.0,2.0,TER,07:00 às 08:50,Antonio Santos Oliveira
+,,327.0,2.0,,,Antonio Santos Oliveira
+,,310.0,2.0,,,Antonio Santos Oliveira
+,,309.0,2.0,,,Antonio Santos Oliveira
+,,308.0,4.0,,,Antonio Santos Oliveira
+,,306.0,20.0,,,Antonio Santos Oliveira
+,,387.0,2.0,QUI,07:00 às 08:50,Antonio Santos Oliveira
+,,327.0,2.0,,,Antonio Santos Oliveira
+,,310.0,2.0,,,Antonio Santos Oliveira
+,,309.0,2.0,,,Antonio Santos Oliveira
+,,308.0,4.0,,,Antonio Santos Oliveira
+,,306.0,20.0,,,Antonio Santos Oliveira
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FCH323 - AUTORITARISMO E DEMOCRACIA,10000.0,387.0,2.0,TER,08:50 às 10:40,Armando Avena Filho
+,,382.0,2.0,,,Armando Avena Filho
+,,327.0,3.0,,,Armando Avena Filho
+,,309.0,2.0,,,Armando Avena Filho
+,,308.0,2.0,,,Armando Avena Filho
+,,306.0,20.0,,,Armando Avena Filho
+,,301.0,3.0,,,Armando Avena Filho
+,,387.0,2.0,QUI,08:50 às 10:40,Armando Avena Filho
+,,382.0,2.0,,,Armando Avena Filho
+,,327.0,3.0,,,Armando Avena Filho
+,,309.0,2.0,,,Armando Avena Filho
+,,308.0,2.0,,,Armando Avena Filho
+,,306.0,20.0,,,Armando Avena Filho
+,,301.0,3.0,,,Armando Avena Filho
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FCH330 - POLITICA I-A,10000.0,387.0,2.0,SEG,07:00 às 08:50,Maria Salete Souza de Amorim
+,,327.0,5.0,,,Maria Salete Souza de Amorim
+,,306.0,53.0,,,Maria Salete Souza de Amorim
+,,387.0,2.0,QUA,07:00 às 08:50,Maria Salete Souza de Amorim
+,,327.0,5.0,,,Maria Salete Souza de Amorim
+,,306.0,53.0,,,Maria Salete Souza de Amorim
+,20000.0,327.0,5.0,TER,08:50 às 10:40,Wendel Antunes Cintra
+,,306.0,58.0,,,Wendel Antunes Cintra
+,,327.0,5.0,QUI,08:50 às 10:40,Wendel Antunes Cintra
+,,306.0,58.0,,,Wendel Antunes Cintra
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FCH331 - POLITICA II-A,10000.0,387.0,3.0,TER,07:00 às 08:50,Renato Francisquini Teixeira
+,,327.0,5.0,,,Renato Francisquini Teixeira
+,,306.0,50.0,,,Renato Francisquini Teixeira
+,,387.0,3.0,QUI,07:00 às 08:50,Renato Francisquini Teixeira
+,,327.0,5.0,,,Renato Francisquini Teixeira
+,,306.0,50.0,,,Renato Francisquini Teixeira
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FCH332 - ANTROPOLOGIA MEDICA,10000.0,387.0,3.0,SEG,13:00 às 16:40,Danilo Paiva Ramos
+,,327.0,2.0,,,Danilo Paiva Ramos
+,,313.0,5.0,,,Danilo Paiva Ramos
+,,281.0,20.0,,,Danilo Paiva Ramos
+,,204.0,30.0,,,Danilo Paiva Ramos
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FCH336 - ARTE SACRA,10100.0,311.0,10.0,SEG,14:50 às 15:45,Rita de Cassia Maia da Silva
+,,,,,15:45 às 16:40,Genivalda Candido da Silva
+,,,,QUA,14:50 às 16:40,Rita de Cassia Maia da Silva
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FCH431 - HISTÓRIA IBÉRICA,10000.0,387.0,2.0,SEG,10:40 às 12:30,Ana Paula Medicci
+,,386.0,8.0,,,Ana Paula Medicci
+,,327.0,5.0,,,Ana Paula Medicci
+,,310.0,40.0,,,Ana Paula Medicci
+,,387.0,2.0,QUA,10:40 às 12:30,Ana Paula Medicci
+,,386.0,8.0,,,Ana Paula Medicci
+,,327.0,5.0,,,Ana Paula Medicci
+,,310.0,40.0,,,Ana Paula Medicci
+,20000.0,387.0,5.0,QUA,18:30 às 22:10,Juliana Torres Rodrigues Pereira
+,,386.0,35.0,,,Juliana Torres Rodrigues Pereira
+,,310.0,15.0,,,Juliana Torres Rodrigues Pereira
+,,189.0,1.0,,,Juliana Torres Rodrigues Pereira
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FCH435 - TECNICAS DE ELABORACAO DE PROJETOS,10000.0,386.0,5.0,QUA,13:00 às 14:50,Lina Maria Brandao de Aras
+,,327.0,5.0,,,Lina Maria Brandao de Aras
+,,310.0,25.0,,,Lina Maria Brandao de Aras
+,,386.0,5.0,,14:50 às 16:40,Lina Maria Brandao de Aras
+,,327.0,5.0,,,Lina Maria Brandao de Aras
+,,310.0,25.0,,,Lina Maria Brandao de Aras
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FCH436 - TÓPICOS ESPECIAIS DE HISTÓRIA,10000.0,387.0,2.0,QUI,18:30 às 22:10,Rodrigo Perez Oliveira
+,,386.0,30.0,,,Rodrigo Perez Oliveira
+,,327.0,2.0,,,Rodrigo Perez Oliveira
+,,310.0,15.0,,,Rodrigo Perez Oliveira
+,20000.0,387.0,3.0,QUA,18:30 às 22:10,Vinicius Donizete de Rezende
+,,386.0,15.0,,,Vinicius Donizete de Rezende
+,,327.0,3.0,,,Vinicius Donizete de Rezende
+,,310.0,15.0,,,Vinicius Donizete de Rezende
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FCH441 - HISTÓRIA DA AMÉRICA II-A,10000.0,386.0,5.0,TER,08:50 às 10:40,Iacy Maia Mata
+,,310.0,35.0,,,Iacy Maia Mata
+,,386.0,5.0,QUI,08:50 às 10:40,Iacy Maia Mata
+,,310.0,35.0,,,Iacy Maia Mata
+,20000.0,387.0,5.0,TER,18:30 às 22:10,Iacy Maia Mata
+,,386.0,30.0,,,Iacy Maia Mata
+,,310.0,15.0,,,Iacy Maia Mata
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FCH459 - ACCS: PRATICA ARQUEOLOGICA EM COMUNIDADE,1000.0,327.0,3.0,TER,08:50 às 10:40,Carlos Alberto Etchevarne
+,,311.0,3.0,,,Carlos Alberto Etchevarne
+,,310.0,3.0,,,Carlos Alberto Etchevarne
+,,306.0,4.0,,,Carlos Alberto Etchevarne
+,,110.0,2.0,,,Carlos Alberto Etchevarne
+,,327.0,3.0,QUI,08:50 às 10:40,Carlos Alberto Etchevarne
+,,311.0,3.0,,,Carlos Alberto Etchevarne
+,,310.0,3.0,,,Carlos Alberto Etchevarne
+,,306.0,4.0,,,Carlos Alberto Etchevarne
+,,110.0,2.0,,,Carlos Alberto Etchevarne
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FCHB43 - HISTÓRIA DA FILOSOFIA ANTIGA II,10000.0,309.0,50.0,SEG,08:50 às 10:40,Juliana Ortegosa Aggio
+,,,,QUA,08:50 às 10:40,Juliana Ortegosa Aggio
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FCHB45 - HISTÓRIA DA FILOSOFIA MODERNA I,10000.0,580.0,2.0,SEG,08:50 às 10:40,Mariana de Almeida Campos
+,,515.0,2.0,,,Mariana de Almeida Campos
+,,387.0,2.0,,,Mariana de Almeida Campos
+,,309.0,45.0,,,Mariana de Almeida Campos
+,,286.0,2.0,,,Mariana de Almeida Campos
+,,226.0,2.0,,,Mariana de Almeida Campos
+,,580.0,2.0,QUA,08:50 às 10:40,Mariana de Almeida Campos
+,,515.0,2.0,,,Mariana de Almeida Campos
+,,387.0,2.0,,,Mariana de Almeida Campos
+,,309.0,45.0,,,Mariana de Almeida Campos
+,,286.0,2.0,,,Mariana de Almeida Campos
+,,226.0,2.0,,,Mariana de Almeida Campos
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FCHB47 - HISTÓRIA DA FILOSOFIA CONTEMPORÂNEA I,10000.0,580.0,1.0,SEG,08:50 às 10:40,Acylene Maria Cabral Ferreira
+,,515.0,1.0,,,Acylene Maria Cabral Ferreira
+,,309.0,45.0,,,Acylene Maria Cabral Ferreira
+,,226.0,1.0,,,Acylene Maria Cabral Ferreira
+,,580.0,1.0,QUA,08:50 às 10:40,Acylene Maria Cabral Ferreira
+,,515.0,1.0,,,Acylene Maria Cabral Ferreira
+,,309.0,45.0,,,Acylene Maria Cabral Ferreira
+,,226.0,1.0,,,Acylene Maria Cabral Ferreira
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FCHB48 - HISTÓRIA DA FILOSOFIA CONTEMPORÂNEA II,10000.0,309.0,2.0,SEG,13:55 às 15:45,Vinicius dos Santos
+,,,,SEX,13:55 às 15:45,Docente Substituto a Contratar
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FCHB50 - LEITURA E REDAÇÃO DE TEXTO FILOSÓFICO,10000.0,309.0,20.0,TER,07:00 às 08:50,Carlota Maria Ibertis de Lassalle Casana
+,,,,QUI,07:00 às 08:50,Carlota Maria Ibertis de Lassalle Casana
+,20000.0,309.0,20.0,TER,07:00 às 08:50,Daniel Tourinho Peres
+,,,,QUI,07:00 às 08:50,Daniel Tourinho Peres
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FCHB52 - LÓGICA E LINGUAGEM,10000.0,309.0,50.0,TER,08:50 às 10:40,Giovanni Rolla
+,,,,QUI,08:50 às 10:40,Giovanni Rolla
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FCHB54 - FILOSOFIA E CIÊNCIA,10000.0,580.0,2.0,TER,08:50 às 10:40,Abel Lassalle Casanave
+,,515.0,2.0,,,Abel Lassalle Casanave
+,,387.0,2.0,,,Abel Lassalle Casanave
+,,313.0,5.0,,,Abel Lassalle Casanave
+,,309.0,45.0,,,Abel Lassalle Casanave
+,,226.0,2.0,,,Abel Lassalle Casanave
+,,580.0,2.0,QUI,08:50 às 10:40,Abel Lassalle Casanave
+,,515.0,2.0,,,Abel Lassalle Casanave
+,,387.0,2.0,,,Abel Lassalle Casanave
+,,313.0,5.0,,,Abel Lassalle Casanave
+,,309.0,45.0,,,Abel Lassalle Casanave
+,,226.0,2.0,,,Abel Lassalle Casanave
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FCHB55 - TUTORIA I,100.0,309.0,1.0,CMB,00:00 às 23:00,Giovanni Rolla
+,200.0,309.0,3.0,CMB,00:00 às 23:00,Abel Lassalle Casanave
+,300.0,309.0,1.0,CMB,00:00 às 23:00,Ricardo Calheiros Pereira
+,400.0,309.0,1.0,CMB,00:00 às 23:00,Juliana Ortegosa Aggio
+,500.0,309.0,1.0,CMB,00:00 às 23:00,Vinicius dos Santos
+,600.0,309.0,1.0,CMB,00:00 às 23:00,Daniel Tourinho Peres
+,700.0,309.0,1.0,CMB,00:00 às 23:00,Waldomiro Jose da Silva Filho
+,800.0,309.0,1.0,CMB,00:00 às 23:00,Genildo Ferreira da Silva
+,900.0,309.0,1.0,CMB,00:00 às 23:00,Carlota Maria Ibertis de Lassalle Casana
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FCHB56 - TUTORIA II,100.0,309.0,1.0,CMB,00:00 às 23:00,Giovanni Rolla
+,200.0,309.0,1.0,CMB,00:00 às 23:00,Abel Lassalle Casanave
+,300.0,309.0,1.0,CMB,00:00 às 23:00,Ricardo Calheiros Pereira
+,400.0,309.0,2.0,CMB,00:00 às 23:00,Leonardo Jorge da Hora Pereira
+,500.0,309.0,1.0,CMB,00:00 às 23:00,Rafael Lopes Azize
+,600.0,309.0,2.0,CMB,00:00 às 23:00,Carlota Maria Ibertis de Lassalle Casana
+,700.0,309.0,3.0,CMB,00:00 às 23:00,Vinicius dos Santos
+,800.0,309.0,3.0,CMB,00:00 às 23:00,Genildo Ferreira da Silva
+,900.0,309.0,1.0,CMB,00:00 às 23:00,Gislene Vale dos Santos
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FCHB57 - TUTORIA III,100.0,309.0,1.0,CMB,00:00 às 23:00,Kleverton Bacelar Santana
+,200.0,309.0,2.0,CMB,00:00 às 23:00,Carlota Maria Ibertis de Lassalle Casana
+,300.0,309.0,1.0,CMB,00:00 às 23:00,Jarlee Oliveira Silva Salviano
+,400.0,309.0,2.0,CMB,00:00 às 23:00,Leonardo Jorge da Hora Pereira
+,500.0,309.0,1.0,CMB,00:00 às 23:00,Waldomiro Jose da Silva Filho
+,600.0,309.0,1.0,CMB,00:00 às 23:00,Daniel Tourinho Peres
+,700.0,309.0,1.0,CMB,00:00 às 23:00,Juliana Ortegosa Aggio
+,800.0,309.0,1.0,CMB,00:00 às 23:00,Genildo Ferreira da Silva
+,900.0,309.0,1.0,CMB,00:00 às 23:00,Gislene Vale dos Santos
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FCHB58 - TUTORIA IV,100.0,309.0,1.0,CMB,00:00 às 23:00,Abel Lassalle Casanave
+,200.0,309.0,1.0,CMB,00:00 às 23:00,Jarlee Oliveira Silva Salviano
+,300.0,309.0,1.0,CMB,00:00 às 23:00,Leonardo Jorge da Hora Pereira
+,400.0,309.0,1.0,CMB,00:00 às 23:00,Rafael Lopes Azize
+,500.0,309.0,1.0,CMB,00:00 às 23:00,Acylene Maria Cabral Ferreira
+,600.0,309.0,1.0,CMB,00:00 às 23:00,Juliana Ortegosa Aggio
+,700.0,309.0,1.0,CMB,00:00 às 23:00,Genildo Ferreira da Silva
+,800.0,309.0,1.0,CMB,00:00 às 23:00,Marco Aurelio Oliveira da Silva
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FCHB59 - SEMINÁRIO DE PESQUISA,10000.0,309.0,2.0,CMB,00:00 às 23:00,Leonardo Jorge da Hora Pereira
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FCHB60 - MONOGRAFIA FINAL - BACHARELADO,100.0,309.0,1.0,CMB,00:00 às 23:00,Abel Lassalle Casanave
+,200.0,309.0,1.0,CMB,00:00 às 23:00,Leonardo Jorge da Hora Pereira
+,300.0,309.0,1.0,CMB,00:00 às 23:00,Rafael Lopes Azize
+,400.0,309.0,1.0,CMB,00:00 às 23:00,Vanessa Sievers de Almeida
+,500.0,309.0,1.0,CMB,00:00 às 23:00,Jarlee Oliveira Silva Salviano
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FCHB62 - TÓPICOS ESPECIAIS EM FILOSOFIA POLÍTICA,10000.0,580.0,2.0,SEX,08:50 às 12:30,Daniel Tourinho Peres
+,,515.0,2.0,,,Daniel Tourinho Peres
+,,327.0,2.0,,,Daniel Tourinho Peres
+,,309.0,20.0,,,Daniel Tourinho Peres
+,20000.0,580.0,2.0,QUA,13:55 às 17:35,Genildo Ferreira da Silva
+,,515.0,2.0,,,Genildo Ferreira da Silva
+,,327.0,2.0,,,Genildo Ferreira da Silva
+,,309.0,20.0,,,Genildo Ferreira da Silva
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FCHB63 - TÓPICOS ESPECIAIS EM FILOSOFIA,10000.0,580.0,2.0,TER,10:40 às 12:30,Andre Jacques Louis Adrien Berten
+,,515.0,2.0,,,Andre Jacques Louis Adrien Berten
+,,327.0,2.0,,,Andre Jacques Louis Adrien Berten
+,,309.0,35.0,,,Andre Jacques Louis Adrien Berten
+,,226.0,2.0,,,Andre Jacques Louis Adrien Berten
+,,580.0,2.0,QUI,10:40 às 12:30,Andre Jacques Louis Adrien Berten
+,,515.0,2.0,,,Andre Jacques Louis Adrien Berten
+,,327.0,2.0,,,Andre Jacques Louis Adrien Berten
+,,309.0,35.0,,,Andre Jacques Louis Adrien Berten
+,,226.0,2.0,,,Andre Jacques Louis Adrien Berten
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FCHB64 - TÓPICOS ESPECIAIS EM FILOSOFIA ANTIGA,10000.0,580.0,2.0,SEG,10:40 às 12:30,Gislene Vale dos Santos
+,,515.0,2.0,,,Gislene Vale dos Santos
+,,327.0,3.0,,,Gislene Vale dos Santos
+,,309.0,35.0,,,Gislene Vale dos Santos
+,,226.0,2.0,,,Gislene Vale dos Santos
+,,580.0,2.0,QUA,10:40 às 12:30,Gislene Vale dos Santos
+,,515.0,2.0,,,Gislene Vale dos Santos
+,,327.0,3.0,,,Gislene Vale dos Santos
+,,309.0,35.0,,,Gislene Vale dos Santos
+,,226.0,2.0,,,Gislene Vale dos Santos
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FCHB66 - TÓPICOS ESPECIAIS EM FILOSOFIA CONTEMPORÂNEA,10000.0,580.0,2.0,SEX,08:50 às 12:30,Abel Lassalle Casanave
+,,515.0,2.0,,,Abel Lassalle Casanave
+,,387.0,3.0,,,Abel Lassalle Casanave
+,,327.0,3.0,,,Abel Lassalle Casanave
+,,313.0,2.0,,,Abel Lassalle Casanave
+,,309.0,35.0,,,Abel Lassalle Casanave
+,,226.0,2.0,,,Abel Lassalle Casanave
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FCHB74 - TÓPICOS ESPECIAIS EM ÉTICA,10000.0,580.0,2.0,TER,10:40 às 12:30,Jarlee Oliveira Silva Salviano
+,,515.0,2.0,,,Jarlee Oliveira Silva Salviano
+,,327.0,2.0,,,Jarlee Oliveira Silva Salviano
+,,309.0,20.0,,,Jarlee Oliveira Silva Salviano
+,,580.0,2.0,QUI,10:40 às 12:30,Jarlee Oliveira Silva Salviano
+,,515.0,2.0,,,Jarlee Oliveira Silva Salviano
+,,327.0,2.0,,,Jarlee Oliveira Silva Salviano
+,,309.0,20.0,,,Jarlee Oliveira Silva Salviano
+,20000.0,313.0,5.0,SEG,10:40 às 12:30,Juliana Ortegosa Aggio
+,,309.0,20.0,,,Juliana Ortegosa Aggio
+,,226.0,2.0,,,Juliana Ortegosa Aggio
+,,313.0,5.0,QUA,10:40 às 12:30,Juliana Ortegosa Aggio
+,,309.0,20.0,,,Juliana Ortegosa Aggio
+,,226.0,2.0,,,Juliana Ortegosa Aggio
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FCHB77 - TÓPICOS ESPECIAIS EM HERMENÊUTICA,10000.0,309.0,35.0,SEG,13:55 às 17:35,Acylene Maria Cabral Ferreira
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FCHC33 - ÉTICA I - A,10000.0,309.0,45.0,TER,08:50 às 10:40,Jarlee Oliveira Silva Salviano
+,,,,QUI,08:50 às 10:40,Jarlee Oliveira Silva Salviano
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FCHC45 - METODOLOGIA E EXPRESSÃO TÉCNICO-CIENTÍFICA,10000.0,327.0,5.0,SEG,14:50 às 16:40,Umeru Bahia de Azevedo
+,,190.0,3.0,,,Umeru Bahia de Azevedo
+,,189.0,1.0,,,Umeru Bahia de Azevedo
+,,116.0,1.0,,,Umeru Bahia de Azevedo
+,,112.0,45.0,,,Umeru Bahia de Azevedo
+,,327.0,5.0,QUA,14:50 às 16:40,Umeru Bahia de Azevedo
+,,190.0,3.0,,,Umeru Bahia de Azevedo
+,,189.0,1.0,,,Umeru Bahia de Azevedo
+,,116.0,1.0,,,Umeru Bahia de Azevedo
+,,112.0,45.0,,,Umeru Bahia de Azevedo
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FCHC67 - MONOGRAFIA FINAL - LICENCIATURA,100.0,309.0,3.0,CMB,00:00 às 23:00,Leonardo Jorge da Hora Pereira
+,200.0,309.0,4.0,CMB,00:00 às 23:00,Jarlee Oliveira Silva Salviano
+,300.0,309.0,1.0,CMB,00:00 às 23:00,Carlota Maria Ibertis de Lassalle Casana
+,400.0,309.0,1.0,CMB,00:00 às 23:00,Genildo Ferreira da Silva
+,500.0,309.0,1.0,CMB,00:00 às 23:00,Marco Aurelio Oliveira da Silva
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FCHC97 - ESTUDOS MONOGRÁFICOS I,10100.0,386.0,3.0,CMB,00:00 às 23:00,Ana Carolina Barbosa Pereira
+,,310.0,5.0,,,Ana Carolina Barbosa Pereira
+,10200.0,386.0,3.0,CMB,00:00 às 23:00,Ana Paula Medicci
+,,310.0,5.0,,,Ana Paula Medicci
+,10300.0,386.0,3.0,CMB,00:00 às 23:00,Antonio Luigi Negro
+,,310.0,5.0,,,Antonio Luigi Negro
+,10400.0,386.0,3.0,CMB,00:00 às 23:00,Antonio Mauricio Freitas Brito
+,,310.0,5.0,,,Antonio Mauricio Freitas Brito
+,10500.0,386.0,3.0,CMB,00:00 às 23:00,Carlos Zacarias Figueiroa de Sena Junior
+,,310.0,5.0,,,Carlos Zacarias Figueiroa de Sena Junior
+,10600.0,386.0,3.0,CMB,00:00 às 23:00,Edilece Souza Couto
+,,310.0,5.0,,,Edilece Souza Couto
+,10700.0,386.0,3.0,CMB,00:00 às 23:00,Gabriela dos Reis Sampaio
+,,310.0,5.0,,,Gabriela dos Reis Sampaio
+,10800.0,386.0,3.0,CMB,00:00 às 23:00,George Evergton Sales Souza
+,,310.0,5.0,,,George Evergton Sales Souza
+,10900.0,386.0,3.0,CMB,00:00 às 23:00,Iacy Maia Mata
+,,310.0,5.0,,,Iacy Maia Mata
+,11000.0,386.0,3.0,CMB,00:00 às 23:00,Iraneidson Santos Costa
+,,310.0,5.0,,,Iraneidson Santos Costa
+,11100.0,386.0,3.0,CMB,00:00 às 23:00,Juliana Torres Rodrigues Pereira
+,,310.0,5.0,,,Juliana Torres Rodrigues Pereira
+,11200.0,386.0,3.0,CMB,00:00 às 23:00,Laura de Oliveira
+,,310.0,5.0,,,Laura de Oliveira
+,11300.0,310.0,5.0,CMB,00:00 às 23:00,Lina Maria Brandao de Aras
+,11400.0,386.0,3.0,CMB,00:00 às 23:00,Lucileide Costa Cardoso
+,,310.0,5.0,,,Lucileide Costa Cardoso
+,11500.0,386.0,3.0,CMB,00:00 às 23:00,Marcelo Pereira Lima
+,,310.0,5.0,,,Marcelo Pereira Lima
+,11600.0,310.0,5.0,CMB,00:00 às 23:00,Maria de Fatima Novaes Pires
+,,386.0,3.0,,,Maria de Fatima Novaes Pires
+,11700.0,386.0,3.0,CMB,00:00 às 23:00,Maria Hilda Baqueiro Paraiso
+,,310.0,5.0,,,Maria Hilda Baqueiro Paraiso
+,11800.0,386.0,3.0,CMB,00:00 às 23:00,Marina Regis Cavicchioli
+,,310.0,5.0,,,Marina Regis Cavicchioli
+,11900.0,386.0,3.0,CMB,00:00 às 23:00,Milton Araujo Moura
+,,310.0,5.0,,,Milton Araujo Moura
+,12000.0,386.0,3.0,CMB,00:00 às 23:00,Moreno Laborda Pacheco
+,,310.0,5.0,,,Moreno Laborda Pacheco
+,12100.0,386.0,3.0,CMB,00:00 às 23:00,Patricia Valim
+,,310.0,5.0,,,Patricia Valim
+,12200.0,386.0,3.0,CMB,00:00 às 23:00,Rodrigo Perez Oliveira
+,,310.0,5.0,,,Rodrigo Perez Oliveira
+,12300.0,386.0,3.0,CMB,00:00 às 23:00,Valdemir Donizette Zamparoni
+,,310.0,5.0,,,Valdemir Donizette Zamparoni
+,12400.0,386.0,3.0,CMB,00:00 às 23:00,Vinicius Donizete de Rezende
+,,310.0,5.0,,,Vinicius Donizete de Rezende
+,12500.0,386.0,3.0,CMB,00:00 às 23:00,Wlamyra Ribeiro de Albuquerque
+,,310.0,5.0,,,Wlamyra Ribeiro de Albuquerque
+,12600.0,310.0,5.0,CMB,00:00 às 23:00,Cassia Maria Muniz Carletto
+,12700.0,310.0,2.0,CMB,00:00 às 23:00,Alex Andrade Costa
+,12800.0,310.0,1.0,CMB,00:00 às 23:00,Marcial Humberto Saavedra Castro
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FCHC98 - ESTUDOS MONOGRÁFICOS II,10100.0,386.0,3.0,CMB,00:00 às 23:00,Ana Carolina Barbosa Pereira
+,,310.0,5.0,,,Ana Carolina Barbosa Pereira
+,10200.0,386.0,3.0,CMB,00:00 às 23:00,Ana Paula Medicci
+,,310.0,5.0,,,Ana Paula Medicci
+,10300.0,386.0,3.0,CMB,00:00 às 23:00,Antonio Luigi Negro
+,,310.0,5.0,,,Antonio Luigi Negro
+,10400.0,386.0,3.0,CMB,00:00 às 23:00,Antonio Mauricio Freitas Brito
+,,310.0,5.0,,,Antonio Mauricio Freitas Brito
+,10500.0,386.0,3.0,CMB,00:00 às 23:00,Carlos Zacarias Figueiroa de Sena Junior
+,,310.0,5.0,,,Carlos Zacarias Figueiroa de Sena Junior
+,10600.0,386.0,3.0,CMB,00:00 às 23:00,Edilece Souza Couto
+,,310.0,5.0,,,Edilece Souza Couto
+,10700.0,310.0,5.0,CMB,00:00 às 23:00,Gabriela dos Reis Sampaio
+,10800.0,386.0,3.0,CMB,00:00 às 23:00,George Evergton Sales Souza
+,,310.0,5.0,,,George Evergton Sales Souza
+,10900.0,386.0,3.0,CMB,00:00 às 23:00,Iacy Maia Mata
+,,310.0,5.0,,,Iacy Maia Mata
+,11000.0,386.0,3.0,CMB,00:00 às 23:00,Iraneidson Santos Costa
+,,310.0,5.0,,,Iraneidson Santos Costa
+,11100.0,386.0,3.0,CMB,00:00 às 23:00,Juliana Torres Rodrigues Pereira
+,,310.0,5.0,,,Juliana Torres Rodrigues Pereira
+,11200.0,386.0,3.0,CMB,00:00 às 23:00,Laura de Oliveira
+,,310.0,5.0,,,Laura de Oliveira
+,11300.0,386.0,3.0,CMB,00:00 às 23:00,Lina Maria Brandao de Aras
+,,310.0,5.0,,,Lina Maria Brandao de Aras
+,11400.0,386.0,3.0,CMB,00:00 às 23:00,Lucileide Costa Cardoso
+,,310.0,5.0,,,Lucileide Costa Cardoso
+,11500.0,386.0,3.0,CMB,00:00 às 23:00,Marcelo Pereira Lima
+,,310.0,5.0,,,Marcelo Pereira Lima
+,11600.0,386.0,3.0,CMB,00:00 às 23:00,Maria de Fatima Novaes Pires
+,,310.0,5.0,,,Maria de Fatima Novaes Pires
+,11700.0,386.0,3.0,CMB,00:00 às 23:00,Maria Hilda Baqueiro Paraiso
+,,310.0,5.0,,,Maria Hilda Baqueiro Paraiso
+,11800.0,386.0,3.0,CMB,00:00 às 23:00,Marina Regis Cavicchioli
+,,310.0,5.0,,,Marina Regis Cavicchioli
+,11900.0,386.0,3.0,CMB,00:00 às 23:00,Milton Araujo Moura
+,,310.0,5.0,,,Milton Araujo Moura
+,12000.0,386.0,3.0,CMB,00:00 às 23:00,Moreno Laborda Pacheco
+,,310.0,5.0,,,Moreno Laborda Pacheco
+,12100.0,386.0,3.0,CMB,00:00 às 23:00,Patricia Valim
+,,310.0,5.0,,,Patricia Valim
+,12200.0,386.0,3.0,CMB,00:00 às 23:00,Rodrigo Perez Oliveira
+,,310.0,3.0,,,Rodrigo Perez Oliveira
+,12300.0,386.0,3.0,CMB,00:00 às 23:00,Rodrigo Perez Oliveira
+,,310.0,5.0,,,Rodrigo Perez Oliveira
+,12400.0,386.0,3.0,CMB,00:00 às 23:00,Vinicius Donizete de Rezende
+,,310.0,5.0,,,Vinicius Donizete de Rezende
+,12500.0,386.0,3.0,CMB,00:00 às 23:00,Wlamyra Ribeiro de Albuquerque
+,,310.0,5.0,,,Wlamyra Ribeiro de Albuquerque
+,12600.0,386.0,3.0,CMB,00:00 às 23:00,Cassia Maria Muniz Carletto
+,,310.0,5.0,,,Cassia Maria Muniz Carletto
+,12700.0,310.0,2.0,CMB,00:00 às 23:00,Alex Andrade Costa
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FCHD91 - HISTÓRIA DA ÁFRICA II,10000.0,386.0,5.0,SEX,07:55 às 09:45,Valdemir Donizette Zamparoni
+,,383.0,2.0,,,Valdemir Donizette Zamparoni
+,,310.0,45.0,,,Valdemir Donizette Zamparoni
+,,386.0,5.0,,09:45 às 11:35,Valdemir Donizette Zamparoni
+,,383.0,2.0,,,Valdemir Donizette Zamparoni
+,,310.0,45.0,,,Valdemir Donizette Zamparoni
+,20000.0,387.0,3.0,QUI,18:30 às 22:10,Valdemir Donizette Zamparoni
+,,386.0,30.0,,,Valdemir Donizette Zamparoni
+,,310.0,15.0,,,Valdemir Donizette Zamparoni
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FCHD96 - TEORIA DA HISTÓRIA,10000.0,386.0,5.0,TER,07:00 às 08:50,Ana Carolina Barbosa Pereira
+,,310.0,40.0,,,Ana Carolina Barbosa Pereira
+,,386.0,5.0,,08:50 às 10:40,Ana Carolina Barbosa Pereira
+,,310.0,40.0,,,Ana Carolina Barbosa Pereira
+,20000.0,386.0,15.0,QUI,18:30 às 19:25,Ana Carolina Barbosa Pereira
+,,310.0,10.0,,,Ana Carolina Barbosa Pereira
+,,386.0,15.0,,19:25 às 22:10,Ana Carolina Barbosa Pereira
+,,310.0,10.0,,,Ana Carolina Barbosa Pereira
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FCHE02 - INTRODUÇÃO AOS ESTUDOS DE GÊNERO,10100.0,383.0,5.0,SEG,13:00 às 15:45,Docente Substituto a Contratar
+,,327.0,5.0,,,Docente Substituto a Contratar
+,,325.0,3.0,,,Docente Substituto a Contratar
+,,312.0,2.0,,,Docente Substituto a Contratar
+,,311.0,2.0,,,Docente Substituto a Contratar
+,,310.0,4.0,,,Docente Substituto a Contratar
+,,309.0,2.0,,,Docente Substituto a Contratar
+,,306.0,2.0,,,Docente Substituto a Contratar
+,,197.0,2.0,,,Docente Substituto a Contratar
+,,194.0,2.0,,,Docente Substituto a Contratar
+,,188.0,1.0,,,Docente Substituto a Contratar
+,,186.0,2.0,,,Docente Substituto a Contratar
+,,185.0,2.0,,,Docente Substituto a Contratar
+,,107.0,2.0,,,Docente Substituto a Contratar
+,,106.0,2.0,,,Docente Substituto a Contratar
+,,313.0,3.0,,,Docente Substituto a Contratar
+,,105.0,2.0,,,Docente Substituto a Contratar
+,,104.0,2.0,,,Docente Substituto a Contratar
+,,103.0,2.0,,,Docente Substituto a Contratar
+,,386.0,1.0,,,Docente Substituto a Contratar
+,,102.0,2.0,,,Docente Substituto a Contratar
+,,386.0,1.0,,15:45 às 16:40,Docente Substituto a Contratar
+,,383.0,5.0,,,Docente Substituto a Contratar
+,,327.0,5.0,,,Docente Substituto a Contratar
+,,325.0,3.0,,,Docente Substituto a Contratar
+,,313.0,3.0,,,Docente Substituto a Contratar
+,,311.0,2.0,,,Docente Substituto a Contratar
+,,310.0,4.0,,,Docente Substituto a Contratar
+,,309.0,2.0,,,Docente Substituto a Contratar
+,,306.0,2.0,,,Docente Substituto a Contratar
+,,197.0,2.0,,,Docente Substituto a Contratar
+,,194.0,2.0,,,Docente Substituto a Contratar
+,,188.0,1.0,,,Docente Substituto a Contratar
+,,186.0,2.0,,,Docente Substituto a Contratar
+,,185.0,2.0,,,Docente Substituto a Contratar
+,,312.0,2.0,,,Docente Substituto a Contratar
+,,107.0,2.0,,,Docente Substituto a Contratar
+,,106.0,2.0,,,Docente Substituto a Contratar
+,,105.0,2.0,,,Docente Substituto a Contratar
+,,104.0,2.0,,,Docente Substituto a Contratar
+,,103.0,2.0,,,Docente Substituto a Contratar
+,,102.0,2.0,,,Docente Substituto a Contratar
+,20200.0,506.0,3.0,QUA,18:30 às 20:20,Docente Substituto a Contratar
+,,387.0,7.0,,,Docente Substituto a Contratar
+,,386.0,3.0,,,Docente Substituto a Contratar
+,,385.0,5.0,,,Docente Substituto a Contratar
+,,383.0,5.0,,,Docente Substituto a Contratar
+,,382.0,2.0,,,Docente Substituto a Contratar
+,,327.0,2.0,,,Docente Substituto a Contratar
+,,325.0,5.0,,,Docente Substituto a Contratar
+,,314.0,2.0,,,Docente Substituto a Contratar
+,,313.0,5.0,,,Docente Substituto a Contratar
+,,310.0,2.0,,,Docente Substituto a Contratar
+,,286.0,3.0,,,Docente Substituto a Contratar
+,,189.0,2.0,,,Docente Substituto a Contratar
+,,183.0,2.0,,,Docente Substituto a Contratar
+,,111.0,2.0,,,Docente Substituto a Contratar
+,,506.0,3.0,,20:20 às 22:10,Docente Substituto a Contratar
+,,387.0,7.0,,,Docente Substituto a Contratar
+,,386.0,3.0,,,Docente Substituto a Contratar
+,,385.0,5.0,,,Docente Substituto a Contratar
+,,383.0,5.0,,,Docente Substituto a Contratar
+,,382.0,2.0,,,Docente Substituto a Contratar
+,,327.0,2.0,,,Docente Substituto a Contratar
+,,325.0,5.0,,,Docente Substituto a Contratar
+,,314.0,2.0,,,Docente Substituto a Contratar
+,,313.0,5.0,,,Docente Substituto a Contratar
+,,310.0,2.0,,,Docente Substituto a Contratar
+,,286.0,3.0,,,Docente Substituto a Contratar
+,,189.0,2.0,,,Docente Substituto a Contratar
+,,183.0,2.0,,,Docente Substituto a Contratar
+,,111.0,2.0,,,Docente Substituto a Contratar
+,30300.0,506.0,2.0,TER,13:00 às 15:45,Rebeca Sobral Freire
+,,387.0,2.0,,,Rebeca Sobral Freire
+,,383.0,5.0,,,Rebeca Sobral Freire
+,,327.0,5.0,,,Rebeca Sobral Freire
+,,325.0,3.0,,,Rebeca Sobral Freire
+,,313.0,3.0,,,Rebeca Sobral Freire
+,,312.0,2.0,,,Rebeca Sobral Freire
+,,311.0,2.0,,,Rebeca Sobral Freire
+,,310.0,5.0,,,Rebeca Sobral Freire
+,,309.0,2.0,,,Rebeca Sobral Freire
+,,307.0,2.0,,,Rebeca Sobral Freire
+,,306.0,2.0,,,Rebeca Sobral Freire
+,,226.0,3.0,,,Rebeca Sobral Freire
+,,190.0,2.0,,,Rebeca Sobral Freire
+,,186.0,2.0,,,Rebeca Sobral Freire
+,,111.0,2.0,,,Rebeca Sobral Freire
+,,106.0,2.0,,,Rebeca Sobral Freire
+,,102.0,2.0,,,Rebeca Sobral Freire
+,,506.0,2.0,,15:45 às 16:40,Rebeca Sobral Freire
+,,387.0,2.0,,,Rebeca Sobral Freire
+,,383.0,5.0,,,Rebeca Sobral Freire
+,,327.0,5.0,,,Rebeca Sobral Freire
+,,325.0,3.0,,,Rebeca Sobral Freire
+,,313.0,3.0,,,Rebeca Sobral Freire
+,,312.0,2.0,,,Rebeca Sobral Freire
+,,311.0,2.0,,,Rebeca Sobral Freire
+,,310.0,5.0,,,Rebeca Sobral Freire
+,,309.0,2.0,,,Rebeca Sobral Freire
+,,307.0,2.0,,,Rebeca Sobral Freire
+,,306.0,2.0,,,Rebeca Sobral Freire
+,,226.0,3.0,,,Rebeca Sobral Freire
+,,190.0,2.0,,,Rebeca Sobral Freire
+,,186.0,2.0,,,Rebeca Sobral Freire
+,,111.0,2.0,,,Rebeca Sobral Freire
+,,106.0,2.0,,,Rebeca Sobral Freire
+,,102.0,2.0,,,Rebeca Sobral Freire
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FCHE04 - GÊNERO E RELAÇÕES DE PODER,10100.0,387.0,7.0,SEX,18:30 às 20:20,Docente Substituto a Contratar
+,,383.0,35.0,,,Docente Substituto a Contratar
+,,327.0,3.0,,,Docente Substituto a Contratar
+,,306.0,3.0,,,Docente Substituto a Contratar
+,,286.0,2.0,,,Docente Substituto a Contratar
+,,387.0,7.0,,20:20 às 22:10,Docente Substituto a Contratar
+,,383.0,35.0,,,Docente Substituto a Contratar
+,,327.0,3.0,,,Docente Substituto a Contratar
+,,306.0,3.0,,,Docente Substituto a Contratar
+,,286.0,2.0,,,Docente Substituto a Contratar
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FCHE05 - GÊNERO E LINGUAGEM,10100.0,387.0,5.0,SEG,18:30 às 20:20,Clarice Costa Pinheiro
+,,383.0,40.0,,,Clarice Costa Pinheiro
+,,327.0,5.0,,,Clarice Costa Pinheiro
+,,387.0,5.0,,20:20 às 22:10,Clarice Costa Pinheiro
+,,383.0,40.0,,,Clarice Costa Pinheiro
+,,327.0,5.0,,,Clarice Costa Pinheiro
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FCHE17 - HISTÓRIA DAS MULHERES E GÊNERO,10000.0,387.0,10.0,TER,18:30 às 22:10,Docente Substituto a Contratar
+,,383.0,30.0,,,Docente Substituto a Contratar
+,,382.0,2.0,,,Docente Substituto a Contratar
+,,325.0,3.0,,,Docente Substituto a Contratar
+,,313.0,3.0,,,Docente Substituto a Contratar
+,,286.0,2.0,,,Docente Substituto a Contratar
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FCHE18 - HISTÓRIA DO FEMINISMO NO MUNDO E NO BRASIL,10000.0,387.0,5.0,QUA,13:00 às 16:40,Iole Macedo Vanin
+,,386.0,2.0,,,Iole Macedo Vanin
+,,383.0,30.0,,,Iole Macedo Vanin
+,,327.0,5.0,,,Iole Macedo Vanin
+,,310.0,4.0,,,Iole Macedo Vanin
+,,309.0,2.0,,,Iole Macedo Vanin
+,,306.0,2.0,,,Iole Macedo Vanin
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FCHE19 - GENERO E INTERSECCIONALIDADES,10000.0,387.0,10.0,TER,18:30 às 22:10,Caroline Barreto de Lima
+,,383.0,30.0,,,Caroline Barreto de Lima
+,,327.0,5.0,,,Caroline Barreto de Lima
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FCHE22 - GENERO E GERAÇÃO,10000.0,387.0,5.0,SEG,18:30 às 22:10,Marcia dos Santos Macedo
+,,383.0,30.0,,,Marcia dos Santos Macedo
+,,306.0,3.0,,,Marcia dos Santos Macedo
+,,189.0,2.0,,,Marcia dos Santos Macedo
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FCHE23 - INICIAÇAO CENTÍFICA AOS ESTUDOS DE GENERO 1,10000.0,383.0,20.0,TER,18:30 às 22:10,Darlane Silva Vieira Andrade
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FCHE24 - INICIAÇÃO CIENTÍFICA AOS ESTUDOS DE GÊNERO II,10000.0,383.0,25.0,SEG,18:30 às 22:10,Rebeca Sobral Freire
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FCHE25 - GENERO E POLÍTICAS PÚBLICAS III,10000.0,383.0,25.0,TER,18:30 às 22:10,Maise Caroline Zucco
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FCHE28 - ESTÁGIO SUPERVISIONADO EM GENERO E DIVERSIDADES I,1.0,383.0,12.0,SEX,18:30 às 20:20,Darlane Silva Vieira Andrade
+,,,,CMB,00:00 às 00:00,Darlane Silva Vieira Andrade
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FCHE30 - ESTÁGIO SUPERVISIONADO EM GENERO E DIVERSIDADE III,1.0,383.0,12.0,SEX,20:20 às 22:10,Darlane Silva Vieira Andrade
+,,,,CMB,00:00 às 00:00,Darlane Silva Vieira Andrade
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FCHE31 - ORIENTAÇÃO MONOGRÁFICA I,100.0,383.0,3.0,CMB,00:00 às 23:00,Caroline Barreto de Lima
+,200.0,383.0,3.0,CMB,00:00 às 23:00,Clarice Costa Pinheiro
+,300.0,383.0,3.0,CMB,00:00 às 23:00,Darlane Silva Vieira Andrade
+,400.0,383.0,3.0,CMB,00:00 às 23:00,Iole Macedo Vanin
+,500.0,383.0,3.0,CMB,00:00 às 23:00,Maise Caroline Zucco
+,600.0,383.0,3.0,CMB,00:00 às 23:00,Maira Kubik Taveira Mano
+,700.0,383.0,3.0,CMB,00:00 às 23:00,Marcia dos Santos Macedo
+,800.0,383.0,3.0,CMB,00:00 às 23:00,Mariangela Moreira Nascimento
+,900.0,383.0,3.0,CMB,00:00 às 23:00,Rosangela Janja Costa Araujo
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FCHE32 - ORIENTAÇÃO MONOGRÁFICA II,100.0,383.0,3.0,CMB,00:00 às 23:00,Caroline Barreto de Lima
+,200.0,383.0,3.0,CMB,00:00 às 23:00,Clarice Costa Pinheiro
+,300.0,383.0,3.0,CMB,00:00 às 23:00,Darlane Silva Vieira Andrade
+,400.0,383.0,3.0,CMB,00:00 às 23:00,Iole Macedo Vanin
+,500.0,383.0,3.0,CMB,00:00 às 23:00,Maise Caroline Zucco
+,600.0,383.0,3.0,CMB,00:00 às 23:00,Maira Kubik Taveira Mano
+,700.0,383.0,3.0,CMB,00:00 às 23:00,Marcia dos Santos Macedo
+,800.0,383.0,3.0,CMB,00:00 às 23:00,Mariangela Moreira Nascimento
+,900.0,383.0,3.0,CMB,00:00 às 23:00,Rosangela Janja Costa Araujo
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FCHE33 - MARXISMO E POLÍTICA,10000.0,387.0,5.0,QUA,18:30 às 22:10,Maira Kubik Taveira Mano
+,,386.0,5.0,,,Maira Kubik Taveira Mano
+,,383.0,30.0,,,Maira Kubik Taveira Mano
+,,327.0,3.0,,,Maira Kubik Taveira Mano
+,,310.0,2.0,,,Maira Kubik Taveira Mano
+,,306.0,5.0,,,Maira Kubik Taveira Mano
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FCHE36 - PEDAGOGIAS FEMINISTAS,10100.0,506.0,3.0,QUI,18:30 às 20:20,Rebeca Sobral Freire
+,,480.0,2.0,,,Rebeca Sobral Freire
+,,387.0,10.0,,,Rebeca Sobral Freire
+,,386.0,2.0,,,Rebeca Sobral Freire
+,,385.0,3.0,,,Rebeca Sobral Freire
+,,383.0,25.0,,,Rebeca Sobral Freire
+,,312.0,2.0,,,Rebeca Sobral Freire
+,,307.0,3.0,,,Rebeca Sobral Freire
+,,506.0,3.0,,20:20 às 22:10,Rebeca Sobral Freire
+,,480.0,2.0,,,Rebeca Sobral Freire
+,,387.0,10.0,,,Rebeca Sobral Freire
+,,386.0,2.0,,,Rebeca Sobral Freire
+,,385.0,3.0,,,Rebeca Sobral Freire
+,,383.0,25.0,,,Rebeca Sobral Freire
+,,312.0,2.0,,,Rebeca Sobral Freire
+,,307.0,3.0,,,Rebeca Sobral Freire
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FCHE39 - ORGANIZAÇÃO POLITICA DO BRASIL,10000.0,383.0,35.0,QUA,18:30 às 22:10,Mariangela Moreira Nascimento
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FCHE40 - GÊNERO E DESENVOLVIMENTO REGIONAL,10000.0,387.0,10.0,SEX,18:30 às 22:10,Docente Substituto a Contratar
+,,383.0,35.0,,,Docente Substituto a Contratar
+,,306.0,3.0,,,Docente Substituto a Contratar
+,,182.0,2.0,,,Docente Substituto a Contratar
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FCHE41 - GÊNERO E POLÍTICAS PÚBLICAS I,10000.0,383.0,35.0,QUI,18:30 às 22:10,Mariangela Moreira Nascimento
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FCHE45 - GÊNERO E CULTURA,10000.0,387.0,5.0,QUI,13:00 às 15:45,Rosangela Janja Costa Araujo
+,,383.0,10.0,,,Rosangela Janja Costa Araujo
+,,327.0,5.0,,,Rosangela Janja Costa Araujo
+,,313.0,2.0,,,Rosangela Janja Costa Araujo
+,,311.0,2.0,,,Rosangela Janja Costa Araujo
+,,310.0,2.0,,,Rosangela Janja Costa Araujo
+,,306.0,2.0,,,Rosangela Janja Costa Araujo
+,,286.0,5.0,,,Rosangela Janja Costa Araujo
+,,226.0,5.0,,,Rosangela Janja Costa Araujo
+,,190.0,5.0,,,Rosangela Janja Costa Araujo
+,,506.0,2.0,,,Rosangela Janja Costa Araujo
+,,189.0,5.0,,,Rosangela Janja Costa Araujo
+,,387.0,5.0,,15:45 às 16:40,Rosangela Janja Costa Araujo
+,,383.0,10.0,,,Rosangela Janja Costa Araujo
+,,327.0,5.0,,,Rosangela Janja Costa Araujo
+,,313.0,2.0,,,Rosangela Janja Costa Araujo
+,,311.0,2.0,,,Rosangela Janja Costa Araujo
+,,310.0,2.0,,,Rosangela Janja Costa Araujo
+,,306.0,2.0,,,Rosangela Janja Costa Araujo
+,,286.0,5.0,,,Rosangela Janja Costa Araujo
+,,226.0,5.0,,,Rosangela Janja Costa Araujo
+,,190.0,5.0,,,Rosangela Janja Costa Araujo
+,,506.0,2.0,,,Rosangela Janja Costa Araujo
+,,189.0,5.0,,,Rosangela Janja Costa Araujo
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FCHE46 - METODOLOGIA DE PROJETOS DE INTERVENÇÃO SOCIAL,10000.0,387.0,10.0,QUI,18:30 às 22:10,Docente Substituto a Contratar
+,,383.0,30.0,,,Docente Substituto a Contratar
+,,306.0,5.0,,,Docente Substituto a Contratar
+,,286.0,5.0,,,Docente Substituto a Contratar
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FCHE90 - PENSAMENTO ANTROPOLÓGICO CLÁSSICO NO BRASIL,10000.0,306.0,45.0,SEG,10:40 às 12:30,Bruna Pastro Zagatto
+,,,,QUA,10:40 às 12:30,Bruna Pastro Zagatto
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FCHE91 - ETNOGRAFIA,10000.0,506.0,5.0,TER,08:50 às 10:40,Fatima Regina Gomes Tavares
+,,387.0,1.0,,,Fatima Regina Gomes Tavares
+,,313.0,5.0,,,Fatima Regina Gomes Tavares
+,,311.0,2.0,,,Fatima Regina Gomes Tavares
+,,306.0,35.0,,,Fatima Regina Gomes Tavares
+,,506.0,5.0,QUI,08:50 às 10:40,Fatima Regina Gomes Tavares
+,,387.0,1.0,,,Fatima Regina Gomes Tavares
+,,313.0,5.0,,,Fatima Regina Gomes Tavares
+,,311.0,2.0,,,Fatima Regina Gomes Tavares
+,,306.0,35.0,,,Fatima Regina Gomes Tavares
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FCHE92 - EPISTEMOLOGIA DAS CIÊNCIAS SOCIAIS,10000.0,327.0,5.0,SEG,07:00 às 08:50,Alan Delazeri Mocellim
+,,306.0,45.0,,,Alan Delazeri Mocellim
+,,327.0,5.0,QUA,07:00 às 08:50,Alan Delazeri Mocellim
+,,306.0,45.0,,,Alan Delazeri Mocellim
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FCHE93 - PENSAMENTO POLÍTICO NO BRASIL,10000.0,387.0,5.0,SEG,08:50 às 10:40,Antonio Jorge Fonseca Sanches de Almeida
+,,306.0,55.0,,,Antonio Jorge Fonseca Sanches de Almeida
+,,387.0,5.0,QUA,08:50 às 10:40,Antonio Jorge Fonseca Sanches de Almeida
+,,306.0,55.0,,,Antonio Jorge Fonseca Sanches de Almeida
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FCHE94 - METODOLOGIA DE PROJETOS DE INTERVENÇÃO SOCIAL,10000.0,327.0,5.0,SEG,10:40 às 12:30,Sue Angelica Serra Iamamoto
+,,306.0,45.0,,,Sue Angelica Serra Iamamoto
+,,327.0,5.0,QUA,10:40 às 12:30,Sue Angelica Serra Iamamoto
+,,306.0,45.0,,,Sue Angelica Serra Iamamoto
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FCHE95 - METODOLOGIA QUALITATIVA EM CIÊNCIAS SOCIAIS,10000.0,306.0,35.0,TER,10:40 às 12:30,Carlos Alberto Caroso Soares
+,,,,QUI,10:40 às 12:30,Carlos Alberto Caroso Soares
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FCHE96 - METODOLOGIA QUANTITATIVA EM CIÊNCIAS SOCIAIS,10000.0,327.0,5.0,SEG,10:40 às 12:30,Luiz Claudio Lourenco
+,,306.0,30.0,,,Luiz Claudio Lourenco
+,,327.0,5.0,QUA,10:40 às 12:30,Luiz Claudio Lourenco
+,,306.0,30.0,,,Luiz Claudio Lourenco
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FCHE97 - SEMINÁRIO DE ANTROPOLOGIA,10000.0,306.0,30.0,SEX,08:50 às 09:45,Nubia Bento Rodrigues
+,,,,,09:45 às 12:30,Nubia Bento Rodrigues
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FCHE98 - PRÁTICA DE PESQUISA EM ANTROPOLOGIA,100.0,306.0,10.0,CMB,00:00 às 23:00,Docente não informado pelo Departamento
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FCHE99 - SEMINÁRIO DE CIÊNCIA POLÍTICA,10000.0,306.0,10.0,SEX,08:50 às 12:30,Carla Galvao Pereira Arantes
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FCHF01 - PRÁTICA DE PESQUISA EM CIÊNCIA POLÍTICA,1000.0,306.0,10.0,CMB,00:00 às 23:00,Docente não informado pelo Departamento
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FCHF02 - SEMINÁRIO DE SOCIOLOGIA,10000.0,306.0,20.0,SEX,08:50 às 12:30,Rafael de Aguiar Arantes
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FCHF03 - PRÁTICA DE PESQUISA EM SOCIOLOGIA,100.0,306.0,20.0,CMB,00:00 às 23:00,Docente não informado pelo Departamento
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FCHF06 - SÓCIO-ANTROPOLOGIA DO USO DE SUBSTÂNCIAS PSICOATIVAS,10000.0,327.0,2.0,TER,13:55 às 17:35,Roselene Cassia de Alencar Silva
+,,306.0,20.0,,,Roselene Cassia de Alencar Silva
+,,226.0,5.0,,,Roselene Cassia de Alencar Silva
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FCHF12 - ANTROPOLOGIA DA SAÚDE,10000.0,387.0,2.0,TER,08:50 às 10:40,Guillermo Vega Sanabria
+,,327.0,3.0,,,Guillermo Vega Sanabria
+,,313.0,5.0,,,Guillermo Vega Sanabria
+,,306.0,20.0,,,Guillermo Vega Sanabria
+,,226.0,3.0,,,Guillermo Vega Sanabria
+,,205.0,5.0,,,Guillermo Vega Sanabria
+,,204.0,5.0,,,Guillermo Vega Sanabria
+,,203.0,5.0,,,Guillermo Vega Sanabria
+,,202.0,2.0,,,Guillermo Vega Sanabria
+,,387.0,2.0,QUI,08:50 às 10:40,Guillermo Vega Sanabria
+,,327.0,3.0,,,Guillermo Vega Sanabria
+,,313.0,5.0,,,Guillermo Vega Sanabria
+,,306.0,20.0,,,Guillermo Vega Sanabria
+,,226.0,3.0,,,Guillermo Vega Sanabria
+,,205.0,5.0,,,Guillermo Vega Sanabria
+,,204.0,5.0,,,Guillermo Vega Sanabria
+,,203.0,5.0,,,Guillermo Vega Sanabria
+,,202.0,2.0,,,Guillermo Vega Sanabria
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+"FCHF17 - POLÍTICA, ESTADO E SOCIEDADE",10000.0,325.0,52.0,QUA,14:50 às 18:30,Armando Avena Filho
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FCHF47 - GENERO E MEIO AMBIENTE,10000.0,387.0,5.0,SEG,18:30 às 22:10,Docente Substituto a Contratar
+,,383.0,20.0,,,Docente Substituto a Contratar
+,,306.0,3.0,,,Docente Substituto a Contratar
+,,286.0,8.0,,,Docente Substituto a Contratar
+,,226.0,5.0,,,Docente Substituto a Contratar
+,,182.0,4.0,,,Docente Substituto a Contratar
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FCHF51 - AUTORITARISMO E DEMOCRACIA,10000.0,387.0,5.0,QUI,18:30 às 22:10,Docente Substituto a Contratar
+,,386.0,5.0,,,Docente Substituto a Contratar
+,,383.0,30.0,,,Docente Substituto a Contratar
+,,382.0,2.0,,,Docente Substituto a Contratar
+,,327.0,3.0,,,Docente Substituto a Contratar
+,,310.0,3.0,,,Docente Substituto a Contratar
+,,306.0,2.0,,,Docente Substituto a Contratar
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FCHF52 - GENERO E COMUNICAÇAO,10000.0,480.0,3.0,SEG,18:30 às 22:10,Caroline Barreto de Lima
+,,387.0,8.0,,,Caroline Barreto de Lima
+,,385.0,2.0,,,Caroline Barreto de Lima
+,,383.0,30.0,,,Caroline Barreto de Lima
+,,325.0,2.0,,,Caroline Barreto de Lima
+,,313.0,3.0,,,Caroline Barreto de Lima
+,,307.0,2.0,,,Caroline Barreto de Lima
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FCHF53 - SEMINARIO TEMATICO TEORIAS FEMINISTAS,10000.0,383.0,30.0,QUA,18:30 às 22:10,Marcia dos Santos Macedo
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+"FCHF54 - SEMINARIO TEMATICO GENERO, FEMINISMO E EDUCAÇÃO",10000.0,480.0,3.0,QUA,18:30 às 22:10,Maise Caroline Zucco
+,,401.0,2.0,,,Maise Caroline Zucco
+,,387.0,10.0,,,Maise Caroline Zucco
+,,385.0,2.0,,,Maise Caroline Zucco
+,,383.0,25.0,,,Maise Caroline Zucco
+,,327.0,6.0,,,Maise Caroline Zucco
+,,312.0,2.0,,,Maise Caroline Zucco
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FCHF56 - SEMINARIO TEMATICO DESENVOLVIMENTO REGIONAL,10000.0,387.0,10.0,QUA,18:30 às 22:10,Rebeca Sobral Freire
+,,383.0,25.0,,,Rebeca Sobral Freire
+,,327.0,10.0,,,Rebeca Sobral Freire
+,,286.0,5.0,,,Rebeca Sobral Freire
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FCHF89 - INDIVÍDUO E CULTURA,10000.0,387.0,2.0,SEG,10:40 às 12:30,Urpi Montoya Uriarte
+,,327.0,3.0,,,Urpi Montoya Uriarte
+,,313.0,45.0,,,Urpi Montoya Uriarte
+,,286.0,2.0,,,Urpi Montoya Uriarte
+,,226.0,5.0,,,Urpi Montoya Uriarte
+,,189.0,1.0,,,Urpi Montoya Uriarte
+,,387.0,2.0,QUA,10:40 às 12:30,Urpi Montoya Uriarte
+,,327.0,3.0,,,Urpi Montoya Uriarte
+,,313.0,45.0,,,Urpi Montoya Uriarte
+,,286.0,2.0,,,Urpi Montoya Uriarte
+,,226.0,5.0,,,Urpi Montoya Uriarte
+,,189.0,1.0,,,Urpi Montoya Uriarte
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FCHF90 - INDIVÍDUO E SOCIEDADE,10000.0,387.0,2.0,SEX,08:50 às 12:30,Kelly Carneiro de Oliveira Fontoura
+,,327.0,3.0,,,Kelly Carneiro de Oliveira Fontoura
+,,313.0,45.0,,,Kelly Carneiro de Oliveira Fontoura
+,,226.0,10.0,,,Kelly Carneiro de Oliveira Fontoura
+,,190.0,1.0,,,Kelly Carneiro de Oliveira Fontoura
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FCHG06 - HISTÓRIA INDÍGENA E DO INDIGENISMO,10000.0,387.0,2.0,SEX,08:50 às 09:45,Maria Hilda Baqueiro Paraiso
+,,386.0,5.0,,,Maria Hilda Baqueiro Paraiso
+,,383.0,2.0,,,Maria Hilda Baqueiro Paraiso
+,,327.0,2.0,,,Maria Hilda Baqueiro Paraiso
+,,310.0,40.0,,,Maria Hilda Baqueiro Paraiso
+,,387.0,2.0,,09:45 às 12:30,Maria Hilda Baqueiro Paraiso
+,,386.0,5.0,,,Maria Hilda Baqueiro Paraiso
+,,383.0,2.0,,,Maria Hilda Baqueiro Paraiso
+,,327.0,2.0,,,Maria Hilda Baqueiro Paraiso
+,,310.0,40.0,,,Maria Hilda Baqueiro Paraiso
+,20000.0,386.0,40.0,QUA,18:30 às 22:10,Ana Carolina Barbosa Pereira
+,,327.0,5.0,,,Ana Carolina Barbosa Pereira
+,,310.0,10.0,,,Ana Carolina Barbosa Pereira
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FCHG37 - HISTÓRIA DOS MUSEUS E COLEÇÕES,10100.0,387.0,5.0,TER,08:50 às 10:40,Mona Ribeiro Nascimento
+,,311.0,25.0,,,Mona Ribeiro Nascimento
+,,387.0,5.0,QUI,08:50 às 10:40,Mona Ribeiro Nascimento
+,,311.0,25.0,,,Mona Ribeiro Nascimento
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FCHG38 - HISTÓRIA E PATRIMÔNIO NA BAHIA,10100.0,387.0,5.0,SEX,08:50 às 10:40,Marcelo Nascimento Bernardo da Cunha
+,,311.0,15.0,,,Marcelo Nascimento Bernardo da Cunha
+,,387.0,5.0,,10:40 às 11:35,Marcelo Nascimento Bernardo da Cunha
+,,311.0,15.0,,,Marcelo Nascimento Bernardo da Cunha
+,,387.0,5.0,,11:35 às 12:30,Marcelo Nascimento Bernardo da Cunha
+,,311.0,15.0,,,Marcelo Nascimento Bernardo da Cunha
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FCHG40 - DOCUMENTAÇÃO MUSEOLÓGICA,10100.0,311.0,27.0,SEG,07:00 às 08:50,Suely Moraes Ceravolo
+,,,,QUA,07:00 às 08:50,Suely Moraes Ceravolo
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FCHG42 - CONSERVAÇÃO DE ACERVOS,10100.0,311.0,30.0,SEG,10:40 às 12:30,Genivalda Candido da Silva
+,,,,QUA,10:40 às 12:30,Genivalda Candido da Silva
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FCHG45 - CONCEPÇÃO DE ESPAÇOS MUSEOLÓGICOS,10100.0,311.0,15.0,TER,07:00 às 08:50,Mona Ribeiro Nascimento
+,,,,QUI,07:00 às 08:50,Mona Ribeiro Nascimento
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FCHG47 - LABORATÓRIO DE EXPOGRAFIA,10100.0,311.0,15.0,QUI,08:50 às 10:40,Genivalda Candido da Silva
+,,,,,10:40 às 11:35,Genivalda Candido da Silva
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FCHG49 - GESTÃO MUSEOLÓGICA,10100.0,311.0,15.0,SEG,08:50 às 10:40,Sidelia Santos Teixeira
+,,,,QUA,08:50 às 10:40,Sidelia Santos Teixeira
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FCHG50 - ESTÁGIO CURRICULAR I,100.0,311.0,15.0,TER,10:40 às 12:30,Genivalda Candido da Silva
+,,,,SEX,10:40 às 12:30,Genivalda Candido da Silva
+,,,,CMB,00:00 às 00:00,Genivalda Candido da Silva
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FCHG51 - ESTÁGIO CURRICULAR II,100.0,311.0,10.0,TER,10:40 às 12:30,Mona Ribeiro Nascimento
+,,,,QUI,10:40 às 12:30,Mona Ribeiro Nascimento
+,,,,SEX,10:40 às 12:30,Mona Ribeiro Nascimento
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FCHG52 - TRABALHO DE CONCLUSÃO DE CURSO I,100.0,311.0,15.0,SEG,08:50 às 10:40,Joseania Miranda Freitas
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FCHG53 - TRABALHO DE CONCLUSÃO DE CURSO II,100.0,311.0,10.0,QUA,08:50 às 10:40,Rita de Cassia Maia da Silva
+,200.0,311.0,10.0,QUA,08:50 às 10:40,Joseania Miranda Freitas
+,300.0,311.0,10.0,QUA,08:50 às 10:40,Suely Moraes Ceravolo
+,400.0,311.0,10.0,QUA,08:50 às 10:40,Marcelo Nascimento Bernardo da Cunha
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FCHG54 - TRABALHO DE CONCLUSÃO DE CURSO III,100.0,311.0,3.0,CMB,00:00 às 23:00,Rita de Cassia Maia da Silva
+,200.0,311.0,3.0,CMB,00:00 às 23:00,Suely Moraes Ceravolo
+,300.0,311.0,3.0,CMB,00:00 às 23:00,Sidelia Santos Teixeira
+,400.0,311.0,3.0,CMB,00:00 às 23:00,Joseania Miranda Freitas
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FCHG85 - SEMINÁRIOS TEMÁTICOS II,10100.0,311.0,30.0,SEX,08:50 às 09:45,Mona Ribeiro Nascimento
+,,,,,09:45 às 10:40,Mona Ribeiro Nascimento
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FCHG87 - SEMINÁRIOS TEMÁTICOS IV,10100.0,311.0,15.0,SEX,08:50 às 09:45,Genivalda Candido da Silva
+,,,,,09:45 às 10:40,Genivalda Candido da Silva
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FCHJ16 - ACCS: HIST E MEMÓRIA DAS LUTAS POPULARES NA BAHIA...CALABAR,1000.0,317.0,3.0,QUI,13:55 às 14:50,Iraneidson Santos Costa
+,,310.0,3.0,,,Iraneidson Santos Costa
+,,306.0,3.0,,,Iraneidson Santos Costa
+,,109.0,3.0,,,Iraneidson Santos Costa
+,,317.0,3.0,,14:50 às 17:35,Iraneidson Santos Costa
+,,310.0,3.0,,,Iraneidson Santos Costa
+,,306.0,3.0,,,Iraneidson Santos Costa
+,,109.0,3.0,,,Iraneidson Santos Costa
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FCHK75 - FONTES HISTÓRICAS: IDENTIFICAÇÃO DE ACERVOS E MÉTODOS,10000.0,386.0,15.0,TER,13:55 às 17:35,Maria de Fatima Novaes Pires
+,,327.0,7.0,,,Maria de Fatima Novaes Pires
+,,310.0,20.0,,,Maria de Fatima Novaes Pires
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FCHK77 - HISTÓRIA DA CIDADANIA E DOS DIREITOS HUMANOS,10000.0,387.0,5.0,QUA,18:30 às 22:10,Laura de Oliveira
+,,386.0,20.0,,,Laura de Oliveira
+,,327.0,5.0,,,Laura de Oliveira
+,,310.0,20.0,,,Laura de Oliveira
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FCHK78 - HISTÓRIA DA MÚSICA POPULAR DO BRASIL,10000.0,386.0,10.0,QUA,13:00 às 14:50,Milton Araujo Moura
+,,327.0,6.0,,,Milton Araujo Moura
+,,310.0,30.0,,,Milton Araujo Moura
+,,386.0,10.0,,14:50 às 16:40,Milton Araujo Moura
+,,327.0,6.0,,,Milton Araujo Moura
+,,310.0,30.0,,,Milton Araujo Moura
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+"FCHK80 - HISTÓRIA, MEMÓRIA E ORALIDADE",10000.0,506.0,2.0,TER,13:00 às 14:50,Lucileide Costa Cardoso
+,,387.0,2.0,,,Lucileide Costa Cardoso
+,,386.0,10.0,,,Lucileide Costa Cardoso
+,,311.0,2.0,,,Lucileide Costa Cardoso
+,,310.0,20.0,,,Lucileide Costa Cardoso
+,,506.0,2.0,,14:50 às 16:40,Lucileide Costa Cardoso
+,,387.0,2.0,,,Lucileide Costa Cardoso
+,,386.0,10.0,,,Lucileide Costa Cardoso
+,,311.0,2.0,,,Lucileide Costa Cardoso
+,,310.0,20.0,,,Lucileide Costa Cardoso
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FCHK81 - HISTÓRIA E HISTORIOGRAFIA DO IMPÉRIO PORTUGUÊS: SÉC XV-XVIII,10000.0,386.0,20.0,SEX,18:30 às 22:10,George Evergton Sales Souza
+,,327.0,5.0,,,George Evergton Sales Souza
+,,310.0,20.0,,,George Evergton Sales Souza
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FCHL63 - ACCS: O habitar em casarões ocupados do centro de Salvador,10100.0,506.0,1.0,SAB,07:55 às 09:45,Urpi Montoya Uriarte
+,,501.0,3.0,,,Urpi Montoya Uriarte
+,,327.0,1.0,,,Urpi Montoya Uriarte
+,,306.0,4.0,,,Urpi Montoya Uriarte
+,,109.0,2.0,,,Urpi Montoya Uriarte
+,,101.0,5.0,,,Urpi Montoya Uriarte
+,,506.0,1.0,,09:45 às 11:35,Urpi Montoya Uriarte
+,,501.0,3.0,,,Urpi Montoya Uriarte
+,,327.0,1.0,,,Urpi Montoya Uriarte
+,,306.0,4.0,,,Urpi Montoya Uriarte
+,,109.0,2.0,,,Urpi Montoya Uriarte
+,,101.0,5.0,,,Urpi Montoya Uriarte
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FCHL66 - ACCS: CONEXÕES AFROPINDORÂMICAS,10000.0,383.0,3.0,SEX,13:55 às 17:35,Marina Guimaraes Vieira
+,,327.0,3.0,,,Marina Guimaraes Vieira
+,,310.0,3.0,,,Marina Guimaraes Vieira
+,,309.0,3.0,,,Marina Guimaraes Vieira
+,,308.0,5.0,,,Marina Guimaraes Vieira
+,,307.0,3.0,,,Marina Guimaraes Vieira
+,,306.0,20.0,,,Marina Guimaraes Vieira
+,,226.0,3.0,,,Marina Guimaraes Vieira
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FCHL68 - ANTROPOLOGIA DOS POVOS ORIGINÁRIOS DAS AMÉRICAS,10100.0,327.0,5.0,TER,13:55 às 15:45,Danilo Paiva Ramos
+,,306.0,10.0,,,Danilo Paiva Ramos
+,,327.0,5.0,,15:45 às 17:35,Danilo Paiva Ramos
+,,306.0,10.0,,,Danilo Paiva Ramos
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+FCHL69 - ANTROPOLOGIA DA TERRA E TERRITORIALIDADES,10000.0,327.0,5.0,SEX,13:55 às 17:35,Carlos Alberto Caroso Soares
+,,306.0,10.0,,,Carlos Alberto Caroso Soares

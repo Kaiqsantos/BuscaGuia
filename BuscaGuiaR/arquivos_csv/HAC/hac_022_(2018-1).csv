@@ -1,0 +1,675 @@
+"Disciplina","Turma","Coleg.","Vagas Ofe","Dia","Horário","Docente"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"HACA01 - ESTUDOS SOBRE A CONTEMPORANEIDADE I","010000","515","17","SEG","13:00 às 16:40","Juan Manuel Sanchez Arteaga"
+NA,NA,"226","17",NA,NA,"Juan Manuel Sanchez Arteaga"
+NA,NA,"327","16",NA,NA,"Juan Manuel Sanchez Arteaga"
+NA,"020000","515","16","SEG","13:00 às 16:40","Yuri Bastos Wanderley"
+NA,NA,"327","18",NA,NA,"Yuri Bastos Wanderley"
+NA,NA,"226","16",NA,NA,"Yuri Bastos Wanderley"
+NA,"030000","226","17","SEG","13:00 às 16:40","Haenz Gutierrez Quintana"
+NA,NA,"327","16",NA,NA,"Haenz Gutierrez Quintana"
+NA,NA,"515","17",NA,NA,"Haenz Gutierrez Quintana"
+NA,"040000","515","12","QUA","13:00 às 16:40","Ivan Maia de Mello"
+NA,NA,"327","12",NA,NA,"Ivan Maia de Mello"
+NA,NA,"226","12",NA,NA,"Ivan Maia de Mello"
+NA,NA,"190","26",NA,NA,"Ivan Maia de Mello"
+NA,"050000","190","24","QUA","13:00 às 16:40","Leonardo Vincenzo Boccia"
+NA,NA,"226","12",NA,NA,"Leonardo Vincenzo Boccia"
+NA,NA,"327","12",NA,NA,"Leonardo Vincenzo Boccia"
+NA,NA,"515","14",NA,NA,"Leonardo Vincenzo Boccia"
+NA,"060000","515","12","SEX","13:00 às 16:40","Juan Manuel Sanchez Arteaga"
+NA,NA,"327","14",NA,NA,"Juan Manuel Sanchez Arteaga"
+NA,NA,"190","16",NA,NA,"Juan Manuel Sanchez Arteaga"
+NA,NA,"226","12",NA,NA,"Juan Manuel Sanchez Arteaga"
+NA,"070000","226","14","SEX","13:00 às 16:40","Sonia Maria Rocha Sampaio"
+NA,NA,"515","12",NA,NA,"Sonia Maria Rocha Sampaio"
+NA,NA,"327","12",NA,NA,"Sonia Maria Rocha Sampaio"
+NA,NA,"190","17",NA,NA,"Sonia Maria Rocha Sampaio"
+NA,"080000","226","12","SEX","13:00 às 16:40","Altair dos Santos Lira"
+NA,NA,"515","12",NA,NA,"Altair dos Santos Lira"
+NA,NA,"327","12",NA,NA,"Altair dos Santos Lira"
+NA,NA,"190","17",NA,NA,"Altair dos Santos Lira"
+NA,"090000","387","17","SEG","18:30 às 22:10","Rita de Cassia Aragao Matos"
+NA,NA,"286","19",NA,NA,"Rita de Cassia Aragao Matos"
+NA,NA,"580","14",NA,NA,"Rita de Cassia Aragao Matos"
+NA,"100000","286","15","SEG","18:30 às 22:10","Altair dos Santos Lira"
+NA,NA,"580","15",NA,NA,"Altair dos Santos Lira"
+NA,NA,"387","20",NA,NA,"Altair dos Santos Lira"
+NA,"110000","387","20","SEG","18:30 às 22:10","Sonia Maria Rocha Sampaio"
+NA,NA,"580","15",NA,NA,"Sonia Maria Rocha Sampaio"
+NA,NA,"286","15",NA,NA,"Sonia Maria Rocha Sampaio"
+NA,"120000","580","15","SEG","18:30 às 22:10","Fernanda Rebelo Pinto"
+NA,NA,"387","20",NA,NA,"Fernanda Rebelo Pinto"
+NA,NA,"286","15",NA,NA,"Fernanda Rebelo Pinto"
+NA,"130000","580","15","SEG","18:30 às 22:10","Maria Beatriz Barreto do Carmo"
+NA,NA,"387","20",NA,NA,"Maria Beatriz Barreto do Carmo"
+NA,NA,"286","15",NA,NA,"Maria Beatriz Barreto do Carmo"
+NA,"140000","580","15","SEG","18:30 às 22:10","Alex Santana Franca"
+NA,NA,"286","15",NA,NA,"Alex Santana Franca"
+NA,NA,"387","20",NA,NA,"Alex Santana Franca"
+NA,"150000","286","11","QUA","18:30 às 22:10","Rita de Cassia Aragao Matos"
+NA,NA,"580","11",NA,NA,"Rita de Cassia Aragao Matos"
+NA,NA,"189","11",NA,NA,"Rita de Cassia Aragao Matos"
+NA,NA,"387","17",NA,NA,"Rita de Cassia Aragao Matos"
+NA,"160000","580","11","QUA","18:30 às 22:10","Angela Maria de Almeida Franco"
+NA,NA,"286","11",NA,NA,"Angela Maria de Almeida Franco"
+NA,NA,"387","17",NA,NA,"Angela Maria de Almeida Franco"
+NA,NA,"189","11",NA,NA,"Angela Maria de Almeida Franco"
+NA,"170000","387","17","QUA","18:30 às 22:10","Altair dos Santos Lira"
+NA,NA,"580","11",NA,NA,"Altair dos Santos Lira"
+NA,NA,"286","11",NA,NA,"Altair dos Santos Lira"
+NA,NA,"189","11",NA,NA,"Altair dos Santos Lira"
+NA,"180000","387","17","QUA","18:30 às 22:10","Juan Manuel Sanchez Arteaga"
+NA,NA,"286","11",NA,NA,"Juan Manuel Sanchez Arteaga"
+NA,NA,"580","11",NA,NA,"Juan Manuel Sanchez Arteaga"
+NA,NA,"189","11",NA,NA,"Juan Manuel Sanchez Arteaga"
+NA,"190000","189","11","QUA","18:30 às 22:10","Alex Santana Franca"
+NA,NA,"387","17",NA,NA,"Alex Santana Franca"
+NA,NA,"286","11",NA,NA,"Alex Santana Franca"
+NA,NA,"580","11",NA,NA,"Alex Santana Franca"
+NA,"200000","387","17","QUA","18:30 às 22:10","Yuri Bastos Wanderley"
+NA,NA,"286","8",NA,NA,"Yuri Bastos Wanderley"
+NA,NA,"189","19",NA,NA,"Yuri Bastos Wanderley"
+NA,NA,"580","11",NA,NA,"Yuri Bastos Wanderley"
+NA,"210000","580","13","QUA","18:30 às 22:10","Docente Substituto a Contratar"
+NA,NA,"387","11",NA,NA,"Docente Substituto a Contratar"
+NA,NA,"189","26",NA,NA,"Docente Substituto a Contratar"
+NA,"220000","387","17","SEX","18:30 às 22:10","Angela Maria de Almeida Franco"
+NA,NA,"286","15",NA,NA,"Angela Maria de Almeida Franco"
+NA,NA,"189","16",NA,NA,"Angela Maria de Almeida Franco"
+NA,NA,"580","11",NA,NA,"Angela Maria de Almeida Franco"
+NA,"230000","580","11","SEX","18:30 às 22:10","Alex Santana Franca"
+NA,NA,"387","17",NA,NA,"Alex Santana Franca"
+NA,NA,"286","15",NA,NA,"Alex Santana Franca"
+NA,NA,"189","16",NA,NA,"Alex Santana Franca"
+NA,"240000","580","11","SEX","18:30 às 22:10","Osvaldo Livio Soliano Pereira"
+NA,NA,"387","17",NA,NA,"Osvaldo Livio Soliano Pereira"
+NA,NA,"286","15",NA,NA,"Osvaldo Livio Soliano Pereira"
+NA,NA,"189","16",NA,NA,"Osvaldo Livio Soliano Pereira"
+NA,"250000","580","11","SEX","18:30 às 22:10","Carlos Alberto Bonfim"
+NA,NA,"387","17",NA,NA,"Carlos Alberto Bonfim"
+NA,NA,"286","15",NA,NA,"Carlos Alberto Bonfim"
+NA,NA,"189","16",NA,NA,"Carlos Alberto Bonfim"
+NA,"260000","580","11","SEX","18:30 às 22:10","Docente Concursado"
+NA,NA,"387","17",NA,NA,"Docente Concursado"
+NA,NA,"189","16",NA,NA,"Docente Concursado"
+NA,NA,"286","15",NA,NA,"Docente Concursado"
+NA,"270000","189","20","SEX","18:30 às 22:10","Andre Luis Mattedi Dias"
+NA,NA,"282","50",NA,NA,"Andre Luis Mattedi Dias"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"HACA02 - ELEMENTOS ACADÊMICOS E PROFISSIONAIS EM CIÊNCIA E TECNOLOGIA","010000","190","55","SEG","13:00 às 14:50","Lynn Rosalina Gama Alves"
+NA,NA,NA,NA,"QUA","13:00 às 14:50","Lynn Rosalina Gama Alves"
+NA,"020000","190","55","SEG","14:50 às 16:40","Pedro Jose Di Novella Cordero"
+NA,NA,NA,NA,"SEX","14:50 às 16:40","Pedro Jose Di Novella Cordero"
+NA,"030000","189","55","SEG","18:30 às 20:20","Isa Beatriz da Cruz Neves"
+NA,NA,NA,NA,"QUA","18:30 às 20:20","Isa Beatriz da Cruz Neves"
+NA,"040000","189","55","SEG","20:20 às 22:10","Isa Beatriz da Cruz Neves"
+NA,NA,NA,NA,"QUA","20:20 às 22:10","Isa Beatriz da Cruz Neves"
+NA,"050000","189","55","SEG","18:30 às 20:20","Pedro Jose Di Novella Cordero"
+NA,NA,NA,NA,"SEX","18:30 às 20:20","Pedro Jose Di Novella Cordero"
+NA,"060000","189","55","SEG","20:20 às 22:10","Pedro Jose Di Novella Cordero"
+NA,NA,NA,NA,"SEX","20:20 às 22:10","Pedro Jose Di Novella Cordero"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"HACA03 - ESTUDOS DAS HUMANIDADES","010000","327","55","SEG","13:00 às 16:40","Leonardo Vincenzo Boccia"
+NA,"020000","327","55","SEX","13:00 às 16:40","Leonardo Vincenzo Boccia"
+NA,"030000","387","55","SEG","18:30 às 22:10","Jose Aurivaldo Sacchetta Ramos Mendes"
+NA,"040000","387","55","SEG","18:30 às 22:10","Mauricio Matos dos Santos Pereira"
+NA,"050000","387","55","QUA","18:30 às 22:10","Jose Aurivaldo Sacchetta Ramos Mendes"
+NA,"060000","387","55","QUA","18:30 às 22:10","Fernando Gigante Ferraz"
+NA,"070000","387","55","SEX","18:30 às 22:10","Francisco Antonio Zorzo"
+NA,"080000","387","55","SEX","18:30 às 22:10","Leandro de Paula Santos"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"HACA04 - AÇÃO ARTÍSTICA I","010100","515","28","SEG","13:00 às 14:50","Marinyze das Gracas Prates de Oliveira"
+NA,NA,NA,NA,NA,"14:50 às 16:40","Marinyze das Gracas Prates de Oliveira"
+NA,"020200","515","28","QUA","13:00 às 14:50","Karla Schuch Brunet"
+NA,NA,NA,NA,NA,"14:50 às 16:40","Karla Schuch Brunet"
+NA,"030300","515","28","SEX","13:00 às 14:50","Joaquim Antonio Rodrigues Viana Neto"
+NA,NA,NA,NA,NA,"14:50 às 16:40","Joaquim Antonio Rodrigues Viana Neto"
+NA,"040400","515","28","QUA","13:00 às 14:50","Ivani Lucia Oliveira de Santana"
+NA,NA,NA,NA,NA,"14:50 às 16:40","Ivani Lucia Oliveira de Santana"
+NA,"050500","580","28","SEG","18:30 às 20:20","Marilda de Santana Silva"
+NA,NA,NA,NA,NA,"20:20 às 22:10","Marilda de Santana Silva"
+NA,"060600","580","28","SEG","18:30 às 20:20","Cristiano Severo Figueiro"
+NA,NA,NA,NA,NA,"20:20 às 22:10","Cristiano Severo Figueiro"
+NA,"070700","580","28","QUA","18:30 às 20:20","Marilda de Santana Silva"
+NA,NA,NA,NA,NA,"20:20 às 22:10","Marilda de Santana Silva"
+NA,"080800","580","28","QUA","18:30 às 20:20","Djalma Rodrigues Lima Neto"
+NA,NA,NA,NA,NA,"20:20 às 22:10","Djalma Rodrigues Lima Neto"
+NA,"090900","580","28","QUA","18:30 às 20:20","Marise Berta de Souza"
+NA,NA,NA,NA,NA,"20:20 às 22:10","Marise Berta de Souza"
+NA,"101000","580","28","SEX","18:30 às 20:20","Ivan Maia de Mello"
+NA,NA,NA,NA,NA,"20:20 às 22:10","Ivan Maia de Mello"
+NA,"111100","580","28","SEX","18:30 às 20:20","Paola Barreto Leblanc"
+NA,NA,NA,NA,NA,"20:20 às 22:10","Paola Barreto Leblanc"
+NA,"121200","580","28","SEX","18:30 às 20:20","Joaquim Antonio Rodrigues Viana Neto"
+NA,NA,NA,NA,NA,"20:20 às 22:10","Joaquim Antonio Rodrigues Viana Neto"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"HACA05 - POLÍTICAS CULTURAIS","010000","515","55","SEG","13:00 às 16:40","Docente Substituto a Contratar"
+NA,"020000","515","55","SEX","13:00 às 16:40","Clelia Neri Cortes"
+NA,"030000","580","50","SEG","18:30 às 22:10","Docente Substituto a Contratar"
+NA,NA,"387","5",NA,NA,"Docente Substituto a Contratar"
+NA,"040000","580","50","QUA","18:30 às 22:10","Clelia Neri Cortes"
+NA,NA,"387","5",NA,NA,"Clelia Neri Cortes"
+NA,"050000","580","50","QUA","18:30 às 22:10","Alice Pires de Lacerda"
+NA,NA,"387","5",NA,NA,"Alice Pires de Lacerda"
+NA,"060000","580","55","SEX","18:30 às 22:10","Docente Substituto a Contratar"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"HACA09 - CIÊNCIA E TECNOLOGIA I","010000","190","55","TER","10:40 às 12:30","Ivan Cardoso Monsao"
+NA,NA,NA,NA,"QUI","10:40 às 12:30","Ivan Cardoso Monsao"
+NA,"020000","190","55","TER","10:40 às 12:30","Guna Alexander Silva dos Santos"
+NA,NA,NA,NA,"QUI","10:40 às 12:30","Guna Alexander Silva dos Santos"
+NA,"030000","189","55","TER","18:30 às 20:20","Ivan Cardoso Monsao"
+NA,NA,NA,NA,"QUI","18:30 às 20:20","Ivan Cardoso Monsao"
+NA,"040000","189","55","TER","18:30 às 20:20","Francisco de Paula Barretto"
+NA,NA,NA,NA,"QUI","18:30 às 20:20","Francisco de Paula Barretto"
+NA,"050000","189","55","TER","20:20 às 22:10","Ivan Cardoso Monsao"
+NA,NA,NA,NA,"QUI","20:20 às 22:10","Ivan Cardoso Monsao"
+NA,"060000","189","55","TER","20:20 às 22:10","Francisco de Paula Barretto"
+NA,NA,NA,NA,"QUI","20:20 às 22:10","Francisco de Paula Barretto"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"HACA10 - INTRODUÇÃO AO CAMPO DA SAÚDE","010000","226","55","SEG","13:00 às 16:40","Maria Thereza Avila Dantas Coelho"
+NA,"020000","515","1","QUA","13:00 às 16:40","Docente Concursado"
+NA,NA,"327","3",NA,NA,"Docente Concursado"
+NA,NA,"226","50",NA,NA,"Docente Concursado"
+NA,NA,"190","1",NA,NA,"Docente Concursado"
+NA,"030000","286","55","SEG","18:30 às 22:10","Maria Thereza Avila Dantas Coelho"
+NA,"040000","580","1","QUA","18:30 às 22:10","Maria Constantina Caputo"
+NA,NA,"387","2",NA,NA,"Maria Constantina Caputo"
+NA,NA,"286","50",NA,NA,"Maria Constantina Caputo"
+NA,NA,"189","2",NA,NA,"Maria Constantina Caputo"
+NA,"050000","286","55","QUA","18:30 às 22:10","Fernanda Rebelo Pinto"
+NA,"060000","286","55","SEX","18:30 às 22:10","Altair dos Santos Lira"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"HACA35 - ESTUDOS DAS SOCIEDADES","010000","515","2","QUA","13:00 às 16:40","Francisco Antonio Zorzo"
+NA,NA,"327","50",NA,NA,"Francisco Antonio Zorzo"
+NA,NA,"226","2",NA,NA,"Francisco Antonio Zorzo"
+NA,NA,"190","1",NA,NA,"Francisco Antonio Zorzo"
+NA,"020000","580","2","QUA","18:30 às 22:10","Milton Julio de Carvalho Filho"
+NA,NA,"387","50",NA,NA,"Milton Julio de Carvalho Filho"
+NA,NA,"286","2",NA,NA,"Milton Julio de Carvalho Filho"
+NA,NA,"189","1",NA,NA,"Milton Julio de Carvalho Filho"
+NA,"030000","580","2","SEG","18:30 às 22:10","Milton Julio de Carvalho Filho"
+NA,NA,"387","50",NA,NA,"Milton Julio de Carvalho Filho"
+NA,NA,"286","2",NA,NA,"Milton Julio de Carvalho Filho"
+NA,NA,"189","1",NA,NA,"Milton Julio de Carvalho Filho"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"HACA36 - ESTUDOS DAS CULTURAS","010000","515","2","QUA","13:00 às 16:40","Estagio Docente Pós-Graduação"
+NA,NA,"327","50",NA,NA,"Estagio Docente Pós-Graduação"
+NA,NA,"226","1",NA,NA,"Estagio Docente Pós-Graduação"
+NA,NA,"190","2",NA,NA,"Estagio Docente Pós-Graduação"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"HACA38 - CIÊNCIA E TECNOLOGIA II","010000","190","55","SEG","13:00 às 14:50","Luiz Marcio Santos Farias"
+NA,NA,NA,NA,"SEX","13:00 às 14:50","Luiz Marcio Santos Farias"
+NA,"020000","190","55","SEG","14:50 às 16:40","Luiz Marcio Santos Farias"
+NA,NA,NA,NA,"QUA","14:50 às 16:40","Luiz Marcio Santos Farias"
+NA,"030000","189","55","SEG","20:20 às 22:10","Eduardo do Nascimento"
+NA,NA,NA,NA,"QUA","20:20 às 22:10","Eduardo do Nascimento"
+NA,"040000","189","55","SEG","18:30 às 20:20","Yuri Bastos Wanderley"
+NA,NA,NA,NA,"SEX","18:30 às 20:20","Yuri Bastos Wanderley"
+NA,"050000","189","55","SEG","20:20 às 22:10","Yuri Bastos Wanderley"
+NA,NA,NA,NA,"SEX","20:20 às 22:10","Yuri Bastos Wanderley"
+NA,"060000","189","55","SEG","18:30 às 20:20","Eduardo do Nascimento"
+NA,NA,NA,NA,"QUA","18:30 às 20:20","Eduardo do Nascimento"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"HACA42 - TOPICOS ESPECIAIS EM CULTURA I","010000","515","25","SEG","13:00 às 16:40","Edilene Dias Matos"
+NA,NA,"327","20",NA,NA,"Edilene Dias Matos"
+NA,NA,"226","5",NA,NA,"Edilene Dias Matos"
+NA,NA,"190","5",NA,NA,"Edilene Dias Matos"
+NA,"020000","515","25","QUA","13:00 às 16:40","Edilene Dias Matos"
+NA,NA,"327","20",NA,NA,"Edilene Dias Matos"
+NA,NA,"226","5",NA,NA,"Edilene Dias Matos"
+NA,NA,"190","5",NA,NA,"Edilene Dias Matos"
+NA,"030000","580","35","TER","18:30 às 20:20","Adalberto Silva Santos"
+NA,NA,NA,NA,"QUI","18:30 às 20:20","Adalberto Silva Santos"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"HACA44 - LABORATÓRIOS DE CRIAÇÃO E PRÁTICAS ARTÍSTICAS","000100","515","5","SEX","18:30 às 22:10","Ivani Lucia Oliveira de Santana"
+NA,NA,"580","20",NA,NA,"Ivani Lucia Oliveira de Santana"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"HACA46 - TOPICOS ESPECIAIS EM CIÊNCIAS I","010000","580","10","SEG","18:30 às 20:20","Osvaldo Livio Soliano Pereira"
+NA,NA,"387","10",NA,NA,"Osvaldo Livio Soliano Pereira"
+NA,NA,"286","10",NA,NA,"Osvaldo Livio Soliano Pereira"
+NA,NA,"189","20",NA,NA,"Osvaldo Livio Soliano Pereira"
+NA,NA,"580","10","QUA","18:30 às 20:20","Osvaldo Livio Soliano Pereira"
+NA,NA,"387","10",NA,NA,"Osvaldo Livio Soliano Pereira"
+NA,NA,"286","10",NA,NA,"Osvaldo Livio Soliano Pereira"
+NA,NA,"189","20",NA,NA,"Osvaldo Livio Soliano Pereira"
+NA,"020000","580","10","SEG","20:20 às 22:10","Osvaldo Livio Soliano Pereira"
+NA,NA,"387","10",NA,NA,"Osvaldo Livio Soliano Pereira"
+NA,NA,"286","10",NA,NA,"Osvaldo Livio Soliano Pereira"
+NA,NA,"189","20",NA,NA,"Osvaldo Livio Soliano Pereira"
+NA,NA,"580","10","QUA","20:20 às 22:10","Osvaldo Livio Soliano Pereira"
+NA,NA,"387","10",NA,NA,"Osvaldo Livio Soliano Pereira"
+NA,NA,"286","10",NA,NA,"Osvaldo Livio Soliano Pereira"
+NA,NA,"189","20",NA,NA,"Osvaldo Livio Soliano Pereira"
+NA,"030000","580","10","TER","18:30 às 22:10","Docente Visitante"
+NA,NA,"515","2",NA,NA,"Docente Visitante"
+NA,NA,"387","10",NA,NA,"Docente Visitante"
+NA,NA,"327","2",NA,NA,"Docente Visitante"
+NA,NA,"286","10",NA,NA,"Docente Visitante"
+NA,NA,"226","3",NA,NA,"Docente Visitante"
+NA,NA,"190","3",NA,NA,"Docente Visitante"
+NA,NA,"189","10",NA,NA,"Docente Visitante"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"HACA47 - TÓPICOS ESPECIAIS EM TECNOLOGIA I","010000","580","10","TER","18:30 às 22:10","Docente não informado pelo Departamento"
+NA,NA,"387","10",NA,NA,"Docente não informado pelo Departamento"
+NA,NA,"286","10",NA,NA,"Docente não informado pelo Departamento"
+NA,NA,"189","20",NA,NA,"Docente não informado pelo Departamento"
+NA,"020000","580","10","TER","18:30 às 22:10","Lynn Rosalina Gama Alves"
+NA,NA,"387","10",NA,NA,"Lynn Rosalina Gama Alves"
+NA,NA,"286","10",NA,NA,"Lynn Rosalina Gama Alves"
+NA,NA,"189","20",NA,NA,"Lynn Rosalina Gama Alves"
+NA,"030000","580","10","QUI","18:30 às 22:10","Lynn Rosalina Gama Alves"
+NA,NA,"387","10",NA,NA,"Lynn Rosalina Gama Alves"
+NA,NA,"286","10",NA,NA,"Lynn Rosalina Gama Alves"
+NA,NA,"189","20",NA,NA,"Lynn Rosalina Gama Alves"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"HACA48 - ARTE E ESTÉTICA","010000","580","10","TER","20:20 às 22:10","Ivan Maia de Mello"
+NA,NA,"515","5",NA,NA,"Ivan Maia de Mello"
+NA,NA,"282","45",NA,NA,"Ivan Maia de Mello"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"HACA49 - AÇÃO E MEDIAÇÃO CULTURAL ATRAVÉS DAS ARTES","010000","387","5","SEG","18:30 às 20:20","Marise Berta de Souza"
+NA,NA,"286","15",NA,NA,"Marise Berta de Souza"
+NA,NA,"189","5",NA,NA,"Marise Berta de Souza"
+NA,NA,"580","30",NA,NA,"Marise Berta de Souza"
+NA,NA,NA,NA,NA,"20:20 às 22:10","Marise Berta de Souza"
+NA,NA,"387","5",NA,NA,"Marise Berta de Souza"
+NA,NA,"286","15",NA,NA,"Marise Berta de Souza"
+NA,NA,"189","5",NA,NA,"Marise Berta de Souza"
+NA,"020000","580","30","SEX","18:30 às 22:10","Marise Berta de Souza"
+NA,NA,"387","5",NA,NA,"Marise Berta de Souza"
+NA,NA,"286","15",NA,NA,"Marise Berta de Souza"
+NA,NA,"189","5",NA,NA,"Marise Berta de Souza"
+NA,"030000","515","30","QUA","13:00 às 16:40","Angelo Tavares Castro"
+NA,NA,"327","10",NA,NA,"Angelo Tavares Castro"
+NA,NA,"226","5",NA,NA,"Angelo Tavares Castro"
+NA,NA,"190","5",NA,NA,"Angelo Tavares Castro"
+NA,"040000","515","30","SEG","13:00 às 16:40","Marise Berta de Souza"
+NA,NA,"327","5",NA,NA,"Marise Berta de Souza"
+NA,NA,"226","10",NA,NA,"Marise Berta de Souza"
+NA,NA,"190","5",NA,NA,"Marise Berta de Souza"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"HACA50 - RACIONALIDADES EM SAÚDE:SISTEMAS MÉDICOS E PRÁT.ALTERNATIVAS","010000","286","55","SEG","18:30 às 22:10","Anamelia Lins e Silva Franco"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"HACA51 - ESTUDOS DO DESENVOLVIMENTO","010000","580","2","SEG","18:30 às 22:10","Angela Maria de Almeida Franco"
+NA,NA,"387","50",NA,NA,"Angela Maria de Almeida Franco"
+NA,NA,"286","2",NA,NA,"Angela Maria de Almeida Franco"
+NA,NA,"189","1",NA,NA,"Angela Maria de Almeida Franco"
+NA,"020000","580","5","TER","18:30 às 22:10","Marcos Guedes Vaz Sampaio"
+NA,NA,"387","35",NA,NA,"Marcos Guedes Vaz Sampaio"
+NA,NA,"286","6",NA,NA,"Marcos Guedes Vaz Sampaio"
+NA,NA,"189","5",NA,NA,"Marcos Guedes Vaz Sampaio"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"HACA76 - ESTUDO DOS PODERES","010000","580","2","QUA","18:30 às 22:10","Mauricio Matos dos Santos Pereira"
+NA,NA,"387","50",NA,NA,"Mauricio Matos dos Santos Pereira"
+NA,NA,"286","2",NA,NA,"Mauricio Matos dos Santos Pereira"
+NA,NA,"189","1",NA,NA,"Mauricio Matos dos Santos Pereira"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"HACA77 - ESTUDOS DAS SUBJETIVIDADES","010000","515","2","SEG","13:00 às 16:40","Denise Vieira da Silva"
+NA,NA,"327","50",NA,NA,"Denise Vieira da Silva"
+NA,NA,"226","2",NA,NA,"Denise Vieira da Silva"
+NA,NA,"190","1",NA,NA,"Denise Vieira da Silva"
+NA,"020000","580","2","SEG","18:30 às 22:10","Leandro Colling"
+NA,NA,"387","50",NA,NA,"Leandro Colling"
+NA,NA,"286","2",NA,NA,"Leandro Colling"
+NA,NA,"189","1",NA,NA,"Leandro Colling"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"HACA78 - OFICINA DE TEXTOS ACADÊMICOS E TÉCNICOS EM SAÚDE","010000","226","35","QUA","13:00 às 16:40","Leticia Marques dos Santos"
+NA,"020000","515","1","SEX","13:00 às 16:40","Vanessa Prado dos Santos Alvarez"
+NA,NA,"327","1",NA,NA,"Vanessa Prado dos Santos Alvarez"
+NA,NA,"226","35",NA,NA,"Vanessa Prado dos Santos Alvarez"
+NA,NA,"190","1",NA,NA,"Vanessa Prado dos Santos Alvarez"
+NA,"030000","387","1","SEG","18:30 às 22:10","Adriana Miranda Pimentel"
+NA,NA,"286","33",NA,NA,"Adriana Miranda Pimentel"
+NA,NA,"189","1",NA,NA,"Adriana Miranda Pimentel"
+NA,"040000","515","1","SEG","18:30 às 22:10","Renata Meira Veras"
+NA,NA,"387","1",NA,NA,"Renata Meira Veras"
+NA,NA,"286","33",NA,NA,"Renata Meira Veras"
+NA,"050000","286","35","QUA","18:30 às 22:10","Carmen Fontes de Souza Teixeira"
+NA,"060000","286","35","SEX","18:30 às 22:10","Marcelo Nunes Dourado Rocha"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"HACA79 - TOPICOS ESPECIAIS EM ARTES I","010000","515","25","SEG","08:50 às 12:30","Mariela Brazon Hernandez"
+NA,NA,"327","1",NA,NA,"Mariela Brazon Hernandez"
+NA,NA,"226","1",NA,NA,"Mariela Brazon Hernandez"
+NA,NA,"190","1",NA,NA,"Mariela Brazon Hernandez"
+NA,"020000","580","35","TER","20:20 às 22:10","Adalberto Silva Santos"
+NA,NA,NA,NA,"QUI","20:20 às 22:10","Adalberto Silva Santos"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"HACA80 - TÓPICOS ESPECIAIS EM ARTES II","010000","580","15","SEG","18:30 às 22:10","Mariela Brazon Hernandez"
+NA,NA,"387","5",NA,NA,"Mariela Brazon Hernandez"
+NA,NA,"286","5",NA,NA,"Mariela Brazon Hernandez"
+NA,NA,"189","5",NA,NA,"Mariela Brazon Hernandez"
+NA,"020000","515","45","QUA","13:00 às 16:40","Marinyze das Gracas Prates de Oliveira"
+NA,NA,"327","5",NA,NA,"Marinyze das Gracas Prates de Oliveira"
+NA,NA,"226","3",NA,NA,"Marinyze das Gracas Prates de Oliveira"
+NA,NA,"190","2",NA,NA,"Marinyze das Gracas Prates de Oliveira"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"HACA86 - INICIAÇÃO CIENTIFICA EM SAÚDE","010000","226","55","QUA","13:00 às 16:40","Renata Meira Veras"
+NA,"020000","515","5","SEG","13:00 às 16:40","Carmen Fontes de Souza Teixeira"
+NA,NA,"327","5",NA,NA,"Carmen Fontes de Souza Teixeira"
+NA,NA,"226","40",NA,NA,"Carmen Fontes de Souza Teixeira"
+NA,NA,"190","5",NA,NA,"Carmen Fontes de Souza Teixeira"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"HACB10 - LINGUAGENS E AMBIENTES DE PROGRAMAÇÃO EM ARTES","001000","580","20","QUA","18:30 às 22:10","Karla Schuch Brunet"
+NA,NA,"190","2",NA,NA,"Karla Schuch Brunet"
+NA,NA,"189","3",NA,NA,"Karla Schuch Brunet"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"HACB12 - LABORATÓRIO DE ARTE INTERATIVA: ARTE E INTERFACES","001000","580","20","SEX","18:30 às 22:10","Francisco de Paula Barretto"
+NA,NA,"190","2",NA,NA,"Francisco de Paula Barretto"
+NA,NA,"189","2",NA,NA,"Francisco de Paula Barretto"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"HACB14 - SISTEMAS DIGITAIS EM ARTES","010000","580","20","QUI","18:30 às 22:10","Paola Barreto Leblanc"
+NA,NA,"515","5",NA,NA,"Paola Barreto Leblanc"
+NA,NA,"387","5",NA,NA,"Paola Barreto Leblanc"
+NA,NA,"327","5",NA,NA,"Paola Barreto Leblanc"
+NA,NA,"286","3",NA,NA,"Paola Barreto Leblanc"
+NA,NA,"226","2",NA,NA,"Paola Barreto Leblanc"
+NA,NA,"190","5",NA,NA,"Paola Barreto Leblanc"
+NA,NA,"189","10",NA,NA,"Paola Barreto Leblanc"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"HACB18 - TÓPICOS ESPECIAIS EM SAÚDE I","010000","226","55","SEX","13:00 às 16:40","Leticia Marques dos Santos"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"HACB19 - TÓPICOS ESPECIAIS EM SAÚDE II","010000","580","5","QUI","18:30 às 22:10","Adriana Miranda Pimentel"
+NA,NA,"387","5",NA,NA,"Adriana Miranda Pimentel"
+NA,NA,"286","40",NA,NA,"Adriana Miranda Pimentel"
+NA,NA,"189","5",NA,NA,"Adriana Miranda Pimentel"
+NA,"020000","226","55","QUA","13:00 às 16:40","Maria Constantina Caputo"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"HACB26 - INTRODUÇÃO À HISTÓRIA DAS CIÊNCIAS","010000","387","25","SEG","18:30 às 22:10","Andre Luis Mattedi Dias"
+NA,NA,"286","25",NA,NA,"Andre Luis Mattedi Dias"
+NA,NA,"189","20",NA,NA,"Andre Luis Mattedi Dias"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"HACB30 - POLÍTICAS PÚBLICAS","010000","515","2","TER","18:30 às 22:10","Denise Cristina Vitale Ramos Mendes"
+NA,NA,"387","50",NA,NA,"Denise Cristina Vitale Ramos Mendes"
+NA,NA,"286","2",NA,NA,"Denise Cristina Vitale Ramos Mendes"
+NA,NA,"189","1",NA,NA,"Denise Cristina Vitale Ramos Mendes"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"HACB31 - ORGANIZAÇÕES E SOCIEDADES","010000","580","3","QUI","18:30 às 22:10","Carlos Alberto Bonfim"
+NA,NA,"387","45",NA,NA,"Carlos Alberto Bonfim"
+NA,NA,"286","4",NA,NA,"Carlos Alberto Bonfim"
+NA,NA,"189","3",NA,NA,"Carlos Alberto Bonfim"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"HACB33 - ECONOMIA POLÍTICA INTERNACIONAL I","010000","580","5","QUI","18:30 às 22:10","Marcos Guedes Vaz Sampaio"
+NA,NA,"387","40",NA,NA,"Marcos Guedes Vaz Sampaio"
+NA,NA,"286","5",NA,NA,"Marcos Guedes Vaz Sampaio"
+NA,NA,"189","5",NA,NA,"Marcos Guedes Vaz Sampaio"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"HACB35 - POLÍTICA EXTERNA I","010000","580","5","SEX","18:30 às 22:10","Jose Aurivaldo Sacchetta Ramos Mendes"
+NA,NA,"387","30",NA,NA,"Jose Aurivaldo Sacchetta Ramos Mendes"
+NA,NA,"286","15",NA,NA,"Jose Aurivaldo Sacchetta Ramos Mendes"
+NA,NA,"189","5",NA,NA,"Jose Aurivaldo Sacchetta Ramos Mendes"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"HACB37 - ORGANIZAÇÕES INTERNACIONAIS","010000","580","5","QUA","18:30 às 22:10","Elsa Sousa Kraychete"
+NA,NA,"387","30",NA,NA,"Elsa Sousa Kraychete"
+NA,NA,"286","15",NA,NA,"Elsa Sousa Kraychete"
+NA,NA,"189","5",NA,NA,"Elsa Sousa Kraychete"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"HACB38 - OFICINA DE TEXTOS EM HUMANIDADES","010100","327","35","SEG","13:00 às 14:50","Alice Pires de Lacerda"
+NA,NA,NA,NA,NA,"14:50 às 16:40","Alice Pires de Lacerda"
+NA,"020200","327","35","SEX","13:00 às 14:50","Ana Lucia Lage Pereira"
+NA,NA,NA,NA,NA,"14:50 às 16:40","Ana Lucia Lage Pereira"
+NA,"030300","387","35","SEG","18:30 às 20:20","Alice Pires de Lacerda"
+NA,NA,NA,NA,NA,"20:20 às 22:10","Alice Pires de Lacerda"
+NA,"040400","387","35","SEX","18:30 às 20:20","Alice Pires de Lacerda"
+NA,NA,NA,NA,NA,"20:20 às 22:10","Alice Pires de Lacerda"
+NA,"050500","387","35","QUA","18:30 às 20:20","Carlos Alberto Bonfim"
+NA,NA,NA,NA,NA,"20:20 às 22:10","Carlos Alberto Bonfim"
+NA,"060600","387","35","SEG","18:30 às 20:20","Carlos Alberto Bonfim"
+NA,NA,NA,NA,NA,"20:20 às 22:10","Carlos Alberto Bonfim"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"HACB75 - PRODUÇÃO E DIFUSÃO DO CONHECIMENTO EM ARTES","010000","580","20","QUI","18:30 às 22:10","Alex Santana Franca"
+NA,NA,"387","2",NA,NA,"Alex Santana Franca"
+NA,NA,"286","2",NA,NA,"Alex Santana Franca"
+NA,NA,"189","1",NA,NA,"Alex Santana Franca"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"HACB79 - ACCS: PROMOÇÃO DA SAÚDE E QUALIDADE DE VIDA","000100","515","1","TER","07:55 às 11:35","Maria Constantina Caputo"
+NA,NA,"327","1",NA,NA,"Maria Constantina Caputo"
+NA,NA,"325","2",NA,NA,"Maria Constantina Caputo"
+NA,NA,"313","1",NA,NA,"Maria Constantina Caputo"
+NA,NA,"312","1",NA,NA,"Maria Constantina Caputo"
+NA,NA,"308","2",NA,NA,"Maria Constantina Caputo"
+NA,NA,"306","2",NA,NA,"Maria Constantina Caputo"
+NA,NA,"286","1",NA,NA,"Maria Constantina Caputo"
+NA,NA,"283","2",NA,NA,"Maria Constantina Caputo"
+NA,NA,"226","2",NA,NA,"Maria Constantina Caputo"
+NA,NA,"208","1",NA,NA,"Maria Constantina Caputo"
+NA,NA,"205","2",NA,NA,"Maria Constantina Caputo"
+NA,NA,"203","1",NA,NA,"Maria Constantina Caputo"
+NA,NA,"190","1",NA,NA,"Maria Constantina Caputo"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"HACB83 - TECNOLOGIA E CIDADE","010000","580","5","QUI","18:30 às 22:10","Ana Lucia Lage Pereira"
+NA,NA,"387","40",NA,NA,"Ana Lucia Lage Pereira"
+NA,NA,"286","5",NA,NA,"Ana Lucia Lage Pereira"
+NA,NA,"189","5",NA,NA,"Ana Lucia Lage Pereira"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"HACB91 - CULTURA E DESENVOLVIMENTO","010000","580","6","SEG","18:30 às 22:10","Estagio Docente Pós-Graduação"
+NA,NA,"387","45",NA,NA,"Estagio Docente Pós-Graduação"
+NA,NA,"286","2",NA,NA,"Estagio Docente Pós-Graduação"
+NA,NA,"189","2",NA,NA,"Estagio Docente Pós-Graduação"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"HACC33 - TÓPICOS ESPECIAIS EM ARTES III","010000","515","3","CMB","00:00 às 23:00","Docente não informado pelo Departamento"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"HACC47 - TÓPICOS ESPECIAIS EM SAÚDE V","010000","286","50","QUA","18:30 às 22:10","Docente Concursado"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"HACD26 - ACCS: AÇÕES INTERDISC.EM PRÁTICAS INTEGRAT. E COMPLEMENTARES","001000","580","1","SEX","13:00 às 16:40","Anamelia Lins e Silva Franco"
+NA,NA,"515","1",NA,NA,"Anamelia Lins e Silva Franco"
+NA,NA,"514","1",NA,NA,"Anamelia Lins e Silva Franco"
+NA,NA,"506","3",NA,NA,"Anamelia Lins e Silva Franco"
+NA,NA,"387","1",NA,NA,"Anamelia Lins e Silva Franco"
+NA,NA,"327","1",NA,NA,"Anamelia Lins e Silva Franco"
+NA,NA,"307","1",NA,NA,"Anamelia Lins e Silva Franco"
+NA,NA,"286","3",NA,NA,"Anamelia Lins e Silva Franco"
+NA,NA,"226","3",NA,NA,"Anamelia Lins e Silva Franco"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"HACE31 - ACCS: A ARTE DE CAMINHAR","010100","515","2","SEX","13:55 às 16:40","Karla Schuch Brunet"
+NA,NA,"503","2",NA,NA,"Karla Schuch Brunet"
+NA,NA,"501","2",NA,NA,"Karla Schuch Brunet"
+NA,NA,"327","2",NA,NA,"Karla Schuch Brunet"
+NA,NA,"315","2",NA,NA,"Karla Schuch Brunet"
+NA,NA,"307","2",NA,NA,"Karla Schuch Brunet"
+NA,NA,"280","1",NA,NA,"Karla Schuch Brunet"
+NA,NA,"202","1",NA,NA,"Karla Schuch Brunet"
+NA,NA,"580","2",NA,NA,"Karla Schuch Brunet"
+NA,NA,"101","2",NA,NA,"Karla Schuch Brunet"
+NA,NA,"580","2","CMB","00:00 às 00:00","Karla Schuch Brunet"
+NA,NA,"515","2",NA,NA,"Karla Schuch Brunet"
+NA,NA,"503","2",NA,NA,"Karla Schuch Brunet"
+NA,NA,"501","2",NA,NA,"Karla Schuch Brunet"
+NA,NA,"327","2",NA,NA,"Karla Schuch Brunet"
+NA,NA,"315","2",NA,NA,"Karla Schuch Brunet"
+NA,NA,"307","2",NA,NA,"Karla Schuch Brunet"
+NA,NA,"280","1",NA,NA,"Karla Schuch Brunet"
+NA,NA,"202","1",NA,NA,"Karla Schuch Brunet"
+NA,NA,"101","2",NA,NA,"Karla Schuch Brunet"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"HACE32 - ACCS: INTERSECCIONALIDADE, POLÍTICA E PRODUC DO CONHECIMENTO","010100","580","4","SEG","13:55 às 14:50","Victor Coutinho Lage"
+NA,NA,"387","10",NA,NA,"Victor Coutinho Lage"
+NA,NA,"385","4",NA,NA,"Victor Coutinho Lage"
+NA,NA,"325","4",NA,NA,"Victor Coutinho Lage"
+NA,NA,"313","4",NA,NA,"Victor Coutinho Lage"
+NA,NA,"306","10",NA,NA,"Victor Coutinho Lage"
+NA,NA,"580","4",NA,"14:50 às 17:35","Victor Coutinho Lage"
+NA,NA,"387","10",NA,NA,"Victor Coutinho Lage"
+NA,NA,"385","4",NA,NA,"Victor Coutinho Lage"
+NA,NA,"325","4",NA,NA,"Victor Coutinho Lage"
+NA,NA,"313","4",NA,NA,"Victor Coutinho Lage"
+NA,NA,"306","10",NA,NA,"Victor Coutinho Lage"

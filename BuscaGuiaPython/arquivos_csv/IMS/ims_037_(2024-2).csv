@@ -1,0 +1,2541 @@
+Disciplina,Turma,Coleg.,Vagas Ofe,Dia,Horário,Docente
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMS001 - ANATOMIA HUMANA,10100.0,221.0,20.0,TER,13:00 às 14:50,Maise Mendonca Amorim
+,,220.0,2.0,,,Maise Mendonca Amorim
+,,221.0,20.0,QUI,16:40 às 18:30,Maise Mendonca Amorim
+,,220.0,2.0,,,Maise Mendonca Amorim
+,10200.0,218.0,2.0,TER,14:50 às 16:40,Maise Mendonca Amorim
+,,221.0,20.0,,,Maise Mendonca Amorim
+,,220.0,2.0,,,Maise Mendonca Amorim
+,,,,QUI,16:40 às 18:30,Maise Mendonca Amorim
+,,218.0,2.0,,,Maise Mendonca Amorim
+,,221.0,20.0,,,Maise Mendonca Amorim
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMS002 - PATOLOGIA,10100.0,217.0,20.0,SEG,07:00 às 08:50,Gilvaneia Silva Santos
+,,,,QUI,08:50 às 10:40,Gilvaneia Silva Santos
+,10200.0,217.0,20.0,SEG,07:00 às 08:50,Gilvaneia Silva Santos
+,,,,QUI,10:40 às 12:30,Gilvaneia Silva Santos
+,20300.0,220.0,2.0,SEG,08:50 às 10:40,Gilvaneia Silva Santos
+,,221.0,2.0,,,Gilvaneia Silva Santos
+,,218.0,20.0,,,Gilvaneia Silva Santos
+,,221.0,2.0,TER,10:40 às 12:30,Gilvaneia Silva Santos
+,,218.0,20.0,,,Gilvaneia Silva Santos
+,,220.0,2.0,,,Gilvaneia Silva Santos
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMS003 - FISIOLOGIA HUMANA,10000.0,226.0,4.0,SEG,14:50 às 16:40,Telma de Jesus Soares
+,,218.0,45.0,,,Telma de Jesus Soares
+,,847.0,1.0,,,Telma de Jesus Soares
+,,218.0,45.0,TER,14:50 às 16:40,Telma de Jesus Soares
+,,847.0,1.0,,,Telma de Jesus Soares
+,,226.0,4.0,,,Telma de Jesus Soares
+,20000.0,847.0,2.0,SEG,16:40 às 18:30,Telma de Jesus Soares
+,,220.0,37.0,,,Telma de Jesus Soares
+,,216.0,6.0,,,Telma de Jesus Soares
+,,286.0,4.0,,,Telma de Jesus Soares
+,,216.0,6.0,QUA,16:40 às 18:30,Telma de Jesus Soares
+,,847.0,2.0,,,Telma de Jesus Soares
+,,286.0,4.0,,,Telma de Jesus Soares
+,,220.0,37.0,,,Telma de Jesus Soares
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMS005 - EPIDEMIOLOGIA,10100.0,218.0,18.0,QUA,10:40 às 12:30,Danielle Souto de Medeiros
+,,216.0,6.0,,,Danielle Souto de Medeiros
+,,,,QUI,10:40 às 12:30,Danielle Souto de Medeiros
+,,218.0,18.0,,,Danielle Souto de Medeiros
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMS006 - BIOESTATÍSTICA,10000.0,218.0,2.0,SEG,13:00 às 14:50,Antonio Carlos Ricardo Braga Junior
+,,217.0,45.0,,,Antonio Carlos Ricardo Braga Junior
+,,218.0,2.0,QUI,13:00 às 14:50,Antonio Carlos Ricardo Braga Junior
+,,217.0,45.0,,,Antonio Carlos Ricardo Braga Junior
+,20000.0,221.0,40.0,SEG,14:50 às 16:40,Antonio Carlos Ricardo Braga Junior
+,,,,QUI,14:50 às 16:40,Antonio Carlos Ricardo Braga Junior
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMS012 - IMUNOLOGIA I,10000.0,216.0,2.0,SEG,08:50 às 10:40,Guilherme Barreto Campos
+,,221.0,40.0,,,Guilherme Barreto Campos
+,,847.0,3.0,,,Guilherme Barreto Campos
+,,221.0,40.0,SEX,10:40 às 12:30,Guilherme Barreto Campos
+,,847.0,3.0,,,Guilherme Barreto Campos
+,,216.0,2.0,,,Guilherme Barreto Campos
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMS014 - MICROBIOLOGIA E IMUNOLOGIA,10100.0,218.0,21.0,SEG,13:00 às 14:50,Francine Cristina Silva Rosa
+,,216.0,5.0,,,Francine Cristina Silva Rosa
+,,,,QUA,13:00 às 14:50,Francine Cristina Silva Rosa
+,,218.0,21.0,,,Francine Cristina Silva Rosa
+,10200.0,218.0,22.0,SEG,13:00 às 14:50,Francine Cristina Silva Rosa
+,,,,QUA,14:50 às 16:40,Francine Cristina Silva Rosa
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMS021 - BROMATOLOGIA I,10100.0,218.0,12.0,QUA,08:50 às 10:40,Cassiara Camelo Eloi de Souza
+,,,,QUI,08:50 às 10:40,Cassiara Camelo Eloi de Souza
+,10200.0,218.0,12.0,QUA,08:50 às 10:40,Cassiara Camelo Eloi de Souza
+,,,,QUI,10:40 às 12:30,Cassiara Camelo Eloi de Souza
+,20300.0,216.0,1.0,QUA,10:40 às 12:30,Cassiara Camelo Eloi de Souza
+,,220.0,4.0,,,Cassiara Camelo Eloi de Souza
+,,221.0,15.0,,,Cassiara Camelo Eloi de Souza
+,,216.0,1.0,,14:50 às 16:40,Cassiara Camelo Eloi de Souza
+,,221.0,15.0,,,Cassiara Camelo Eloi de Souza
+,,220.0,4.0,,,Cassiara Camelo Eloi de Souza
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMS022 - QUÍMICA FARMACÊUTICA I,10100.0,217.0,15.0,TER,13:00 às 14:50,Ana Claudia Andrade Vinhas
+,,,,,16:40 às 18:30,Ana Claudia Andrade Vinhas
+,,,,QUI,13:00 às 14:50,Ana Claudia Andrade Vinhas
+,10200.0,217.0,15.0,TER,14:50 às 16:40,Ana Claudia Andrade Vinhas
+,,,,,16:40 às 18:30,Ana Claudia Andrade Vinhas
+,,,,QUI,13:00 às 14:50,Ana Claudia Andrade Vinhas
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMS023 - GENÉTICA E MELHORAMENTO,10000.0,847.0,2.0,QUA,14:50 às 16:40,Lucas Miranda Marques
+,,221.0,40.0,,,Lucas Miranda Marques
+,,847.0,2.0,,16:40 às 18:30,Lucas Miranda Marques
+,,221.0,40.0,,,Lucas Miranda Marques
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMS024 - BIOLOGIA MOLECULAR,10000.0,221.0,10.0,SEG,16:40 às 18:30,Ricardo Evangelista Fraga
+,,220.0,40.0,,,Ricardo Evangelista Fraga
+,,286.0,5.0,,,Ricardo Evangelista Fraga
+,,221.0,10.0,QUA,13:00 às 14:50,Ricardo Evangelista Fraga
+,,220.0,40.0,,,Ricardo Evangelista Fraga
+,,286.0,5.0,,,Ricardo Evangelista Fraga
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMS028 - TÉCNICAS EM BIOLOGIA MOLECULAR,10100.0,220.0,15.0,QUA,07:00 às 08:50,Laize Tomazi
+,,,,,08:50 às 10:40,Laize Tomazi
+,10200.0,220.0,15.0,QUA,07:00 às 08:50,Laize Tomazi
+,,,,,10:40 às 12:30,Laize Tomazi
+,20300.0,221.0,25.0,TER,07:00 às 08:50,Laize Tomazi
+,,,,,08:50 às 10:40,Laize Tomazi
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMS029 - BIOINFORMÁTICA,10100.0,226.0,2.0,SEG,07:00 às 08:50,Leandro Martins de Freitas
+,,221.0,27.0,,,Leandro Martins de Freitas
+,,220.0,2.0,,,Leandro Martins de Freitas
+,,221.0,27.0,TER,10:40 às 12:30,Leandro Martins de Freitas
+,,220.0,2.0,,,Leandro Martins de Freitas
+,,226.0,2.0,,,Leandro Martins de Freitas
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMS030 - ANATOMIA E FISIOLOGIA VEGETAL,10100.0,221.0,15.0,QUA,08:50 às 10:40,Alisson Cardoso Rodrigues da Cruz
+,,,,QUI,07:00 às 08:50,Ana Carolina da Cunha Rodrigues
+,,,,,08:50 às 10:40,Ana Carolina da Cunha Rodrigues
+,,,,,,Alisson Cardoso Rodrigues da Cruz
+,10200.0,221.0,15.0,QUA,08:50 às 10:40,Alisson Cardoso Rodrigues da Cruz
+,,,,QUI,07:00 às 08:50,Ana Carolina da Cunha Rodrigues
+,,,,,10:40 às 12:30,Ana Carolina da Cunha Rodrigues
+,,,,,,Alisson Cardoso Rodrigues da Cruz
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMS049 - FARMACOLOGIA GERAL,10000.0,221.0,40.0,SEG,10:40 às 12:30,Regiane Yatsuda
+,,220.0,5.0,,,Regiane Yatsuda
+,,847.0,1.0,,,Regiane Yatsuda
+,,221.0,40.0,SEX,08:50 às 10:40,Regiane Yatsuda
+,,847.0,1.0,,,Regiane Yatsuda
+,,220.0,5.0,,,Regiane Yatsuda
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMS051 - BIOFÍSICA,10100.0,221.0,40.0,SEG,13:00 às 14:50,Vinicius Cunha Gonzalez
+,,220.0,5.0,,,Vinicius Cunha Gonzalez
+,,221.0,40.0,,14:50 às 16:40,Vinicius Cunha Gonzalez
+,,220.0,5.0,,,Vinicius Cunha Gonzalez
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMS057 - BOAS PRÁTICAS DE FABRICAÇÃO,10000.0,221.0,40.0,QUA,08:50 às 10:40,Wilson Rodrigues Pinto Junior
+,,220.0,5.0,,,Wilson Rodrigues Pinto Junior
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMS064 - FARMACOGNOSIA II,10100.0,217.0,20.0,SEG,16:40 às 18:30,Patricia Baier Krepsky
+,,,,QUA,13:00 às 14:50,Patricia Baier Krepsky
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMS070 - POLÍTICAS DE SAÚDE,10000.0,847.0,2.0,SEG,08:50 às 12:30,Monaliza Cirino de Oliveira
+,,328.0,45.0,,,Monaliza Cirino de Oliveira
+,,218.0,2.0,,,Monaliza Cirino de Oliveira
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMS071 - FARMACOLOGIA,10100.0,217.0,15.0,QUA,10:40 às 12:30,Regiane Yatsuda
+,,,,QUI,08:50 às 10:40,Regiane Yatsuda
+,10200.0,217.0,15.0,QUA,10:40 às 12:30,Regiane Yatsuda
+,,,,QUI,10:40 às 12:30,Regiane Yatsuda
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMS074 - CITOLOGIA CLÍNICA,10100.0,220.0,3.0,SEG,14:50 às 16:40,Marcio Vasconcelos Oliveira
+,,847.0,4.0,,,Marcio Vasconcelos Oliveira
+,,217.0,12.0,,,Marcio Vasconcelos Oliveira
+,,,,,16:40 às 18:30,Marcio Vasconcelos Oliveira
+,,220.0,3.0,,,Marcio Vasconcelos Oliveira
+,,847.0,4.0,,,Marcio Vasconcelos Oliveira
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMS076 - MICROBIOLOGIA,10100.0,217.0,20.0,TER,16:40 às 18:30,Guilherme Barreto Campos
+,,,,QUI,14:50 às 16:40,Guilherme Barreto Campos
+,10200.0,216.0,3.0,TER,16:40 às 18:30,Guilherme Barreto Campos
+,,217.0,20.0,,,Guilherme Barreto Campos
+,,216.0,3.0,QUI,16:40 às 18:30,Guilherme Barreto Campos
+,,217.0,20.0,,,Guilherme Barreto Campos
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMS078 - BIOQUÍMICA ESTRUTURAL,10100.0,218.0,2.0,QUI,13:00 às 14:50,Silvana Braga da Silveira
+,,220.0,17.0,,,Silvana Braga da Silveira
+,,,,,14:50 às 16:40,Silvana Braga da Silveira
+,,218.0,2.0,,,Silvana Braga da Silveira
+,10200.0,220.0,17.0,QUI,13:00 às 14:50,Silvana Braga da Silveira
+,,,,,16:40 às 18:30,Silvana Braga da Silveira
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMS079 - BIOQUÍMICA II,10000.0,221.0,40.0,SEG,16:40 às 18:30,Danila Souza Oliveira Coqueiro
+,,,,QUI,13:00 às 14:50,Danila Souza Oliveira Coqueiro
+,20000.0,217.0,40.0,TER,13:00 às 14:50,Daiana Silva Lopes
+,,,,QUA,13:00 às 14:50,Daiana Silva Lopes
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMS081 - QUÍMICA INORGÂNICA,10100.0,217.0,20.0,SEG,14:50 às 16:40,Nilton de Andrade Antonino
+,,,,QUA,14:50 às 16:40,Nilton de Andrade Antonino
+,10200.0,217.0,20.0,SEG,14:50 às 16:40,Nilton de Andrade Antonino
+,,,,QUA,16:40 às 18:30,Nilton de Andrade Antonino
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMS083 - QUÍMICA ANALÍTICA II,10200.0,217.0,15.0,TER,08:50 às 10:40,Anderson Santos Souza
+,,,,QUA,08:50 às 10:40,Anderson Santos Souza
+,10300.0,217.0,16.0,TER,07:00 às 08:50,Anderson Santos Souza
+,,,,,08:50 às 10:40,Anderson Santos Souza
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMS084 - FUNDAMENTOS DE FÍSICO-QUÍMICA,10000.0,217.0,20.0,SEG,13:00 às 14:50,Nilton de Andrade Antonino
+,,,,QUA,13:00 às 14:50,Nilton de Andrade Antonino
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMS085 - QUÍMICA ORGÂNICA I,10100.0,217.0,15.0,QUI,16:40 às 18:30,Mariluze Peixoto Cruz
+,,,,SEX,14:50 às 16:40,Mariluze Peixoto Cruz
+,10200.0,217.0,11.0,QUI,14:50 às 16:40,Mariluze Peixoto Cruz
+,,,,SEX,14:50 às 16:40,Mariluze Peixoto Cruz
+,10300.0,217.0,11.0,QUI,14:50 às 15:45,Bruno Oliveira Moreira
+,,,,,15:45 às 16:40,Bruno Oliveira Moreira
+,,,,SEX,14:50 às 16:40,Mariluze Peixoto Cruz
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMS091 - SAÚDE E SOCIEDADE,10000.0,216.0,8.0,QUI,08:50 às 12:30,Kueyla de Andrade Bitencourt
+,,328.0,45.0,,,Kueyla de Andrade Bitencourt
+,20000.0,220.0,5.0,SEG,10:40 às 12:30,Raquel Souzas
+,,217.0,45.0,,,Raquel Souzas
+,,216.0,5.0,,,Raquel Souzas
+,,218.0,7.0,,,Raquel Souzas
+,,220.0,5.0,TER,10:40 às 12:30,Raquel Souzas
+,,217.0,45.0,,,Raquel Souzas
+,,218.0,7.0,,,Raquel Souzas
+,,216.0,5.0,,,Raquel Souzas
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMS092 - FARMACODINÂMICA II,10000.0,217.0,30.0,TER,13:00 às 14:50,Sostenes Mistro
+,,,,QUA,14:50 às 16:40,Sostenes Mistro
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMS093 - FARMACOTÉCNICA I,10100.0,217.0,20.0,SEG,13:00 às 14:50,Ana Claudia Andrade Vinhas
+,,,,,14:50 às 16:40,Ana Claudia Andrade Vinhas
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMS094 - ATENÇÃO FARMACÊUTICA,10100.0,217.0,4.0,SEG,07:55 às 08:50,Fernanda Santos Portela Sampaio
+,,,,,08:50 às 09:45,Fernanda Santos Portela Sampaio
+,,,,QUA,07:55 às 08:50,Fernanda Santos Portela Sampaio
+,,,,,08:50 às 09:45,Fernanda Santos Portela Sampaio
+,,,,QUI,14:50 às 16:40,Marcio Galvao Guimaraes de Oliveira
+,10200.0,217.0,4.0,SEG,09:45 às 10:40,Fernanda Santos Portela Sampaio
+,,,,,10:40 às 11:35,Fernanda Santos Portela Sampaio
+,,,,QUA,09:45 às 10:40,Fernanda Santos Portela Sampaio
+,,,,,10:40 às 11:35,Fernanda Santos Portela Sampaio
+,,,,QUI,14:50 às 16:40,Marcio Galvao Guimaraes de Oliveira
+,10300.0,217.0,4.0,SEG,07:55 às 09:45,Marcio Galvao Guimaraes de Oliveira
+,,,,QUA,07:55 às 09:45,Marcio Galvao Guimaraes de Oliveira
+,,,,QUI,14:50 às 16:40,Marcio Galvao Guimaraes de Oliveira
+,10400.0,217.0,4.0,SEG,09:45 às 11:35,Marcio Galvao Guimaraes de Oliveira
+,,,,QUA,09:45 às 11:35,Marcio Galvao Guimaraes de Oliveira
+,,,,QUI,14:50 às 16:40,Marcio Galvao Guimaraes de Oliveira
+,10500.0,217.0,4.0,TER,09:45 às 10:40,Sostenes Mistro
+,,,,,10:40 às 11:35,Sostenes Mistro
+,,,,QUI,09:45 às 10:40,Sostenes Mistro
+,,,,,10:40 às 11:35,Sostenes Mistro
+,,,,,14:50 às 16:40,Marcio Galvao Guimaraes de Oliveira
+,10600.0,217.0,4.0,TER,09:45 às 11:35,Fernanda Santos Portela Sampaio
+,,,,QUI,09:45 às 11:35,Fernanda Santos Portela Sampaio
+,,,,,14:50 às 16:40,Marcio Galvao Guimaraes de Oliveira
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMS095 - FARMACOTÉCNICA II,10100.0,217.0,15.0,TER,13:00 às 14:50,Gabriel Azevedo de Brito Damasceno
+,,,,QUI,16:40 às 18:30,Gabriel Azevedo de Brito Damasceno
+,10200.0,217.0,15.0,TER,14:50 às 16:40,Gabriel Azevedo de Brito Damasceno
+,,,,QUI,16:40 às 18:30,Gabriel Azevedo de Brito Damasceno
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMS096 - MICROBIOLOGIA E IMUNOLOGIA CLÍNICA,10100.0,217.0,15.0,QUI,07:00 às 08:50,Milena Soares dos Santos
+,,,,,08:50 às 10:40,Milena Soares dos Santos
+,10200.0,217.0,15.0,QUI,07:00 às 08:50,Milena Soares dos Santos
+,,,,,10:40 às 12:30,Milena Soares dos Santos
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMS097 - ESTÁGIO SUPERVISIONADO EM FARMÁCIA,1.0,217.0,9.0,SEG,13:00 às 14:50,Fernanda Santos Portela Sampaio
+,,,,,14:50 às 16:40,Fernanda Santos Portela Sampaio
+,,,,,16:40 às 18:30,Fernanda Santos Portela Sampaio
+,,,,TER,14:50 às 16:40,Fernanda Santos Portela Sampaio
+,,,,,16:40 às 18:30,Fernanda Santos Portela Sampaio
+,2.0,217.0,2.0,SAB,07:00 às 08:50,Fernanda Santos Portela Sampaio
+,,,,,08:50 às 10:40,Fernanda Santos Portela Sampaio
+,,,,,10:40 às 12:30,Fernanda Santos Portela Sampaio
+,,,,,13:00 às 14:50,Fernanda Santos Portela Sampaio
+,,,,,14:50 às 16:40,Fernanda Santos Portela Sampaio
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMS098 - TECNOLOGIA FARMACÊUTICA I,10100.0,217.0,15.0,QUI,08:50 às 10:40,Juliano Geraldo Amaral
+,,,,SEX,08:50 às 10:40,Gabriel Azevedo de Brito Damasceno
+,10200.0,217.0,15.0,QUI,10:40 às 12:30,Gabriel Azevedo de Brito Damasceno
+,,,,SEX,08:50 às 10:40,Gabriel Azevedo de Brito Damasceno
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMS099 - BIOQUÍMICA CLÍNICA,10100.0,217.0,15.0,QUI,13:00 às 14:50,Jessica Bomfim de Almeida
+,,,,,14:50 às 16:40,Jessica Bomfim de Almeida
+,10200.0,847.0,1.0,QUI,13:00 às 14:50,Jessica Bomfim de Almeida
+,,220.0,5.0,,,Jessica Bomfim de Almeida
+,,217.0,15.0,,,Jessica Bomfim de Almeida
+,,847.0,1.0,,16:40 às 18:30,Jessica Bomfim de Almeida
+,,220.0,5.0,,,Jessica Bomfim de Almeida
+,,217.0,15.0,,,Jessica Bomfim de Almeida
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMS100 - CONTROLE DE QUALIDADE I,10100.0,217.0,15.0,QUI,14:50 às 16:40,Ana Claudia Andrade Vinhas
+,,,,SEX,07:00 às 08:50,Ana Claudia Andrade Vinhas
+,10200.0,217.0,15.0,QUI,16:40 às 18:30,Ana Claudia Andrade Vinhas
+,,,,SEX,07:00 às 08:50,Ana Claudia Andrade Vinhas
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMS101 - ESTÁGIO SUPERVISIONADO EM ALIMENTOS,1.0,217.0,7.0,SAB,07:00 às 08:50,Bruna de Andrade Braga Mendes
+,,,,,08:50 às 10:40,Bruna de Andrade Braga Mendes
+,,,,,10:40 às 12:30,Bruna de Andrade Braga Mendes
+,,,,,13:00 às 14:50,Bruna de Andrade Braga Mendes
+,,,,,14:50 às 16:40,Bruna de Andrade Braga Mendes
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMS102 - ORGANIZAÇÃO E SUPERVISÃO DE PRODUÇÃO,10000.0,217.0,30.0,SEX,10:40 às 12:30,Juliano Geraldo Amaral
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMS103 - ESTÁGIO SUPERVISIONADO EM ANÁLISES CLÍNICAS,1.0,217.0,8.0,SEG,07:00 às 08:50,Jessica Bomfim de Almeida
+,,,,,08:50 às 10:40,Jessica Bomfim de Almeida
+,,,,,10:40 às 12:30,Jamile Silva Lopes
+,,,,,13:00 às 14:50,Jamile Silva Lopes
+,,,,,14:50 às 16:40,Jamile Silva Lopes
+,2.0,217.0,6.0,TER,07:00 às 08:50,Jamile Silva Lopes
+,,,,,08:50 às 10:40,Jamile Silva Lopes
+,,,,,10:40 às 12:30,Jamile Silva Lopes
+,,,,,13:00 às 14:50,Jamile Silva Lopes
+,,,,,14:50 às 16:40,Jamile Silva Lopes
+,3.0,217.0,10.0,SAB,07:00 às 08:50,Milena Soares dos Santos
+,,,,,08:50 às 10:40,Milena Soares dos Santos
+,,,,,10:40 às 12:30,Milena Soares dos Santos
+,,,,,13:00 às 14:50,Jamile Silva Lopes
+,,,,,14:50 às 16:40,Jamile Silva Lopes
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMS105 - ESTÁGIO SUPERVISIONADO FINAL,1.0,217.0,20.0,QUA,07:00 às 08:50,Nilia Maria de Brito Lima Prado
+,,,,,08:50 às 10:40,Nilia Maria de Brito Lima Prado
+,,,,,10:40 às 12:30,Nilia Maria de Brito Lima Prado
+,,,,,13:00 às 14:50,Nilia Maria de Brito Lima Prado
+,,,,,14:50 às 16:40,Fernanda Santos Portela Sampaio
+,,,,QUI,07:00 às 08:50,Nilia Maria de Brito Lima Prado
+,,,,,08:50 às 10:40,Nilia Maria de Brito Lima Prado
+,,,,,10:40 às 12:30,Nilia Maria de Brito Lima Prado
+,,,,,13:00 às 14:50,Fernanda Santos Portela Sampaio
+,,,,,14:50 às 16:40,Fernanda Santos Portela Sampaio
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMS106 - GESTÃO E PLANEJAMENTO EM SERVIÇOS DE SAÚDE,10000.0,847.0,2.0,QUA,14:50 às 16:40,Nilia Maria de Brito Lima Prado
+,,220.0,5.0,,,Nilia Maria de Brito Lima Prado
+,,217.0,45.0,,,Nilia Maria de Brito Lima Prado
+,,216.0,10.0,,,Nilia Maria de Brito Lima Prado
+,,218.0,9.0,,,Nilia Maria de Brito Lima Prado
+,,847.0,2.0,,16:40 às 18:30,Nilia Maria de Brito Lima Prado
+,,218.0,9.0,,,Nilia Maria de Brito Lima Prado
+,,220.0,5.0,,,Nilia Maria de Brito Lima Prado
+,,216.0,10.0,,,Nilia Maria de Brito Lima Prado
+,,217.0,45.0,,,Nilia Maria de Brito Lima Prado
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMS107 - HEMATOLOGIA,10100.0,217.0,11.0,TER,07:00 às 08:50,Claudio Lima Souza
+,,,,,08:50 às 10:40,Claudio Lima Souza
+,,,,SEX,07:00 às 08:50,Claudio Lima Souza
+,10200.0,217.0,12.0,SEX,07:00 às 08:50,Claudio Lima Souza
+,,,,,08:50 às 10:40,Claudio Lima Souza
+,,,,,10:40 às 12:30,Claudio Lima Souza
+,10300.0,217.0,11.0,QUA,14:50 às 16:40,Jamile Silva Lopes
+,,,,,16:40 às 18:30,Jamile Silva Lopes
+,,,,SEX,07:00 às 08:50,Claudio Lima Souza
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMS110 - SANEAMENTO E SAÚDE,10000.0,220.0,15.0,TER,14:50 às 16:40,Leila Costa Cruz
+,,221.0,6.0,,,Leila Costa Cruz
+,,847.0,10.0,,,Leila Costa Cruz
+,,217.0,1.0,,,Leila Costa Cruz
+,,218.0,3.0,,,Leila Costa Cruz
+,,216.0,6.0,,,Leila Costa Cruz
+,,221.0,6.0,,16:40 às 17:35,Leila Costa Cruz
+,,220.0,15.0,,,Leila Costa Cruz
+,,218.0,3.0,,,Leila Costa Cruz
+,,217.0,1.0,,,Leila Costa Cruz
+,,216.0,6.0,,,Leila Costa Cruz
+,,847.0,10.0,,,Leila Costa Cruz
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMS112 - MICROBIOLOGIA DE ALIMENTOS,10100.0,221.0,18.0,QUA,10:40 às 12:30,Tayse Dantas Reboucas Santos Ribeiro
+,,220.0,2.0,,,Tayse Dantas Reboucas Santos Ribeiro
+,,,,QUI,08:50 às 10:40,Tayse Dantas Reboucas Santos Ribeiro
+,,221.0,18.0,,,Tayse Dantas Reboucas Santos Ribeiro
+,10200.0,221.0,18.0,QUA,10:40 às 12:30,Tayse Dantas Reboucas Santos Ribeiro
+,,220.0,2.0,,,Tayse Dantas Reboucas Santos Ribeiro
+,,218.0,2.0,,,Tayse Dantas Reboucas Santos Ribeiro
+,,,,QUI,10:40 às 12:30,Tayse Dantas Reboucas Santos Ribeiro
+,,220.0,2.0,,,Tayse Dantas Reboucas Santos Ribeiro
+,,221.0,18.0,,,Tayse Dantas Reboucas Santos Ribeiro
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMS115 - TECNOLOGIA DE ALIMENTOS,10100.0,218.0,12.0,SEG,14:50 às 16:40,Daniel Mario Tapia Tapia
+,,,,TER,14:50 às 16:40,Daniel Mario Tapia Tapia
+,10200.0,218.0,12.0,SEG,16:40 às 18:30,Daniel Mario Tapia Tapia
+,,,,TER,14:50 às 16:40,Daniel Mario Tapia Tapia
+,10300.0,218.0,12.0,TER,14:50 às 16:40,Daniel Mario Tapia Tapia
+,,,,QUI,08:50 às 10:40,Daniel Mario Tapia Tapia
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMS139 - QUÍMICA ANALÍTICA,10100.0,221.0,20.0,SEG,13:00 às 14:50,Elenir Souza Santos Rocha
+,,,,TER,13:00 às 14:50,Elenir Souza Santos Rocha
+,10200.0,221.0,20.0,SEG,13:00 às 14:50,Elenir Souza Santos Rocha
+,,,,TER,14:50 às 16:40,Elenir Souza Santos Rocha
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMS142 - DESENVOLVIMENTO DE VACINAS,10000.0,847.0,5.0,QUI,08:50 às 10:40,Bruno Lopes Bastos
+,,226.0,5.0,,,Bruno Lopes Bastos
+,,221.0,40.0,,,Bruno Lopes Bastos
+,,220.0,5.0,,,Bruno Lopes Bastos
+,,218.0,5.0,,,Bruno Lopes Bastos
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMS143 - IMUNODIAGNÓSTICO,100.0,226.0,5.0,QUI,10:40 às 12:30,Bruno Lopes Bastos
+,,221.0,40.0,,,Bruno Lopes Bastos
+,,220.0,5.0,,,Bruno Lopes Bastos
+,,847.0,5.0,,,Bruno Lopes Bastos
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMS145 - BIOTECNOLOGIA APLICADA À INDÚSTRIA DE ALIMENTOS E BEBIDAS,10100.0,220.0,1.0,SEG,10:40 às 12:30,Daniel Mario Tapia Tapia
+,,221.0,10.0,,,Daniel Mario Tapia Tapia
+,,,,TER,08:50 às 10:40,Daniel Mario Tapia Tapia
+,,220.0,1.0,,,Daniel Mario Tapia Tapia
+,10200.0,221.0,10.0,SEG,10:40 às 12:30,Daniel Mario Tapia Tapia
+,,220.0,1.0,,,Daniel Mario Tapia Tapia
+,,221.0,10.0,TER,10:40 às 12:30,Daniel Mario Tapia Tapia
+,,220.0,1.0,,,Daniel Mario Tapia Tapia
+,10300.0,221.0,10.0,SEG,10:40 às 12:30,Daniel Mario Tapia Tapia
+,,220.0,1.0,,,Daniel Mario Tapia Tapia
+,,221.0,10.0,QUA,08:50 às 10:40,Daniel Mario Tapia Tapia
+,,220.0,1.0,,,Daniel Mario Tapia Tapia
+,10400.0,221.0,10.0,SEG,10:40 às 12:30,Daniel Mario Tapia Tapia
+,,220.0,1.0,,,Daniel Mario Tapia Tapia
+,,221.0,10.0,QUA,10:40 às 12:30,Daniel Mario Tapia Tapia
+,,220.0,1.0,,,Daniel Mario Tapia Tapia
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMS148 - AGROINDÚSTRIA E AGRONEGÓCIO,10000.0,221.0,40.0,TER,10:40 às 12:30,Orlando Silvio Caires Neves
+,,218.0,8.0,,,Orlando Silvio Caires Neves
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMS150 - GENÉTICA HUMANA E MÉDICA,10000.0,218.0,5.0,SEG,16:40 às 18:30,Patricia Belini Nishiyama
+,,217.0,40.0,,,Patricia Belini Nishiyama
+,,218.0,5.0,SEX,13:00 às 14:50,Patricia Belini Nishiyama
+,,217.0,40.0,,,Patricia Belini Nishiyama
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMS151 - GERÊNCIA E ADMINISTRAÇÃO,10000.0,221.0,40.0,SEG,08:50 às 10:40,Amanda Gilvani Cordeiro Matias
+,,,,QUA,10:40 às 12:30,Amanda Gilvani Cordeiro Matias
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMS153 - ESTÁGIO SUPERVISIONADO I,1.0,221.0,30.0,SEG,14:50 às 16:40,Wilson Rodrigues Pinto Junior
+,,,,SAB,07:00 às 12:30,Wilson Rodrigues Pinto Junior
+,,,,,13:00 às 16:40,Wilson Rodrigues Pinto Junior
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMS154 - ESTÁGIO SUPERVISIONADO II,1.0,221.0,30.0,SEG,16:40 às 18:30,Wilson Rodrigues Pinto Junior
+,,,,SEX,07:00 às 12:30,Wilson Rodrigues Pinto Junior
+,,,,,13:00 às 16:40,Dioneire Amparo dos Anjos
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMS155 - TRABALHO DE CONCLUSÃO DE CURSO,10000.0,221.0,20.0,TER,14:50 às 16:40,Lucas Miranda Marques
+,,,,,16:40 às 18:30,Lucas Miranda Marques
+,20000.0,221.0,20.0,TER,14:50 às 18:30,Dioneire Amparo dos Anjos
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMS158 - GERENCIAMENTO DE RESÍDUOS,10000.0,847.0,2.0,QUI,13:00 às 16:40,Dieslley Amorim de Souza
+,,226.0,4.0,,,Dieslley Amorim de Souza
+,,221.0,3.0,,,Dieslley Amorim de Souza
+,,220.0,5.0,,,Dieslley Amorim de Souza
+,,216.0,30.0,,,Dieslley Amorim de Souza
+,,218.0,2.0,,,Dieslley Amorim de Souza
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMS161 - TRABALHO DE CONCLUSÃO DE CURSO I,10000.0,217.0,1.0,SAB,07:00 às 08:50,Danielle Souto de Medeiros
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMS163 - TRABALHO DE CONCLUSÃO DE CURSO II,10000.0,217.0,10.0,SEX,08:50 às 10:40,Lucia Gracia Ferreira Trindade
+,20000.0,217.0,10.0,SEX,08:50 às 10:40,Dioneire Amparo dos Anjos
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMS169 - TECNOLOGIA DE PRODUTOS DE ORIGEM ANIMAL,10100.0,221.0,20.0,QUA,14:50 às 16:40,Wilson Rodrigues Pinto Junior
+,,218.0,6.0,,,Wilson Rodrigues Pinto Junior
+,,216.0,9.0,,,Wilson Rodrigues Pinto Junior
+,,221.0,20.0,,16:40 às 18:30,Wilson Rodrigues Pinto Junior
+,,218.0,6.0,,,Wilson Rodrigues Pinto Junior
+,,216.0,9.0,,,Wilson Rodrigues Pinto Junior
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMS179 - CIDADANIA E POLÍTICAS PÚBLICAS,10000.0,847.0,1.0,SEX,08:50 às 10:40,Jose Patricio Bispo Junior
+,,221.0,45.0,,,Jose Patricio Bispo Junior
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMS180 - HISTOLOGIA E EMBRIOLOGIA,10100.0,217.0,20.0,TER,14:50 às 16:40,Robson Amaro Augusto da Silva
+,,216.0,3.0,,,Robson Amaro Augusto da Silva
+,,217.0,20.0,QUA,14:50 às 16:40,Kenia de Oliveira Bueno
+,,216.0,3.0,,,Kenia de Oliveira Bueno
+,,217.0,20.0,,,Robson Amaro Augusto da Silva
+,,216.0,3.0,,,Robson Amaro Augusto da Silva
+,10200.0,217.0,20.0,TER,14:50 às 16:40,Robson Amaro Augusto da Silva
+,,,,QUA,16:40 às 18:30,Kenia de Oliveira Bueno
+,,,,,,Robson Amaro Augusto da Silva
+,20300.0,220.0,20.0,TER,16:40 às 18:30,Robson Amaro Augusto da Silva
+,,,,QUI,16:40 às 18:30,Kenia de Oliveira Bueno
+,20400.0,220.0,20.0,TER,16:40 às 18:30,Robson Amaro Augusto da Silva
+,,,,QUI,14:50 às 16:40,Kenia de Oliveira Bueno
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMS191 - FUNDAMENTOS DE BIOTECNOLOGIA APLICADA À SAÚDE,10000.0,847.0,7.0,TER,08:50 às 10:40,Bruno Lopes Bastos
+,,221.0,40.0,,,Bruno Lopes Bastos
+,,220.0,5.0,,,Bruno Lopes Bastos
+,,218.0,5.0,,,Bruno Lopes Bastos
+,,847.0,7.0,,10:40 às 12:30,Bruno Lopes Bastos
+,,221.0,40.0,,,Bruno Lopes Bastos
+,,220.0,5.0,,,Bruno Lopes Bastos
+,,218.0,5.0,,,Bruno Lopes Bastos
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMS198 - GENÉTICA GERAL,10100.0,220.0,2.0,CMB,00:00 às 23:00,Patricia Belini Nishiyama
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMS199 - GENÉTICA DE POPULAÇÕES,10100.0,220.0,2.0,QUI,08:50 às 10:40,Patricia Belini Nishiyama
+,,,,,10:40 às 12:30,Patricia Belini Nishiyama
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMS219 - Poluição Ambiental,10000.0,847.0,5.0,QUA,08:50 às 10:40,Elenir Souza Santos Rocha
+,,328.0,5.0,,,Elenir Souza Santos Rocha
+,,220.0,5.0,,,Elenir Souza Santos Rocha
+,,218.0,9.0,,,Elenir Souza Santos Rocha
+,,217.0,2.0,,,Elenir Souza Santos Rocha
+,,216.0,6.0,,,Elenir Souza Santos Rocha
+,,221.0,5.0,,,Elenir Souza Santos Rocha
+,,847.0,5.0,QUI,08:50 às 10:40,Anderson Santos Souza
+,,328.0,5.0,,,Anderson Santos Souza
+,,221.0,5.0,,,Anderson Santos Souza
+,,220.0,5.0,,,Anderson Santos Souza
+,,218.0,9.0,,,Anderson Santos Souza
+,,217.0,2.0,,,Anderson Santos Souza
+,,216.0,6.0,,,Anderson Santos Souza
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMS228 - PROCESSOS PSICOLÓGICOS BÁSICOS I - APRENDIZAGEM COGNITIVA,10100.0,328.0,25.0,QUA,14:50 às 16:40,Guilherme Chirinea
+,,,,QUI,13:00 às 14:50,Guilherme Chirinea
+,10200.0,328.0,20.0,QUA,14:50 às 16:40,Guilherme Chirinea
+,,,,QUI,14:50 às 16:40,Guilherme Chirinea
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMS229 - PROCESSOS PSICOLÓGICOS BÁSICOS II - PROCESSOS COGNITIVOS,10100.0,328.0,45.0,SEX,13:00 às 14:50,Luanna Lua Sousa Felicio
+,,,,,14:50 às 16:40,Luanna Lua Sousa Felicio
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMS230 - PROCESSOS PSICOLÓGICOS BÁSICOS III - MOTIVAÇÃO E EMOÇÃO,10100.0,328.0,45.0,TER,16:40 às 18:30,Luanna Lua Sousa Felicio
+,,,,QUA,16:40 às 18:30,Luanna Lua Sousa Felicio
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMS231 - TEORIA EVOLUCIONISTA E COMPORTAMENTO HUMANO,10000.0,328.0,46.0,TER,14:50 às 16:40,Guilherme Chirinea
+,,216.0,1.0,,,Guilherme Chirinea
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMS233 - NEUROCIÊNCIAS DAS FUNÇÕES COGNITIVAS E DO COMPORTAMENTO,10100.0,328.0,45.0,SEG,13:00 às 14:50,Patricia Martins de Freitas
+,,,,,14:50 às 18:30,Patricia Martins de Freitas
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMS241 - PSICOLOGIA DO DESENVOLVIMENTO DA CRIANÇA,10100.0,328.0,45.0,QUA,07:00 às 10:40,Luanna Lua Sousa Felicio
+,,,,,10:40 às 12:30,Luanna Lua Sousa Felicio
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMS242 - PSICOPATOLOGIA,10100.0,328.0,45.0,QUI,07:00 às 10:40,Docente Concursado
+,,,,,,Milena Maria Sarti
+,,,,,10:40 às 12:30,Milena Maria Sarti
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMS243 - PESQUISA EM PSICOLOGIA I,10100.0,328.0,45.0,TER,07:00 às 07:55,Andre Pereira Goncalves
+,,,,,07:55 às 08:50,Andre Pereira Goncalves
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMS244 - PSICOLOGIA DA FAMÍLIA,10100.0,328.0,40.0,TER,08:50 às 10:40,Livia Botelho Felix
+,,,,,10:40 às 12:30,Livia Botelho Felix
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMS251 - AVALIAÇÃO PSICOLÓGICA,10100.0,328.0,45.0,QUI,14:50 às 16:40,Andre Pereira Goncalves
+,,,,,16:40 às 18:30,Andre Pereira Goncalves
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMS252 - PSICOLOGIA E EDUCAÇÃO,10100.0,328.0,25.0,SEG,13:00 às 14:50,Mayra Ribeiro
+,,,,,14:50 às 16:40,Mayra Ribeiro
+,10200.0,328.0,20.0,SEG,13:00 às 14:50,Mayra Ribeiro
+,,,,,16:40 às 18:30,Mayra Ribeiro
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMS253 - PESQUISA EM PSICOLOGIA III,10100.0,328.0,45.0,QUI,13:00 às 13:55,Livia Botelho Felix
+,,,,,13:55 às 14:50,Livia Botelho Felix
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMS254 - PSICOLOGIA E SAUDE,10100.0,847.0,1.0,QUA,14:50 às 16:40,Carla Silva Soares
+,,328.0,45.0,,,Carla Silva Soares
+,,286.0,4.0,,,Carla Silva Soares
+,,847.0,1.0,,16:40 às 18:30,Carla Silva Soares
+,,328.0,45.0,,,Carla Silva Soares
+,,286.0,4.0,,,Carla Silva Soares
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMS255 - PSICOLOGIA E ORGANIZAÇÕES,10100.0,847.0,2.0,TER,14:50 às 16:40,Flavia Alves do Rosario
+,,328.0,45.0,,,Flavia Alves do Rosario
+,,847.0,2.0,,16:40 às 18:30,Flavia Alves do Rosario
+,,328.0,45.0,,,Flavia Alves do Rosario
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMS258 - PSICOTERAPIA I,10100.0,328.0,45.0,TER,08:50 às 10:40,Daniela Rodrigues Goulart Gomes
+,,,,,10:40 às 12:30,Daniela Rodrigues Goulart Gomes
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMS260 - PESQUISA EM PSICOLOGIA IV,10100.0,328.0,35.0,SEG,07:00 às 07:55,Luanna Lua Sousa Felicio
+,,,,,07:55 às 08:50,Luanna Lua Sousa Felicio
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+"IMS261 - PSICOLOGIA, GESTÃO E TRABALHO",10100.0,328.0,45.0,SEX,07:00 às 08:50,Flavia Alves do Rosario
+,,226.0,4.0,,,Flavia Alves do Rosario
+,,328.0,45.0,,08:50 às 10:40,Flavia Alves do Rosario
+,,226.0,4.0,,,Flavia Alves do Rosario
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMS262 - PSICOTERAPIA II,10100.0,328.0,40.0,TER,07:00 às 10:40,Edi Cristina Manfroi
+,,,,,,Luanna Lua Sousa Felicio
+,,,,,10:40 às 12:30,Sergio Lizias Costa de Oliveira Rocha
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMS266 - SEMINÁRIOS INTEGRATIVOS,10000.0,328.0,45.0,QUA,08:50 às 12:30,Mayra Ribeiro
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMS268 - LIBRAS-LÍNGUA BRASILEIRA DE SINAIS,10100.0,847.0,2.0,QUA,14:50 às 15:45,Nayra Marinho Silva Paz
+,,221.0,20.0,,,Nayra Marinho Silva Paz
+,,847.0,2.0,,15:45 às 16:40,Nayra Marinho Silva Paz
+,,221.0,20.0,,,Nayra Marinho Silva Paz
+,20200.0,847.0,5.0,TER,08:50 às 09:45,Nayra Marinho Silva Paz
+,,328.0,5.0,,,Nayra Marinho Silva Paz
+,,221.0,5.0,,,Nayra Marinho Silva Paz
+,,220.0,5.0,,,Nayra Marinho Silva Paz
+,,218.0,5.0,,,Nayra Marinho Silva Paz
+,,217.0,7.0,,,Nayra Marinho Silva Paz
+,,216.0,5.0,,,Nayra Marinho Silva Paz
+,,847.0,5.0,,09:45 às 10:40,Nayra Marinho Silva Paz
+,,328.0,5.0,,,Nayra Marinho Silva Paz
+,,221.0,5.0,,,Nayra Marinho Silva Paz
+,,220.0,5.0,,,Nayra Marinho Silva Paz
+,,218.0,5.0,,,Nayra Marinho Silva Paz
+,,217.0,7.0,,,Nayra Marinho Silva Paz
+,,216.0,5.0,,,Nayra Marinho Silva Paz
+,30300.0,847.0,5.0,SEG,16:40 às 17:35,Nayra Marinho Silva Paz
+,,328.0,5.0,,,Nayra Marinho Silva Paz
+,,221.0,5.0,,,Nayra Marinho Silva Paz
+,,220.0,5.0,,,Nayra Marinho Silva Paz
+,,218.0,5.0,,,Nayra Marinho Silva Paz
+,,217.0,4.0,,,Nayra Marinho Silva Paz
+,,216.0,5.0,,,Nayra Marinho Silva Paz
+,,847.0,5.0,,17:35 às 18:30,Nayra Marinho Silva Paz
+,,328.0,5.0,,,Nayra Marinho Silva Paz
+,,221.0,5.0,,,Nayra Marinho Silva Paz
+,,220.0,5.0,,,Nayra Marinho Silva Paz
+,,218.0,5.0,,,Nayra Marinho Silva Paz
+,,217.0,4.0,,,Nayra Marinho Silva Paz
+,,216.0,5.0,,,Nayra Marinho Silva Paz
+,40400.0,220.0,20.0,QUA,16:40 às 17:35,Nayra Marinho Silva Paz
+,,,,,17:35 às 18:30,Nayra Marinho Silva Paz
+,50500.0,216.0,20.0,SEG,08:50 às 09:45,Nayra Marinho Silva Paz
+,,,,,09:45 às 10:40,Nayra Marinho Silva Paz
+,60600.0,218.0,25.0,QUI,08:50 às 09:45,Nayra Marinho Silva Paz
+,,,,,09:45 às 10:40,Nayra Marinho Silva Paz
+,70700.0,328.0,25.0,QUA,13:00 às 13:55,Nayra Marinho Silva Paz
+,,,,,13:55 às 14:50,Nayra Marinho Silva Paz
+,80800.0,847.0,20.0,SEG,14:50 às 15:45,Nayra Marinho Silva Paz
+,,218.0,1.0,,,Nayra Marinho Silva Paz
+,,847.0,20.0,,15:45 às 16:40,Nayra Marinho Silva Paz
+,,218.0,1.0,,,Nayra Marinho Silva Paz
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMSA01 - IMAGINOLOGIA BÁSICA,10100.0,847.0,30.0,TER,14:50 às 16:40,Luciano Pereira Rosa
+,,216.0,15.0,,,Luciano Pereira Rosa
+,,,,,16:40 às 18:30,Luciano Pereira Rosa
+,,847.0,30.0,,,Luciano Pereira Rosa
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMSA77 - TRABALHO DE CONCLUSÃO DE CURSO II,10000.0,216.0,29.0,QUA,09:45 às 11:35,Helca Franciolli Teixeira Reis
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMSA99 - SEMIOLOGIA FARMACÊUTICA,10000.0,847.0,5.0,QUA,13:00 às 14:50,Fernanda Santos Portela Sampaio
+,,217.0,15.0,,,Fernanda Santos Portela Sampaio
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMSB15 - PRINCÍPIOS DE PSICOFARMACOLOGIA,10100.0,847.0,48.0,SEX,14:50 às 16:40,Kelle Oliveira Silva
+,,216.0,3.0,,,Kelle Oliveira Silva
+,,847.0,48.0,,16:40 às 18:30,Kelle Oliveira Silva
+,,216.0,3.0,,,Kelle Oliveira Silva
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMSB23 - PSICOPATOLOGIA DA INFÂNCIA E DA ADOLESCÊNCIA,10100.0,847.0,1.0,SEX,08:50 às 10:40,Docente Concursado
+,,328.0,45.0,,,Docente Concursado
+,,847.0,1.0,,10:40 às 12:30,Docente Concursado
+,,328.0,45.0,,,Docente Concursado
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMSB24 - ENTREVISTA PSICOLÓGICA,10100.0,328.0,45.0,SEX,13:00 às 14:50,Flavia Alves do Rosario
+,,,,,14:50 às 16:40,Flavia Alves do Rosario
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMSB28 - TE - PSICOLOGIA III,10000.0,328.0,45.0,QUA,08:50 às 12:30,Kueyla de Andrade Bitencourt
+,,218.0,3.0,,,Kueyla de Andrade Bitencourt
+,,216.0,6.0,,,Kueyla de Andrade Bitencourt
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMSB71 - BIORREMEDIAÇÃO,10000.0,286.0,4.0,QUI,16:40 às 18:30,Patricia Lopes Leal
+,,221.0,25.0,,,Patricia Lopes Leal
+,,220.0,10.0,,,Patricia Lopes Leal
+,,216.0,12.0,,,Patricia Lopes Leal
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMSB87 - ECOLOGIA DE COMUNIDADES,10100.0,220.0,2.0,CMB,00:00 às 23:00,Leila Costa Cruz
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMSB88 - SISTEMÁTICA DE ESPERMATÓFITAS,10100.0,220.0,15.0,TER,10:40 às 12:30,Andrea Karla Almeida dos Santos
+,,,,QUA,08:50 às 10:40,Andrea Karla Almeida dos Santos
+,10200.0,220.0,15.0,TER,10:40 às 12:30,Andrea Karla Almeida dos Santos
+,,,,QUA,10:40 às 12:30,Andrea Karla Almeida dos Santos
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMSB90 - ECOLOGIA DE ECOSSISTEMAS,10100.0,220.0,2.0,CMB,00:00 às 23:00,Leila Costa Cruz
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMSB94 - BIODIVERSIDADE ANIMAL IV: AMNIOTAS,10100.0,220.0,15.0,TER,13:00 às 14:50,Marcio Borba da Silva
+,,,,,14:50 às 16:40,Marcio Borba da Silva
+,10200.0,220.0,15.0,TER,13:00 às 14:50,Marcio Borba da Silva
+,,,,,16:40 às 18:30,Marcio Borba da Silva
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMSB96 - Projeto de Trabalho de Conclusão de Curso,10000.0,220.0,15.0,QUA,14:50 às 18:30,Patricia Lopes Leal
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMSB97 - TRABALHO DE CONCLUSÃO DE CURSO,10000.0,220.0,20.0,QUI,16:40 às 18:30,Ana Carolina da Cunha Rodrigues
+,,218.0,7.0,,,Ana Carolina da Cunha Rodrigues
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMSB98 - ESTÁGIO SUPERVISIONADO,1.0,220.0,20.0,CMB,00:00 às 23:00,Alisson Cardoso Rodrigues da Cruz
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMSC07 - BIOLOGIA DE CAMPO I: ECOSSISTEMAS COSTEIROS,1000.0,286.0,1.0,CMB,00:00 às 23:00,Leila Costa Cruz
+,,220.0,2.0,,,Leila Costa Cruz
+,,286.0,1.0,,,Ana Carolina da Cunha Rodrigues
+,,220.0,2.0,,,Ana Carolina da Cunha Rodrigues
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMSC40 - GENÉTICA DO CÂNCER,10000.0,847.0,7.0,QUI,13:00 às 13:55,Cintia Rodrigues Marques
+,,226.0,2.0,,,Cintia Rodrigues Marques
+,,221.0,7.0,,,Cintia Rodrigues Marques
+,,220.0,4.0,,,Cintia Rodrigues Marques
+,,218.0,7.0,,,Cintia Rodrigues Marques
+,,847.0,7.0,,13:55 às 14:50,Cintia Rodrigues Marques
+,,226.0,2.0,,,Cintia Rodrigues Marques
+,,221.0,7.0,,,Cintia Rodrigues Marques
+,,220.0,4.0,,,Cintia Rodrigues Marques
+,,218.0,7.0,,,Cintia Rodrigues Marques
+,20000.0,847.0,4.0,QUI,13:00 às 14:50,Leandro Martins de Freitas
+,,226.0,2.0,,,Leandro Martins de Freitas
+,,221.0,10.0,,,Leandro Martins de Freitas
+,,220.0,1.0,,,Leandro Martins de Freitas
+,,218.0,4.0,,,Leandro Martins de Freitas
+,,217.0,1.0,,,Leandro Martins de Freitas
+,,216.0,5.0,,,Leandro Martins de Freitas
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMSC52 - MICROBIOLOGIA AMBIENTAL,10100.0,226.0,2.0,TER,14:50 às 16:40,Patricia Lopes Leal
+,,221.0,15.0,,,Patricia Lopes Leal
+,,220.0,10.0,,,Patricia Lopes Leal
+,,216.0,1.0,,,Patricia Lopes Leal
+,,226.0,2.0,QUI,14:50 às 16:40,Patricia Lopes Leal
+,,221.0,15.0,,,Patricia Lopes Leal
+,,220.0,10.0,,,Patricia Lopes Leal
+,,216.0,1.0,,,Patricia Lopes Leal
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMSC64 - PAISAGISMO E ARBORIZAÇÃO,10100.0,221.0,10.0,SEG,14:50 às 16:40,Ana Carolina da Cunha Rodrigues
+,,220.0,10.0,,,Ana Carolina da Cunha Rodrigues
+,,221.0,10.0,,16:40 às 18:30,Ana Carolina da Cunha Rodrigues
+,,220.0,10.0,,,Ana Carolina da Cunha Rodrigues
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMSC69 - Manejo e Conservação da Biodiversidade,10100.0,220.0,6.0,TER,13:00 às 14:50,Ricardo Evangelista Fraga
+,,,,,14:50 às 16:40,Ricardo Evangelista Fraga
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMSC80 - ANÁLISE E INTERPRETAÇÃO DE EXAMES LABORATORIAIS,10000.0,847.0,3.0,SEX,13:00 às 14:50,Matheus Lopes Cortes
+,,221.0,3.0,,,Matheus Lopes Cortes
+,,220.0,3.0,,,Matheus Lopes Cortes
+,,218.0,46.0,,,Matheus Lopes Cortes
+,,217.0,1.0,,,Matheus Lopes Cortes
+,,216.0,6.0,,,Matheus Lopes Cortes
+,,847.0,3.0,,14:50 às 16:40,Matheus Lopes Cortes
+,,221.0,3.0,,,Matheus Lopes Cortes
+,,220.0,3.0,,,Matheus Lopes Cortes
+,,218.0,46.0,,,Matheus Lopes Cortes
+,,217.0,1.0,,,Matheus Lopes Cortes
+,,216.0,6.0,,,Matheus Lopes Cortes
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMSC96 - PSICOLOGIA JURÍDICA I,10000.0,328.0,45.0,QUI,14:50 às 18:30,Monaliza Cirino de Oliveira
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMSD02 - SELEÇÃO ORIENT PROFISSIONAL,10100.0,328.0,45.0,SEG,14:50 às 16:40,Flavia Alves do Rosario
+,,,,,16:40 às 18:30,Flavia Alves do Rosario
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMSD17 - CLÍNICA AMPLIADA E SAÚDE MENTAL,10100.0,328.0,45.0,SEG,08:50 às 10:40,Livia Botelho Felix
+,,218.0,3.0,,,Livia Botelho Felix
+,,216.0,18.0,,,Livia Botelho Felix
+,,328.0,45.0,,10:40 às 12:30,Livia Botelho Felix
+,,218.0,3.0,,,Livia Botelho Felix
+,,216.0,18.0,,,Livia Botelho Felix
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+"IMSD20 - ESTADO, SOCIEDADE E SAÚDE",10000.0,847.0,2.0,TER,07:00 às 08:50,Tarcisia Castro Alves
+,,221.0,3.0,,,Tarcisia Castro Alves
+,,218.0,6.0,,,Tarcisia Castro Alves
+,,216.0,30.0,,,Tarcisia Castro Alves
+,,847.0,2.0,,08:50 às 10:40,Luis Rogerio Cosme Silva Santos
+,,221.0,3.0,,,Luis Rogerio Cosme Silva Santos
+,,218.0,6.0,,,Luis Rogerio Cosme Silva Santos
+,,216.0,30.0,,,Luis Rogerio Cosme Silva Santos
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMSD23 - PSICOLOGIA E ATENÇÃO BÁSICA NA SAÚDE,10100.0,847.0,6.0,TER,14:50 às 16:40,Docente Concursado
+,,328.0,45.0,,,Docente Concursado
+,,218.0,2.0,,,Docente Concursado
+,,847.0,6.0,,16:40 às 18:30,Docente Concursado
+,,328.0,45.0,,,Docente Concursado
+,,218.0,2.0,,,Docente Concursado
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMSD58 - GIPES - Elementos do fazer médico da concepção ao nascimento,1000.0,847.0,13.0,TER,14:50 às 18:30,Nivea Maria Silva Silveira
+,,,,CMB,00:00 às 00:00,Nivea Maria Silva Silveira
+,2000.0,847.0,14.0,SEG,14:50 às 18:30,Eliana Amorim de Souza
+,,,,CMB,00:00 às 00:00,Nivea Maria Silva Silveira
+,3000.0,847.0,14.0,TER,14:50 às 18:30,Eliana Amorim de Souza
+,,,,CMB,00:00 às 00:00,Nivea Maria Silva Silveira
+,4000.0,847.0,14.0,SEG,14:50 às 18:30,Nivea Maria Silva Silveira
+,,,,CMB,00:00 às 00:00,Nivea Maria Silva Silveira
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMSD59 - GIPES - Elementos do fazer médico da concepção ao nascimento,1000.0,847.0,18.0,TER,07:00 às 08:50,Anna Tereza Matos Alves dos Santos
+,,,,QUI,07:00 às 10:40,Anelise Costa dos Santos Botelho
+,2000.0,847.0,18.0,QUA,08:50 às 12:30,Veronica Cheles Vieira
+,,,,SAB,08:50 às 10:40,Anna Tereza Matos Alves dos Santos
+,3000.0,847.0,19.0,QUA,08:50 às 12:30,Fabia Idalina Rodrigues Neves
+,,,,SAB,10:40 às 12:30,Anna Tereza Matos Alves dos Santos
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+"IMSD60 - GEAC - Saúde, qualidade de vida e políticas públicas",10100.0,847.0,27.0,TER,08:50 às 10:40,Cintia Rodrigues Marques
+,,,,QUI,14:50 às 15:45,Paulo Rogers da Silva Ferreira
+,,,,CMB,00:00 às 00:00,Paulo Rogers da Silva Ferreira
+,10200.0,847.0,28.0,TER,10:40 às 12:30,Cintia Rodrigues Marques
+,,,,QUI,14:50 às 17:35,Paulo Rogers da Silva Ferreira
+,,,,CMB,00:00 às 00:00,Paulo Rogers da Silva Ferreira
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMSD61 - GEAC - Participação e controle social no SUS,10100.0,847.0,18.0,SEG,08:50 às 10:40,Luciano Pereira Rosa
+,,,,QUI,16:40 às 18:30,Robson Amaro Augusto da Silva
+,10200.0,847.0,18.0,SEG,10:40 às 12:30,Luciano Pereira Rosa
+,,,,QUI,16:40 às 18:30,Robson Amaro Augusto da Silva
+,10300.0,847.0,19.0,SEG,07:00 às 08:50,Luciano Pereira Rosa
+,,,,QUI,16:40 às 18:30,Robson Amaro Augusto da Silva
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMSD62 - OPS - Concepção e Nascimento,1000.0,847.0,55.0,QUI,10:40 às 12:30,Laura Regia Oliveira Cordeiro
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMSD63 - RPC - Assistência à gestante e ao RN,1000.0,847.0,18.0,SEG,10:40 às 12:30,Patricia da Silva Oliveira
+,2000.0,847.0,18.0,SEG,08:50 às 10:40,Patricia da Silva Oliveira
+,3000.0,847.0,19.0,SEG,07:00 às 08:50,Patricia da Silva Oliveira
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMSD71 - GIPES - Asp. anatomofisiopatológicos e morfofuncionais em ag,10100.0,847.0,22.0,QUI,07:00 às 08:50,Patricia da Silva Oliveira
+,,,,,08:50 às 12:30,Liliany Souza de Brito Amaral
+,10200.0,847.0,24.0,QUI,07:00 às 08:50,Patricia da Silva Oliveira
+,,,,,08:50 às 12:30,Fernanda Khouri Barreto
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMSD72 - GIPES - O saber médico em urgência e emergência na clínica d,10100.0,847.0,11.0,QUA,08:50 às 10:40,Roberta Leiane Cordeiro Porto Humberto
+,,,,QUI,13:00 às 16:40,Anelise Costa dos Santos Botelho
+,,,,,16:40 às 18:30,Rafael Carlos Pereira
+,10200.0,847.0,11.0,TER,14:50 às 18:30,Juliana de Oliveira Nunes
+,,,,QUA,08:50 às 10:40,Roberta Leiane Cordeiro Porto Humberto
+,,,,QUI,16:40 às 18:30,Rafael Carlos Pereira
+,10300.0,847.0,12.0,QUA,08:50 às 10:40,Roberta Leiane Cordeiro Porto Humberto
+,,,,QUI,16:40 às 18:30,Rafael Carlos Pereira
+,,,,SEX,08:50 às 12:30,Davi Tanajura Costa
+,10400.0,847.0,12.0,QUA,08:50 às 10:40,Roberta Leiane Cordeiro Porto Humberto
+,,,,,14:50 às 18:30,Vinicius de Brito Rodrigues
+,,,,QUI,16:40 às 18:30,Rafael Carlos Pereira
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMSD73 - GIPES - Elementos de sustentação em APH,10100.0,847.0,22.0,SEG,07:00 às 08:50,Vanessa Moraes Bezerra
+,,,,,08:50 às 10:40,Vanessa Moraes Bezerra
+,10200.0,847.0,24.0,SEG,07:00 às 08:50,Vanessa Moraes Bezerra
+,,,,,10:40 às 12:30,Vanessa Moraes Bezerra
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMSD74 - GEAC - Traumas e violências: abordagem e tratamento na idade,10000.0,847.0,46.0,TER,08:50 às 10:40,Tiana Baqueiro Figueiredo
+,,,,,10:40 às 12:30,Marcio Vasconcelos Oliveira
+,,,,,,Fabricio Freire de Melo
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMSD75 - OPS - Saúde da pessoa na idade adulta,1000.0,847.0,22.0,QUA,07:00 às 08:50,Docente Concursado
+,2000.0,847.0,24.0,SEX,16:40 às 18:30,Juliana de Oliveira Nunes
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMSD76 - RPC - Trânsito: O paradoxo do tempo para o SAMU,1000.0,847.0,46.0,QUA,10:40 às 12:30,Kelle Oliveira Silva
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMSD82 - GEAC - Conduta diagnóstica e terapêutica nas doenças transmi,10100.0,847.0,16.0,TER,13:00 às 14:50,Wladir Bastos Fernandes Junior
+,,,,,14:50 às 18:30,Wladir Bastos Fernandes Junior
+,10200.0,847.0,16.0,SEG,08:50 às 12:30,Thiago Santos Novais
+,,,,TER,13:00 às 14:50,Wladir Bastos Fernandes Junior
+,10300.0,847.0,16.0,SEG,14:50 às 18:30,Docente Concursado
+,,,,TER,13:00 às 14:50,Wladir Bastos Fernandes Junior
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMSD83 - GEAC - Organização dos processo de trabalho no SUS,10100.0,847.0,48.0,QUI,07:00 às 08:50,Leonardo Barros Mascarenhas
+,,,,,08:50 às 10:40,Leonardo Barros Mascarenhas
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMSD84 - GIPES - Elementos estruturantes do fazer médico nas doenças,10100.0,847.0,12.0,SEG,14:50 às 18:30,Adriana Maria de Sousa
+,,,,QUI,16:40 às 18:30,Jacqueline Maia Ferraz
+,10200.0,847.0,12.0,SEG,14:50 às 18:30,Jacqueline Maia Ferraz
+,,,,QUI,16:40 às 18:30,Jacqueline Maia Ferraz
+,10300.0,847.0,12.0,QUI,13:00 às 16:40,Livia Reis Silva
+,,,,,16:40 às 18:30,Jacqueline Maia Ferraz
+,10400.0,847.0,12.0,QUI,13:00 às 16:40,Jacqueline Maia Ferraz
+,,,,,16:40 às 18:30,Jacqueline Maia Ferraz
+,20600.0,847.0,1.0,CMB,00:00 às 23:00,Jacqueline Maia Ferraz
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMSD85 - GIPES-Projeto de vida com portadores de doenças específicas,10100.0,847.0,48.0,SEX,07:00 às 08:50,Vinicius de Brito Rodrigues
+,,,,,08:50 às 12:30,Vinicius de Brito Rodrigues
+,20200.0,847.0,1.0,CMB,00:00 às 23:00,Wladir Bastos Fernandes Junior
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMSD86 - OPS - Cuidado e atenção a portadores de doenças raras e espe,1000.0,847.0,24.0,QUA,14:50 às 16:40,Vanessa Moraes Bezerra
+,2000.0,847.0,24.0,QUA,16:40 às 18:30,Vanessa Moraes Bezerra
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+"IMSD87 - RPC - Doenças crônicas, saúde mental e saúde do cuidador",1000.0,847.0,48.0,QUA,08:50 às 10:40,Docente Concursado
+,2000.0,847.0,53.0,QUA,10:40 às 12:30,Docente Concursado
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMSD88 - GIPES - Envelhecimento:aspectos psicossociais e indicadores,10100.0,847.0,45.0,TER,13:00 às 14:50,Juliana de Oliveira Nunes
+,,,,SEX,13:00 às 14:50,Davi Tanajura Costa
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+"IMSD89 - GIPES - Idosos: aspectos clínicos, fisiopat. e terap. de agr",10100.0,847.0,11.0,SEG,07:00 às 08:50,Anelise Costa dos Santos Botelho
+,,,,QUI,13:00 às 16:40,Docente Concursado
+,,,,CMB,00:00 às 00:00,Docente Concursado
+,10200.0,847.0,11.0,SEG,07:00 às 08:50,Anelise Costa dos Santos Botelho
+,,,,QUI,13:00 às 16:40,Leonardo de Novaes Ataide
+,,,,CMB,00:00 às 00:00,Docente Concursado
+,10300.0,847.0,11.0,SEG,07:00 às 08:50,Anelise Costa dos Santos Botelho
+,,,,QUI,13:00 às 16:40,Rafael Carlos Pereira
+,,,,CMB,00:00 às 00:00,Docente Concursado
+,10400.0,847.0,12.0,SEG,07:00 às 08:50,Anelise Costa dos Santos Botelho
+,,,,QUI,13:00 às 16:40,Gabriela Chateaubriand Campos
+,,,,CMB,00:00 às 00:00,Docente Concursado
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+"IMSD90 - GEAC - Bases biológicas, moleculares e imunológicas do envel",10100.0,847.0,22.0,SEX,07:00 às 08:50,Claudio Galeno Ramalho de Andrade Melo
+,,,,,14:50 às 18:30,Rafael Augusto Oliveira Sodre Leal
+,10200.0,847.0,23.0,SEX,07:00 às 08:50,Claudio Galeno Ramalho de Andrade Melo
+,,,,,08:50 às 12:30,Claudio Galeno Ramalho de Andrade Melo
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMSD91 - OPS - Saúde da pessoa idosa,1000.0,847.0,45.0,QUI,08:50 às 10:40,Laura Regia Oliveira Cordeiro
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMSD92 - RPC - Planos terapêuticos de idosos em contextos de produção,1000.0,847.0,45.0,QUA,10:40 às 12:30,Nivea Maria Silva Silveira
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMSD93 - GEAC - Grupos populacionais e enfrentamento das iniquidades,10100.0,847.0,13.0,QUI,07:00 às 10:40,Docente Substituto a Contratar
+,,,,,16:40 às 18:30,Mauricio de Oliveira Grijo Junior
+,10200.0,847.0,13.0,QUI,13:00 às 16:40,Docente Substituto a Contratar
+,,,,,16:40 às 18:30,Mauricio de Oliveira Grijo Junior
+,10300.0,847.0,13.0,QUA,14:50 às 18:30,Thais Meyin Lin Santos Dutra
+,,,,QUI,16:40 às 18:30,Mauricio de Oliveira Grijo Junior
+,10400.0,847.0,14.0,QUI,13:00 às 16:40,Mauricio de Oliveira Grijo Junior
+,,,,,16:40 às 18:30,Mauricio de Oliveira Grijo Junior
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMSD95 - GIPES-Processos de autonomia: a decisão do plano terapêutico,10100.0,847.0,13.0,SEX,07:00 às 08:50,Docente Concursado
+,,,,,08:50 às 12:30,Docente Concursado
+,10200.0,847.0,13.0,QUA,13:55 às 17:35,Roberta Leiane Cordeiro Porto Humberto
+,,,,SEX,07:00 às 08:50,Docente Concursado
+,10300.0,847.0,13.0,SEG,13:00 às 16:40,Docente Concursado
+,,,,SEX,07:00 às 08:50,Docente Concursado
+,10400.0,847.0,14.0,SEX,07:00 às 08:50,Docente Concursado
+,,,,,14:50 às 18:30,Docente Concursado
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMSD96 - GIPES - A formação em exercício do docente médico,10100.0,847.0,53.0,QUA,07:00 às 08:50,Natalia Oliveira e Silva
+,,,,,08:50 às 10:40,Natalia Oliveira e Silva
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMSD97 - OPS - Coletivos na saúde e equidade do cuidado,1000.0,847.0,53.0,TER,07:00 às 08:50,Katiene Rodrigues Menezes de Azevedo
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMSD98 - RPC - Escrita formativa e processos avaliativos interpares,1000.0,847.0,6.0,TER,14:50 às 16:40,Danusia Cardoso Lago
+,2000.0,847.0,7.0,TER,16:40 às 18:30,Danusia Cardoso Lago
+,3000.0,847.0,6.0,TER,14:50 às 16:40,Paulo Rogers da Silva Ferreira
+,4000.0,847.0,7.0,TER,16:40 às 18:30,Paulo Rogers da Silva Ferreira
+,5000.0,847.0,6.0,TER,14:50 às 16:40,Fernanda Khouri Barreto
+,6000.0,847.0,7.0,TER,16:40 às 18:30,Fernanda Khouri Barreto
+,7000.0,847.0,7.0,TER,14:50 às 16:40,Cintia Rodrigues Marques
+,8000.0,847.0,7.0,TER,16:40 às 18:30,Cintia Rodrigues Marques
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMSE01 - INTERNATO I-URGÊNCIA E EMERGÊNCIA,1.0,847.0,11.0,CMB,00:00 às 23:00,Docente Concursado
+,,,,,,Vinicius de Brito Rodrigues
+,,,,,,Miqueias Martins Lima Silva
+,,,,,,Leonardo Barros Mascarenhas
+,2.0,847.0,10.0,CMB,00:00 às 23:00,Docente Concursado
+,,,,,,Vinicius de Brito Rodrigues
+,,,,,,Miqueias Martins Lima Silva
+,,,,,,Leonardo Barros Mascarenhas
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMSE02 - INTERNATO II EM CLÍNICA MÉDICA,1.0,847.0,11.0,CMB,00:00 às 23:00,Fillipe Dantas Pinheiro
+,,,,,,Adriano Fernandes Teixeira
+,,,,,,Davi Tanajura Costa
+,,,,,,Anna Tereza Matos Alves dos Santos
+,,,,,,Gabriela Chateaubriand Campos
+,,,,,,Rafael Carlos Pereira
+,2.0,847.0,10.0,CMB,00:00 às 23:00,Fillipe Dantas Pinheiro
+,,,,,,Adriano Fernandes Teixeira
+,,,,,,Davi Tanajura Costa
+,,,,,,Anna Tereza Matos Alves dos Santos
+,,,,,,Gabriela Chateaubriand Campos
+,,,,,,Rafael Carlos Pereira
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMSE03 - INTERNATO II EM CLÍNICA CIRURGICA,1.0,847.0,11.0,CMB,00:00 às 23:00,Docente Substituto a Contratar
+,,,,,,Wladir Bastos Fernandes Junior
+,,,,,,Rafael Augusto Oliveira Sodre Leal
+,,,,,,Thiago Santos Novais
+,,,,,,Claudio Galeno Ramalho de Andrade Melo
+,2.0,847.0,10.0,CMB,00:00 às 23:00,Docente Substituto a Contratar
+,,,,,,Wladir Bastos Fernandes Junior
+,,,,,,Rafael Augusto Oliveira Sodre Leal
+,,,,,,Thiago Santos Novais
+,,,,,,Claudio Galeno Ramalho de Andrade Melo
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMSE04 - INTERNATO II EM PEDIATRIA,1.0,847.0,11.0,CMB,00:00 às 23:00,Docente Substituto a Contratar
+,,,,,,Natalia Oliveira e Silva
+,,,,,,Veronica Cheles Vieira
+,,,,,,Fabia Idalina Rodrigues Neves
+,2.0,847.0,10.0,CMB,00:00 às 23:00,Docente Substituto a Contratar
+,,,,,,Natalia Oliveira e Silva
+,,,,,,Veronica Cheles Vieira
+,,,,,,Fabia Idalina Rodrigues Neves
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMSE05 - INTERNATO EM GINECOLOGIA E OBSTETRÍCIA,1.0,847.0,11.0,CMB,00:00 às 23:00,Docente Substituto a Contratar
+,,,,,,Livia Reis Silva
+,,,,,,Mauricio de Oliveira Grijo Junior
+,,,,,,Thais Meyin Lin Santos Dutra
+,2.0,847.0,10.0,CMB,00:00 às 23:00,Docente Substituto a Contratar
+,,,,,,Livia Reis Silva
+,,,,,,Mauricio de Oliveira Grijo Junior
+,,,,,,Thais Meyin Lin Santos Dutra
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMSE09 - DCS -A influência dos conceitos de saúde no currículo médico,1000.0,847.0,48.0,TER,08:50 às 12:30,Anna Tereza Matos Alves dos Santos
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMSE10 - DCS - Desenvolvimento e capacitação docente,1000.0,847.0,46.0,SEG,14:50 às 18:30,Fabricio Freire de Melo
+,,221.0,4.0,,,Fabricio Freire de Melo
+,,220.0,4.0,,,Fabricio Freire de Melo
+,,218.0,3.0,,,Fabricio Freire de Melo
+,,216.0,3.0,,,Fabricio Freire de Melo
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMSE11 - DCS-A ESF como vetor de reorientação do modelo assistencial,1000.0,847.0,55.0,QUI,14:50 às 16:40,Liliany Souza de Brito Amaral
+,,,,,16:40 às 18:30,Fabricio Freire de Melo
+,,,,SEX,13:00 às 14:50,Fernanda Santos Portela Sampaio
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMSE27 - DCS - Novos cenários da Residência Médica no Brasil,1000.0,847.0,45.0,SEG,14:50 às 16:40,Kelle Oliveira Silva
+,,,,QUA,08:50 às 10:40,Claudio Lima Souza
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMSE31 - DCS-METODOLOGIAS ATIVAS NA FORMAÇÃO DOS PROFISSIONAIS EM,1000.0,847.0,53.0,CMB,00:00 às 23:00,Danusia Cardoso Lago
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMSE71 - INTRODUÇÃO A ANTROPOLOGIA FORENSE,10100.0,847.0,1.0,TER,16:40 às 18:30,Maise Mendonca Amorim
+,,221.0,10.0,,,Maise Mendonca Amorim
+,,220.0,2.0,,,Maise Mendonca Amorim
+,,218.0,3.0,,,Maise Mendonca Amorim
+,,216.0,3.0,,,Maise Mendonca Amorim
+,,847.0,1.0,QUI,13:00 às 14:50,Maise Mendonca Amorim
+,,221.0,10.0,,,Maise Mendonca Amorim
+,,220.0,2.0,,,Maise Mendonca Amorim
+,,218.0,3.0,,,Maise Mendonca Amorim
+,,216.0,3.0,,,Maise Mendonca Amorim
+,10200.0,221.0,10.0,TER,16:40 às 18:30,Maise Mendonca Amorim
+,,220.0,3.0,,,Maise Mendonca Amorim
+,,218.0,3.0,,,Maise Mendonca Amorim
+,,216.0,2.0,,,Maise Mendonca Amorim
+,,221.0,10.0,QUI,14:50 às 16:40,Maise Mendonca Amorim
+,,220.0,3.0,,,Maise Mendonca Amorim
+,,218.0,3.0,,,Maise Mendonca Amorim
+,,216.0,2.0,,,Maise Mendonca Amorim
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMSE73 - FUNDAMENTOS DE NANOCIÊNCIAS E NANOTECNOLOGIA,10000.0,221.0,12.0,TER,14:50 às 16:40,Amanda Gilvani Cordeiro Matias
+,,216.0,2.0,,,Amanda Gilvani Cordeiro Matias
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMSE76 - BIOQUÍMICA DE NUTRIENTES,10000.0,847.0,2.0,TER,13:00 às 14:50,Amelia Cristina Mendes de Magalhaes Gusm
+,,221.0,10.0,,,Amelia Cristina Mendes de Magalhaes Gusm
+,,218.0,40.0,,,Amelia Cristina Mendes de Magalhaes Gusm
+,,847.0,2.0,QUI,14:50 às 16:40,Amelia Cristina Mendes de Magalhaes Gusm
+,,221.0,10.0,,,Amelia Cristina Mendes de Magalhaes Gusm
+,,218.0,40.0,,,Amelia Cristina Mendes de Magalhaes Gusm
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMSE77 - PARASITOLOGIA,10000.0,218.0,40.0,TER,16:40 às 18:30,Tiana Baqueiro Figueiredo
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMSE78 - RELAÇÃO ÉTNICO-RACIAL,10000.0,226.0,4.0,QUI,13:00 às 14:50,Raquel Souzas
+,,218.0,45.0,,,Raquel Souzas
+,20000.0,847.0,5.0,SEG,08:50 às 10:40,Raquel Souzas
+,,226.0,5.0,,,Raquel Souzas
+,,217.0,45.0,,,Raquel Souzas
+,30000.0,226.0,4.0,TER,08:50 às 10:40,Raquel Souzas
+,,221.0,40.0,,,Raquel Souzas
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMSE80 - NUTRIÇÃO E DIETÉTICA,10000.0,218.0,38.0,SEG,16:40 às 18:30,Docente Substituto a Contratar
+,20000.0,218.0,20.0,SEG,13:00 às 14:50,Docente Substituto a Contratar
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMSE82 - TÉCNICA DIETÉTICA,10100.0,218.0,12.0,TER,16:40 às 18:30,Marcia Aurelina de Oliveira Alves
+,,,,QUA,13:55 às 17:35,Marcia Aurelina de Oliveira Alves
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMSE84 - NUTRIÇÃO DO ADULTO E DO IDOSO,10100.0,218.0,6.0,TER,08:50 às 10:40,Bruna de Andrade Braga Mendes
+,,,,QUA,13:00 às 14:50,Bruna de Andrade Braga Mendes
+,10200.0,218.0,6.0,TER,08:50 às 10:40,Bruna de Andrade Braga Mendes
+,,,,QUA,14:50 às 16:40,Bruna de Andrade Braga Mendes
+,10300.0,218.0,6.0,TER,08:50 às 10:40,Bruna de Andrade Braga Mendes
+,,,,QUI,13:00 às 14:50,Bruna de Andrade Braga Mendes
+,10400.0,218.0,6.0,TER,08:50 às 10:40,Bruna de Andrade Braga Mendes
+,,,,QUI,14:50 às 16:40,Bruna de Andrade Braga Mendes
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMSE85 - SEMIOLOGIA E AVALIAÇÃO BIOQUÍMICA,10000.0,218.0,25.0,SEG,10:40 às 12:30,Vivian Francielle Franca
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMSE90 - PLANEJ FÍSICO FUNCIONAL DE UNID DE ALIMENTAÇÃO E NUTRIÇÃO,10100.0,218.0,12.0,QUI,13:00 às 14:50,Mariana Silva Bezerra
+,,,,,14:50 às 16:40,Mariana Silva Bezerra
+,10200.0,218.0,12.0,QUI,13:00 às 14:50,Mariana Silva Bezerra
+,,,,,16:40 às 18:30,Mariana Silva Bezerra
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMSE91 - EDUCAÇÃO ALIMENTAR E NUTRICIONAL,10100.0,218.0,14.0,QUI,07:00 às 08:50,Taiane Goncalves Novaes
+,,,,,08:50 às 10:40,Taiane Goncalves Novaes
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMSE93 - NUTRIÇÃO CLÍNICA NA ATENÇÃO DE MÉDIA COMPLEXIDADE,10100.0,218.0,6.0,TER,13:00 às 14:50,Maria Paula Carvalho Leitao
+,,,,QUA,07:55 às 09:45,Maria Paula Carvalho Leitao
+,10200.0,218.0,6.0,TER,13:00 às 14:50,Maria Paula Carvalho Leitao
+,,,,QUA,09:45 às 11:35,Maria Paula Carvalho Leitao
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMSE94 - NUTRIÇÃO DA CRIANÇA E DO ADOLESCENTE,10100.0,218.0,7.0,TER,14:50 às 16:40,Daniela da Silva Rocha
+,,,,QUA,13:00 às 14:50,Daniela da Silva Rocha
+,10200.0,218.0,7.0,TER,14:50 às 16:40,Daniela da Silva Rocha
+,,,,QUA,14:50 às 16:40,Daniela da Silva Rocha
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMSE95 - VIVÊNCIA EM ATENÇÃO BÁSICA,1.0,218.0,6.0,TER,07:55 às 11:35,Taiane Goncalves Novaes
+,2.0,218.0,6.0,SEG,07:55 às 11:35,Taiane Goncalves Novaes
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMSE96 - NUTRIÇÃO EM SAÚDE COLETIVA,10100.0,218.0,12.0,SEG,08:50 às 10:40,Poliana Cardoso Martins
+,,,,,10:40 às 12:30,Poliana Cardoso Martins
+,10200.0,218.0,12.0,SEG,08:50 às 10:40,Poliana Cardoso Martins
+,,,,,13:00 às 14:50,Poliana Cardoso Martins
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMSE97 - GESTÃO EM ALIMENTAÇÃO COLETIVA,10100.0,218.0,8.0,TER,07:00 às 08:50,Docente Substituto a Contratar
+,,,,QUI,07:00 às 08:50,Docente Substituto a Contratar
+,10200.0,218.0,8.0,TER,07:00 às 08:50,Docente Substituto a Contratar
+,,,,QUI,08:50 às 10:40,Docente Substituto a Contratar
+,10300.0,218.0,8.0,TER,07:00 às 08:50,Docente Substituto a Contratar
+,,,,QUI,10:40 às 12:30,Docente Substituto a Contratar
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMSE98 - NUTRIÇÃO CLÍNICA NA ATENÇÃO DE ALTA COMPLEXIDADE,10100.0,218.0,6.0,TER,08:50 às 10:40,Vivian Francielle Franca
+,,,,QUA,08:50 às 10:40,Vivian Francielle Franca
+,,,,,13:00 às 14:50,Lais Ferraz Brito Sousa
+,10200.0,218.0,6.0,TER,08:50 às 10:40,Vivian Francielle Franca
+,,,,QUA,08:50 às 10:40,Vivian Francielle Franca
+,,,,,14:50 às 16:40,Lais Ferraz Brito Sousa
+,10300.0,218.0,6.0,TER,08:50 às 10:40,Vivian Francielle Franca
+,,,,QUA,08:50 às 10:40,Vivian Francielle Franca
+,,,,QUI,13:00 às 14:50,Lais Ferraz Brito Sousa
+,10400.0,218.0,6.0,TER,08:50 às 10:40,Vivian Francielle Franca
+,,,,QUA,08:50 às 10:40,Vivian Francielle Franca
+,,,,QUI,14:50 às 16:40,Lais Ferraz Brito Sousa
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMSE99 - BIOÉTICA E LEGISLAÇÃO PROFISSIONAL,10000.0,218.0,20.0,QUI,08:50 às 10:40,Poliana Cardoso Martins
+,,,,,10:40 às 12:30,Poliana Cardoso Martins
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMSF01 - TÉCNICA DIETÉTICA EM PREPARAÇÕES ESPECIAIS,1000.0,218.0,10.0,QUA,07:55 às 11:35,Taiane Goncalves Novaes
+,2000.0,218.0,10.0,QUI,13:55 às 17:35,Taiane Goncalves Novaes
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMSF04 - ESTÁGIO EM OUTRAS ÁREAS DA NUTRIÇÃO,1.0,218.0,2.0,SEG,07:00 às 08:50,Luiz Gustavo Vieira Cardoso
+,,,,,08:50 às 10:40,Luiz Gustavo Vieira Cardoso
+,,,,,10:40 às 12:30,Luiz Gustavo Vieira Cardoso
+,,,,SAB,07:00 às 08:50,Luiz Gustavo Vieira Cardoso
+,,,,,10:40 às 11:35,Luiz Gustavo Vieira Cardoso
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMSF05 - ESTÁGIO EM NUTRIÇÃO CLÍNICA HOSPITALAR,1.0,218.0,6.0,TER,08:50 às 10:40,Matheus Lopes Cortes
+,,,,,10:40 às 12:30,Lais Ferraz Brito Sousa
+,,,,QUA,07:00 às 08:50,Lais Ferraz Brito Sousa
+,,,,,08:50 às 10:40,Luiz Gustavo Vieira Cardoso
+,,,,,10:40 às 11:35,Luiz Gustavo Vieira Cardoso
+,2.0,218.0,6.0,SEG,08:50 às 10:40,Matheus Lopes Cortes
+,,,,,10:40 às 12:30,Matheus Lopes Cortes
+,,,,QUI,07:00 às 08:50,Luiz Gustavo Vieira Cardoso
+,,,,,08:50 às 10:40,Lais Ferraz Brito Sousa
+,,,,,10:40 às 11:35,Matheus Lopes Cortes
+,3.0,218.0,7.0,SAB,07:00 às 08:50,Matheus Lopes Cortes
+,,,,,08:50 às 10:40,Luiz Gustavo Vieira Cardoso
+,,,,,10:40 às 12:30,Lais Ferraz Brito Sousa
+,,,,,14:50 às 16:40,Lais Ferraz Brito Sousa
+,,,,,16:40 às 17:35,Lais Ferraz Brito Sousa
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMSF06 - ESTÁGIO EM ALIMENTAÇÃO COLETIVA,1.0,218.0,9.0,SEG,08:50 às 10:40,Marcia Aurelina de Oliveira Alves
+,,,,,10:40 às 12:30,Marcia Aurelina de Oliveira Alves
+,,,,QUI,07:00 às 08:50,Mariana Silva Bezerra
+,,,,,08:50 às 10:40,Mariana Silva Bezerra
+,,,,,10:40 às 12:30,Mariana Silva Bezerra
+,,,,SAB,07:00 às 08:50,Docente Substituto a Contratar
+,,,,,08:50 às 09:45,Marcia Aurelina de Oliveira Alves
+,2.0,218.0,10.0,TER,08:50 às 10:40,Marcia Aurelina de Oliveira Alves
+,,,,,10:40 às 12:30,Marcia Aurelina de Oliveira Alves
+,,,,QUA,07:00 às 08:50,Mariana Silva Bezerra
+,,,,,08:50 às 10:40,Docente Substituto a Contratar
+,,,,,10:40 às 12:30,Docente Substituto a Contratar
+,,,,SEX,14:50 às 15:45,Mariana Silva Bezerra
+,,,,SAB,08:50 às 10:40,Mariana Silva Bezerra
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMSF10 - NOÇÕES DE PRIMEIROS SOCORROS,10000.0,218.0,4.0,QUI,08:50 às 10:40,Drieli Oliveira Silva
+,,216.0,40.0,,,Drieli Oliveira Silva
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMSF12 - SEGURANÇA ALIMENTAR E NUTRICIONAL,10000.0,218.0,45.0,SEX,10:40 às 12:30,Vivian Carla Honorato dos Santos de Carv
+,,216.0,2.0,,,Vivian Carla Honorato dos Santos de Carv
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMSF16 - DIETOTERAPIA PEDIÁTRICA,10000.0,847.0,9.0,SEX,08:50 às 10:40,Maria Paula Carvalho Leitao
+,,218.0,30.0,,,Maria Paula Carvalho Leitao
+,,847.0,9.0,,,Lais Ferraz Brito Sousa
+,,218.0,30.0,,,Lais Ferraz Brito Sousa
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMSF27 - PROJETO DE TRABALHO DE CONCLUSÃO DE CURSO,1000.0,218.0,28.0,QUA,07:00 às 08:50,Daniela da Silva Rocha
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMSF33 - INTERNATO NA ATENÇÃO BÁSICA ZONA URBANA,1.0,847.0,11.0,CMB,00:00 às 23:00,Leonardo de Novaes Ataide
+,,,,,,Roberta Leiane Cordeiro Porto Humberto
+,,,,,,Juliana de Oliveira Nunes
+,,,,,,Katiene Rodrigues Menezes de Azevedo
+,,,,,,Luana Karem Ferreira de Souza Ribeiro
+,,,,,,Adriana Maria de Sousa
+,,,,,,Laura Regia Oliveira Cordeiro
+,2.0,847.0,10.0,CMB,00:00 às 23:00,Leonardo de Novaes Ataide
+,,,,,,Roberta Leiane Cordeiro Porto Humberto
+,,,,,,Juliana de Oliveira Nunes
+,,,,,,Katiene Rodrigues Menezes de Azevedo
+,,,,,,Luana Karem Ferreira de Souza Ribeiro
+,,,,,,Adriana Maria de Sousa
+,,,,,,Laura Regia Oliveira Cordeiro
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMSF34 - INTERNATO NA ATENÇÃO BÁSICA ZONA RURAL,1.0,847.0,11.0,CMB,00:00 às 23:00,Leonardo de Novaes Ataide
+,,,,,,Roberta Leiane Cordeiro Porto Humberto
+,,,,,,Juliana de Oliveira Nunes
+,,,,,,Katiene Rodrigues Menezes de Azevedo
+,,,,,,Luana Karem Ferreira de Souza Ribeiro
+,,,,,,Adriana Maria de Sousa
+,,,,,,Laura Regia Oliveira Cordeiro
+,2.0,847.0,10.0,CMB,00:00 às 23:00,Leonardo de Novaes Ataide
+,,,,,,Roberta Leiane Cordeiro Porto Humberto
+,,,,,,Juliana de Oliveira Nunes
+,,,,,,Katiene Rodrigues Menezes de Azevedo
+,,,,,,Luana Karem Ferreira de Souza Ribeiro
+,,,,,,Adriana Maria de Sousa
+,,,,,,Laura Regia Oliveira Cordeiro
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMSF36 - ANTROPOLOGIA DA CIÊNCIA E DA TECNOLOGIA,10000.0,847.0,25.0,SEG,14:50 às 18:30,Paulo Rogers da Silva Ferreira
+,,328.0,5.0,,,Paulo Rogers da Silva Ferreira
+,,221.0,5.0,,,Paulo Rogers da Silva Ferreira
+,,218.0,2.0,,,Paulo Rogers da Silva Ferreira
+,,217.0,1.0,,,Paulo Rogers da Silva Ferreira
+,,216.0,3.0,,,Paulo Rogers da Silva Ferreira
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMSF42 - ASPECTOS BIOPSICOSSOCIAIS EM MODELOS ASSISTÊNCIAIS,10000.0,216.0,42.0,SEX,13:00 às 18:30,Carla Silva Soares
+,,,,,,Raquel Souzas
+,,,,,,Ana Paula de Freitas Oliveira
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMSF43 - BASES NO PROCESSO DE INVESTIGAÇÃO EM ENFERMAGEM,10100.0,216.0,21.0,SEG,14:50 às 15:45,Danielle Souto de Medeiros
+,,,,,15:45 às 16:40,Danielle Souto de Medeiros
+,,,,QUA,13:00 às 14:50,Sandra Rego de Jesus
+,,,,,14:50 às 15:45,Sandra Rego de Jesus
+,,,,,15:45 às 16:40,Sandra Rego de Jesus
+,10200.0,216.0,21.0,SEG,14:50 às 15:45,Danielle Souto de Medeiros
+,,,,,16:40 às 17:35,Danielle Souto de Medeiros
+,,,,QUA,13:00 às 14:50,Sandra Rego de Jesus
+,,,,,16:40 às 17:35,Sandra Rego de Jesus
+,,,,,17:35 às 18:30,Sandra Rego de Jesus
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMSF44 - GERENCIAMENTO DA ENFERMAGEM,10100.0,216.0,11.0,QUI,13:00 às 13:55,Juliana Xavier Pinheiro da Cunha
+,,,,,13:55 às 14:50,Chrisne Santana Biondo
+,,,,,14:50 às 15:45,Chrisne Santana Biondo
+,10200.0,216.0,11.0,QUI,13:00 às 13:55,Juliana Xavier Pinheiro da Cunha
+,,,,,13:55 às 14:50,Chrisne Santana Biondo
+,,,,,15:45 às 16:40,Chrisne Santana Biondo
+,10300.0,216.0,11.0,QUI,13:00 às 13:55,Juliana Xavier Pinheiro da Cunha
+,,,,,13:55 às 14:50,Chrisne Santana Biondo
+,,,,,16:40 às 17:35,Chrisne Santana Biondo
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMSF49 - BASES FUNDAMENTAIS PARA O CUIDADO EM ENFERMAGEM,10100.0,216.0,6.0,SEG,07:55 às 12:30,Silvana Braga da Silveira
+,,,,,,Patricia da Silva Pires
+,,,,TER,07:00 às 09:45,Patricia da Silva Pires
+,,,,QUI,08:50 às 09:45,Silvana Braga da Silveira
+,10200.0,216.0,6.0,SEG,07:55 às 12:30,Silvana Braga da Silveira
+,,,,,,Patricia da Silva Pires
+,,,,TER,09:45 às 12:30,Emanuelle Caires Dias Araujo Nunes
+,,,,QUI,09:45 às 10:40,Silvana Braga da Silveira
+,10300.0,216.0,6.0,SEG,07:55 às 12:30,Silvana Braga da Silveira
+,,,,,,Patricia da Silva Pires
+,,,,QUA,07:00 às 09:45,Patricia da Silva Pires
+,,,,QUI,10:40 às 11:35,Silvana Braga da Silveira
+,10400.0,216.0,6.0,SEG,07:55 às 12:30,Silvana Braga da Silveira
+,,,,,,Patricia da Silva Pires
+,,,,QUA,09:45 às 12:30,Patricia da Silva Pires
+,,,,QUI,11:35 às 12:30,Silvana Braga da Silveira
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMSF54 - CUIDADOS NOS AGRAVOS DE SAÚDE PREVALENTES NO ADULTO,10100.0,216.0,6.0,SEG,07:00 às 08:50,Drieli Oliveira Silva
+,,,,,08:50 às 09:45,Drieli Oliveira Silva
+,,,,TER,13:55 às 17:35,Caline Novais Teixeira Oliveira
+,,,,CMB,00:00 às 00:00,Drieli Oliveira Silva
+,10200.0,216.0,6.0,SEG,09:45 às 10:40,Drieli Oliveira Silva
+,,,,,10:40 às 12:30,Drieli Oliveira Silva
+,,,,TER,13:55 às 17:35,Caline Novais Teixeira Oliveira
+,,,,CMB,00:00 às 00:00,Drieli Oliveira Silva
+,10300.0,216.0,6.0,SEG,13:55 às 14:50,Drieli Oliveira Silva
+,,,,,14:50 às 16:40,Drieli Oliveira Silva
+,,,,TER,13:55 às 17:35,Caline Novais Teixeira Oliveira
+,,,,CMB,00:00 às 00:00,Drieli Oliveira Silva
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMSF55 - CUIDADOS DE ENFERMAGEM NA SAÚDE COLETIVA,10100.0,216.0,6.0,QUA,07:00 às 08:50,Luis Rogerio Cosme Silva Santos
+,,,,,11:35 às 12:30,Shirley Batista Oliveira
+,,,,QUI,07:00 às 08:50,Daniela Arruda Soares Alves
+,,,,,08:50 às 10:40,Luis Rogerio Cosme Silva Santos
+,,,,SEX,07:00 às 08:50,Luis Rogerio Cosme Silva Santos
+,,,,,08:50 às 10:40,Luis Rogerio Cosme Silva Santos
+,,,,,10:40 às 11:35,Luis Rogerio Cosme Silva Santos
+,10200.0,216.0,6.0,QUA,07:00 às 08:50,Daniela Arruda Soares Alves
+,,,,,11:35 às 12:30,Shirley Batista Oliveira
+,,,,QUI,07:00 às 08:50,Daniela Arruda Soares Alves
+,,,,,08:50 às 10:40,Luis Rogerio Cosme Silva Santos
+,,,,SEX,07:00 às 08:50,Shirley Batista Oliveira
+,,,,,08:50 às 10:40,Shirley Batista Oliveira
+,,,,,10:40 às 11:35,Shirley Batista Oliveira
+,10300.0,216.0,6.0,QUA,07:00 às 08:50,Shirley Batista Oliveira
+,,,,,08:50 às 10:40,Shirley Batista Oliveira
+,,,,,10:40 às 11:35,Shirley Batista Oliveira
+,,,,,11:35 às 12:30,Shirley Batista Oliveira
+,,,,QUI,07:00 às 08:50,Daniela Arruda Soares Alves
+,,,,,08:50 às 10:40,Luis Rogerio Cosme Silva Santos
+,,,,SEX,10:40 às 12:30,Daniela Arruda Soares Alves
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMSF56 - CUIDADOS DE ENFERMAGEM NO PROCESSO DE ENVELHECIMENTO,10100.0,216.0,5.0,QUA,13:00 às 13:55,Ana Paula de Freitas Oliveira
+,,,,,13:55 às 14:50,Ana Paula de Freitas Oliveira
+,,,,QUI,10:40 às 12:30,Ana Paula de Freitas Oliveira
+,10200.0,216.0,5.0,QUA,14:50 às 15:45,Ana Paula de Freitas Oliveira
+,,,,,15:45 às 16:40,Ana Paula de Freitas Oliveira
+,,,,QUI,10:40 às 12:30,Ana Paula de Freitas Oliveira
+,10300.0,216.0,6.0,QUA,16:40 às 17:35,Ana Paula de Freitas Oliveira
+,,,,,17:35 às 18:30,Ana Paula de Freitas Oliveira
+,,,,QUI,10:40 às 12:30,Ana Paula de Freitas Oliveira
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMSF57 - FARMACOLOGIA APLICADA AOS AGRAVOS NO ADULTO E IDOSO,10000.0,216.0,16.0,TER,10:40 às 12:30,Regiane Yatsuda
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMSF58 - CUIDADOS NAS SITUAÇÕES CRÍTICAS DO ADULTO E IDOSO,10100.0,216.0,6.0,SEG,13:00 às 14:50,Juliana Xavier Pinheiro da Cunha
+,,,,,14:50 às 16:40,Juliana Xavier Pinheiro da Cunha
+,,,,,16:40 às 18:30,Chrisne Santana Biondo
+,,,,QUA,07:00 às 07:55,Chrisne Santana Biondo
+,,,,,07:55 às 08:50,Laiza Carvalho Costa
+,,,,,08:50 às 10:40,Juliana Xavier Pinheiro da Cunha
+,10200.0,216.0,6.0,SEG,13:00 às 14:50,Juliana Xavier Pinheiro da Cunha
+,,,,,14:50 às 16:40,Juliana Xavier Pinheiro da Cunha
+,,,,,16:40 às 18:30,Chrisne Santana Biondo
+,,,,QUA,09:45 às 10:40,Laiza Carvalho Costa
+,,,,,10:40 às 12:30,Laiza Carvalho Costa
+,,,,SEX,08:50 às 09:45,Juliana Xavier Pinheiro da Cunha
+,10300.0,216.0,6.0,SEG,13:00 às 14:50,Juliana Xavier Pinheiro da Cunha
+,,,,,14:50 às 16:40,Juliana Xavier Pinheiro da Cunha
+,,,,,16:40 às 18:30,Chrisne Santana Biondo
+,,,,TER,07:00 às 08:50,Juliana Xavier Pinheiro da Cunha
+,,,,,08:50 às 09:45,Chrisne Santana Biondo
+,,,,,09:45 às 10:40,Chrisne Santana Biondo
+,10400.0,216.0,6.0,SEG,13:00 às 14:50,Juliana Xavier Pinheiro da Cunha
+,,,,,14:50 às 16:40,Juliana Xavier Pinheiro da Cunha
+,,,,,16:40 às 18:30,Chrisne Santana Biondo
+,,,,SEX,07:00 às 08:50,Laiza Carvalho Costa
+,,,,,08:50 às 09:45,Laiza Carvalho Costa
+,,,,,09:45 às 10:40,Juliana Xavier Pinheiro da Cunha
+,10500.0,216.0,6.0,SEG,13:00 às 14:50,Juliana Xavier Pinheiro da Cunha
+,,,,,14:50 às 16:40,Juliana Xavier Pinheiro da Cunha
+,,,,,16:40 às 18:30,Chrisne Santana Biondo
+,,,,QUA,08:50 às 10:40,Chrisne Santana Biondo
+,,,,,10:40 às 11:35,Chrisne Santana Biondo
+,,,,,11:35 às 12:30,Chrisne Santana Biondo
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMSF59 - CUIDADOS DE ENFERMAGEM NO PERÍODO PERIOPERATÓRIO E CME,10100.0,216.0,6.0,SEG,10:40 às 12:30,Clavdia Nicolaevna Kochergin
+,,,,TER,07:00 às 07:55,Clavdia Nicolaevna Kochergin
+,,,,,07:55 às 08:50,Clavdia Nicolaevna Kochergin
+,10200.0,216.0,6.0,SEG,10:40 às 12:30,Clavdia Nicolaevna Kochergin
+,,,,QUA,07:00 às 07:55,Clavdia Nicolaevna Kochergin
+,,,,,07:55 às 08:50,Clavdia Nicolaevna Kochergin
+,10300.0,216.0,6.0,SEG,10:40 às 12:30,Clavdia Nicolaevna Kochergin
+,,,,QUA,08:50 às 09:45,Clavdia Nicolaevna Kochergin
+,,,,,09:45 às 10:40,Clavdia Nicolaevna Kochergin
+,10400.0,216.0,6.0,SEG,10:40 às 12:30,Clavdia Nicolaevna Kochergin
+,,,,TER,08:50 às 09:45,Clavdia Nicolaevna Kochergin
+,,,,,09:45 às 10:40,Clavdia Nicolaevna Kochergin
+,10500.0,216.0,6.0,SEG,10:40 às 12:30,Clavdia Nicolaevna Kochergin
+,,,,SEX,07:00 às 07:55,Clavdia Nicolaevna Kochergin
+,,,,,07:55 às 08:50,Clavdia Nicolaevna Kochergin
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+"IMSF60 - CUIDADOS NA GESTAÇÃO, NASCIMENTO E COM A MULHER",10100.0,216.0,6.0,SEG,07:00 às 08:50,Jose Andrade Louzado
+,,,,,08:50 às 09:45,Elvira Caires de Lima
+,,,,QUI,10:40 às 11:35,Elvira Caires de Lima
+,,,,,11:35 às 12:30,Jose Andrade Louzado
+,,,,SEX,07:00 às 08:50,Docente Substituto a Contratar
+,,,,,08:50 às 10:40,Docente Substituto a Contratar
+,,,,,11:35 às 12:30,Elvira Caires de Lima
+,10200.0,216.0,6.0,SEG,07:00 às 08:50,Jose Andrade Louzado
+,,,,,08:50 às 09:45,Elvira Caires de Lima
+,,,,TER,07:00 às 08:50,Shirley Batista Oliveira
+,,,,,08:50 às 09:45,Shirley Batista Oliveira
+,,,,,09:45 às 10:40,Shirley Batista Oliveira
+,,,,,10:40 às 11:35,Elvira Caires de Lima
+,,,,QUI,10:40 às 11:35,Elvira Caires de Lima
+,,,,,11:35 às 12:30,Jose Andrade Louzado
+,10300.0,216.0,6.0,SEG,07:00 às 08:50,Jose Andrade Louzado
+,,,,,08:50 às 09:45,Elvira Caires de Lima
+,,,,QUI,10:40 às 11:35,Elvira Caires de Lima
+,,,,,11:35 às 12:30,Jose Andrade Louzado
+,,,,SEX,07:55 às 08:50,Elvira Caires de Lima
+,,,,,08:50 às 10:40,Elvira Caires de Lima
+,,,,,10:40 às 11:35,Elvira Caires de Lima
+,,,,,11:35 às 12:30,Shirley Batista Oliveira
+,10400.0,216.0,6.0,SEG,07:00 às 08:50,Jose Andrade Louzado
+,,,,,08:50 às 09:45,Elvira Caires de Lima
+,,,,QUA,07:00 às 08:50,Docente Substituto a Contratar
+,,,,,08:50 às 10:40,Docente Substituto a Contratar
+,,,,,10:40 às 11:35,Elvira Caires de Lima
+,,,,QUI,10:40 às 11:35,Elvira Caires de Lima
+,,,,,11:35 às 12:30,Jose Andrade Louzado
+,10500.0,216.0,6.0,SEG,07:00 às 08:50,Jose Andrade Louzado
+,,,,,08:50 às 09:45,Elvira Caires de Lima
+,,,,TER,07:55 às 08:50,Docente Substituto a Contratar
+,,,,,08:50 às 10:40,Docente Substituto a Contratar
+,,,,,10:40 às 11:35,Shirley Batista Oliveira
+,,,,,11:35 às 12:30,Elvira Caires de Lima
+,,,,QUI,10:40 às 11:35,Elvira Caires de Lima
+,,,,,11:35 às 12:30,Jose Andrade Louzado
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMSF61 - CUIDADOS DE ENFERMAGEM NA INFÂNCIA E NA ADOLESCÊNCIA,10100.0,216.0,6.0,QUI,07:00 às 08:50,Dieslley Amorim de Souza
+,,,,,08:50 às 09:45,Dieslley Amorim de Souza
+,,,,,09:45 às 10:40,Dieslley Amorim de Souza
+,,,,SEX,07:00 às 08:50,Jose Andrade Louzado
+,,,,,08:50 às 10:40,Jose Andrade Louzado
+,,,,,10:40 às 11:35,Dieslley Amorim de Souza
+,10200.0,216.0,6.0,QUI,08:50 às 09:45,Jose Andrade Louzado
+,,,,,09:45 às 10:40,Docente Substituto a Contratar
+,,,,,10:40 às 12:30,Docente Substituto a Contratar
+,,,,SEX,07:00 às 08:50,Jose Andrade Louzado
+,,,,,08:50 às 10:40,Jose Andrade Louzado
+,,,,,10:40 às 11:35,Dieslley Amorim de Souza
+,10300.0,216.0,6.0,TER,07:00 às 08:50,Dieslley Amorim de Souza
+,,,,,08:50 às 09:45,Dieslley Amorim de Souza
+,,,,,09:45 às 10:40,Dieslley Amorim de Souza
+,,,,SEX,07:00 às 08:50,Jose Andrade Louzado
+,,,,,08:50 às 10:40,Jose Andrade Louzado
+,,,,,10:40 às 11:35,Dieslley Amorim de Souza
+,10400.0,216.0,6.0,SEG,07:00 às 08:50,Dieslley Amorim de Souza
+,,,,,08:50 às 09:45,Dieslley Amorim de Souza
+,,,,,09:45 às 10:40,Jose Andrade Louzado
+,,,,SEX,07:00 às 08:50,Jose Andrade Louzado
+,,,,,08:50 às 10:40,Jose Andrade Louzado
+,,,,,10:40 às 11:35,Dieslley Amorim de Souza
+,10500.0,216.0,6.0,SEG,07:00 às 08:50,Docente Substituto a Contratar
+,,,,,08:50 às 09:45,Docente Substituto a Contratar
+,,,,,10:40 às 11:35,Jose Andrade Louzado
+,,,,SEX,07:00 às 08:50,Jose Andrade Louzado
+,,,,,08:50 às 10:40,Jose Andrade Louzado
+,,,,,10:40 às 11:35,Dieslley Amorim de Souza
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMSF62 - CUIDADOS DE ENFERMAGEM EM INDIVÍDUOS EM SOFRIMENTO MENTAL,10100.0,216.0,6.0,SEG,09:45 às 10:40,Tarcisia Castro Alves
+,,,,,10:40 às 11:35,Tarcisia Castro Alves
+,,,,,11:35 às 12:30,Tarcisia Castro Alves
+,,,,QUA,07:00 às 08:50,Tarcisia Castro Alves
+,,,,,08:50 às 09:45,Helca Franciolli Teixeira Reis
+,10200.0,216.0,6.0,SEG,07:00 às 08:50,Tarcisia Castro Alves
+,,,,,08:50 às 09:45,Tarcisia Castro Alves
+,,,,QUA,07:00 às 08:50,Tarcisia Castro Alves
+,,,,,08:50 às 09:45,Helca Franciolli Teixeira Reis
+,10300.0,216.0,6.0,QUA,07:00 às 08:50,Tarcisia Castro Alves
+,,,,,08:50 às 09:45,Helca Franciolli Teixeira Reis
+,,,,QUI,07:00 às 07:55,Tarcisia Castro Alves
+,,,,,07:55 às 08:50,Helca Franciolli Teixeira Reis
+,,,,,08:50 às 09:45,Helca Franciolli Teixeira Reis
+,10400.0,216.0,6.0,TER,07:00 às 08:50,Helca Franciolli Teixeira Reis
+,,,,,08:50 às 09:45,Helca Franciolli Teixeira Reis
+,,,,QUA,07:00 às 08:50,Tarcisia Castro Alves
+,,,,,08:50 às 09:45,Helca Franciolli Teixeira Reis
+,10500.0,216.0,6.0,TER,09:45 às 10:40,Helca Franciolli Teixeira Reis
+,,,,,10:40 às 11:35,Helca Franciolli Teixeira Reis
+,,,,,11:35 às 12:30,Helca Franciolli Teixeira Reis
+,,,,QUA,07:00 às 08:50,Tarcisia Castro Alves
+,,,,,08:50 às 09:45,Helca Franciolli Teixeira Reis
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+"IMSF63 - POLÍTICA, PLANEJAMENTO E GESTÃO NA ENFERMAGEM CONTEMPORÂNEA",10100.0,216.0,6.0,TER,07:00 às 08:50,Laiza Carvalho Costa
+,,,,,08:50 às 09:45,Laiza Carvalho Costa
+,,,,QUA,14:50 às 16:40,Emanuelle Caires Dias Araujo Nunes
+,,,,,16:40 às 17:35,Laiza Carvalho Costa
+,10200.0,216.0,6.0,TER,09:45 às 10:40,Laiza Carvalho Costa
+,,,,,10:40 às 11:35,Laiza Carvalho Costa
+,,,,,11:35 às 12:30,Laiza Carvalho Costa
+,,,,QUA,14:50 às 16:40,Emanuelle Caires Dias Araujo Nunes
+,,,,,16:40 às 17:35,Laiza Carvalho Costa
+,10300.0,216.0,6.0,SEG,07:00 às 08:50,Laiza Carvalho Costa
+,,,,,13:55 às 14:50,Emanuelle Caires Dias Araujo Nunes
+,,,,QUA,14:50 às 16:40,Emanuelle Caires Dias Araujo Nunes
+,,,,,16:40 às 17:35,Laiza Carvalho Costa
+,10400.0,216.0,6.0,QUA,14:50 às 16:40,Emanuelle Caires Dias Araujo Nunes
+,,,,,16:40 às 17:35,Laiza Carvalho Costa
+,,,,QUI,08:50 às 09:45,Emanuelle Caires Dias Araujo Nunes
+,,,,,13:00 às 13:55,Emanuelle Caires Dias Araujo Nunes
+,,,,,13:55 às 14:50,Emanuelle Caires Dias Araujo Nunes
+,10500.0,216.0,6.0,QUA,14:50 às 16:40,Emanuelle Caires Dias Araujo Nunes
+,,,,,16:40 às 17:35,Laiza Carvalho Costa
+,,,,QUI,14:50 às 16:40,Emanuelle Caires Dias Araujo Nunes
+,,,,,16:40 às 17:35,Emanuelle Caires Dias Araujo Nunes
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMSF66 - NEUROBIOLOGIA DO APRENDIZADO E DA MEMÓRIA,10000.0,847.0,6.0,QUI,13:00 às 14:50,Kenia de Oliveira Bueno
+,,328.0,5.0,,,Kenia de Oliveira Bueno
+,,221.0,6.0,,,Kenia de Oliveira Bueno
+,,220.0,6.0,,,Kenia de Oliveira Bueno
+,,218.0,4.0,,,Kenia de Oliveira Bueno
+,20000.0,218.0,1.0,SEX,13:00 às 14:50,Kenia de Oliveira Bueno
+,,216.0,30.0,,,Kenia de Oliveira Bueno
+,30000.0,847.0,10.0,QUA,10:40 às 12:30,Patricia Belini Nishiyama
+,,221.0,7.0,,,Patricia Belini Nishiyama
+,,218.0,16.0,,,Patricia Belini Nishiyama
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMSF67 - CUIDADOS PALIATIVOS NO CONTEXTO DE FINAL DE VIDA,10000.0,847.0,2.0,SEX,08:50 às 11:35,Emanuelle Caires Dias Araujo Nunes
+,,216.0,20.0,,,Emanuelle Caires Dias Araujo Nunes
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMSF68 - CUIDADOS À PESSOA COM DIABETES E HIPERTENSÃO,10000.0,216.0,20.0,SEG,13:55 às 17:35,Caline Novais Teixeira Oliveira
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMSF79 - BASES DA ECOLOGIA E CONSERVAÇÃO,10100.0,220.0,20.0,SEG,08:50 às 10:40,Leila Costa Cruz
+,,,,,10:40 às 12:30,Leila Costa Cruz
+,,,,QUA,14:50 às 16:40,Leila Costa Cruz
+,10200.0,220.0,20.0,SEG,08:50 às 10:40,Leila Costa Cruz
+,,,,,10:40 às 12:30,Leila Costa Cruz
+,,,,QUA,16:40 às 18:30,Leila Costa Cruz
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMSF80 - ORIGEM E EVOLUÇÃO DAS PLANTAS,10100.0,220.0,17.0,SEG,13:00 às 14:50,Andrea Karla Almeida dos Santos
+,,,,,,Alisson Cardoso Rodrigues da Cruz
+,,,,,14:50 às 15:45,Alisson Cardoso Rodrigues da Cruz
+,10200.0,220.0,17.0,SEG,13:00 às 14:50,Andrea Karla Almeida dos Santos
+,,,,,,Alisson Cardoso Rodrigues da Cruz
+,,,,,15:45 às 16:40,Andrea Karla Almeida dos Santos
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMSF81 - METAZOÁRIOS BASAIS E ESPIRÁLICOS,10100.0,220.0,17.0,TER,14:50 às 16:40,Agda Alves da Rocha
+,,,,QUA,14:50 às 16:40,Agda Alves da Rocha
+,10200.0,220.0,17.0,TER,14:50 às 16:40,Agda Alves da Rocha
+,,,,QUA,16:40 às 18:30,Agda Alves da Rocha
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMSF84 - BIOLOGIA E SOCIEDADE,1000.0,226.0,3.0,SEX,13:00 às 13:55,Patricia Baier Krepsky
+,,221.0,8.0,,,Patricia Baier Krepsky
+,,217.0,26.0,,,Patricia Baier Krepsky
+,,226.0,3.0,,13:55 às 14:50,Patricia Baier Krepsky
+,,221.0,8.0,,,Patricia Baier Krepsky
+,,217.0,26.0,,,Patricia Baier Krepsky
+,,226.0,3.0,,14:50 às 15:45,Patricia Baier Krepsky
+,,221.0,8.0,,,Patricia Baier Krepsky
+,,217.0,26.0,,,Patricia Baier Krepsky
+,,226.0,3.0,,15:45 às 16:40,Patricia Baier Krepsky
+,,221.0,8.0,,,Patricia Baier Krepsky
+,,217.0,26.0,,,Patricia Baier Krepsky
+,2000.0,226.0,3.0,SEX,13:00 às 14:50,Tayse Dantas Reboucas Santos Ribeiro
+,,221.0,8.0,,,Tayse Dantas Reboucas Santos Ribeiro
+,,217.0,27.0,,,Tayse Dantas Reboucas Santos Ribeiro
+,,226.0,3.0,,14:50 às 16:40,Tayse Dantas Reboucas Santos Ribeiro
+,,221.0,8.0,,,Tayse Dantas Reboucas Santos Ribeiro
+,,217.0,27.0,,,Tayse Dantas Reboucas Santos Ribeiro
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMSF90 - POPULARIZAÇÃO DA CIÊNCIA,1000.0,226.0,1.0,QUA,08:50 às 10:40,Lucia Gracia Ferreira Trindade
+,,221.0,15.0,,,Lucia Gracia Ferreira Trindade
+,,226.0,1.0,,10:40 às 12:30,Lucia Gracia Ferreira Trindade
+,,221.0,15.0,,,Lucia Gracia Ferreira Trindade
+,2000.0,286.0,1.0,SEX,14:50 às 18:30,Andrea Karla Almeida dos Santos
+,,220.0,15.0,,,Andrea Karla Almeida dos Santos
+,3000.0,286.0,1.0,SEX,14:50 às 18:30,Marcio Borba da Silva
+,,220.0,15.0,,,Marcio Borba da Silva
+,4000.0,286.0,1.0,SEX,14:50 às 18:30,Mario Andre Trindade Dantas
+,,220.0,15.0,,,Mario Andre Trindade Dantas
+,5000.0,286.0,1.0,QUA,14:50 às 15:45,Bruno Oliveira Moreira
+,,217.0,15.0,,,Bruno Oliveira Moreira
+,,286.0,1.0,,15:45 às 16:40,Bruno Oliveira Moreira
+,,217.0,15.0,,,Bruno Oliveira Moreira
+,,286.0,1.0,,16:40 às 17:35,Bruno Oliveira Moreira
+,,217.0,15.0,,,Bruno Oliveira Moreira
+,,286.0,1.0,,17:35 às 18:30,Bruno Oliveira Moreira
+,,217.0,15.0,,,Bruno Oliveira Moreira
+,6000.0,286.0,1.0,QUA,14:50 às 16:40,Lucia Gracia Ferreira Trindade
+,,217.0,15.0,,,Lucia Gracia Ferreira Trindade
+,,286.0,1.0,,16:40 às 18:30,Lucia Gracia Ferreira Trindade
+,,217.0,15.0,,,Lucia Gracia Ferreira Trindade
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMSF92 - ECOLOGIA E CONSERVAÇÃO DE COMUNIDADES E ECOSSISTEMAS,10100.0,220.0,15.0,QUI,08:50 às 10:40,Mario Andre Trindade Dantas
+,,,,SEX,08:50 às 12:30,Mario Andre Trindade Dantas
+,10200.0,220.0,15.0,QUI,10:40 às 12:30,Mario Andre Trindade Dantas
+,,,,SEX,08:50 às 12:30,Mario Andre Trindade Dantas
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMSF94 - GENÉTICA GERAL,10100.0,220.0,15.0,TER,07:00 às 08:50,Leandro Martins de Freitas
+,,,,,08:50 às 10:40,Leandro Martins de Freitas
+,,,,QUI,08:50 às 10:40,Leandro Martins de Freitas
+,10200.0,220.0,15.0,TER,07:00 às 08:50,Leandro Martins de Freitas
+,,,,,08:50 às 10:40,Leandro Martins de Freitas
+,,,,QUI,10:40 às 12:30,Leandro Martins de Freitas
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMSF96 - FUNDAMENTOS DE BIOESTATÍSTICA,10100.0,220.0,15.0,SEG,07:00 às 08:50,Sandra Rego de Jesus
+,,,,,08:50 às 10:40,Sandra Rego de Jesus
+,10200.0,220.0,15.0,SEG,07:00 às 08:50,Sandra Rego de Jesus
+,,,,,10:40 às 12:30,Sandra Rego de Jesus
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMSG02 - VIVÊNCIAS EM EXTENSÃO I,1000.0,286.0,1.0,QUI,14:50 às 18:30,Danila Souza Oliveira Coqueiro
+,,220.0,10.0,,,Danila Souza Oliveira Coqueiro
+,2000.0,286.0,1.0,QUI,14:50 às 18:30,Patricia Belini Nishiyama
+,,220.0,10.0,,,Patricia Belini Nishiyama
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMSG05 - FUNDAMENTOS DE FISIOLOGIA ANIMAL COMPARADA,10000.0,226.0,3.0,QUA,13:00 às 16:40,Vinicius Cunha Gonzalez
+,,220.0,30.0,,,Vinicius Cunha Gonzalez
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMSG06 - FUNDAMENTOS DO LICENCIAMENTO AMBIENTAL,10000.0,226.0,4.0,SEG,14:50 às 16:40,Agda Alves da Rocha
+,,220.0,40.0,,,Agda Alves da Rocha
+,,226.0,4.0,SEX,13:55 às 14:50,Agda Alves da Rocha
+,,220.0,40.0,,,Agda Alves da Rocha
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMSG08 - BIOÉTICA,10000.0,226.0,4.0,SEG,13:00 às 14:50,Amanda Gilvani Cordeiro Matias
+,,220.0,40.0,,,Amanda Gilvani Cordeiro Matias
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMSG36 - CROMATOGRAFIA,10100.0,286.0,2.0,TER,14:50 às 16:40,Mariluze Peixoto Cruz
+,,221.0,15.0,,,Mariluze Peixoto Cruz
+,,220.0,5.0,,,Mariluze Peixoto Cruz
+,,217.0,4.0,,,Mariluze Peixoto Cruz
+,,286.0,2.0,,16:40 às 18:30,Bruno Oliveira Moreira
+,,221.0,15.0,,,Bruno Oliveira Moreira
+,,220.0,5.0,,,Bruno Oliveira Moreira
+,,217.0,4.0,,,Bruno Oliveira Moreira
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMSG91 - PROJETO INTEGRADO DE TRABALHO II,1.0,328.0,12.0,TER,13:00 às 13:55,Flavia Alves do Rosario
+,,226.0,1.0,,,Flavia Alves do Rosario
+,,328.0,12.0,CMB,00:00 às 00:00,Flavia Alves do Rosario
+,,226.0,1.0,,,Flavia Alves do Rosario
+,2.0,328.0,11.0,TER,13:55 às 14:50,Flavia Alves do Rosario
+,,226.0,1.0,,,Flavia Alves do Rosario
+,,328.0,11.0,CMB,00:00 às 00:00,Flavia Alves do Rosario
+,,226.0,1.0,,,Flavia Alves do Rosario
+,3.0,328.0,10.0,SEX,16:40 às 17:35,Flavia Alves do Rosario
+,,226.0,1.0,,,Flavia Alves do Rosario
+,,328.0,10.0,CMB,00:00 às 00:00,Flavia Alves do Rosario
+,,226.0,1.0,,,Flavia Alves do Rosario
+,4.0,328.0,10.0,SEX,17:35 às 18:30,Flavia Alves do Rosario
+,,286.0,1.0,,,Flavia Alves do Rosario
+,,328.0,10.0,CMB,00:00 às 00:00,Flavia Alves do Rosario
+,,286.0,1.0,,,Flavia Alves do Rosario
+,5.0,328.0,10.0,QUI,17:35 às 18:30,Flavia Alves do Rosario
+,,286.0,1.0,,,Flavia Alves do Rosario
+,,328.0,10.0,CMB,00:00 às 00:00,Flavia Alves do Rosario
+,,286.0,1.0,,,Flavia Alves do Rosario
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMSG93 - PROJETO INTEGRADO DE TRABALHO IV,1.0,328.0,10.0,SEX,07:00 às 07:55,Monaliza Cirino de Oliveira
+,,226.0,1.0,,,Monaliza Cirino de Oliveira
+,,328.0,10.0,CMB,00:00 às 00:00,Monaliza Cirino de Oliveira
+,,226.0,1.0,,,Monaliza Cirino de Oliveira
+,2.0,328.0,10.0,SEX,07:55 às 08:50,Monaliza Cirino de Oliveira
+,,226.0,1.0,,,Monaliza Cirino de Oliveira
+,,328.0,10.0,CMB,00:00 às 00:00,Monaliza Cirino de Oliveira
+,,226.0,1.0,,,Monaliza Cirino de Oliveira
+,3.0,328.0,10.0,SEX,08:50 às 09:45,Monaliza Cirino de Oliveira
+,,226.0,1.0,,,Monaliza Cirino de Oliveira
+,,328.0,10.0,CMB,00:00 às 00:00,Monaliza Cirino de Oliveira
+,,226.0,1.0,,,Monaliza Cirino de Oliveira
+,4.0,328.0,10.0,SEX,09:45 às 10:40,Monaliza Cirino de Oliveira
+,,226.0,1.0,,,Monaliza Cirino de Oliveira
+,,328.0,10.0,CMB,00:00 às 00:00,Monaliza Cirino de Oliveira
+,,226.0,1.0,,,Monaliza Cirino de Oliveira
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMSG95 - PROJETO INTEGRADO DE TRABALHO VI,1.0,328.0,10.0,QUA,13:00 às 13:55,Carla Silva Soares
+,,226.0,1.0,,,Carla Silva Soares
+,,328.0,10.0,CMB,00:00 às 00:00,Carla Silva Soares
+,,226.0,1.0,,,Carla Silva Soares
+,2.0,328.0,10.0,QUA,13:55 às 14:50,Carla Silva Soares
+,,226.0,1.0,,,Carla Silva Soares
+,,328.0,10.0,CMB,00:00 às 00:00,Carla Silva Soares
+,,226.0,1.0,,,Carla Silva Soares
+,3.0,328.0,10.0,TER,13:00 às 13:55,Monaliza Cirino de Oliveira
+,,226.0,1.0,,,Monaliza Cirino de Oliveira
+,,328.0,10.0,CMB,00:00 às 00:00,Monaliza Cirino de Oliveira
+,,226.0,1.0,,,Monaliza Cirino de Oliveira
+,4.0,328.0,10.0,TER,13:55 às 14:50,Monaliza Cirino de Oliveira
+,,226.0,1.0,,,Monaliza Cirino de Oliveira
+,,328.0,10.0,CMB,00:00 às 00:00,Monaliza Cirino de Oliveira
+,,226.0,1.0,,,Monaliza Cirino de Oliveira
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMSG96 - PROJETO INTEGRADO DE TRABALHO VII,1.0,328.0,10.0,QUA,08:50 às 10:40,Guilherme Chirinea
+,,226.0,1.0,,,Guilherme Chirinea
+,,328.0,10.0,CMB,00:00 às 00:00,Guilherme Chirinea
+,,226.0,1.0,,,Guilherme Chirinea
+,2.0,328.0,10.0,QUI,08:50 às 10:40,Guilherme Chirinea
+,,226.0,1.0,,,Guilherme Chirinea
+,,328.0,10.0,CMB,00:00 às 00:00,Guilherme Chirinea
+,,226.0,1.0,,,Guilherme Chirinea
+,3.0,328.0,12.0,SEX,10:40 às 12:30,Monaliza Cirino de Oliveira
+,,226.0,1.0,,,Monaliza Cirino de Oliveira
+,,328.0,12.0,CMB,00:00 às 00:00,Monaliza Cirino de Oliveira
+,,226.0,1.0,,,Monaliza Cirino de Oliveira
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMSG97 - PSICOLOGIA COMUNITÁRIA,10100.0,328.0,45.0,SEG,08:50 às 10:40,Kueyla de Andrade Bitencourt
+,,226.0,4.0,,,Kueyla de Andrade Bitencourt
+,,328.0,45.0,,10:40 às 12:30,Kueyla de Andrade Bitencourt
+,,226.0,4.0,,,Kueyla de Andrade Bitencourt
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMSG98 - ESTÁGIO PROFISSIONALIZANTE I,1.0,328.0,6.0,SEG,07:00 às 10:40,Daniela Rodrigues Goulart Gomes
+,,226.0,1.0,,,Daniela Rodrigues Goulart Gomes
+,,328.0,6.0,CMB,00:00 às 00:00,Daniela Rodrigues Goulart Gomes
+,,226.0,1.0,,,Daniela Rodrigues Goulart Gomes
+,2.0,328.0,5.0,SEG,13:00 às 16:40,Milena Maria Sarti
+,,226.0,1.0,,,Milena Maria Sarti
+,,328.0,5.0,CMB,00:00 às 00:00,Milena Maria Sarti
+,,226.0,1.0,,,Milena Maria Sarti
+,3.0,328.0,5.0,TER,14:50 às 18:30,Sergio Lizias Costa de Oliveira Rocha
+,,286.0,1.0,,,Sergio Lizias Costa de Oliveira Rocha
+,,328.0,5.0,CMB,00:00 às 00:00,Sergio Lizias Costa de Oliveira Rocha
+,,286.0,1.0,,,Sergio Lizias Costa de Oliveira Rocha
+,4.0,328.0,6.0,QUA,13:00 às 16:40,Edi Cristina Manfroi
+,,226.0,1.0,,,Edi Cristina Manfroi
+,,328.0,6.0,CMB,00:00 às 00:00,Edi Cristina Manfroi
+,,226.0,1.0,,,Edi Cristina Manfroi
+,5.0,328.0,6.0,QUI,14:50 às 18:30,Mayra Ribeiro
+,,286.0,1.0,,,Mayra Ribeiro
+,,328.0,6.0,CMB,00:00 às 00:00,Mayra Ribeiro
+,,286.0,1.0,,,Mayra Ribeiro
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMSH01 - ESTÁGIO PROFISSIONALIZANTE III,1.0,328.0,6.0,QUI,13:00 às 16:40,Sergio Lizias Costa de Oliveira Rocha
+,,226.0,1.0,,,Sergio Lizias Costa de Oliveira Rocha
+,,328.0,6.0,CMB,00:00 às 00:00,Sergio Lizias Costa de Oliveira Rocha
+,,226.0,1.0,,,Sergio Lizias Costa de Oliveira Rocha
+,2.0,328.0,6.0,TER,08:50 às 12:30,Milena Maria Sarti
+,,226.0,1.0,,,Milena Maria Sarti
+,,328.0,6.0,CMB,00:00 às 00:00,Milena Maria Sarti
+,,226.0,1.0,,,Milena Maria Sarti
+,3.0,328.0,6.0,TER,13:00 às 16:40,Edi Cristina Manfroi
+,,226.0,1.0,,,Edi Cristina Manfroi
+,,328.0,6.0,CMB,00:00 às 00:00,Edi Cristina Manfroi
+,,226.0,1.0,,,Edi Cristina Manfroi
+,4.0,328.0,6.0,TER,13:00 às 16:40,Mayra Ribeiro
+,,226.0,1.0,,,Mayra Ribeiro
+,,328.0,6.0,CMB,00:00 às 00:00,Mayra Ribeiro
+,,226.0,1.0,,,Mayra Ribeiro
+,5.0,328.0,6.0,TER,08:50 às 12:30,Carla Silva Soares
+,,226.0,1.0,,,Carla Silva Soares
+,,328.0,6.0,CMB,00:00 às 00:00,Carla Silva Soares
+,,226.0,1.0,,,Carla Silva Soares
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMSH09 - EDUCAÇÃO AMBIENTAL,10100.0,221.0,3.0,SEG,08:50 às 10:40,Patricia Belini Nishiyama
+,,220.0,13.0,,,Patricia Belini Nishiyama
+,,218.0,2.0,,,Patricia Belini Nishiyama
+,,221.0,3.0,,,Danila Souza Oliveira Coqueiro
+,,220.0,13.0,,,Danila Souza Oliveira Coqueiro
+,,218.0,2.0,,,Danila Souza Oliveira Coqueiro
+,,221.0,3.0,,10:40 às 12:30,Patricia Belini Nishiyama
+,,220.0,13.0,,,Patricia Belini Nishiyama
+,,218.0,2.0,,,Patricia Belini Nishiyama
+,,221.0,3.0,,,Danila Souza Oliveira Coqueiro
+,,220.0,13.0,,,Danila Souza Oliveira Coqueiro
+,,218.0,2.0,,,Danila Souza Oliveira Coqueiro
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMSH10 - ACCS: EDUCAÇÃO EM SAÚDE: DOENÇAS PREVALENTES NA POPULAÇÃO,1000.0,847.0,4.0,SEG,13:00 às 14:50,Cintia Rodrigues Marques
+,,226.0,1.0,,,Cintia Rodrigues Marques
+,,218.0,4.0,,,Cintia Rodrigues Marques
+,,217.0,4.0,,,Cintia Rodrigues Marques
+,,216.0,5.0,,,Cintia Rodrigues Marques
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+IMSH11 - ACCS:MÉTODOS DE COMPOSIÇÃO CORPORAL EM SERVIÇOS DE SAÚDE,1000.0,847.0,1.0,TER,08:50 às 10:40,Luiz Gustavo Vieira Cardoso
+,,218.0,12.0,,,Luiz Gustavo Vieira Cardoso
+,,216.0,2.0,,,Luiz Gustavo Vieira Cardoso
+,,847.0,1.0,QUA,07:00 às 08:50,Luiz Gustavo Vieira Cardoso
+,,218.0,12.0,,,Luiz Gustavo Vieira Cardoso
+,,216.0,2.0,,,Luiz Gustavo Vieira Cardoso

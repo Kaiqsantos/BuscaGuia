@@ -1,0 +1,903 @@
+Disciplina,Turma,Coleg.,Vagas Ofe,Dia,Horário,Docente
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ARQ003 - DESCRITIVA I,10100.0,189.0,2.0,SEG,08:50 às 10:40,Luciana Guerra Santos Mota
+,,505.0,18.0,,,Luciana Guerra Santos Mota
+,,,,QUA,08:50 às 10:40,Luciana Guerra Santos Mota
+,,189.0,2.0,,,Luciana Guerra Santos Mota
+,,505.0,18.0,SEX,08:50 às 10:40,Luciana Guerra Santos Mota
+,,189.0,2.0,,,Luciana Guerra Santos Mota
+,20200.0,501.0,20.0,SEG,10:40 às 12:30,Angela Maria Grossi
+,,,,QUA,10:40 às 12:30,Angela Maria Grossi
+,,,,SEX,10:40 às 12:30,Angela Maria Grossi
+,30300.0,512.0,25.0,SEG,13:00 às 14:50,Izarosara Borges Rahy
+,,,,QUA,13:00 às 14:50,Izarosara Borges Rahy
+,,,,SEX,13:00 às 14:50,Izarosara Borges Rahy
+,40400.0,513.0,20.0,SEG,13:00 às 14:50,Maria Campos Romero
+,,,,QUA,13:00 às 14:50,Maria Campos Romero
+,,,,SEX,13:00 às 14:50,Maria Campos Romero
+,50500.0,501.0,20.0,SEG,13:00 às 14:50,Lucianne Fialho Batista
+,,,,QUA,13:00 às 14:50,Lucianne Fialho Batista
+,,,,SEX,13:00 às 14:50,Lucianne Fialho Batista
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ARQ004 - DESCRITIVA II,10100.0,189.0,2.0,SEG,08:50 às 10:40,Angela Maria Grossi
+,,515.0,3.0,,,Angela Maria Grossi
+,,505.0,10.0,,,Angela Maria Grossi
+,,512.0,5.0,,,Angela Maria Grossi
+,,505.0,10.0,QUA,08:50 às 10:40,Angela Maria Grossi
+,,515.0,3.0,,,Angela Maria Grossi
+,,512.0,5.0,,,Angela Maria Grossi
+,,189.0,2.0,,,Angela Maria Grossi
+,,505.0,10.0,SEX,08:50 às 10:40,Angela Maria Grossi
+,,512.0,5.0,,,Angela Maria Grossi
+,,515.0,3.0,,,Angela Maria Grossi
+,,189.0,2.0,,,Angela Maria Grossi
+,20200.0,505.0,8.0,SEG,14:50 às 16:40,Maria Campos Romero
+,,513.0,12.0,,,Maria Campos Romero
+,,,,QUA,14:50 às 16:40,Maria Campos Romero
+,,505.0,8.0,,,Maria Campos Romero
+,,,,SEX,14:50 às 16:40,Maria Campos Romero
+,,513.0,12.0,,,Maria Campos Romero
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ARQ005 - DESENHO GEOMETRICO I,10100.0,505.0,20.0,SEG,07:00 às 08:50,Angela Maria Grossi
+,,,,QUA,07:00 às 08:50,Angela Maria Grossi
+,20200.0,209.0,20.0,SEG,14:50 às 16:40,Lucianne Fialho Batista
+,,,,QUA,14:50 às 16:40,Lucianne Fialho Batista
+,30300.0,209.0,20.0,SEG,14:50 às 16:40,Docente não informado pelo Departamento
+,,,,QUA,14:50 às 16:40,Docente não informado pelo Departamento
+,40400.0,513.0,20.0,TER,07:00 às 08:50,Maria Campos Romero
+,,189.0,2.0,,,Maria Campos Romero
+,,,,QUI,07:00 às 08:50,Maria Campos Romero
+,,513.0,20.0,,,Maria Campos Romero
+,50500.0,111.0,24.0,TER,07:00 às 08:50,Ana Tereza Carvalho Cerqueira
+,,,,QUI,07:00 às 08:50,Ana Tereza Carvalho Cerqueira
+,60600.0,111.0,24.0,TER,07:00 às 08:50,Docente não informado pelo Departamento
+,,,,QUI,07:00 às 08:50,Docente não informado pelo Departamento
+,70700.0,515.0,4.0,TER,08:50 às 10:40,Docente não informado pelo Departamento
+,,513.0,4.0,,,Docente não informado pelo Departamento
+,,226.0,2.0,,,Docente não informado pelo Departamento
+,,111.0,12.0,,,Docente não informado pelo Departamento
+,,226.0,2.0,QUI,08:50 às 10:40,Docente não informado pelo Departamento
+,,515.0,4.0,,,Docente não informado pelo Departamento
+,,111.0,12.0,,,Docente não informado pelo Departamento
+,,513.0,4.0,,,Docente não informado pelo Departamento
+,80800.0,190.0,2.0,TER,08:50 às 10:40,Ana Tereza Carvalho Cerqueira
+,,515.0,1.0,,,Ana Tereza Carvalho Cerqueira
+,,505.0,5.0,,,Ana Tereza Carvalho Cerqueira
+,,189.0,2.0,,,Ana Tereza Carvalho Cerqueira
+,,111.0,10.0,,,Ana Tereza Carvalho Cerqueira
+,,,,QUI,08:50 às 10:40,Ana Tereza Carvalho Cerqueira
+,,189.0,2.0,,,Ana Tereza Carvalho Cerqueira
+,,505.0,5.0,,,Ana Tereza Carvalho Cerqueira
+,,190.0,2.0,,,Ana Tereza Carvalho Cerqueira
+,,515.0,1.0,,,Ana Tereza Carvalho Cerqueira
+,90900.0,387.0,5.0,TER,18:30 às 20:20,Adriana Sousa Fernandes da Silva
+,,580.0,5.0,,,Adriana Sousa Fernandes da Silva
+,,183.0,10.0,,,Adriana Sousa Fernandes da Silva
+,,,,QUI,18:30 às 20:20,Adriana Sousa Fernandes da Silva
+,,580.0,5.0,,,Adriana Sousa Fernandes da Silva
+,,387.0,5.0,,,Adriana Sousa Fernandes da Silva
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ARQ006 - DESENHO GEOMETRICO II,10100.0,505.0,20.0,SEG,08:50 às 10:40,Marcelo Raimundo Pinheiro da Silva
+,,,,QUA,08:50 às 10:40,Marcelo Raimundo Pinheiro da Silva
+,20200.0,513.0,15.0,TER,10:40 às 12:30,Ana Tereza Carvalho Cerqueira
+,,111.0,5.0,,,Ana Tereza Carvalho Cerqueira
+,,513.0,15.0,QUI,10:40 às 12:30,Ana Tereza Carvalho Cerqueira
+,,111.0,5.0,,,Ana Tereza Carvalho Cerqueira
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ARQ010 - PERSPECTIVA,10100.0,505.0,16.0,SEG,07:00 às 08:50,Marcelo Raimundo Pinheiro da Silva
+,,512.0,6.0,,,Marcelo Raimundo Pinheiro da Silva
+,,,,QUA,07:00 às 08:50,Marcelo Raimundo Pinheiro da Silva
+,,505.0,16.0,,,Marcelo Raimundo Pinheiro da Silva
+,20200.0,513.0,15.0,SEG,08:50 às 10:40,Jailson Cesar Borges dos Santos
+,,501.0,5.0,,,Jailson Cesar Borges dos Santos
+,,513.0,15.0,QUA,08:50 às 10:40,Jailson Cesar Borges dos Santos
+,,501.0,5.0,,,Jailson Cesar Borges dos Santos
+,30300.0,501.0,22.0,SEG,14:50 às 16:40,Docente não informado pelo Departamento
+,,,,QUA,14:50 às 16:40,Docente não informado pelo Departamento
+,40400.0,505.0,7.0,TER,07:00 às 08:50,Carlos Amorim Bahia
+,,512.0,6.0,,,Carlos Amorim Bahia
+,,501.0,9.0,,,Carlos Amorim Bahia
+,,512.0,6.0,QUI,07:00 às 08:50,Carlos Amorim Bahia
+,,505.0,7.0,,,Carlos Amorim Bahia
+,,501.0,9.0,,,Carlos Amorim Bahia
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ARQ011 - DESENHO TECNICO I,10100.0,580.0,2.0,SEG,10:40 às 12:30,Carlos Amorim Bahia
+,,505.0,8.0,,,Carlos Amorim Bahia
+,,515.0,2.0,,,Carlos Amorim Bahia
+,,189.0,2.0,,,Carlos Amorim Bahia
+,,190.0,3.0,,,Carlos Amorim Bahia
+,,105.0,3.0,,,Carlos Amorim Bahia
+,,189.0,2.0,QUA,10:40 às 12:30,Carlos Amorim Bahia
+,,580.0,2.0,,,Carlos Amorim Bahia
+,,515.0,2.0,,,Carlos Amorim Bahia
+,,505.0,8.0,,,Carlos Amorim Bahia
+,,190.0,3.0,,,Carlos Amorim Bahia
+,,105.0,3.0,,,Carlos Amorim Bahia
+,20200.0,104.0,20.0,TER,07:00 às 08:50,Patricia Farias Uchoa
+,,,,QUI,07:00 às 08:50,Patricia Farias Uchoa
+,30300.0,104.0,20.0,TER,07:00 às 08:50,Antonio Pedro Alves de Carvalho
+,,,,QUI,07:00 às 08:50,Antonio Pedro Alves de Carvalho
+,40400.0,512.0,2.0,TER,07:00 às 08:50,Docente não informado pelo Departamento
+,,505.0,11.0,,,Docente não informado pelo Departamento
+,,190.0,2.0,,,Docente não informado pelo Departamento
+,,104.0,5.0,,,Docente não informado pelo Departamento
+,,512.0,2.0,QUI,07:00 às 08:50,Docente não informado pelo Departamento
+,,190.0,2.0,,,Docente não informado pelo Departamento
+,,505.0,11.0,,,Docente não informado pelo Departamento
+,,104.0,5.0,,,Docente não informado pelo Departamento
+,50500.0,103.0,20.0,TER,08:50 às 10:40,Jailson Cesar Borges dos Santos
+,,,,QUI,08:50 às 10:40,Jailson Cesar Borges dos Santos
+,60600.0,190.0,5.0,TER,08:50 às 10:40,Docente não informado pelo Departamento
+,,189.0,2.0,,,Docente não informado pelo Departamento
+,,113.0,3.0,,,Docente não informado pelo Departamento
+,,103.0,10.0,,,Docente não informado pelo Departamento
+,,,,QUI,08:50 às 10:40,Docente não informado pelo Departamento
+,,190.0,5.0,,,Docente não informado pelo Departamento
+,,189.0,2.0,,,Docente não informado pelo Departamento
+,,113.0,3.0,,,Docente não informado pelo Departamento
+,70700.0,107.0,8.0,TER,10:40 às 12:30,Adriana Sousa Fernandes da Silva
+,,512.0,5.0,,,Adriana Sousa Fernandes da Silva
+,,113.0,2.0,,,Adriana Sousa Fernandes da Silva
+,,103.0,5.0,,,Adriana Sousa Fernandes da Silva
+,,113.0,2.0,QUI,10:40 às 12:30,Adriana Sousa Fernandes da Silva
+,,512.0,5.0,,,Adriana Sousa Fernandes da Silva
+,,103.0,5.0,,,Adriana Sousa Fernandes da Silva
+,,107.0,8.0,,,Adriana Sousa Fernandes da Silva
+,80800.0,103.0,20.0,TER,10:40 às 12:30,Jailson Cesar Borges dos Santos
+,,,,QUI,10:40 às 12:30,Jailson Cesar Borges dos Santos
+,90900.0,104.0,10.0,TER,13:00 às 14:50,Adriana Sousa Fernandes da Silva
+,,105.0,12.0,,,Adriana Sousa Fernandes da Silva
+,,,,QUI,13:00 às 14:50,Adriana Sousa Fernandes da Silva
+,,104.0,10.0,,,Adriana Sousa Fernandes da Silva
+,101000.0,105.0,22.0,TER,13:00 às 14:50,Jailson Cesar Borges dos Santos
+,,,,QUI,13:00 às 14:50,Jailson Cesar Borges dos Santos
+,111100.0,515.0,5.0,TER,14:50 às 16:40,Giulio Santanche
+,,189.0,3.0,,,Giulio Santanche
+,,113.0,4.0,,,Giulio Santanche
+,,107.0,5.0,,,Giulio Santanche
+,,113.0,4.0,QUI,14:50 às 16:40,Giulio Santanche
+,,189.0,3.0,,,Giulio Santanche
+,,515.0,5.0,,,Giulio Santanche
+,,107.0,5.0,,,Giulio Santanche
+,121200.0,580.0,5.0,TER,20:20 às 22:10,Ana Tereza Carvalho Cerqueira
+,,190.0,4.0,,,Ana Tereza Carvalho Cerqueira
+,,189.0,10.0,,,Ana Tereza Carvalho Cerqueira
+,,108.0,1.0,,,Ana Tereza Carvalho Cerqueira
+,,580.0,5.0,QUI,20:20 às 22:10,Ana Tereza Carvalho Cerqueira
+,,190.0,4.0,,,Ana Tereza Carvalho Cerqueira
+,,189.0,10.0,,,Ana Tereza Carvalho Cerqueira
+,,108.0,1.0,,,Ana Tereza Carvalho Cerqueira
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ARQ013 - DESCRITIVA I A,10100.0,105.0,20.0,TER,07:00 às 08:50,Elisabete de Araujo Ulisses dos Santos
+,,,,QUI,07:00 às 08:50,Elisabete de Araujo Ulisses dos Santos
+,20200.0,105.0,20.0,TER,07:00 às 08:50,Manoel Humberto Silva Santos
+,,,,QUI,07:00 às 08:50,Manoel Humberto Silva Santos
+,30300.0,113.0,2.0,TER,07:00 às 08:50,Luciana Guerra Santos Mota
+,,111.0,4.0,,,Luciana Guerra Santos Mota
+,,108.0,1.0,,,Luciana Guerra Santos Mota
+,,105.0,13.0,,,Luciana Guerra Santos Mota
+,,113.0,2.0,QUI,07:00 às 08:50,Luciana Guerra Santos Mota
+,,111.0,4.0,,,Luciana Guerra Santos Mota
+,,108.0,1.0,,,Luciana Guerra Santos Mota
+,,105.0,13.0,,,Luciana Guerra Santos Mota
+,40400.0,102.0,20.0,TER,08:50 às 10:40,Manoel Humberto Silva Santos
+,,,,QUI,08:50 às 10:40,Manoel Humberto Silva Santos
+,50500.0,102.0,20.0,TER,08:50 às 10:40,Antonio Pedro Alves de Carvalho
+,,,,QUI,08:50 às 10:40,Antonio Pedro Alves de Carvalho
+,60600.0,190.0,5.0,TER,08:50 às 10:40,Luciana Guerra Santos Mota
+,,189.0,2.0,,,Luciana Guerra Santos Mota
+,,113.0,2.0,,,Luciana Guerra Santos Mota
+,,111.0,6.0,,,Luciana Guerra Santos Mota
+,,102.0,5.0,,,Luciana Guerra Santos Mota
+,,190.0,5.0,QUI,08:50 às 10:40,Luciana Guerra Santos Mota
+,,189.0,2.0,,,Luciana Guerra Santos Mota
+,,113.0,2.0,,,Luciana Guerra Santos Mota
+,,111.0,6.0,,,Luciana Guerra Santos Mota
+,,102.0,5.0,,,Luciana Guerra Santos Mota
+,70700.0,107.0,22.0,TER,10:40 às 12:30,Antonio Pedro Alves de Carvalho
+,,,,QUI,10:40 às 12:30,Antonio Pedro Alves de Carvalho
+,80800.0,107.0,23.0,TER,10:40 às 12:30,Docente não informado pelo Departamento
+,,,,QUI,10:40 às 12:30,Docente não informado pelo Departamento
+,90900.0,103.0,25.0,TER,10:40 às 12:30,Celso Almeida da Silva Cunha
+,,,,QUI,10:40 às 12:30,Celso Almeida da Silva Cunha
+,101000.0,515.0,3.0,TER,13:00 às 14:50,Celso Almeida da Silva Cunha
+,,190.0,2.0,,,Celso Almeida da Silva Cunha
+,,111.0,4.0,,,Celso Almeida da Silva Cunha
+,,103.0,5.0,,,Celso Almeida da Silva Cunha
+,,102.0,6.0,,,Celso Almeida da Silva Cunha
+,,515.0,3.0,QUI,13:00 às 14:50,Celso Almeida da Silva Cunha
+,,190.0,2.0,,,Celso Almeida da Silva Cunha
+,,111.0,4.0,,,Celso Almeida da Silva Cunha
+,,103.0,5.0,,,Celso Almeida da Silva Cunha
+,,102.0,6.0,,,Celso Almeida da Silva Cunha
+,111100.0,102.0,23.0,TER,14:50 às 16:40,Adriana Sousa Fernandes da Silva
+,,,,QUI,14:50 às 16:40,Adriana Sousa Fernandes da Silva
+,121200.0,102.0,22.0,TER,14:50 às 16:40,Docente não informado pelo Departamento
+,,,,QUI,14:50 às 16:40,Docente não informado pelo Departamento
+,131300.0,103.0,20.0,TER,16:40 às 18:30,Docente não informado pelo Departamento
+,,,,QUI,16:40 às 18:30,Docente não informado pelo Departamento
+,141400.0,194.0,4.0,TER,16:40 às 18:30,Celso Almeida da Silva Cunha
+,,107.0,2.0,,,Celso Almeida da Silva Cunha
+,,103.0,8.0,,,Celso Almeida da Silva Cunha
+,,102.0,6.0,,,Celso Almeida da Silva Cunha
+,,194.0,4.0,QUI,16:40 às 18:30,Celso Almeida da Silva Cunha
+,,107.0,2.0,,,Celso Almeida da Silva Cunha
+,,103.0,8.0,,,Celso Almeida da Silva Cunha
+,,102.0,6.0,,,Celso Almeida da Silva Cunha
+,151500.0,580.0,3.0,TER,18:30 às 20:20,Docente não informado pelo Departamento
+,,194.0,5.0,,,Docente não informado pelo Departamento
+,,190.0,1.0,,,Docente não informado pelo Departamento
+,,189.0,3.0,,,Docente não informado pelo Departamento
+,,183.0,5.0,,,Docente não informado pelo Departamento
+,,107.0,3.0,,,Docente não informado pelo Departamento
+,,580.0,3.0,QUI,18:30 às 20:20,Docente não informado pelo Departamento
+,,194.0,5.0,,,Docente não informado pelo Departamento
+,,190.0,1.0,,,Docente não informado pelo Departamento
+,,189.0,3.0,,,Docente não informado pelo Departamento
+,,183.0,5.0,,,Docente não informado pelo Departamento
+,,107.0,3.0,,,Docente não informado pelo Departamento
+,161600.0,190.0,6.0,TER,14:50 às 16:40,Celso Almeida da Silva Cunha
+,,189.0,6.0,,,Celso Almeida da Silva Cunha
+,,113.0,2.0,,,Celso Almeida da Silva Cunha
+,,103.0,2.0,,,Celso Almeida da Silva Cunha
+,,102.0,6.0,,,Celso Almeida da Silva Cunha
+,,190.0,6.0,QUI,14:50 às 16:40,Celso Almeida da Silva Cunha
+,,189.0,6.0,,,Celso Almeida da Silva Cunha
+,,113.0,2.0,,,Celso Almeida da Silva Cunha
+,,103.0,2.0,,,Celso Almeida da Silva Cunha
+,,102.0,6.0,,,Celso Almeida da Silva Cunha
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ARQ016 - ATELIER I,10100.0,101.0,17.0,SEG,08:50 às 12:30,Arivaldo Leao de Amorim
+,,,,QUA,08:50 às 12:30,Arivaldo Leao de Amorim
+,,,,SEX,08:50 às 12:30,Arivaldo Leao de Amorim
+,20200.0,101.0,17.0,SEG,08:50 às 12:30,Erica de Sousa Checcucci
+,,,,QUA,08:50 às 12:30,Erica de Sousa Checcucci
+,,,,SEX,08:50 às 12:30,Erica de Sousa Checcucci
+,30300.0,515.0,1.0,SEG,08:50 às 12:30,Valdinei Lopes do Nascimento
+,,101.0,16.0,,,Valdinei Lopes do Nascimento
+,,515.0,1.0,QUA,08:50 às 12:30,Valdinei Lopes do Nascimento
+,,101.0,16.0,,,Valdinei Lopes do Nascimento
+,,515.0,1.0,SEX,08:50 às 12:30,Valdinei Lopes do Nascimento
+,,101.0,16.0,,,Valdinei Lopes do Nascimento
+,40400.0,189.0,1.0,SEG,08:50 às 12:30,Jurema Moreira Cavalcanti
+,,101.0,16.0,,,Jurema Moreira Cavalcanti
+,,,,QUA,08:50 às 12:30,Jurema Moreira Cavalcanti
+,,189.0,1.0,,,Jurema Moreira Cavalcanti
+,,,,SEX,08:50 às 12:30,Jurema Moreira Cavalcanti
+,,101.0,16.0,,,Jurema Moreira Cavalcanti
+,50500.0,101.0,17.0,SEG,14:50 às 18:30,Any Brito Leal Ivo
+,,,,QUA,14:50 às 18:30,Any Brito Leal Ivo
+,,,,SEX,14:50 às 18:30,Any Brito Leal Ivo
+,60600.0,189.0,1.0,SEG,14:50 às 18:30,Docente não informado pelo Departamento
+,,101.0,16.0,,,Docente não informado pelo Departamento
+,,189.0,1.0,QUA,14:50 às 18:30,Docente não informado pelo Departamento
+,,101.0,16.0,,,Docente não informado pelo Departamento
+,,189.0,1.0,SEX,14:50 às 18:30,Docente não informado pelo Departamento
+,,101.0,16.0,,,Docente não informado pelo Departamento
+,70700.0,101.0,17.0,SEG,14:50 às 18:30,Docente não informado pelo Departamento
+,,,,QUA,14:50 às 18:30,Docente não informado pelo Departamento
+,,,,SEX,14:50 às 18:30,Docente não informado pelo Departamento
+,80800.0,190.0,1.0,SEG,14:50 às 18:30,Docente não informado pelo Departamento
+,,101.0,16.0,,,Docente não informado pelo Departamento
+,,190.0,1.0,QUA,14:50 às 18:30,Docente não informado pelo Departamento
+,,101.0,16.0,,,Docente não informado pelo Departamento
+,,190.0,1.0,SEX,14:50 às 18:30,Docente não informado pelo Departamento
+,,101.0,16.0,,,Docente não informado pelo Departamento
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ARQ018 - INTRODUCAO A ARQUITETURA E URBANISMO,10000.0,190.0,1.0,TER,07:00 às 08:50,Jurema Moreira Cavalcanti
+,,189.0,1.0,,,Jurema Moreira Cavalcanti
+,,101.0,31.0,,,Jurema Moreira Cavalcanti
+,,190.0,1.0,QUI,07:00 às 08:50,Jurema Moreira Cavalcanti
+,,189.0,1.0,,,Jurema Moreira Cavalcanti
+,,101.0,31.0,,,Jurema Moreira Cavalcanti
+,20000.0,327.0,1.0,TER,08:50 às 10:40,Jurema Moreira Cavalcanti
+,,190.0,1.0,,,Jurema Moreira Cavalcanti
+,,101.0,30.0,,,Jurema Moreira Cavalcanti
+,,327.0,1.0,QUI,08:50 às 10:40,Jurema Moreira Cavalcanti
+,,190.0,1.0,,,Jurema Moreira Cavalcanti
+,,101.0,30.0,,,Jurema Moreira Cavalcanti
+,30000.0,515.0,1.0,TER,14:50 às 16:40,Docente não informado pelo Departamento
+,,190.0,1.0,,,Docente não informado pelo Departamento
+,,101.0,31.0,,,Docente não informado pelo Departamento
+,,515.0,1.0,QUI,14:50 às 16:40,Docente não informado pelo Departamento
+,,190.0,1.0,,,Docente não informado pelo Departamento
+,,101.0,31.0,,,Docente não informado pelo Departamento
+,40000.0,580.0,1.0,TER,16:40 às 18:30,Docente não informado pelo Departamento
+,,189.0,1.0,,,Docente não informado pelo Departamento
+,,101.0,30.0,,,Docente não informado pelo Departamento
+,,580.0,1.0,QUI,16:40 às 18:30,Docente não informado pelo Departamento
+,,189.0,1.0,,,Docente não informado pelo Departamento
+,,101.0,30.0,,,Docente não informado pelo Departamento
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ARQ019 - MATEMATICA I,10100.0,101.0,33.0,SEG,18:30 às 20:20,Nei Sousa Barreto
+,,,,QUA,18:30 às 20:20,Nei Sousa Barreto
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ARQ020 - ESTUDOS SOCIAIS E AMBIENTAIS,10000.0,387.0,2.0,TER,13:00 às 14:50,Gilberto Corso Pereira
+,,327.0,3.0,,,Gilberto Corso Pereira
+,,190.0,3.0,,,Gilberto Corso Pereira
+,,101.0,20.0,,,Gilberto Corso Pereira
+,,387.0,2.0,QUI,13:00 às 14:50,Gilberto Corso Pereira
+,,327.0,3.0,,,Gilberto Corso Pereira
+,,190.0,3.0,,,Gilberto Corso Pereira
+,,101.0,20.0,,,Gilberto Corso Pereira
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ARQ021 - HISTORIA DA ARQUITETURA E URBANISMO I,10100.0,101.0,30.0,TER,10:40 às 12:30,Docente não informado pelo Departamento
+,,,,QUI,10:40 às 12:30,Docente não informado pelo Departamento
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ARQ022 - MATEMATICA II,10100.0,515.0,1.0,TER,07:00 às 08:50,Eduardo Parente Prado
+,,101.0,32.0,,,Eduardo Parente Prado
+,,515.0,1.0,QUI,07:00 às 08:50,Eduardo Parente Prado
+,,101.0,32.0,,,Eduardo Parente Prado
+,20200.0,190.0,1.0,TER,08:50 às 10:40,Eduardo Parente Prado
+,,101.0,32.0,,,Eduardo Parente Prado
+,,190.0,1.0,QUI,08:50 às 10:40,Eduardo Parente Prado
+,,101.0,32.0,,,Eduardo Parente Prado
+,30300.0,101.0,33.0,TER,13:00 às 14:50,Eduardo Parente Prado
+,,,,QUI,13:00 às 14:50,Eduardo Parente Prado
+,40400.0,101.0,33.0,TER,14:50 às 16:40,Eduardo Parente Prado
+,,,,QUI,14:50 às 16:40,Eduardo Parente Prado
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ARQ023 - HISTORIA DA ARQUITETURA CONTEMPORANEA,10100.0,327.0,1.0,TER,07:00 às 08:50,Junia Cambraia Mortimer
+,,190.0,1.0,,,Junia Cambraia Mortimer
+,,189.0,1.0,,,Junia Cambraia Mortimer
+,,101.0,30.0,,,Junia Cambraia Mortimer
+,,327.0,1.0,QUI,07:00 às 08:50,Junia Cambraia Mortimer
+,,190.0,1.0,,,Junia Cambraia Mortimer
+,,189.0,1.0,,,Junia Cambraia Mortimer
+,,101.0,30.0,,,Junia Cambraia Mortimer
+,20200.0,327.0,1.0,TER,13:00 às 14:50,Junia Cambraia Mortimer
+,,190.0,1.0,,,Junia Cambraia Mortimer
+,,189.0,1.0,,,Junia Cambraia Mortimer
+,,101.0,30.0,,,Junia Cambraia Mortimer
+,,327.0,1.0,QUI,13:00 às 14:50,Junia Cambraia Mortimer
+,,190.0,1.0,,,Junia Cambraia Mortimer
+,,189.0,1.0,,,Junia Cambraia Mortimer
+,,101.0,30.0,,,Junia Cambraia Mortimer
+,30300.0,327.0,2.0,TER,08:50 às 10:40,Docente não informado pelo Departamento
+,,190.0,1.0,,,Docente não informado pelo Departamento
+,,189.0,1.0,,,Docente não informado pelo Departamento
+,,101.0,30.0,,,Docente não informado pelo Departamento
+,,327.0,2.0,QUI,08:50 às 10:40,Docente não informado pelo Departamento
+,,190.0,1.0,,,Docente não informado pelo Departamento
+,,189.0,1.0,,,Docente não informado pelo Departamento
+,,101.0,30.0,,,Docente não informado pelo Departamento
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ARQ024 - ATELIER II,10100.0,101.0,17.0,SEG,08:50 às 12:30,Solange Souza Araujo
+,,,,QUA,08:50 às 12:30,Solange Souza Araujo
+,,,,SEX,08:50 às 12:30,Solange Souza Araujo
+,20200.0,101.0,17.0,SEG,08:50 às 12:30,Neilton Dorea Rodrigues de Oliveira
+,,,,QUA,08:50 às 12:30,Neilton Dorea Rodrigues de Oliveira
+,,,,SEX,08:50 às 12:30,Neilton Dorea Rodrigues de Oliveira
+,30300.0,101.0,17.0,SEG,08:50 às 12:30,Floriano de Araujo Mendonca Filho
+,,,,QUA,08:50 às 12:30,Floriano de Araujo Mendonca Filho
+,,,,SEX,08:50 às 12:30,Floriano de Araujo Mendonca Filho
+,40400.0,101.0,17.0,SEG,08:50 às 12:30,Marcos Antonio Nunes Rodrigues
+,,,,QUA,08:50 às 12:30,Marcos Antonio Nunes Rodrigues
+,,,,SEX,08:50 às 12:30,Marcos Antonio Nunes Rodrigues
+,50500.0,101.0,17.0,SEG,08:50 às 12:30,Docente não informado pelo Departamento
+,,,,QUA,08:50 às 12:30,Docente não informado pelo Departamento
+,,,,SEX,08:50 às 12:30,Docente não informado pelo Departamento
+,60600.0,101.0,17.0,SEG,14:50 às 18:30,Jose Fernando Marinho Minho
+,,,,QUA,14:50 às 18:30,Jose Fernando Marinho Minho
+,,,,SEX,14:50 às 18:30,Jose Fernando Marinho Minho
+,70700.0,189.0,2.0,SEG,14:50 às 18:30,Docente não informado pelo Departamento
+,,101.0,15.0,,,Docente não informado pelo Departamento
+,,189.0,2.0,QUA,14:50 às 18:30,Docente não informado pelo Departamento
+,,101.0,15.0,,,Docente não informado pelo Departamento
+,,189.0,2.0,SEX,14:50 às 18:30,Docente não informado pelo Departamento
+,,101.0,15.0,,,Docente não informado pelo Departamento
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ARQ025 - CONFORTO AMBIENTAL I,10000.0,387.0,8.0,TER,10:40 às 12:30,Marcia Reboucas Freire
+,,327.0,12.0,,,Marcia Reboucas Freire
+,20000.0,190.0,1.0,TER,14:50 às 16:40,Marcia Reboucas Freire
+,,189.0,1.0,,,Marcia Reboucas Freire
+,,101.0,20.0,,,Marcia Reboucas Freire
+,30000.0,190.0,1.0,TER,07:00 às 08:50,Sandra Helena Miranda de Souza
+,,189.0,1.0,,,Sandra Helena Miranda de Souza
+,,101.0,20.0,,,Sandra Helena Miranda de Souza
+,40000.0,387.0,1.0,TER,08:50 às 10:40,Sandra Helena Miranda de Souza
+,,189.0,1.0,,,Sandra Helena Miranda de Souza
+,,101.0,20.0,,,Sandra Helena Miranda de Souza
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ARQ026 - INFORMATICA APLICADA A ARQUITETURA E URBANISMO I,10100.0,513.0,2.0,TER,10:40 às 12:30,Fabiano Mikalauskas de Souza Nogueira
+,,101.0,20.0,,,Fabiano Mikalauskas de Souza Nogueira
+,,513.0,2.0,QUI,10:40 às 12:30,Fabiano Mikalauskas de Souza Nogueira
+,,101.0,20.0,,,Fabiano Mikalauskas de Souza Nogueira
+,20200.0,513.0,2.0,TER,13:00 às 14:50,Fabiano Mikalauskas de Souza Nogueira
+,,101.0,20.0,,,Fabiano Mikalauskas de Souza Nogueira
+,,513.0,2.0,QUI,13:00 às 14:50,Fabiano Mikalauskas de Souza Nogueira
+,,101.0,20.0,,,Fabiano Mikalauskas de Souza Nogueira
+,30300.0,513.0,2.0,SEG,13:00 às 14:50,Docente não informado pelo Departamento
+,,101.0,20.0,,,Docente não informado pelo Departamento
+,,513.0,2.0,QUA,13:00 às 14:50,Docente não informado pelo Departamento
+,,101.0,20.0,,,Docente não informado pelo Departamento
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ARQ027 - HISTORIA DA ARQUITETURA E URBANISMO II,10100.0,327.0,3.0,TER,10:40 às 12:30,Marcia Genesia de Sant Anna
+,,101.0,30.0,,,Marcia Genesia de Sant Anna
+,,327.0,3.0,QUI,10:40 às 12:30,Marcia Genesia de Sant Anna
+,,101.0,30.0,,,Marcia Genesia de Sant Anna
+,20200.0,190.0,2.0,TER,14:50 às 16:40,Marcia Genesia de Sant Anna
+,,189.0,1.0,,,Marcia Genesia de Sant Anna
+,,101.0,30.0,,,Marcia Genesia de Sant Anna
+,,190.0,2.0,QUI,14:50 às 16:40,Marcia Genesia de Sant Anna
+,,189.0,1.0,,,Marcia Genesia de Sant Anna
+,,101.0,30.0,,,Marcia Genesia de Sant Anna
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ARQ029 - HISTORIA DO URBANISMO E DO PLANEJAMENTO URBANO,10000.0,327.0,8.0,TER,10:40 às 12:30,Docente não informado pelo Departamento
+,,101.0,22.0,,,Docente não informado pelo Departamento
+,,327.0,8.0,QUI,10:40 às 12:30,Docente não informado pelo Departamento
+,,101.0,22.0,,,Docente não informado pelo Departamento
+,20000.0,327.0,6.0,TER,14:50 às 16:40,Gloria Cecilia dos Santos Figueiredo
+,,101.0,22.0,,,Gloria Cecilia dos Santos Figueiredo
+,,327.0,6.0,QUI,14:50 às 16:40,Gloria Cecilia dos Santos Figueiredo
+,,101.0,22.0,,,Gloria Cecilia dos Santos Figueiredo
+,30000.0,327.0,8.0,TER,13:00 às 14:50,Elyane Lins Correa
+,,101.0,22.0,,,Elyane Lins Correa
+,,327.0,8.0,QUI,13:00 às 14:50,Elyane Lins Correa
+,,101.0,22.0,,,Elyane Lins Correa
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ARQ030 - CONFORTO AMBIENTAL II,10000.0,190.0,1.0,QUI,07:00 às 08:50,Marcia Reboucas Freire
+,,101.0,21.0,,,Marcia Reboucas Freire
+,20000.0,190.0,1.0,TER,08:50 às 10:40,Marcia Reboucas Freire
+,,101.0,20.0,,,Marcia Reboucas Freire
+,30000.0,101.0,22.0,TER,13:00 às 14:50,Sandra Helena Miranda de Souza
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ARQ031 - ATELIER III,10100.0,101.0,17.0,SEG,08:50 às 12:30,Marcio Correia Campos
+,,,,QUA,08:50 às 12:30,Marcio Correia Campos
+,,,,SEX,08:50 às 12:30,Marcio Correia Campos
+,20200.0,101.0,17.0,SEG,08:50 às 12:30,Ceila Rosana Carneiro Cardoso
+,,,,QUA,08:50 às 12:30,Ceila Rosana Carneiro Cardoso
+,,,,SEX,08:50 às 12:30,Ceila Rosana Carneiro Cardoso
+,30300.0,101.0,17.0,SEG,08:50 às 12:30,Ida Matilde Pela
+,,,,QUA,08:50 às 12:30,Ida Matilde Pela
+,,,,SEX,08:50 às 12:30,Ida Matilde Pela
+,40400.0,101.0,17.0,SEG,08:50 às 12:30,Docente não informado pelo Departamento
+,,,,QUA,08:50 às 12:30,Docente não informado pelo Departamento
+,,,,SEX,08:50 às 12:30,Docente não informado pelo Departamento
+,50500.0,101.0,17.0,SEG,14:50 às 18:30,Marcos Antonio Menezes Queiroz
+,,,,QUA,14:50 às 18:30,Marcos Antonio Menezes Queiroz
+,,,,SEX,14:50 às 18:30,Marcos Antonio Menezes Queiroz
+,60600.0,101.0,17.0,SEG,14:50 às 18:30,Eduardo Teixeira de Carvalho
+,,,,QUA,14:50 às 18:30,Eduardo Teixeira de Carvalho
+,,,,SEX,14:50 às 18:30,Eduardo Teixeira de Carvalho
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ARQ032 - HISTORIA E.TEORIA DA ARQUITETURA .BRASILEIRA,10100.0,327.0,1.0,TER,10:40 às 12:30,Docente não informado pelo Departamento
+,,189.0,1.0,,,Docente não informado pelo Departamento
+,,101.0,31.0,,,Docente não informado pelo Departamento
+,,327.0,1.0,QUI,10:40 às 12:30,Docente não informado pelo Departamento
+,,189.0,1.0,,,Docente não informado pelo Departamento
+,,101.0,31.0,,,Docente não informado pelo Departamento
+,20200.0,327.0,2.0,TER,14:50 às 16:40,Luiz Antonio Fernandes Cardoso
+,,101.0,31.0,,,Luiz Antonio Fernandes Cardoso
+,,327.0,2.0,QUI,14:50 às 16:40,Luiz Antonio Fernandes Cardoso
+,,101.0,31.0,,,Luiz Antonio Fernandes Cardoso
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ARQ033 - SISTEMAS ESTRUTURAIS I-A,10100.0,101.0,33.0,SEG,07:00 às 08:50,Rita Dione Araujo Cunha
+,,,,QUA,07:00 às 08:50,Rita Dione Araujo Cunha
+,,,,SEX,07:00 às 08:50,Rita Dione Araujo Cunha
+,20200.0,101.0,33.0,SEG,14:50 às 16:40,Rita Dione Araujo Cunha
+,,,,QUA,14:50 às 16:40,Rita Dione Araujo Cunha
+,,,,SEX,14:50 às 16:40,Rita Dione Araujo Cunha
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ARQ034 - CONFORTO AMBIENTAL III,10000.0,190.0,3.0,QUA,10:40 às 12:30,Carolina Nascimento Vieira
+,,101.0,30.0,,,Carolina Nascimento Vieira
+,20000.0,327.0,15.0,QUA,14:50 às 16:40,Carolina Nascimento Vieira
+,,190.0,3.0,,,Carolina Nascimento Vieira
+,,101.0,15.0,,,Carolina Nascimento Vieira
+,30000.0,101.0,33.0,QUI,10:40 às 12:30,Carolina Nascimento Vieira
+,40000.0,101.0,33.0,QUI,08:50 às 10:40,Carolina Nascimento Vieira
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ARQ035 - INFORMATICA APLICADA A ARQUITETURA E. URBANISMO II,10100.0,101.0,22.0,TER,07:00 às 08:50,Fabiano Mikalauskas de Souza Nogueira
+,,,,QUI,07:00 às 08:50,Fabiano Mikalauskas de Souza Nogueira
+,20200.0,101.0,22.0,TER,08:50 às 10:40,Fabiano Mikalauskas de Souza Nogueira
+,,,,QUI,08:50 às 10:40,Fabiano Mikalauskas de Souza Nogueira
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ARQ037 - SISTEMAS ESTRUTURAIS II-A,10100.0,101.0,33.0,SEG,07:00 às 08:50,Rosana Munoz
+,,,,QUA,07:00 às 08:50,Rosana Munoz
+,,,,SEX,07:00 às 08:50,Rosana Munoz
+,20200.0,101.0,33.0,SEG,14:50 às 16:40,Rosana Munoz
+,,,,QUA,14:50 às 16:40,Rosana Munoz
+,,,,SEX,14:50 às 16:40,Rosana Munoz
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ARQ038 - INSTALACOES I,10100.0,189.0,3.0,QUI,13:00 às 14:50,Asthon Jose Reis D Alcantara
+,,101.0,30.0,,,Asthon Jose Reis D Alcantara
+,,189.0,3.0,,14:50 às 15:45,Asthon Jose Reis D Alcantara
+,,101.0,30.0,,,Asthon Jose Reis D Alcantara
+,20200.0,101.0,33.0,QUA,08:50 às 10:40,Asthon Jose Reis D Alcantara
+,,,,,10:40 às 11:35,Asthon Jose Reis D Alcantara
+,30300.0,101.0,33.0,SEX,15:45 às 16:40,Nei Sousa Barreto
+,,,,,16:40 às 18:30,Nei Sousa Barreto
+,40400.0,101.0,33.0,TER,13:00 às 14:50,Asthon Jose Reis D Alcantara
+,,,,,14:50 às 15:45,Asthon Jose Reis D Alcantara
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ARQ039 - INSTALACOES II,10100.0,101.0,30.0,QUI,15:45 às 16:40,Docente não informado pelo Departamento
+,,,,,16:40 às 17:35,Docente não informado pelo Departamento
+,,,,,17:35 às 18:30,Docente não informado pelo Departamento
+,20200.0,101.0,30.0,SEX,13:00 às 13:55,Docente não informado pelo Departamento
+,,,,,13:55 às 15:45,Docente não informado pelo Departamento
+,30300.0,101.0,30.0,TER,15:45 às 17:35,Docente não informado pelo Departamento
+,,,,,17:35 às 18:30,Docente não informado pelo Departamento
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ARQ040 - ORGANIZACAO DO TRABALHO,100.0,101.0,30.0,QUI,08:50 às 10:40,Luciana Calixto Lima
+,200.0,101.0,30.0,TER,08:50 às 10:40,Luciana Calixto Lima
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ARQ041 - ATELIER IV,10100.0,101.0,17.0,SEG,07:00 às 10:40,Carlos Amorim Bahia
+,,,,QUA,07:00 às 10:40,Carlos Amorim Bahia
+,,,,SEX,07:00 às 10:40,Carlos Amorim Bahia
+,20200.0,101.0,17.0,SEG,07:00 às 10:40,Gabriela Gusmao Sampaio
+,,,,QUA,07:00 às 10:40,Gabriela Gusmao Sampaio
+,,,,SEX,07:00 às 10:40,Gabriela Gusmao Sampaio
+,30300.0,101.0,17.0,SEG,08:50 às 12:30,Jorge de Oliveira Boureau
+,,,,QUA,08:50 às 12:30,Jorge de Oliveira Boureau
+,,,,SEX,08:50 às 12:30,Jorge de Oliveira Boureau
+,40400.0,101.0,17.0,SEG,08:50 às 12:30,Docente não informado pelo Departamento
+,,,,QUA,08:50 às 12:30,Docente não informado pelo Departamento
+,,,,SEX,08:50 às 12:30,Docente não informado pelo Departamento
+,50500.0,101.0,17.0,SEG,14:50 às 18:30,Mauricio de Almeida Chagas
+,,,,QUA,14:50 às 18:30,Mauricio de Almeida Chagas
+,,,,SEX,14:50 às 18:30,Mauricio de Almeida Chagas
+,60600.0,101.0,17.0,SEG,14:50 às 18:30,Cione Fona Garcia
+,,,,QUA,14:50 às 18:30,Cione Fona Garcia
+,,,,SEX,14:50 às 18:30,Cione Fona Garcia
+,70700.0,101.0,17.0,SEG,14:50 às 18:30,Pedro Aloisio Cedraz Nery
+,,,,QUA,14:50 às 18:30,Pedro Aloisio Cedraz Nery
+,,,,SEX,14:50 às 18:30,Pedro Aloisio Cedraz Nery
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ARQ043 - ESTAGIO CURRICULAR,100.0,101.0,30.0,TER,07:00 às 10:40,Guivaldo D Alexandria Baptista
+,,,,CMB,00:00 às 00:00,Guivaldo D Alexandria Baptista
+,200.0,101.0,30.0,TER,13:00 às 16:40,Luciana Calixto Lima
+,,,,CMB,00:00 às 00:00,Luciana Calixto Lima
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ARQ045 - TRABALHO FINAL DE GRADUACAO,100.0,101.0,150.0,CMB,00:00 às 23:00,Docente não informado pelo Departamento
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ARQ046 - ETICA,10000.0,327.0,3.0,QUA,07:00 às 08:50,Guivaldo D Alexandria Baptista
+,,101.0,30.0,,,Guivaldo D Alexandria Baptista
+,20000.0,190.0,3.0,QUA,08:50 às 10:40,Guivaldo D Alexandria Baptista
+,,101.0,30.0,,,Guivaldo D Alexandria Baptista
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ARQ047 - LABORATÓRIO DE CONFORTO AMBIENTAL I,100.0,327.0,20.0,QUA,13:00 às 15:45,Docente não informado pelo Departamento
+,200.0,101.0,20.0,SEX,08:50 às 11:35,Docente não informado pelo Departamento
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ARQ051 - EXPRESSAO GRAFICA,10100.0,101.0,20.0,SEG,07:00 às 08:50,Manoel Humberto Silva Santos
+,,,,QUA,07:00 às 08:50,Manoel Humberto Silva Santos
+,20200.0,101.0,20.0,SEG,07:00 às 08:50,Luciana Guerra Santos Mota
+,,,,QUA,07:00 às 08:50,Luciana Guerra Santos Mota
+,30300.0,101.0,20.0,SEG,07:00 às 08:50,Izarosara Borges Rahy
+,,,,QUA,07:00 às 08:50,Izarosara Borges Rahy
+,40400.0,101.0,20.0,SEG,13:00 às 14:50,Joao Mauricio Santana Ramos
+,,,,QUA,13:00 às 14:50,Joao Mauricio Santana Ramos
+,50500.0,101.0,20.0,SEG,13:00 às 14:50,Ana Gabriela Wanderley Soriano
+,,,,QUA,13:00 às 14:50,Ana Gabriela Wanderley Soriano
+,60600.0,101.0,20.0,SEG,13:00 às 14:50,Thais de Bhanthumchinda Portela
+,,,,QUA,13:00 às 14:50,Thais de Bhanthumchinda Portela
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ARQ129 - DESENHO TÉCNICO MINEIRO,10100.0,103.0,20.0,SEG,16:40 às 18:30,Docente não informado pelo Departamento
+,,,,QUA,16:40 às 18:30,Docente não informado pelo Departamento
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ARQ131 - DESENHO ARQUITETONICO I,10100.0,580.0,2.0,SEG,07:55 às 08:50,Patricia Farias Uchoa
+,,515.0,2.0,,,Patricia Farias Uchoa
+,,513.0,12.0,,,Patricia Farias Uchoa
+,,190.0,2.0,,,Patricia Farias Uchoa
+,,189.0,2.0,,,Patricia Farias Uchoa
+,,580.0,2.0,,08:50 às 12:30,Patricia Farias Uchoa
+,,515.0,2.0,,,Patricia Farias Uchoa
+,,513.0,12.0,,,Patricia Farias Uchoa
+,,190.0,2.0,,,Patricia Farias Uchoa
+,,189.0,2.0,,,Patricia Farias Uchoa
+,,580.0,2.0,QUA,07:55 às 12:30,Patricia Farias Uchoa
+,,515.0,2.0,,,Patricia Farias Uchoa
+,,513.0,12.0,,,Patricia Farias Uchoa
+,,190.0,2.0,,,Patricia Farias Uchoa
+,,189.0,2.0,,,Patricia Farias Uchoa
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ARQ132 - DESENHO ARQUITETONICO II,10100.0,101.0,20.0,SEG,13:00 às 14:50,Docente não informado pelo Departamento
+,,,,QUA,13:00 às 14:50,Docente não informado pelo Departamento
+,,,,CMB,00:00 às 00:00,Docente não informado pelo Departamento
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ARQ134 - DESENHO TECNICO II-A,10100.0,102.0,25.0,TER,07:00 às 10:40,Marcos Jones de Souza
+,,,,QUI,07:00 às 10:40,Marcos Jones de Souza
+,20200.0,102.0,25.0,TER,07:00 às 10:40,Docente não informado pelo Departamento
+,,,,QUI,07:00 às 10:40,Docente não informado pelo Departamento
+,30300.0,102.0,25.0,TER,13:00 às 16:40,Marcos Jones de Souza
+,,,,QUI,13:00 às 16:40,Marcos Jones de Souza
+,40400.0,102.0,25.0,TER,13:00 às 16:40,Docente não informado pelo Departamento
+,,,,QUI,13:00 às 16:40,Docente não informado pelo Departamento
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ARQ135 - PROGRAMACAO VISUAL E OS ESPACOS URBANOS E ARQUITETONICOS,10100.0,512.0,1.0,SEG,07:00 às 08:50,Marcos Antonio Nunes Rodrigues
+,,101.0,20.0,,,Marcos Antonio Nunes Rodrigues
+,,512.0,1.0,QUA,07:00 às 08:50,Marcos Antonio Nunes Rodrigues
+,,101.0,20.0,,,Marcos Antonio Nunes Rodrigues
+,20200.0,512.0,1.0,SEG,10:40 às 12:30,Gabriela Gusmao Sampaio
+,,101.0,20.0,,,Gabriela Gusmao Sampaio
+,,512.0,1.0,QUA,10:40 às 12:30,Gabriela Gusmao Sampaio
+,,101.0,20.0,,,Gabriela Gusmao Sampaio
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ARQA14 - OFICINA DE PROJETO I,100.0,187.0,17.0,TER,18:30 às 20:20,Natalie Johanna Groetelaars
+,,,,,20:20 às 22:10,Natalie Johanna Groetelaars
+,,,,QUI,18:30 às 20:20,Natalie Johanna Groetelaars
+,,,,,20:20 às 22:10,Natalie Johanna Groetelaars
+,200.0,187.0,17.0,TER,18:30 às 20:20,Docente não informado pelo Departamento
+,,,,,20:20 às 22:10,Docente não informado pelo Departamento
+,,,,QUI,18:30 às 20:20,Docente não informado pelo Departamento
+,,,,,20:20 às 22:10,Docente não informado pelo Departamento
+,300.0,187.0,17.0,TER,18:30 às 20:20,Humberto Diniz Guerra Santos
+,,,,,20:20 às 22:10,Humberto Diniz Guerra Santos
+,,,,QUI,18:30 às 20:20,Humberto Diniz Guerra Santos
+,,,,,20:20 às 22:10,Humberto Diniz Guerra Santos
+,400.0,580.0,1.0,TER,18:30 às 20:20,Marina Coelho Teixeira
+,,187.0,15.0,,,Marina Coelho Teixeira
+,,580.0,1.0,,20:20 às 22:10,Marina Coelho Teixeira
+,,187.0,15.0,,,Marina Coelho Teixeira
+,,580.0,1.0,QUI,18:30 às 20:20,Marina Coelho Teixeira
+,,187.0,15.0,,,Marina Coelho Teixeira
+,,580.0,1.0,,20:20 às 22:10,Marina Coelho Teixeira
+,,187.0,15.0,,,Marina Coelho Teixeira
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ARQA15 - TEORIA E CRÍTICA DA ARQUITETURA,10000.0,580.0,2.0,SEG,18:30 às 20:20,Nivaldo Vieira de Andrade Junior
+,,387.0,1.0,,,Nivaldo Vieira de Andrade Junior
+,,189.0,1.0,,,Nivaldo Vieira de Andrade Junior
+,,187.0,45.0,,,Nivaldo Vieira de Andrade Junior
+,,580.0,2.0,QUA,18:30 às 20:20,Nivaldo Vieira de Andrade Junior
+,,387.0,1.0,,,Nivaldo Vieira de Andrade Junior
+,,189.0,1.0,,,Nivaldo Vieira de Andrade Junior
+,,187.0,45.0,,,Nivaldo Vieira de Andrade Junior
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ARQA16 - DESENHO DE OBSERVAÇÃO,100.0,187.0,17.0,SEX,18:30 às 22:10,Andre Luiz Ferreira Lissonger
+,200.0,187.0,17.0,SEX,18:30 às 22:10,Nei Sousa Barreto
+,300.0,187.0,17.0,SEX,18:30 às 22:10,Docente não informado pelo Departamento
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ARQA18 - ELEMENTOS DE CÁLCULO,10100.0,327.0,1.0,SEG,20:20 às 22:10,Nei Sousa Barreto
+,,189.0,1.0,,,Nei Sousa Barreto
+,,187.0,50.0,,,Nei Sousa Barreto
+,,327.0,1.0,QUA,20:20 às 22:10,Nei Sousa Barreto
+,,189.0,1.0,,,Nei Sousa Barreto
+,,187.0,50.0,,,Nei Sousa Barreto
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ARQA21 - FÍSICA DAS ESTRUTURAS,10100.0,190.0,1.0,SEG,18:30 às 20:20,Felipe Tavares da Silva
+,,189.0,1.0,,,Felipe Tavares da Silva
+,,187.0,50.0,,,Felipe Tavares da Silva
+,,190.0,1.0,QUA,18:30 às 20:20,Felipe Tavares da Silva
+,,189.0,1.0,,,Felipe Tavares da Silva
+,,187.0,50.0,,,Felipe Tavares da Silva
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ARQA22 - OFICINA DE PROJETO II,100.0,187.0,17.0,TER,18:30 às 20:20,Akemi Tahara
+,,,,,20:20 às 22:10,Akemi Tahara
+,,,,QUI,18:30 às 20:20,Akemi Tahara
+,,,,,20:20 às 22:10,Akemi Tahara
+,200.0,187.0,17.0,TER,18:30 às 20:20,Cione Fona Garcia
+,,,,,20:20 às 22:10,Cione Fona Garcia
+,,,,QUI,18:30 às 20:20,Cione Fona Garcia
+,,,,,20:20 às 22:10,Cione Fona Garcia
+,300.0,187.0,17.0,TER,18:30 às 20:20,Docente não informado pelo Departamento
+,,,,,20:20 às 22:10,Docente não informado pelo Departamento
+,,,,QUI,18:30 às 20:20,Docente não informado pelo Departamento
+,,,,,20:20 às 22:10,Docente não informado pelo Departamento
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ARQA23 - HISTÓRIA DA ARQUITETURA I,10000.0,187.0,45.0,SEG,20:20 às 22:10,Rodrigo Espinha Baeta
+,,,,QUA,20:20 às 22:10,Rodrigo Espinha Baeta
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ARQA25 - INFORMÁTICA E DESENHO I,10100.0,189.0,2.0,SEX,18:30 às 20:20,Natalie Johanna Groetelaars
+,,187.0,15.0,,,Natalie Johanna Groetelaars
+,,189.0,2.0,,20:20 às 22:10,Natalie Johanna Groetelaars
+,,187.0,15.0,,,Natalie Johanna Groetelaars
+,20200.0,327.0,2.0,SEX,18:30 às 20:20,Docente não informado pelo Departamento
+,,187.0,15.0,,,Docente não informado pelo Departamento
+,,327.0,2.0,,20:20 às 22:10,Docente não informado pelo Departamento
+,,187.0,15.0,,,Docente não informado pelo Departamento
+,30300.0,190.0,2.0,SEX,18:30 às 20:20,Humberto Diniz Guerra Santos
+,,187.0,15.0,,,Humberto Diniz Guerra Santos
+,,190.0,2.0,,20:20 às 22:10,Humberto Diniz Guerra Santos
+,,187.0,15.0,,,Humberto Diniz Guerra Santos
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ARQA33 - OFICINA DE PROJETO III,100.0,187.0,17.0,TER,18:30 às 20:20,Mauricio Felzemburgh Vidal
+,,,,,20:20 às 22:10,Mauricio Felzemburgh Vidal
+,,,,QUI,18:30 às 20:20,Mauricio Felzemburgh Vidal
+,,,,,20:20 às 22:10,Mauricio Felzemburgh Vidal
+,200.0,187.0,17.0,TER,18:30 às 20:20,Docente não informado pelo Departamento
+,,,,,20:20 às 22:10,Docente não informado pelo Departamento
+,,,,QUI,18:30 às 20:20,Docente não informado pelo Departamento
+,,,,,20:20 às 22:10,Docente não informado pelo Departamento
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ARQA35 - TOPOGRAFIA INSTRUMENTAL,100.0,190.0,1.0,SEG,20:20 às 22:10,Docente não informado pelo Departamento
+,,189.0,1.0,,,Docente não informado pelo Departamento
+,,187.0,30.0,,,Docente não informado pelo Departamento

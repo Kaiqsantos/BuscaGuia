@@ -1,0 +1,865 @@
+"Disciplina","Turma","Coleg.","Vagas Ofe","Dia","Horário","Docente"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"BIO006 - FUNDAMENTOS ZOOLOGIA","010100","219","5","QUA","08:50 às 10:40","Romulo Barroso Baptista"
+NA,NA,"387","5",NA,NA,"Romulo Barroso Baptista"
+NA,NA,"209","12",NA,NA,"Romulo Barroso Baptista"
+NA,NA,NA,NA,NA,NA,"Wagner Ferreira Magalhaes"
+NA,NA,"387","5",NA,NA,"Wagner Ferreira Magalhaes"
+NA,NA,"219","5",NA,NA,"Wagner Ferreira Magalhaes"
+NA,NA,"209","12",NA,"10:40 às 12:30","Romulo Barroso Baptista"
+NA,NA,"387","5",NA,NA,"Romulo Barroso Baptista"
+NA,NA,"219","5",NA,NA,"Romulo Barroso Baptista"
+NA,NA,NA,NA,NA,NA,"Wagner Ferreira Magalhaes"
+NA,NA,"209","12",NA,NA,"Wagner Ferreira Magalhaes"
+NA,NA,"387","5",NA,NA,"Wagner Ferreira Magalhaes"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"BIO007 - INTRODUÇÃO A BIOLOGIA","010000","209","40","SEG","07:00 às 08:50","Janaina Lima de Oliveira"
+NA,NA,NA,NA,"QUA","07:00 às 08:50","Janaina Lima de Oliveira"
+NA,"020000","207","40","SEG","13:00 às 14:50","Pedro Milet Meirelles"
+NA,NA,NA,NA,"QUA","13:00 às 14:50","Pedro Milet Meirelles"
+NA,"030000","207","40","SEG","14:50 às 16:40","Docente Substituto a Contratar"
+NA,NA,NA,NA,"QUA","14:50 às 16:40","Docente Substituto a Contratar"
+NA,"040000","202","30","TER","07:00 às 08:50","Iara Sordi Joachim Bravo"
+NA,NA,NA,NA,"QUI","07:00 às 08:50","Iara Sordi Joachim Bravo"
+NA,"050000","202","23","TER","08:50 às 10:40","Iara Sordi Joachim Bravo"
+NA,NA,NA,NA,"QUI","08:50 às 10:40","Iara Sordi Joachim Bravo"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"BIO009 - BIOLOGIA SANITARIA","010100","107","15","SEG","16:40 às 18:30","Debora de Lucca Chaves Preza"
+NA,NA,NA,NA,"QUI","07:00 às 09:45","Docente Visitante"
+NA,"010200","107","15","SEG","16:40 às 18:30","Debora de Lucca Chaves Preza"
+NA,NA,NA,NA,"QUI","09:45 às 12:30","Doriedson Ferreira Gomes"
+NA,NA,NA,NA,NA,NA,"Wagner Ferreira Magalhaes"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"BIO010 - BIOLOGIA CELULAR E MOLECULAR","010100","286","1","SEG","18:30 às 20:20","Carlos Eduardo Sampaio Guedes"
+NA,NA,"280","15",NA,NA,"Carlos Eduardo Sampaio Guedes"
+NA,NA,"286","1","QUA","20:20 às 22:10","Carlos Eduardo Sampaio Guedes"
+NA,NA,"280","15",NA,NA,"Carlos Eduardo Sampaio Guedes"
+NA,"010200","286","1","SEG","18:30 às 20:20","Carlos Eduardo Sampaio Guedes"
+NA,NA,"280","15",NA,NA,"Carlos Eduardo Sampaio Guedes"
+NA,NA,"286","1","QUA","20:20 às 22:10","Gilberto Cafezeiro Bomfim"
+NA,NA,"280","15",NA,NA,"Gilberto Cafezeiro Bomfim"
+NA,"020300","226","1","TER","10:40 às 12:30","Gilberto Cafezeiro Bomfim"
+NA,NA,"202","15",NA,NA,"Gilberto Cafezeiro Bomfim"
+NA,NA,"226","1",NA,NA,"Carlos Eduardo Sampaio Guedes"
+NA,NA,"202","15",NA,NA,"Carlos Eduardo Sampaio Guedes"
+NA,NA,NA,NA,"QUI","08:50 às 10:40","Carlos Eduardo Sampaio Guedes"
+NA,NA,"226","1",NA,NA,"Carlos Eduardo Sampaio Guedes"
+NA,"020400","226","1","TER","10:40 às 12:30","Gilberto Cafezeiro Bomfim"
+NA,NA,"202","15",NA,NA,"Gilberto Cafezeiro Bomfim"
+NA,NA,"226","1",NA,NA,"Carlos Eduardo Sampaio Guedes"
+NA,NA,"202","15",NA,NA,"Carlos Eduardo Sampaio Guedes"
+NA,NA,NA,NA,"QUI","10:40 às 12:30","Gilberto Cafezeiro Bomfim"
+NA,NA,"226","1",NA,NA,"Gilberto Cafezeiro Bomfim"
+NA,NA,"202","15",NA,NA,"Carlos Eduardo Sampaio Guedes"
+NA,NA,"226","1",NA,NA,"Carlos Eduardo Sampaio Guedes"
+NA,"030500","226","1","TER","13:00 às 14:50","Gilberto Cafezeiro Bomfim"
+NA,NA,"202","15",NA,NA,"Gilberto Cafezeiro Bomfim"
+NA,NA,NA,NA,"QUI","13:00 às 14:50","Carlos Eduardo Sampaio Guedes"
+NA,NA,"226","1",NA,NA,"Carlos Eduardo Sampaio Guedes"
+NA,"030600","226","1","TER","13:00 às 14:50","Gilberto Cafezeiro Bomfim"
+NA,NA,"202","15",NA,NA,"Gilberto Cafezeiro Bomfim"
+NA,NA,NA,NA,"QUI","14:50 às 16:40","Gilberto Cafezeiro Bomfim"
+NA,NA,"226","1",NA,NA,"Gilberto Cafezeiro Bomfim"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"BIO032 - FISIOLOGIA ANIMAL COMPARADA","010100","202","30","QUA","13:00 às 14:50","Andre Luis da Cruz"
+NA,NA,NA,NA,NA,NA,"Carlos Eduardo Copatti"
+NA,NA,NA,NA,"QUI","13:00 às 14:50","Andre Luis da Cruz"
+NA,NA,NA,NA,NA,NA,"Carlos Eduardo Copatti"
+NA,"020200","280","30","TER","18:30 às 20:20","Andre Luis da Cruz"
+NA,NA,NA,NA,NA,NA,"Carlos Eduardo Copatti"
+NA,NA,NA,NA,NA,"20:20 às 22:10","Andre Luis da Cruz"
+NA,NA,NA,NA,NA,NA,"Carlos Eduardo Copatti"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"BIO111 - BOTANICA VII","010100","209","20","SEG","13:00 às 14:50","Cid Jose Passos Bastos"
+NA,NA,NA,NA,NA,"14:50 às 16:40","Cid Jose Passos Bastos"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"BIO129 - EMBRIOLOGIA GERAL","010100","202","15","SEG","13:00 às 14:50","Emilio de Lanna Neto"
+NA,NA,NA,NA,"QUA","14:50 às 16:40","Emilio de Lanna Neto"
+NA,NA,NA,NA,NA,NA,"Janaina Lima de Oliveira"
+NA,"010200","202","15","SEG","13:00 às 14:50","Emilio de Lanna Neto"
+NA,NA,NA,NA,"QUA","16:40 às 18:30","Janaina Lima de Oliveira"
+NA,"020300","280","20","TER","18:30 às 20:20","Janaina Lima de Oliveira"
+NA,NA,NA,NA,NA,"20:20 às 22:10","Emilio de Lanna Neto"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"BIO130 - ECOLOGIA GERAL","010100","515","5","SEX","07:00 às 07:55","Docente Substituto a Contratar"
+NA,NA,"387","5",NA,NA,"Docente Substituto a Contratar"
+NA,NA,"286","5",NA,NA,"Docente Substituto a Contratar"
+NA,NA,"209","12",NA,NA,"Docente Substituto a Contratar"
+NA,NA,"226","10",NA,NA,"Docente Substituto a Contratar"
+NA,NA,"119","6",NA,NA,"Docente Substituto a Contratar"
+NA,NA,"515","5",NA,"07:55 às 11:35","Docente Substituto a Contratar"
+NA,NA,"387","5",NA,NA,"Docente Substituto a Contratar"
+NA,NA,"286","5",NA,NA,"Docente Substituto a Contratar"
+NA,NA,"226","10",NA,NA,"Docente Substituto a Contratar"
+NA,NA,"209","12",NA,NA,"Docente Substituto a Contratar"
+NA,NA,"119","6",NA,NA,"Docente Substituto a Contratar"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"BIO139 - BOTANICA ECONOMICA","010000","202","15","QUA","08:50 às 11:35","Docente não informado pelo Departamento"
+NA,"020000","280","15","TER","18:30 às 21:15","Docente não informado pelo Departamento"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"BIO143 - EVOLUÇÃO DO PENSAMENTO CIENTÍFICO","010100","202","30","SEG","16:40 às 18:30","Charbel Nino El Hani"
+NA,NA,NA,NA,"QUA","14:50 às 16:40","Claudio Ricardo Martins dos Reis"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"BIO146 - FITOPLANCTON","010100","280","2","SEX","07:00 às 08:50","Doriedson Ferreira Gomes"
+NA,NA,"202","5",NA,NA,"Doriedson Ferreira Gomes"
+NA,NA,"119","18",NA,NA,"Doriedson Ferreira Gomes"
+NA,NA,"280","2",NA,"08:50 às 10:40","Doriedson Ferreira Gomes"
+NA,NA,"202","5",NA,NA,"Doriedson Ferreira Gomes"
+NA,NA,"119","18",NA,NA,"Doriedson Ferreira Gomes"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"BIO147 - ZOOPLANCTON","010100","280","3","TER","13:00 às 14:50","Paulo de Oliveira Mafalda Junior"
+NA,NA,"119","10",NA,NA,"Paulo de Oliveira Mafalda Junior"
+NA,NA,"202","5",NA,NA,"Paulo de Oliveira Mafalda Junior"
+NA,NA,"280","3",NA,"14:50 às 16:40","Paulo de Oliveira Mafalda Junior"
+NA,NA,"202","5",NA,NA,"Paulo de Oliveira Mafalda Junior"
+NA,NA,"119","10",NA,NA,"Paulo de Oliveira Mafalda Junior"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"BIO148 - ICTIOLOGIA","010100","280","3","TER","08:50 às 10:40","Angela Maria Zanata"
+NA,NA,"202","5",NA,NA,"Angela Maria Zanata"
+NA,NA,"119","10",NA,NA,"Angela Maria Zanata"
+NA,NA,"280","3",NA,"10:40 às 12:30","Angela Maria Zanata"
+NA,NA,"202","5",NA,NA,"Angela Maria Zanata"
+NA,NA,"119","10",NA,NA,"Angela Maria Zanata"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"BIO158 - BIOLOGIA CELULAR E MOLECULAR","010100","205","14","SEG","07:00 às 09:45","Tania Regina Marques da Silva"
+NA,NA,NA,NA,"QUA","07:00 às 08:50","Tania Regina Marques da Silva"
+NA,"010200","205","13","SEG","07:00 às 09:45","Tania Regina Marques da Silva"
+NA,NA,NA,NA,"QUA","08:50 às 10:40","Tania Regina Marques da Silva"
+NA,"010300","205","13","SEG","07:00 às 09:45","Tania Regina Marques da Silva"
+NA,NA,NA,NA,"QUA","10:40 às 12:30","Tania Regina Marques da Silva"
+NA,"020400","205","14","SEG","07:00 às 09:45","Docente Substituto a Contratar"
+NA,NA,"226","1",NA,NA,"Docente Substituto a Contratar"
+NA,NA,"205","14","QUA","07:00 às 08:50","Docente Substituto a Contratar"
+NA,NA,"226","1",NA,NA,"Docente Substituto a Contratar"
+NA,"020500","226","1","SEG","07:00 às 09:45","Docente Substituto a Contratar"
+NA,NA,"205","13",NA,NA,"Docente Substituto a Contratar"
+NA,NA,"226","1","QUA","08:50 às 10:40","Docente Substituto a Contratar"
+NA,NA,"205","13",NA,NA,"Docente Substituto a Contratar"
+NA,"030700","205","14","SEG","13:00 às 15:45","Rodrigo Barban Zucoloto"
+NA,NA,NA,NA,"QUA","07:00 às 08:50","Rodrigo Barban Zucoloto"
+NA,"030800","205","13","SEG","13:00 às 15:45","Rodrigo Barban Zucoloto"
+NA,NA,NA,NA,"QUA","08:50 às 10:40","Rodrigo Barban Zucoloto"
+NA,"030900","205","13","SEG","13:00 às 15:45","Rodrigo Barban Zucoloto"
+NA,NA,NA,NA,"QUA","10:40 às 12:30","Rodrigo Barban Zucoloto"
+NA,"041000","208","14","TER","07:00 às 08:50","Ivana Nunes Gomes de Araujo"
+NA,NA,NA,NA,"QUI","07:00 às 09:45","Ivana Nunes Gomes de Araujo"
+NA,"041100","208","13","TER","08:50 às 10:40","Ivana Nunes Gomes de Araujo"
+NA,NA,NA,NA,"QUI","07:00 às 09:45","Ivana Nunes Gomes de Araujo"
+NA,"041200","208","13","TER","10:40 às 12:30","Ivana Nunes Gomes de Araujo"
+NA,NA,NA,NA,"QUI","07:00 às 09:45","Ivana Nunes Gomes de Araujo"
+NA,"051300","208","14","TER","07:00 às 08:50","Docente Substituto a Contratar"
+NA,NA,NA,NA,"QUI","09:45 às 12:30","Ivana Nunes Gomes de Araujo"
+NA,"051400","208","13","TER","08:50 às 10:40","Docente Substituto a Contratar"
+NA,NA,NA,NA,"QUI","09:45 às 12:30","Ivana Nunes Gomes de Araujo"
+NA,"051500","208","13","TER","10:40 às 12:30","Docente Substituto a Contratar"
+NA,NA,NA,NA,"QUI","09:45 às 12:30","Ivana Nunes Gomes de Araujo"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"BIO159 - BASES BIOLOGICAS DO  DESENVOLVIMENTO  HUMANO","010100","315","45","QUI","07:00 às 09:45","Debora de Lucca Chaves Preza"
+NA,NA,NA,NA,NA,"09:45 às 11:35","Debora de Lucca Chaves Preza"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"BIO161 - OCEANOGRAFIA BIOLOGICA","010100","280","3","SEX","08:50 às 10:40","Wagner Ferreira Magalhaes"
+NA,NA,"202","5",NA,NA,"Wagner Ferreira Magalhaes"
+NA,NA,"119","10",NA,NA,"Wagner Ferreira Magalhaes"
+NA,NA,"280","3",NA,"10:40 às 12:30","Wagner Ferreira Magalhaes"
+NA,NA,"202","5",NA,NA,"Wagner Ferreira Magalhaes"
+NA,NA,"119","10",NA,NA,"Wagner Ferreira Magalhaes"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"BIO165 - GENÉTICA HUMANA  APLICADA  À  FONOAUDIOLOGIA","010100","210","30","TER","13:00 às 13:55","Acacia Fernandes Lacerda de Carvalho"
+NA,NA,NA,NA,NA,"13:55 às 15:45","Acacia Fernandes Lacerda de Carvalho"
+NA,"020200","210","30","QUA","08:50 às 09:45","Acacia Fernandes Lacerda de Carvalho"
+NA,NA,NA,NA,NA,"09:45 às 11:35","Acacia Fernandes Lacerda de Carvalho"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"BIO167 - BENTOLOGIA","010100","280","5","QUI","14:50 às 16:40","Francisco Carlos Rocha de Barros Junior"
+NA,NA,"202","5",NA,NA,"Francisco Carlos Rocha de Barros Junior"
+NA,NA,"119","10",NA,NA,"Francisco Carlos Rocha de Barros Junior"
+NA,NA,"280","5","SEX","08:50 às 12:30","Francisco Carlos Rocha de Barros Junior"
+NA,NA,"202","5",NA,NA,"Francisco Carlos Rocha de Barros Junior"
+NA,NA,"119","10",NA,NA,"Francisco Carlos Rocha de Barros Junior"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"BIO169 - ECOLOGIA DE AMBIENTES ESTUARINOS","010100","280","3","TER","07:00 às 08:50","Francisco Carlos Rocha de Barros Junior"
+NA,NA,"202","5",NA,NA,"Francisco Carlos Rocha de Barros Junior"
+NA,NA,"119","10",NA,NA,"Francisco Carlos Rocha de Barros Junior"
+NA,NA,"280","3",NA,"08:50 às 10:40","Francisco Carlos Rocha de Barros Junior"
+NA,NA,"202","5",NA,NA,"Francisco Carlos Rocha de Barros Junior"
+NA,NA,"119","10",NA,NA,"Francisco Carlos Rocha de Barros Junior"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"BIO170 - GERENCIAMENTO DE AMBIENTES COSTEIROS","010100","280","2","QUI","08:50 às 10:40","Miguel da Costa Accioly"
+NA,NA,"202","5",NA,NA,"Miguel da Costa Accioly"
+NA,NA,"119","10",NA,NA,"Miguel da Costa Accioly"
+NA,NA,"109","3",NA,NA,"Miguel da Costa Accioly"
+NA,NA,"107","3",NA,NA,"Miguel da Costa Accioly"
+NA,NA,"101","2",NA,NA,"Miguel da Costa Accioly"
+NA,NA,"280","2",NA,"10:40 às 12:30","Miguel da Costa Accioly"
+NA,NA,"202","5",NA,NA,"Miguel da Costa Accioly"
+NA,NA,"119","10",NA,NA,"Miguel da Costa Accioly"
+NA,NA,"109","3",NA,NA,"Miguel da Costa Accioly"
+NA,NA,"107","3",NA,NA,"Miguel da Costa Accioly"
+NA,NA,"101","2",NA,NA,"Miguel da Costa Accioly"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"BIOA01 - INTRODUÇÃO À BIOLOGIA COMPARADA","010000","286","5","SEG","10:40 às 12:30","Henrique Batalha Filho"
+NA,NA,"202","25",NA,NA,"Henrique Batalha Filho"
+NA,"020000","226","5","TER","08:50 às 10:40","Henrique Batalha Filho"
+NA,NA,"202","25",NA,NA,"Henrique Batalha Filho"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"BIOA61 - ESTÁGIO CURRICULAR SUPERVISIONADO","000001","202","5","SAB","08:50 às 09:45","Gilberto Cafezeiro Bomfim"
+NA,NA,NA,NA,"CMB","00:00 às 00:00","Gilberto Cafezeiro Bomfim"
+NA,"000002","202","5","SAB","09:45 às 10:40","Gilberto Cafezeiro Bomfim"
+NA,NA,NA,NA,"CMB","00:00 às 00:00","Docente não informado pelo Departamento"
+NA,"000003","202","5","SAB","10:40 às 11:35","Francisco Kelmo Oliveira dos Santos"
+NA,NA,NA,NA,"CMB","00:00 às 00:00","Docente não informado pelo Departamento"
+NA,"000004","202","5","SAB","11:35 às 12:30","Francisco Kelmo Oliveira dos Santos"
+NA,NA,NA,NA,"CMB","00:00 às 00:00","Docente não informado pelo Departamento"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"BIOA62 - TRABALHO DE CONCLUSÃO DE CURSO","010100","202","6","SAB","13:55 às 14:50","Renata Lucia Leite Ferreira de Lima"
+NA,NA,NA,NA,"CMB","00:00 às 00:00","Docente não informado pelo Departamento"
+NA,"020200","202","6","SAB","14:50 às 15:45","Renata Lucia Leite Ferreira de Lima"
+NA,NA,NA,NA,"CMB","00:00 às 00:00","Docente não informado pelo Departamento"
+NA,"030300","202","6","SAB","15:45 às 16:40","Renata Lucia Leite Ferreira de Lima"
+NA,NA,NA,NA,"CMB","00:00 às 00:00","Docente não informado pelo Departamento"
+NA,"040400","202","6","SAB","16:40 às 17:35","Renata Lucia Leite Ferreira de Lima"
+NA,NA,NA,NA,"CMB","00:00 às 00:00","Docente não informado pelo Departamento"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"BIOA76 - TEMAS DE FILOSOFIA DA BIOLOGIA","010000","327","3","TER","15:45 às 17:35","Charbel Nino El Hani"
+NA,NA,"309","5",NA,NA,"Charbel Nino El Hani"
+NA,NA,"280","3",NA,NA,"Charbel Nino El Hani"
+NA,NA,"226","3",NA,NA,"Charbel Nino El Hani"
+NA,NA,"202","14",NA,NA,"Charbel Nino El Hani"
+NA,NA,"190","2",NA,NA,"Charbel Nino El Hani"
+NA,NA,"327","3","QUI","15:45 às 17:35","Charbel Nino El Hani"
+NA,NA,"309","5",NA,NA,"Charbel Nino El Hani"
+NA,NA,"280","3",NA,NA,"Charbel Nino El Hani"
+NA,NA,"226","3",NA,NA,"Charbel Nino El Hani"
+NA,NA,"202","14",NA,NA,"Charbel Nino El Hani"
+NA,NA,"190","2",NA,NA,"Charbel Nino El Hani"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"BIOA79 - GENÉTICA PARA A AREA DE SAUDE","010000","204","35","SEG","08:50 às 11:35","Vanessa Rodrigues Paixao Cortes"
+NA,"020000","883","30","SEG","08:50 às 11:35","Pablo Rafael Silveira Oliveira"
+NA,"030000","281","35","SEG","18:30 às 21:15","Pablo Rafael Silveira Oliveira"
+NA,"040000","281","20","TER","18:30 às 21:15","Pablo Rafael Silveira Oliveira"
+NA,"050000","204","35","QUI","08:50 às 11:35","Acacia Fernandes Lacerda de Carvalho"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"BIOA80 - BOTÂNICA APLICADA À FARMÁCIA","010100","204","15","SEG","08:50 às 09:45","Gabriel do Nascimento Santos"
+NA,NA,NA,NA,NA,"09:45 às 12:30","Gabriel do Nascimento Santos"
+NA,"020200","204","15","SEG","13:00 às 13:55","Maria Luiza Silveira de Carvalho"
+NA,NA,NA,NA,NA,"13:55 às 16:40","Maria Luiza Silveira de Carvalho"
+NA,"030300","226","5","QUA","08:50 às 09:45","Gabriel do Nascimento Santos"
+NA,NA,"204","15",NA,NA,"Gabriel do Nascimento Santos"
+NA,NA,"226","5",NA,"09:45 às 12:30","Gabriel do Nascimento Santos"
+NA,NA,"204","15",NA,NA,"Gabriel do Nascimento Santos"
+NA,"040400","204","15","QUA","13:00 às 13:55","Maria Luiza Silveira de Carvalho"
+NA,NA,NA,NA,NA,"13:55 às 16:40","Maria Luiza Silveira de Carvalho"
+NA,"050500","226","5","QUI","08:50 às 09:45","Maria Luiza Silveira de Carvalho"
+NA,NA,"204","15",NA,NA,"Maria Luiza Silveira de Carvalho"
+NA,NA,NA,NA,NA,"09:45 às 12:30","Maria Luiza Silveira de Carvalho"
+NA,NA,"226","5",NA,NA,"Maria Luiza Silveira de Carvalho"
+NA,"070700","286","5","SEG","18:30 às 19:25","Gabriel do Nascimento Santos"
+NA,NA,"281","15",NA,NA,"Gabriel do Nascimento Santos"
+NA,NA,"286","5",NA,"19:25 às 22:10","Gabriel do Nascimento Santos"
+NA,NA,"281","15",NA,NA,"Gabriel do Nascimento Santos"
+NA,"080800","281","15","QUA","18:30 às 19:25","Gabriel do Nascimento Santos"
+NA,NA,NA,NA,NA,"19:25 às 22:10","Gabriel do Nascimento Santos"
+NA,"090900","226","5","TER","18:30 às 19:25","Gabriel do Nascimento Santos"
+NA,NA,"204","15",NA,NA,"Gabriel do Nascimento Santos"
+NA,NA,"226","5",NA,"19:25 às 22:10","Gabriel do Nascimento Santos"
+NA,NA,"204","15",NA,NA,"Gabriel do Nascimento Santos"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"BIOA81 - BIOLOGIA APLICADA A FARMÁCIA","010000","281","24","TER","18:30 às 22:10","Claudia Dias de Santana"
+NA,"020000","204","43","QUA","07:00 às 10:40","Suzana Telles da Cunha Lima"
+NA,"030000","281","30","QUA","18:30 às 22:10","Claudia Dias de Santana"
+NA,"040000","204","45","SEX","07:00 às 10:40","Suzana Telles da Cunha Lima"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"BIOA82 - ACCS:PROGR. SOCIAL DE EDUC., VOCAÇÃO E DIVULGAÇÃO CIENTÍFICA","000100","327","1","SEX","13:00 às 16:40","Rejane Maria Lira da Silva"
+NA,NA,"313","1",NA,NA,"Rejane Maria Lira da Silva"
+NA,NA,"308","1",NA,NA,"Rejane Maria Lira da Silva"
+NA,NA,"307","1",NA,NA,"Rejane Maria Lira da Silva"
+NA,NA,"286","1",NA,NA,"Rejane Maria Lira da Silva"
+NA,NA,"280","2",NA,NA,"Rejane Maria Lira da Silva"
+NA,NA,"226","2",NA,NA,"Rejane Maria Lira da Silva"
+NA,NA,"205","1",NA,NA,"Rejane Maria Lira da Silva"
+NA,NA,"312","1",NA,NA,"Rejane Maria Lira da Silva"
+NA,NA,"204","1",NA,NA,"Rejane Maria Lira da Silva"
+NA,NA,"202","3",NA,NA,"Rejane Maria Lira da Silva"
+NA,NA,"189","1",NA,NA,"Rejane Maria Lira da Silva"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"BIOA92 - INTRODUÇÃO AO COMPORTAMENTO ANIMAL","010000","202","20","SEG","14:50 às 16:40","Hilton Ferreira Japyassu"
+NA,NA,"206","5",NA,NA,"Hilton Ferreira Japyassu"
+NA,NA,"315","5",NA,NA,"Hilton Ferreira Japyassu"
+NA,NA,"313","2",NA,NA,"Hilton Ferreira Japyassu"
+NA,NA,"219","2",NA,NA,"Hilton Ferreira Japyassu"
+NA,"020000","315","5","TER","14:50 às 16:40","Hilton Ferreira Japyassu"
+NA,NA,"387","4",NA,NA,"Hilton Ferreira Japyassu"
+NA,NA,"313","4",NA,NA,"Hilton Ferreira Japyassu"
+NA,NA,"219","3",NA,NA,"Hilton Ferreira Japyassu"
+NA,NA,"206","5",NA,NA,"Hilton Ferreira Japyassu"
+NA,NA,"202","18",NA,NA,"Hilton Ferreira Japyassu"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"BIOA93 - BIOLOGIA MOLECULAR E CELULAR APLICADA À MEDICINA VETERINÀRIA","010000","206","37","SEG","07:00 às 08:50","Luciana Veiga Barbosa"
+NA,NA,NA,NA,"QUA","07:00 às 08:50","Luciana Veiga Barbosa"
+NA,"020000","206","37","SEG","08:50 às 10:40","Luciana Veiga Barbosa"
+NA,NA,NA,NA,"QUA","08:50 às 10:40","Luciana Veiga Barbosa"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"BIOB09 - BIOLOGIA APLICADA A ENFERMAGEM","010000","203","35","TER","13:00 às 14:50","Paula Carvalhal Lage Von Buettner Ristow"
+NA,"020000","203","35","TER","14:50 às 16:40","Paula Carvalhal Lage Von Buettner Ristow"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"BIOB23 - MÉTODO DE ESTUDOS  EM  BIOLOGIA","010100","202","10","QUA","08:50 às 10:40","Moema Cortizo Bellintani"
+NA,NA,NA,NA,"SEX","08:50 às 10:40","Moema Cortizo Bellintani"
+NA,"010200","202","10","QUA","08:50 às 10:40","Adolfo Ricardo Calor"
+NA,NA,NA,NA,"SEX","08:50 às 10:40","Moema Cortizo Bellintani"
+NA,"020300","202","10","QUA","10:40 às 12:30","Moema Cortizo Bellintani"
+NA,NA,NA,NA,"SEX","08:50 às 10:40","Angela Maria Zanata"
+NA,"020400","202","10","QUA","10:40 às 12:30","Angela Maria Zanata"
+NA,NA,NA,NA,"SEX","08:50 às 10:40","Angela Maria Zanata"
+NA,"020500","202","10","SEX","08:50 às 10:40","Angela Maria Zanata"
+NA,NA,NA,NA,NA,"10:40 às 12:30","Moema Cortizo Bellintani"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"BIOB24 - FORMULAÇÃO DE PROBLEMAS DE PESQUISA","010000","202","20","SEX","13:00 às 14:50","Claudio Ricardo Martins dos Reis"
+NA,NA,"119","2",NA,NA,"Claudio Ricardo Martins dos Reis"
+NA,NA,"189","3",NA,NA,"Claudio Ricardo Martins dos Reis"
+NA,NA,"190","1",NA,NA,"Claudio Ricardo Martins dos Reis"
+NA,"020000","226","4","SEX","14:50 às 16:40","Claudio Ricardo Martins dos Reis"
+NA,NA,"202","20",NA,NA,"Claudio Ricardo Martins dos Reis"
+NA,NA,"190","1",NA,NA,"Claudio Ricardo Martins dos Reis"
+NA,"030000","286","5","TER","18:30 às 20:20","Favizia Freitas de Oliveira"
+NA,NA,"280","20",NA,NA,"Favizia Freitas de Oliveira"
+NA,"040000","286","5","TER","20:20 às 22:10","Favizia Freitas de Oliveira"
+NA,NA,"280","20",NA,NA,"Favizia Freitas de Oliveira"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"BIOB26 - ORIGEM E EVOLUÇÃO DOS PROCARIONTES E EUCARIONTES BASAIS","010100","202","15","SEG","14:50 às 16:40","Adriana Oliveira Medeiros"
+NA,NA,"190","1",NA,NA,"Adriana Oliveira Medeiros"
+NA,NA,"202","15","QUA","13:00 às 14:50","Adriana Oliveira Medeiros"
+NA,NA,"190","1",NA,NA,"Adriana Oliveira Medeiros"
+NA,"010200","202","15","SEG","14:50 às 16:40","Adriana Oliveira Medeiros"
+NA,NA,"190","1",NA,NA,"Adriana Oliveira Medeiros"
+NA,NA,"202","15","QUA","14:50 às 16:40","Adriana Oliveira Medeiros"
+NA,NA,"190","1",NA,NA,"Adriana Oliveira Medeiros"
+NA,"020300","286","5","SEG","20:20 às 22:10","Bianca Denise Barbosa da Silva"
+NA,NA,"280","15",NA,NA,"Bianca Denise Barbosa da Silva"
+NA,NA,"286","5",NA,NA,"Pedro Milet Meirelles"
+NA,NA,"280","15",NA,NA,"Pedro Milet Meirelles"
+NA,NA,"286","5","QUA","18:30 às 20:20","Bianca Denise Barbosa da Silva"
+NA,NA,"280","15",NA,NA,"Bianca Denise Barbosa da Silva"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"BIOB27 - INTRODUÇÃO À DIVERSIDADE ZOOLÓGICA","010000","226","5","SEG","16:40 às 18:30","Elizabeth Gerardo Neves"
+NA,NA,"202","20",NA,NA,"Elizabeth Gerardo Neves"
+NA,"020000","202","20","TER","16:40 às 18:30","Elizabeth Gerardo Neves"
+NA,NA,"190","1",NA,NA,"Elizabeth Gerardo Neves"
+NA,"030000","280","20","TER","18:30 às 20:20","Elizabeth Gerardo Neves"
+NA,NA,"219","2",NA,NA,"Elizabeth Gerardo Neves"
+NA,"040000","280","20","TER","20:20 às 22:10","Elizabeth Gerardo Neves"
+NA,NA,"219","3",NA,NA,"Elizabeth Gerardo Neves"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"BIOB32 - ECOFISIOLOGIA ANIMAL","010100","202","20","SEX","13:00 às 14:50","Carlos Eduardo Copatti"
+NA,NA,NA,NA,NA,"14:50 às 16:40","Carlos Eduardo Copatti"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"BIOB33 - MORFOLOGIA FUNCIONAL DOS VERTEBRADOS","010100","280","5","TER","08:50 às 10:40","Andre Luis da Cruz"
+NA,NA,"202","25",NA,NA,"Andre Luis da Cruz"
+NA,NA,"280","5",NA,"10:40 às 12:30","Andre Luis da Cruz"
+NA,NA,"202","25",NA,NA,"Andre Luis da Cruz"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"BIOB39 - SISTEMÁTICA, ECOLOGIA E HISTÓRIA NATURAL DOS ANFÍBIOS","010100","280","10","SEX","08:50 às 10:40","Marcelo Felgueiras Napoli"
+NA,NA,"202","15",NA,NA,"Marcelo Felgueiras Napoli"
+NA,NA,"280","10",NA,"10:40 às 12:30","Marcelo Felgueiras Napoli"
+NA,NA,"202","15",NA,NA,"Marcelo Felgueiras Napoli"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"BIOB64 - ECOLOGIA NA SOCIEDADE CONTEMPORÂNEA","010000","387","3","SEG","18:30 às 20:20","Docente Substituto a Contratar"
+NA,NA,"327","3",NA,NA,"Docente Substituto a Contratar"
+NA,NA,"286","5",NA,NA,"Docente Substituto a Contratar"
+NA,NA,"280","5",NA,NA,"Docente Substituto a Contratar"
+NA,NA,"226","5",NA,NA,"Docente Substituto a Contratar"
+NA,NA,"202","5",NA,NA,"Docente Substituto a Contratar"
+NA,NA,"190","3",NA,NA,"Docente Substituto a Contratar"
+NA,NA,"189","3",NA,NA,"Docente Substituto a Contratar"
+NA,NA,"387","3","QUA","18:30 às 20:20","Docente Substituto a Contratar"
+NA,NA,"327","3",NA,NA,"Docente Substituto a Contratar"
+NA,NA,"286","5",NA,NA,"Docente Substituto a Contratar"
+NA,NA,"280","5",NA,NA,"Docente Substituto a Contratar"
+NA,NA,"226","5",NA,NA,"Docente Substituto a Contratar"
+NA,NA,"202","5",NA,NA,"Docente Substituto a Contratar"
+NA,NA,"190","3",NA,NA,"Docente Substituto a Contratar"
+NA,NA,"189","3",NA,NA,"Docente Substituto a Contratar"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"BIOB65 - DIVERSIDADE ZOOLÓGICA I","010100","202","15","SEG","10:40 às 12:30","Fernanda Fernandes Cavalcanti"
+NA,NA,NA,NA,"QUA","08:50 às 10:40","Fernanda Fernandes Cavalcanti"
+NA,"010200","202","15","SEG","10:40 às 12:30","Fernanda Fernandes Cavalcanti"
+NA,NA,NA,NA,"QUA","10:40 às 12:30","Fernanda Fernandes Cavalcanti"
+NA,"020300","280","15","SEG","18:30 às 20:20","Romulo Barroso Baptista"
+NA,NA,NA,NA,"QUA","18:30 às 20:20","Romulo Barroso Baptista"
+NA,"020400","280","15","SEG","18:30 às 20:20","Romulo Barroso Baptista"
+NA,NA,NA,NA,"QUA","20:20 às 22:10","Romulo Barroso Baptista"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"BIOB66 - ESTATÍSTICA APLICADA À BIOLOGIA","010100","202","35","SEX","08:50 às 10:40","Pavel Dodonov"
+NA,NA,NA,NA,NA,"10:40 às 12:30","Pavel Dodonov"
+NA,"020200","280","35","QUI","18:30 às 20:20","Pavel Dodonov"
+NA,NA,NA,NA,NA,"20:20 às 22:10","Pavel Dodonov"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"BIOB67 - BIOLOGIA DAS ALGAS","010100","202","30","QUI","08:50 às 10:40","Jose Marcos de Castro Nunes"
+NA,NA,"190","1",NA,NA,"Jose Marcos de Castro Nunes"
+NA,NA,"202","30",NA,"10:40 às 12:30","Jose Marcos de Castro Nunes"
+NA,NA,"190","1",NA,NA,"Jose Marcos de Castro Nunes"
+NA,"020200","280","30","SEX","18:30 às 20:20","Bianca Denise Barbosa da Silva"
+NA,NA,"190","1",NA,NA,"Bianca Denise Barbosa da Silva"
+NA,NA,"280","30",NA,"20:20 às 22:10","Bianca Denise Barbosa da Silva"
+NA,NA,"190","1",NA,NA,"Bianca Denise Barbosa da Silva"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"BIOB68 - GENÉTICA I","010100","280","15","SEG","20:20 às 22:10","Vanessa Rodrigues Paixao Cortes"
+NA,NA,NA,NA,"QUA","18:30 às 20:20","Renata Lucia Leite Ferreira de Lima"
+NA,"010200","280","15","SEG","20:20 às 22:10","Vanessa Rodrigues Paixao Cortes"
+NA,NA,NA,NA,"QUA","20:20 às 22:10","Vanessa Rodrigues Paixao Cortes"
+NA,"020300","202","30","TER","08:50 às 10:40","Renata Lucia Leite Ferreira de Lima"
+NA,NA,NA,NA,NA,"10:40 às 12:30","Vanessa Rodrigues Paixao Cortes"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"BIOB69 - MORFOLOGIA VEGETAL","010100","202","15","SEG","08:50 às 10:40","Lazaro Benedito da Silva"
+NA,NA,NA,NA,"QUA","08:50 às 10:40","Lazaro Benedito da Silva"
+NA,"010200","202","15","SEG","08:50 às 10:40","Lazaro Benedito da Silva"
+NA,NA,NA,NA,"QUA","10:40 às 12:30","Lazaro Benedito da Silva"
+NA,"020300","280","30","TER","18:30 às 20:20","Lazaro Benedito da Silva"
+NA,NA,NA,NA,NA,"20:20 às 22:10","Lazaro Benedito da Silva"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"BIOC01 - DIVERSIDADE ZOOLÓGICA II","010100","202","15","QUI","13:00 às 14:50","Adolfo Ricardo Calor"
+NA,NA,NA,NA,NA,"14:50 às 16:40","Rodrigo Johnsson Tavares da Silva"
+NA,"010200","202","15","QUI","13:00 às 14:50","Adolfo Ricardo Calor"
+NA,NA,NA,NA,NA,"16:40 às 18:30","Rodrigo Johnsson Tavares da Silva"
+NA,NA,NA,NA,NA,NA,"Wagner Ferreira Magalhaes"
+NA,"020300","280","15","QUA","18:30 às 20:20","Wagner Ferreira Magalhaes"
+NA,NA,NA,NA,NA,"20:20 às 22:10","Rodrigo Johnsson Tavares da Silva"
+NA,NA,NA,NA,NA,NA,"Wagner Ferreira Magalhaes"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"BIOC02 - SISTEMÁTICA E EVOLUÇÃO DE BRIÓFITAS E PTERIDÓFITAS","010000","202","25","TER","14:50 às 16:40","Cid Jose Passos Bastos"
+NA,"020000","286","5","QUI","20:20 às 22:10","Cid Jose Passos Bastos"
+NA,NA,"280","30",NA,NA,"Cid Jose Passos Bastos"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"BIOC03 - ECOLOGIA II - DE POPULAÇÕES E COMUNIDADES","010100","202","15","TER","10:40 às 12:30","Ricardo Dobrovolski"
+NA,NA,NA,NA,"SEX","08:50 às 10:40","Ricardo Dobrovolski"
+NA,"010200","202","15","TER","10:40 às 12:30","Ricardo Dobrovolski"
+NA,NA,NA,NA,"SEX","10:40 às 12:30","Bruno Vilela de Moraes e Silva"
+NA,"020300","387","5","SEX","18:30 às 20:20","Docente Substituto a Contratar"
+NA,NA,"280","30",NA,NA,"Docente Substituto a Contratar"
+NA,NA,"387","5",NA,"20:20 às 22:10","Docente Substituto a Contratar"
+NA,NA,"280","30",NA,NA,"Docente Substituto a Contratar"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"BIOC05 - SISTEMÁTICA E EVOLUÇÃO DE ESPERMATÓFITAS","010100","202","15","TER","08:50 às 10:40","Nadia Roque"
+NA,NA,NA,NA,"SEX","08:50 às 10:40","Nadia Roque"
+NA,"010200","202","15","TER","08:50 às 10:40","Nadia Roque"
+NA,NA,NA,NA,"SEX","10:40 às 12:30","Nadia Roque"
+NA,"020300","280","30","QUA","18:30 às 20:20","Maria Lenise Silva Guedes"
+NA,NA,NA,NA,NA,"20:20 às 22:10","Maria Lenise Silva Guedes"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"BIOC06 - ECOLOGIA III - ECOSSISTEMAS","010100","202","12","SEG","13:00 às 14:50","Eduardo Mariano Neto"
+NA,NA,NA,NA,NA,"14:50 às 16:40","Eduardo Mariano Neto"
+NA,"010200","202","12","SEG","13:00 às 14:50","Eduardo Mariano Neto"
+NA,NA,NA,NA,"TER","14:50 às 16:40","Eduardo Mariano Neto"
+NA,"020300","280","20","SEG","18:30 às 20:20","Doriedson Ferreira Gomes"
+NA,NA,NA,NA,NA,"20:20 às 22:10","Docente Substituto a Contratar"
+NA,NA,NA,NA,NA,NA,"Doriedson Ferreira Gomes"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"BIOC07 - ATIVIDADE INTERDISCIPLINAR","010000","202","5","SEG","16:40 às 18:30","Ana Verena Magalhaes Madeira"
+NA,"020000","202","5","SEG","16:40 às 18:30","Luiza Olivia Lacerda Ramos"
+NA,"030000","202","5","SEG","18:30 às 20:20","Ana Verena Magalhaes Madeira"
+NA,"040000","202","5","SEG","18:30 às 20:20","Luiza Olivia Lacerda Ramos"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"BIOC10 - GENÉTICA II","010100","202","30","SEG","14:50 às 16:40","Flora Maria de Campos Fernandes"
+NA,NA,NA,NA,"QUA","13:00 às 14:50","Jose Geraldo de Aquino Assis"
+NA,"020300","280","20","TER","18:30 às 20:20","Jose Geraldo de Aquino Assis"
+NA,NA,NA,NA,"SEX","18:30 às 20:20","Flora Maria de Campos Fernandes"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"BIOC12 - BIOLOGIA EVOLUTIVA","010100","202","30","SEG","10:40 às 12:30","Alessandra Selbach Schnadelbach"
+NA,NA,NA,NA,"QUA","10:40 às 12:30","Alessandra Selbach Schnadelbach"
+NA,"020200","280","20","SEG","20:20 às 22:10","Alessandra Selbach Schnadelbach"
+NA,NA,NA,NA,"QUA","18:30 às 20:20","Alessandra Selbach Schnadelbach"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"BIOC13 - DIVERSIDADE ZOOLÓGICA III","010100","202","15","SEG","08:50 às 10:40","Marcelo Felgueiras Napoli"
+NA,NA,NA,NA,"QUI","08:50 às 10:40","Marcelo Felgueiras Napoli"
+NA,"010200","202","15","SEG","08:50 às 10:40","Marcelo Felgueiras Napoli"
+NA,NA,NA,NA,"QUI","10:40 às 12:30","Priscila Camelier de Assis Cardoso"
+NA,"020300","280","30","TER","18:30 às 20:20","Priscila Camelier de Assis Cardoso"
+NA,NA,NA,NA,NA,"20:20 às 22:10","Henrique Batalha Filho"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"BIOC14 - ECOLOGIA I - DE INDIVÍDUOS","010000","202","20","SEG","13:00 às 14:50","Miguel da Costa Accioly"
+NA,NA,"190","1",NA,NA,"Miguel da Costa Accioly"
+NA,"020000","202","20","TER","13:00 às 14:50","Miguel da Costa Accioly"
+NA,NA,"190","1",NA,NA,"Miguel da Costa Accioly"
+NA,"030000","387","1","QUI","18:30 às 20:20","Docente Substituto a Contratar"
+NA,NA,"286","2",NA,NA,"Docente Substituto a Contratar"
+NA,NA,"280","30",NA,NA,"Docente Substituto a Contratar"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"BIOC41 - FISIOLOGIA VEGETAL","010100","202","15","TER","14:50 às 16:40","Sheila Vitoria Resende"
+NA,NA,NA,NA,"QUI","14:50 às 16:40","Sheila Vitoria Resende"
+NA,"020200","202","15","TER","16:40 às 18:30","Sheila Vitoria Resende"
+NA,NA,NA,NA,"QUI","16:40 às 18:30","Sheila Vitoria Resende"
+NA,"030300","280","15","QUI","18:30 às 20:20","Maria Aparecida Jose de Oliveira"
+NA,NA,NA,NA,NA,"20:20 às 22:10","Maria Aparecida Jose de Oliveira"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"BIOC78 - ACCS: MATAS URB. E AGROECOLOGIA, USOS E CONV.NAS Á.V.DA UFBA","000100","312","2","QUA","18:30 às 22:10","Maria Aparecida Jose de Oliveira"
+NA,NA,"307","1",NA,NA,"Maria Aparecida Jose de Oliveira"
+NA,NA,"306","2",NA,NA,"Maria Aparecida Jose de Oliveira"
+NA,NA,"283","1",NA,NA,"Maria Aparecida Jose de Oliveira"
+NA,NA,"282","2",NA,NA,"Maria Aparecida Jose de Oliveira"
+NA,NA,"280","2",NA,NA,"Maria Aparecida Jose de Oliveira"
+NA,NA,"222","1",NA,NA,"Maria Aparecida Jose de Oliveira"
+NA,NA,"207","2",NA,NA,"Maria Aparecida Jose de Oliveira"
+NA,NA,"202","2",NA,NA,"Maria Aparecida Jose de Oliveira"
+NA,NA,"107","2",NA,NA,"Maria Aparecida Jose de Oliveira"
+NA,NA,"312","2","CMB","00:00 às 00:00","Maria Aparecida Jose de Oliveira"
+NA,NA,"307","1",NA,NA,"Maria Aparecida Jose de Oliveira"
+NA,NA,"306","2",NA,NA,"Maria Aparecida Jose de Oliveira"
+NA,NA,"283","1",NA,NA,"Maria Aparecida Jose de Oliveira"
+NA,NA,"282","2",NA,NA,"Maria Aparecida Jose de Oliveira"
+NA,NA,"280","2",NA,NA,"Maria Aparecida Jose de Oliveira"
+NA,NA,"222","1",NA,NA,"Maria Aparecida Jose de Oliveira"
+NA,NA,"207","2",NA,NA,"Maria Aparecida Jose de Oliveira"
+NA,NA,"202","2",NA,NA,"Maria Aparecida Jose de Oliveira"
+NA,NA,"107","2",NA,NA,"Maria Aparecida Jose de Oliveira"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"BIOC88 - ACCS - CIÊNCIA, COMUNICAÇÃO E CIDADANIA: Engajamento da soci","010100","515","2","SEG","14:50 às 15:45","Blandina Felipe Viana"
+NA,NA,"313","2",NA,NA,"Blandina Felipe Viana"
+NA,NA,"312","2",NA,NA,"Blandina Felipe Viana"
+NA,NA,"307","3",NA,NA,"Blandina Felipe Viana"
+NA,NA,"306","2",NA,NA,"Blandina Felipe Viana"
+NA,NA,"202","9",NA,NA,"Blandina Felipe Viana"
+NA,NA,"008","8",NA,NA,"Blandina Felipe Viana"
+NA,NA,"515","2",NA,"15:45 às 16:40","Blandina Felipe Viana"
+NA,NA,"313","2",NA,NA,"Blandina Felipe Viana"
+NA,NA,"312","2",NA,NA,"Blandina Felipe Viana"
+NA,NA,"307","3",NA,NA,"Blandina Felipe Viana"
+NA,NA,"306","2",NA,NA,"Blandina Felipe Viana"
+NA,NA,"202","9",NA,NA,"Blandina Felipe Viana"
+NA,NA,"008","8",NA,NA,"Blandina Felipe Viana"
+NA,NA,"515","2","CMB","00:00 às 00:00","Blandina Felipe Viana"
+NA,NA,"313","2",NA,NA,"Blandina Felipe Viana"
+NA,NA,"312","2",NA,NA,"Blandina Felipe Viana"
+NA,NA,"307","3",NA,NA,"Blandina Felipe Viana"
+NA,NA,"306","2",NA,NA,"Blandina Felipe Viana"
+NA,NA,"202","9",NA,NA,"Blandina Felipe Viana"
+NA,NA,"008","8",NA,NA,"Blandina Felipe Viana"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"BIOD08 - ACCS: COMERCIALIZANDO A PRODUÇÃO AGROECOLÓGICA","010100","316","2","TER","08:50 às 10:40","Josanidia Santana Lima"
+NA,NA,"304","1",NA,NA,"Josanidia Santana Lima"
+NA,NA,"280","1",NA,NA,"Josanidia Santana Lima"
+NA,NA,"226","5",NA,NA,"Josanidia Santana Lima"
+NA,NA,"207","2",NA,NA,"Josanidia Santana Lima"
+NA,NA,"202","4",NA,NA,"Josanidia Santana Lima"
+NA,NA,"316","2","QUI","13:55 às 16:40","Josanidia Santana Lima"
+NA,NA,"304","1",NA,NA,"Josanidia Santana Lima"
+NA,NA,"280","1",NA,NA,"Josanidia Santana Lima"
+NA,NA,"226","5",NA,NA,"Josanidia Santana Lima"
+NA,NA,"207","2",NA,NA,"Josanidia Santana Lima"
+NA,NA,"202","4",NA,NA,"Josanidia Santana Lima"
+NA,"010200","316","1","TER","08:50 às 10:40","Josanidia Santana Lima"
+NA,NA,"304","1",NA,NA,"Josanidia Santana Lima"
+NA,NA,"280","2",NA,NA,"Josanidia Santana Lima"
+NA,NA,"226","5",NA,NA,"Josanidia Santana Lima"
+NA,NA,"207","3",NA,NA,"Josanidia Santana Lima"
+NA,NA,"202","3",NA,NA,"Josanidia Santana Lima"
+NA,NA,"316","1","SEX","07:55 às 10:40","Josanidia Santana Lima"
+NA,NA,"304","1",NA,NA,"Josanidia Santana Lima"
+NA,NA,"280","2",NA,NA,"Josanidia Santana Lima"
+NA,NA,"226","5",NA,NA,"Josanidia Santana Lima"
+NA,NA,"207","3",NA,NA,"Josanidia Santana Lima"
+NA,NA,"202","3",NA,NA,"Josanidia Santana Lima"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"BIOD72 - ACCS: PLANTAS ALIMENTÍCIAS NÃO CONVENCIONAIS","010100","306","2","QUA","18:30 às 20:20","Jose Geraldo de Aquino Assis"
+NA,NA,"286","3",NA,NA,"Jose Geraldo de Aquino Assis"
+NA,NA,"283","1",NA,NA,"Jose Geraldo de Aquino Assis"
+NA,NA,"282","4",NA,NA,"Jose Geraldo de Aquino Assis"
+NA,NA,"280","3",NA,NA,"Jose Geraldo de Aquino Assis"
+NA,NA,"226","3",NA,NA,"Jose Geraldo de Aquino Assis"
+NA,NA,"222","1",NA,NA,"Jose Geraldo de Aquino Assis"
+NA,NA,"207","4",NA,NA,"Jose Geraldo de Aquino Assis"
+NA,NA,"206","1",NA,NA,"Jose Geraldo de Aquino Assis"
+NA,NA,"202","3",NA,NA,"Jose Geraldo de Aquino Assis"
+NA,NA,"307","1",NA,NA,"Jose Geraldo de Aquino Assis"
+NA,NA,"196","2",NA,NA,"Jose Geraldo de Aquino Assis"
+NA,NA,"580","1",NA,NA,"Jose Geraldo de Aquino Assis"
+NA,NA,"515","1",NA,NA,"Jose Geraldo de Aquino Assis"
+NA,NA,"402","1",NA,NA,"Jose Geraldo de Aquino Assis"
+NA,NA,"387","2",NA,NA,"Jose Geraldo de Aquino Assis"
+NA,NA,"327","1",NA,NA,"Jose Geraldo de Aquino Assis"
+NA,NA,"312","1",NA,NA,"Jose Geraldo de Aquino Assis"
+NA,NA,"515","1",NA,"20:20 às 22:10","Jose Geraldo de Aquino Assis"
+NA,NA,"402","1",NA,NA,"Jose Geraldo de Aquino Assis"
+NA,NA,"387","2",NA,NA,"Jose Geraldo de Aquino Assis"
+NA,NA,"327","1",NA,NA,"Jose Geraldo de Aquino Assis"
+NA,NA,"312","1",NA,NA,"Jose Geraldo de Aquino Assis"
+NA,NA,"307","1",NA,NA,"Jose Geraldo de Aquino Assis"
+NA,NA,"306","2",NA,NA,"Jose Geraldo de Aquino Assis"
+NA,NA,"286","3",NA,NA,"Jose Geraldo de Aquino Assis"
+NA,NA,"283","1",NA,NA,"Jose Geraldo de Aquino Assis"
+NA,NA,"282","4",NA,NA,"Jose Geraldo de Aquino Assis"
+NA,NA,"280","3",NA,NA,"Jose Geraldo de Aquino Assis"
+NA,NA,"226","3",NA,NA,"Jose Geraldo de Aquino Assis"
+NA,NA,"222","1",NA,NA,"Jose Geraldo de Aquino Assis"
+NA,NA,"207","4",NA,NA,"Jose Geraldo de Aquino Assis"
+NA,NA,"206","1",NA,NA,"Jose Geraldo de Aquino Assis"
+NA,NA,"202","3",NA,NA,"Jose Geraldo de Aquino Assis"
+NA,NA,"580","1",NA,NA,"Jose Geraldo de Aquino Assis"
+NA,NA,"196","2",NA,NA,"Jose Geraldo de Aquino Assis"
+NA,"020200","580","1","QUA","18:30 às 20:20","Nair Casagrande"
+NA,NA,"515","1",NA,NA,"Nair Casagrande"
+NA,NA,"327","1",NA,NA,"Nair Casagrande"
+NA,NA,"312","1",NA,NA,"Nair Casagrande"
+NA,NA,"307","1",NA,NA,"Nair Casagrande"
+NA,NA,"306","2",NA,NA,"Nair Casagrande"
+NA,NA,"286","3",NA,NA,"Nair Casagrande"
+NA,NA,"283","1",NA,NA,"Nair Casagrande"
+NA,NA,"282","4",NA,NA,"Nair Casagrande"
+NA,NA,"226","3",NA,NA,"Nair Casagrande"
+NA,NA,"222","1",NA,NA,"Nair Casagrande"
+NA,NA,"207","4",NA,NA,"Nair Casagrande"
+NA,NA,"206","1",NA,NA,"Nair Casagrande"
+NA,NA,"202","3",NA,NA,"Nair Casagrande"
+NA,NA,"196","2",NA,NA,"Nair Casagrande"
+NA,NA,"280","3",NA,NA,"Nair Casagrande"
+NA,NA,"387","2",NA,NA,"Nair Casagrande"
+NA,NA,"580","1",NA,"20:20 às 22:10","Deborah Murowaniecki Otero"
+NA,NA,"515","1",NA,NA,"Deborah Murowaniecki Otero"
+NA,NA,"387","2",NA,NA,"Deborah Murowaniecki Otero"
+NA,NA,"327","1",NA,NA,"Deborah Murowaniecki Otero"
+NA,NA,"312","1",NA,NA,"Deborah Murowaniecki Otero"
+NA,NA,"307","1",NA,NA,"Deborah Murowaniecki Otero"
+NA,NA,"306","2",NA,NA,"Deborah Murowaniecki Otero"
+NA,NA,"286","3",NA,NA,"Deborah Murowaniecki Otero"
+NA,NA,"283","1",NA,NA,"Deborah Murowaniecki Otero"
+NA,NA,"282","4",NA,NA,"Deborah Murowaniecki Otero"
+NA,NA,"280","3",NA,NA,"Deborah Murowaniecki Otero"
+NA,NA,"226","3",NA,NA,"Deborah Murowaniecki Otero"
+NA,NA,"222","1",NA,NA,"Deborah Murowaniecki Otero"
+NA,NA,"207","4",NA,NA,"Deborah Murowaniecki Otero"
+NA,NA,"206","1",NA,NA,"Deborah Murowaniecki Otero"
+NA,NA,"202","3",NA,NA,"Deborah Murowaniecki Otero"
+NA,NA,"196","2",NA,NA,"Deborah Murowaniecki Otero"

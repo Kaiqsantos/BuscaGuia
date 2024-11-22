@@ -1,0 +1,3336 @@
+Disciplina,Turma,Coleg.,Vagas Ofe,Dia,Horário,Docente
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICS001 - BIOFÍSICA I,10100.0,202.0,15.0,TER,14:50 às 16:40,Franciane Santos Marques
+,,,,QUI,13:00 às 14:50,Franciane Santos Marques
+,10200.0,209.0,8.0,TER,14:50 às 16:40,Franciane Santos Marques
+,,202.0,7.0,,,Franciane Santos Marques
+,,,,QUI,14:50 às 16:40,Franciane Santos Marques
+,,209.0,8.0,,,Franciane Santos Marques
+,10300.0,202.0,11.0,TER,14:50 às 16:40,Franciane Santos Marques
+,,286.0,4.0,,,Franciane Santos Marques
+,,202.0,11.0,QUI,16:40 às 18:30,Franciane Santos Marques
+,,286.0,4.0,,,Franciane Santos Marques
+,20400.0,286.0,2.0,SEX,18:30 às 20:20,Victor Diogenes Amaral da Silva
+,,280.0,13.0,,,Victor Diogenes Amaral da Silva
+,,286.0,2.0,,20:20 às 22:10,Victor Diogenes Amaral da Silva
+,,280.0,13.0,,,Victor Diogenes Amaral da Silva
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICS002 - BIOFISICA II,10100.0,286.0,2.0,SEG,08:50 às 10:40,Vilma Gomes Barreto de Melo
+,,206.0,21.0,,,Vilma Gomes Barreto de Melo
+,,286.0,2.0,TER,13:00 às 14:50,Vilma Gomes Barreto de Melo
+,,206.0,21.0,,,Vilma Gomes Barreto de Melo
+,10200.0,286.0,2.0,SEG,08:50 às 10:40,Vilma Gomes Barreto de Melo
+,,206.0,21.0,,,Vilma Gomes Barreto de Melo
+,,286.0,2.0,QUA,13:00 às 14:50,Vilma Gomes Barreto de Melo
+,,206.0,21.0,,,Vilma Gomes Barreto de Melo
+,10300.0,286.0,2.0,SEG,08:50 às 10:40,Vilma Gomes Barreto de Melo
+,,206.0,21.0,,,Vilma Gomes Barreto de Melo
+,,286.0,2.0,QUI,13:00 às 14:50,Vilma Gomes Barreto de Melo
+,,206.0,21.0,,,Vilma Gomes Barreto de Melo
+,10400.0,286.0,2.0,SEG,08:50 às 10:40,Vilma Gomes Barreto de Melo
+,,206.0,21.0,,,Vilma Gomes Barreto de Melo
+,,286.0,2.0,QUI,14:50 às 16:40,Vilma Gomes Barreto de Melo
+,,206.0,21.0,,,Vilma Gomes Barreto de Melo
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICS007 - ANATOMIA I,10100.0,226.0,2.0,TER,07:00 às 08:50,Marion Alves do Nascimento
+,,208.0,20.0,,,Marion Alves do Nascimento
+,,,,,08:50 às 10:40,Laise Monteiro Campos Moraes
+,,226.0,2.0,,,Laise Monteiro Campos Moraes
+,10200.0,226.0,1.0,TER,07:00 às 08:50,Laise Monteiro Campos Moraes
+,,208.0,20.0,,,Laise Monteiro Campos Moraes
+,,226.0,1.0,,08:50 às 10:40,Laise Monteiro Campos Moraes
+,,208.0,20.0,,,Laise Monteiro Campos Moraes
+,10300.0,226.0,1.0,TER,08:50 às 10:40,Laise Monteiro Campos Moraes
+,,208.0,20.0,,,Laise Monteiro Campos Moraes
+,,,,,10:40 às 12:30,Marion Alves do Nascimento
+,,226.0,1.0,,,Marion Alves do Nascimento
+,10400.0,226.0,2.0,TER,08:50 às 10:40,Laise Monteiro Campos Moraes
+,,208.0,20.0,,,Laise Monteiro Campos Moraes
+,,,,,10:40 às 12:30,Laise Monteiro Campos Moraes
+,,226.0,2.0,,,Laise Monteiro Campos Moraes
+,30600.0,207.0,20.0,QUA,07:00 às 08:50,Maria Penha Oliveira Belem
+,,226.0,2.0,,,Maria Penha Oliveira Belem
+,,,,,08:50 às 10:40,Maria Penha Oliveira Belem
+,,207.0,20.0,,,Maria Penha Oliveira Belem
+,30700.0,207.0,20.0,QUA,07:00 às 08:50,Maria Penha Oliveira Belem
+,,226.0,2.0,,,Maria Penha Oliveira Belem
+,,207.0,20.0,,08:50 às 10:40,Thais Silva Peleteiro
+,,226.0,2.0,,,Thais Silva Peleteiro
+,30800.0,226.0,2.0,QUA,07:00 às 08:50,Maria Penha Oliveira Belem
+,,207.0,20.0,,,Maria Penha Oliveira Belem
+,,226.0,2.0,,10:40 às 12:30,Thais Silva Peleteiro
+,,207.0,20.0,,,Thais Silva Peleteiro
+,40900.0,226.0,2.0,QUI,13:00 às 14:50,Laise Monteiro Campos Moraes
+,,210.0,15.0,,,Laise Monteiro Campos Moraes
+,,226.0,2.0,,14:50 às 16:40,Laise Monteiro Campos Moraes
+,,210.0,15.0,,,Laise Monteiro Campos Moraes
+,41000.0,210.0,15.0,QUI,13:00 às 14:50,Laise Monteiro Campos Moraes
+,,226.0,2.0,,,Laise Monteiro Campos Moraes
+,,210.0,15.0,,14:50 às 16:40,Samuel Barbosa Camargo
+,,226.0,2.0,,,Samuel Barbosa Camargo
+,41100.0,226.0,1.0,QUI,13:00 às 14:50,Laise Monteiro Campos Moraes
+,,210.0,15.0,,,Laise Monteiro Campos Moraes
+,,,,,14:50 às 16:40,Thais Silva Peleteiro
+,,226.0,1.0,,,Thais Silva Peleteiro
+,51400.0,226.0,1.0,SEX,07:00 às 08:50,Maria Penha Oliveira Belem
+,,315.0,15.0,,,Maria Penha Oliveira Belem
+,,226.0,1.0,,08:50 às 10:40,Maria Penha Oliveira Belem
+,,315.0,15.0,,,Maria Penha Oliveira Belem
+,51500.0,315.0,15.0,SEX,07:00 às 08:50,Eliana dos Santos Camara Pereira
+,,226.0,2.0,,,Eliana dos Santos Camara Pereira
+,,315.0,15.0,,08:50 às 10:40,Maria Penha Oliveira Belem
+,,226.0,2.0,,,Maria Penha Oliveira Belem
+,61200.0,883.0,17.0,QUA,07:00 às 08:50,Samuel Barbosa Camargo
+,,226.0,1.0,,,Samuel Barbosa Camargo
+,,883.0,17.0,,08:50 às 10:40,Samuel Barbosa Camargo
+,,226.0,1.0,,,Samuel Barbosa Camargo
+,61300.0,226.0,2.0,QUA,07:00 às 08:50,Samuel Barbosa Camargo
+,,883.0,18.0,,,Samuel Barbosa Camargo
+,,,,,10:40 às 12:30,Samuel Barbosa Camargo
+,,226.0,2.0,,,Samuel Barbosa Camargo
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICS009 - ANATOMIA DA CABECA E DO PESCOCO,10100.0,226.0,3.0,SEG,08:50 às 12:30,Marcelle Alvarez Rossi
+,,208.0,40.0,,,Marcelle Alvarez Rossi
+,,,,SEX,07:00 às 08:50,Marcelle Alvarez Rossi
+,,226.0,3.0,,,Marcelle Alvarez Rossi
+,10200.0,208.0,40.0,SEX,07:00 às 08:50,Marcelle Alvarez Rossi
+,,226.0,3.0,,,Marcelle Alvarez Rossi
+,,208.0,40.0,,08:50 às 10:40,Marcelle Alvarez Rossi
+,,226.0,3.0,,,Marcelle Alvarez Rossi
+,,,,,10:40 às 12:30,Marcelle Alvarez Rossi
+,,208.0,40.0,,,Marcelle Alvarez Rossi
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICS011 - ANATOMIA ARTÍSTICA,10000.0,501.0,18.0,SEG,13:00 às 15:45,Docente não informado pelo Departamento
+,,505.0,2.0,,,Docente não informado pelo Departamento
+,,226.0,2.0,,,Docente não informado pelo Departamento
+,20000.0,505.0,2.0,QUA,13:00 às 15:45,Docente não informado pelo Departamento
+,,226.0,2.0,,,Docente não informado pelo Departamento
+,,501.0,18.0,,,Docente não informado pelo Departamento
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICS013 - FARMACOLOGIA II,10100.0,206.0,25.0,TER,08:50 às 10:40,Tatiane de Oliveira Teixeira Muniz Carle
+,,,,,10:40 às 12:30,Quiara Lovatti Alves
+,10200.0,206.0,25.0,TER,10:40 às 12:30,Quiara Lovatti Alves
+,,,,QUI,08:50 às 10:40,Ryan dos Santos Costa
+,10300.0,206.0,25.0,TER,10:40 às 12:30,Quiara Lovatti Alves
+,,,,QUI,10:40 às 12:30,Ryan dos Santos Costa
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICS018 - PARASITOLOGIA VETERINARIA,10100.0,206.0,9.0,SEG,13:00 às 14:50,Thiago Campanharo Bahiense
+,,226.0,1.0,,,Thiago Campanharo Bahiense
+,,206.0,9.0,,,Heloisa Cristina da Silva
+,,226.0,1.0,,,Heloisa Cristina da Silva
+,,,,TER,08:50 às 10:40,Thiago Campanharo Bahiense
+,,206.0,9.0,,,Thiago Campanharo Bahiense
+,10200.0,206.0,9.0,SEG,13:00 às 14:50,Thiago Campanharo Bahiense
+,,226.0,2.0,,,Thiago Campanharo Bahiense
+,,206.0,9.0,,,Heloisa Cristina da Silva
+,,226.0,2.0,,,Heloisa Cristina da Silva
+,,,,TER,08:50 às 10:40,Heloisa Cristina da Silva
+,,206.0,9.0,,,Heloisa Cristina da Silva
+,10300.0,226.0,2.0,SEG,13:00 às 14:50,Thiago Campanharo Bahiense
+,,206.0,9.0,,,Thiago Campanharo Bahiense
+,,226.0,2.0,,,Heloisa Cristina da Silva
+,,206.0,9.0,,,Heloisa Cristina da Silva
+,,226.0,2.0,TER,10:40 às 12:30,Thiago Campanharo Bahiense
+,,206.0,9.0,,,Thiago Campanharo Bahiense
+,10400.0,226.0,1.0,SEG,13:00 às 14:50,Thiago Campanharo Bahiense
+,,206.0,9.0,,,Thiago Campanharo Bahiense
+,,,,,,Heloisa Cristina da Silva
+,,226.0,1.0,,,Heloisa Cristina da Silva
+,,206.0,9.0,TER,10:40 às 12:30,Heloisa Cristina da Silva
+,,226.0,1.0,,,Heloisa Cristina da Silva
+,10500.0,206.0,9.0,SEG,13:00 às 14:50,Thiago Campanharo Bahiense
+,,226.0,1.0,,,Thiago Campanharo Bahiense
+,,,,,,Heloisa Cristina da Silva
+,,206.0,9.0,,,Heloisa Cristina da Silva
+,,226.0,1.0,QUI,07:00 às 08:50,Thiago Campanharo Bahiense
+,,206.0,9.0,,,Thiago Campanharo Bahiense
+,10600.0,226.0,2.0,SEG,13:00 às 14:50,Thiago Campanharo Bahiense
+,,206.0,9.0,,,Thiago Campanharo Bahiense
+,,226.0,2.0,,,Heloisa Cristina da Silva
+,,206.0,9.0,,,Heloisa Cristina da Silva
+,,226.0,2.0,QUI,07:00 às 08:50,Heloisa Cristina da Silva
+,,206.0,9.0,,,Heloisa Cristina da Silva
+,10700.0,206.0,9.0,SEG,13:00 às 14:50,Thiago Campanharo Bahiense
+,,226.0,1.0,,,Thiago Campanharo Bahiense
+,,206.0,9.0,,,Heloisa Cristina da Silva
+,,226.0,1.0,,,Heloisa Cristina da Silva
+,,,,QUI,08:50 às 10:40,Thiago Campanharo Bahiense
+,,206.0,9.0,,,Thiago Campanharo Bahiense
+,10800.0,226.0,2.0,SEG,13:00 às 14:50,Thiago Campanharo Bahiense
+,,206.0,9.0,,,Thiago Campanharo Bahiense
+,,226.0,2.0,,,Heloisa Cristina da Silva
+,,206.0,9.0,,,Heloisa Cristina da Silva
+,,226.0,2.0,QUI,08:50 às 10:40,Heloisa Cristina da Silva
+,,206.0,9.0,,,Heloisa Cristina da Silva
+,10900.0,226.0,2.0,SEG,13:00 às 14:50,Thiago Campanharo Bahiense
+,,206.0,9.0,,,Thiago Campanharo Bahiense
+,,,,,,Heloisa Cristina da Silva
+,,226.0,2.0,,,Heloisa Cristina da Silva
+,,,,QUA,09:45 às 11:35,Thiago Campanharo Bahiense
+,,206.0,9.0,,,Thiago Campanharo Bahiense
+,11000.0,226.0,1.0,SEG,13:00 às 14:50,Thiago Campanharo Bahiense
+,,206.0,9.0,,,Thiago Campanharo Bahiense
+,,226.0,1.0,,,Heloisa Cristina da Silva
+,,206.0,9.0,,,Heloisa Cristina da Silva
+,,226.0,1.0,QUA,09:45 às 11:35,Heloisa Cristina da Silva
+,,206.0,9.0,,,Heloisa Cristina da Silva
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICS019 - PROCESSOS GERAIS DE PATOLOGIA I,10100.0,204.0,15.0,QUA,13:00 às 14:50,Jaqueline Franca Costa
+,,,,,14:50 às 16:40,Jaqueline Franca Costa
+,10200.0,204.0,15.0,QUA,13:00 às 14:50,Jaqueline Franca Costa
+,,,,,14:50 às 16:40,Fulvio Borges Miguel
+,10300.0,204.0,15.0,QUA,13:00 às 14:50,Jaqueline Franca Costa
+,,,,,14:50 às 16:40,Maria Clara Barretto de Freitas Melro Br
+,10400.0,204.0,15.0,QUA,13:00 às 14:50,Jaqueline Franca Costa
+,,,,QUI,14:50 às 16:40,Alena Ribeiro Alves Peixoto Medrado
+,20500.0,207.0,15.0,TER,08:50 às 10:40,Alena Ribeiro Alves Peixoto Medrado
+,,,,,10:40 às 12:30,Alena Ribeiro Alves Peixoto Medrado
+,20600.0,207.0,15.0,TER,08:50 às 10:40,Alena Ribeiro Alves Peixoto Medrado
+,,,,,10:40 às 12:30,Fulvio Borges Miguel
+,30700.0,281.0,15.0,SEG,18:30 às 20:20,Jaqueline Franca Costa
+,,,,,20:20 às 22:10,Jaqueline Franca Costa
+,30800.0,281.0,15.0,SEG,18:30 às 20:20,Jaqueline Franca Costa
+,,,,,20:20 às 22:10,Alena Ribeiro Alves Peixoto Medrado
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICS021 - FISIOLOGIA I,10100.0,202.0,16.0,QUA,07:00 às 08:50,Maria Auxiliadora Santos Haanwinckel
+,,,,,,Rejane Conceicao Santana
+,,,,,08:50 às 10:40,Maria Auxiliadora Santos Haanwinckel
+,,,,,,Suzana Braga de Souza
+,,,,,,Rejane Conceicao Santana
+,10200.0,202.0,14.0,QUA,07:00 às 08:50,Maria Auxiliadora Santos Haanwinckel
+,,207.0,2.0,,,Maria Auxiliadora Santos Haanwinckel
+,,202.0,14.0,,,Rejane Conceicao Santana
+,,207.0,2.0,,,Rejane Conceicao Santana
+,,202.0,14.0,,10:40 às 12:30,Maria Auxiliadora Santos Haanwinckel
+,,207.0,2.0,,,Maria Auxiliadora Santos Haanwinckel
+,,202.0,14.0,,,Rejane Conceicao Santana
+,,207.0,2.0,,,Rejane Conceicao Santana
+,20300.0,315.0,15.0,QUA,07:00 às 08:50,Samira Itana de Souza
+,,222.0,1.0,,,Samira Itana de Souza
+,,315.0,15.0,,08:50 às 10:40,Paula Cristina Alves Araujo
+,,222.0,1.0,,,Paula Cristina Alves Araujo
+,20400.0,315.0,15.0,QUA,07:00 às 08:50,Samira Itana de Souza
+,,222.0,1.0,,,Samira Itana de Souza
+,,315.0,15.0,,08:50 às 10:40,Giselle Calasans de Souza Costa
+,,222.0,1.0,,,Giselle Calasans de Souza Costa
+,30500.0,207.0,22.0,TER,07:00 às 08:50,Maria Auxiliadora Santos Haanwinckel
+,,,,,,Luciana Lyra Casais e Silva
+,,,,,,Luciana Mattos Barros Oliveira
+,,,,,,Monica Serra
+,,,,,08:50 às 10:40,Maria Auxiliadora Santos Haanwinckel
+,,,,,,Luciana Lyra Casais e Silva
+,,,,,,Luciana Mattos Barros Oliveira
+,,,,,,Tania Tavares Rodriguez
+,30600.0,207.0,22.0,TER,07:00 às 08:50,Maria Auxiliadora Santos Haanwinckel
+,,,,,,Luciana Lyra Casais e Silva
+,,,,,,Luciana Mattos Barros Oliveira
+,,,,,,Monica Serra
+,,,,,10:40 às 12:30,Paula Cristina Alves Araujo
+,40700.0,286.0,3.0,SEG,18:30 às 20:20,Helton Estrela Ramos
+,,280.0,15.0,,,Helton Estrela Ramos
+,,286.0,3.0,,20:20 às 22:10,Paula Cristina Alves Araujo
+,,280.0,15.0,,,Paula Cristina Alves Araujo
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICS025 - FISIOLOGIA DOS ANIMAIS DOMESTICOS,10100.0,206.0,20.0,SEG,07:00 às 08:50,Neilton Antunes de Amorim
+,,,,,08:50 às 10:40,Neilton Antunes de Amorim
+,,,,SEX,08:50 às 10:40,Neilton Antunes de Amorim
+,10200.0,206.0,20.0,SEG,07:00 às 08:50,Neilton Antunes de Amorim
+,,,,,10:40 às 12:30,Neilton Antunes de Amorim
+,,,,SEX,10:40 às 12:30,Neilton Antunes de Amorim
+,10300.0,206.0,20.0,SEG,07:00 às 08:50,Neilton Antunes de Amorim
+,,,,TER,08:50 às 10:40,Neilton Antunes de Amorim
+,,,,SEX,07:00 às 08:50,Neilton Antunes de Amorim
+,10400.0,206.0,20.0,SEG,07:00 às 08:50,Neilton Antunes de Amorim
+,,,,TER,13:00 às 14:50,Neilton Antunes de Amorim
+,,,,SEX,13:00 às 14:50,Neilton Antunes de Amorim
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICS026 - HISTOLOGIA I,10100.0,226.0,1.0,SEG,07:00 às 08:50,Alex Jose Leite Torres
+,,207.0,15.0,,,Alex Jose Leite Torres
+,,,,,08:50 às 10:40,Alex Jose Leite Torres
+,,226.0,1.0,,,Alex Jose Leite Torres
+,10200.0,226.0,2.0,SEG,07:00 às 08:50,Alex Jose Leite Torres
+,,207.0,15.0,,,Alex Jose Leite Torres
+,,226.0,2.0,,08:50 às 10:40,Deise Souza Vilas Boas
+,,207.0,15.0,,,Deise Souza Vilas Boas
+,10300.0,226.0,2.0,SEG,07:00 às 08:50,Alex Jose Leite Torres
+,,207.0,15.0,,,Alex Jose Leite Torres
+,,226.0,2.0,,10:40 às 12:30,Alex Jose Leite Torres
+,,207.0,15.0,,,Alex Jose Leite Torres
+,10400.0,226.0,1.0,SEG,07:00 às 08:50,Alex Jose Leite Torres
+,,207.0,15.0,,,Alex Jose Leite Torres
+,,226.0,1.0,,10:40 às 12:30,Deise Souza Vilas Boas
+,,207.0,15.0,,,Deise Souza Vilas Boas
+,20500.0,222.0,2.0,SEX,07:00 às 08:50,Alex Jose Leite Torres
+,,202.0,10.0,,,Alex Jose Leite Torres
+,,222.0,2.0,,08:50 às 10:40,Alex Jose Leite Torres
+,,202.0,10.0,,,Alex Jose Leite Torres
+,20600.0,202.0,10.0,SEX,07:00 às 08:50,Alex Jose Leite Torres
+,,222.0,3.0,,,Alex Jose Leite Torres
+,,202.0,10.0,,08:50 às 10:40,Caroline Brandi Schlaepfer Sales
+,,222.0,3.0,,,Caroline Brandi Schlaepfer Sales
+,20700.0,202.0,10.0,SEX,07:00 às 08:50,Alex Jose Leite Torres
+,,222.0,3.0,,,Alex Jose Leite Torres
+,,,,,10:40 às 12:30,Alex Jose Leite Torres
+,,202.0,10.0,,,Alex Jose Leite Torres
+,20800.0,226.0,6.0,SEX,07:00 às 08:50,Alex Jose Leite Torres
+,,222.0,2.0,,,Alex Jose Leite Torres
+,,202.0,4.0,,,Alex Jose Leite Torres
+,,222.0,2.0,,10:40 às 12:30,Deise Souza Vilas Boas
+,,226.0,6.0,,,Deise Souza Vilas Boas
+,,202.0,4.0,,,Deise Souza Vilas Boas
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICS028 - MICROBIOLOGIA I,10100.0,208.0,10.0,SEG,07:55 às 08:50,Josilene Borges Torres Lima Matos
+,,,,,08:50 às 10:40,Lilia Ferreira de Moura Costa
+,,,,TER,07:55 às 08:50,Gustavo Miranda Pires Santos
+,10200.0,208.0,10.0,SEG,07:55 às 08:50,Silvia Ines Sardi
+,,,,,08:50 às 10:40,Lilia Ferreira de Moura Costa
+,,,,TER,07:55 às 08:50,Silvia Ines Sardi
+,10300.0,208.0,4.0,SEG,07:55 às 08:50,Luana Leandro Gois
+,,,,,08:50 às 10:40,Lilia Ferreira de Moura Costa
+,,,,TER,07:55 às 08:50,Luana Leandro Gois
+,10400.0,208.0,1.0,SEG,07:55 às 08:50,Lilia Ferreira de Moura Costa
+,,,,,08:50 às 10:40,Lilia Ferreira de Moura Costa
+,,,,TER,07:55 às 08:50,Lilia Ferreira de Moura Costa
+,20500.0,208.0,10.0,SEG,08:50 às 10:40,Luana Leandro Gois
+,,,,,10:40 às 11:35,Lilia Ferreira de Moura Costa
+,,,,TER,10:40 às 11:35,Lilia Ferreira de Moura Costa
+,20600.0,208.0,10.0,SEG,08:50 às 10:40,Luana Leandro Gois
+,,,,,10:40 às 11:35,Silvia Ines Sardi
+,,,,TER,10:40 às 11:35,Silvia Ines Sardi
+,20700.0,208.0,10.0,SEG,08:50 às 10:40,Luana Leandro Gois
+,,,,,11:35 às 12:30,Lilia Ferreira de Moura Costa
+,,,,TER,11:35 às 12:30,Lilia Ferreira de Moura Costa
+,20800.0,208.0,10.0,SEG,08:50 às 10:40,Luana Leandro Gois
+,,,,,11:35 às 12:30,Luana Leandro Gois
+,,,,TER,11:35 às 12:30,Luana Leandro Gois
+,30900.0,206.0,10.0,SEG,08:50 às 09:45,Silvia Ines Sardi
+,,,,TER,07:00 às 08:50,Josilene Borges Torres Lima Matos
+,,,,,,Paulo Fernando de Almeida
+,,,,,08:50 às 09:45,Silvia Ines Sardi
+,31000.0,206.0,10.0,SEG,08:50 às 09:45,Tonya Azevedo Duarte
+,,,,TER,07:00 às 08:50,Josilene Borges Torres Lima Matos
+,,,,,,Paulo Fernando de Almeida
+,,,,,08:50 às 09:45,Tonya Azevedo Duarte
+,31100.0,206.0,10.0,SEG,09:45 às 10:40,Silvia Ines Sardi
+,,,,TER,07:00 às 08:50,Josilene Borges Torres Lima Matos
+,,,,,,Paulo Fernando de Almeida
+,,,,,09:45 às 10:40,Silvia Ines Sardi
+,31200.0,206.0,10.0,SEG,09:45 às 10:40,Tonya Azevedo Duarte
+,,,,TER,07:00 às 08:50,Josilene Borges Torres Lima Matos
+,,,,,,Paulo Fernando de Almeida
+,,,,,09:45 às 10:40,Tonya Azevedo Duarte
+,41300.0,206.0,10.0,SEG,10:40 às 11:35,Josilene Borges Torres Lima Matos
+,,,,TER,07:00 às 08:50,Jailton de Azevedo Silva Junior
+,,,,,10:40 às 11:35,Josilene Borges Torres Lima Matos
+,41400.0,206.0,10.0,SEG,10:40 às 11:35,Luana Leandro Gois
+,,,,TER,07:00 às 08:50,Jailton de Azevedo Silva Junior
+,,,,,10:40 às 11:35,Luana Leandro Gois
+,41500.0,206.0,10.0,SEG,11:35 às 12:30,Josilene Borges Torres Lima Matos
+,,,,TER,07:00 às 08:50,Jailton de Azevedo Silva Junior
+,,,,,11:35 às 12:30,Josilene Borges Torres Lima Matos
+,41600.0,206.0,5.0,SEG,11:35 às 12:30,Jailton de Azevedo Silva Junior
+,,202.0,5.0,,,Jailton de Azevedo Silva Junior
+,,206.0,5.0,TER,07:00 às 08:50,Jailton de Azevedo Silva Junior
+,,202.0,5.0,,,Jailton de Azevedo Silva Junior
+,,206.0,5.0,,11:35 às 12:30,Jailton de Azevedo Silva Junior
+,,202.0,5.0,,,Jailton de Azevedo Silva Junior
+,51700.0,207.0,10.0,QUI,08:50 às 09:45,Paulo Fernando de Almeida
+,,,,SEX,07:00 às 08:50,Josilene Borges Torres Lima Matos
+,,,,,,Paulo Fernando de Almeida
+,,,,,08:50 às 09:45,Paulo Fernando de Almeida
+,51800.0,207.0,10.0,QUI,08:50 às 09:45,Josilene Borges Torres Lima Matos
+,,,,SEX,07:00 às 08:50,Josilene Borges Torres Lima Matos
+,,,,,,Paulo Fernando de Almeida
+,,,,,08:50 às 09:45,Josilene Borges Torres Lima Matos
+,51900.0,207.0,10.0,QUI,09:45 às 10:40,Jailton de Azevedo Silva Junior
+,,,,SEX,07:00 às 08:50,Josilene Borges Torres Lima Matos
+,,,,,,Paulo Fernando de Almeida
+,,,,,09:45 às 10:40,Jailton de Azevedo Silva Junior
+,52000.0,207.0,10.0,QUI,09:45 às 10:40,Josilene Borges Torres Lima Matos
+,,,,SEX,07:00 às 08:50,Josilene Borges Torres Lima Matos
+,,,,,,Paulo Fernando de Almeida
+,,,,,09:45 às 10:40,Josilene Borges Torres Lima Matos
+,52100.0,207.0,10.0,QUI,10:40 às 11:35,Gustavo Miranda Pires Santos
+,,,,SEX,07:00 às 08:50,Josilene Borges Torres Lima Matos
+,,,,,,Paulo Fernando de Almeida
+,,,,,10:40 às 11:35,Gustavo Miranda Pires Santos
+,52200.0,207.0,10.0,QUI,10:40 às 11:35,Jailton de Azevedo Silva Junior
+,,,,SEX,07:00 às 08:50,Josilene Borges Torres Lima Matos
+,,,,,,Paulo Fernando de Almeida
+,,,,,10:40 às 11:35,Jailton de Azevedo Silva Junior
+,62300.0,284.0,15.0,TER,18:30 às 20:20,Gustavo Miranda Pires Santos
+,,,,QUA,18:30 às 20:20,Jailton de Azevedo Silva Junior
+,62400.0,284.0,15.0,TER,18:30 às 20:20,Gustavo Miranda Pires Santos
+,,,,QUA,18:30 às 20:20,Gustavo Miranda Pires Santos
+,72500.0,106.0,10.0,TER,18:30 às 20:20,Jailton de Azevedo Silva Junior
+,,,,QUA,20:20 às 22:10,Jailton de Azevedo Silva Junior
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICS031 - MICROBIOLOGIA III,10100.0,208.0,10.0,SEG,07:00 às 07:55,Monica Pereira Franca
+,,,,QUA,07:00 às 07:55,Monica Pereira Franca
+,,,,,07:55 às 09:45,Monica Pereira Franca
+,10200.0,208.0,10.0,SEG,07:00 às 07:55,Gustavo Miranda Pires Santos
+,,,,QUA,07:00 às 07:55,Gustavo Miranda Pires Santos
+,,,,,07:55 às 09:45,Monica Pereira Franca
+,10300.0,208.0,10.0,SEG,08:50 às 09:45,Monica Pereira Franca
+,,,,QUA,07:55 às 09:45,Monica Pereira Franca
+,,,,,09:45 às 10:40,Monica Pereira Franca
+,10400.0,208.0,10.0,SEG,08:50 às 09:45,Gustavo Miranda Pires Santos
+,,,,QUA,07:55 às 09:45,Monica Pereira Franca
+,,,,,09:45 às 10:40,Gustavo Miranda Pires Santos
+,10500.0,208.0,10.0,SEG,09:45 às 10:40,Monica Pereira Franca
+,,,,QUA,07:55 às 09:45,Monica Pereira Franca
+,,,,,10:40 às 11:35,Monica Pereira Franca
+,10600.0,208.0,10.0,SEG,09:45 às 10:40,Gustavo Miranda Pires Santos
+,,,,QUA,07:55 às 09:45,Monica Pereira Franca
+,,,,,10:40 às 11:35,Gustavo Miranda Pires Santos
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICS033 - FARMACOLOGIA IV,10100.0,208.0,15.0,SEG,13:00 às 13:55,Tatiane de Oliveira Teixeira Muniz Carle
+,,,,,13:55 às 17:35,Neuza Maria Gusmao Souza Ramos
+,10200.0,208.0,15.0,SEG,13:00 às 13:55,Tatiane de Oliveira Teixeira Muniz Carle
+,,,,TER,13:00 às 14:50,Neuza Maria Gusmao Souza Ramos
+,,,,,14:50 às 16:40,Neuza Maria Gusmao Souza Ramos
+,10300.0,208.0,15.0,SEG,13:00 às 13:55,Tatiane de Oliveira Teixeira Muniz Carle
+,,,,QUA,13:00 às 14:50,Neuza Maria Gusmao Souza Ramos
+,,,,,14:50 às 16:40,Neuza Maria Gusmao Souza Ramos
+,10400.0,208.0,15.0,SEG,13:00 às 13:55,Tatiane de Oliveira Teixeira Muniz Carle
+,,,,QUI,13:00 às 16:40,Neuza Maria Gusmao Souza Ramos
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICS035 - MICROBIOLOGIA VETERINARIA,10100.0,206.0,10.0,QUI,07:00 às 07:55,Tonya Azevedo Duarte
+,,,,,08:50 às 10:40,Tonya Azevedo Duarte
+,,,,SEX,07:00 às 07:55,Tonya Azevedo Duarte
+,,,,,08:50 às 09:45,Luana Leandro Gois
+,10200.0,206.0,10.0,QUI,07:00 às 07:55,Luana Leandro Gois
+,,,,,08:50 às 10:40,Tonya Azevedo Duarte
+,,,,SEX,07:00 às 07:55,Luana Leandro Gois
+,,,,,08:50 às 09:45,Luana Leandro Gois
+,10300.0,206.0,10.0,QUI,07:00 às 07:55,Andrea Mendonca Gusmao Cunha
+,,,,,08:50 às 10:40,Tonya Azevedo Duarte
+,,,,SEX,07:00 às 07:55,Andrea Mendonca Gusmao Cunha
+,,,,,08:50 às 09:45,Luana Leandro Gois
+,10400.0,206.0,10.0,QUI,07:00 às 07:55,Samira Abdallah Hanna
+,,,,,08:50 às 10:40,Tonya Azevedo Duarte
+,,,,SEX,07:00 às 07:55,Gustavo Miranda Pires Santos
+,,,,,08:50 às 09:45,Luana Leandro Gois
+,10500.0,206.0,10.0,QUI,07:55 às 08:50,Tonya Azevedo Duarte
+,,,,,08:50 às 10:40,Tonya Azevedo Duarte
+,,,,SEX,07:55 às 08:50,Tonya Azevedo Duarte
+,,,,,08:50 às 09:45,Luana Leandro Gois
+,10600.0,206.0,10.0,QUI,07:55 às 08:50,Luana Leandro Gois
+,,,,,08:50 às 10:40,Tonya Azevedo Duarte
+,,,,SEX,07:55 às 08:50,Luana Leandro Gois
+,,,,,08:50 às 09:45,Luana Leandro Gois
+,10700.0,206.0,10.0,QUI,07:55 às 08:50,Andrea Mendonca Gusmao Cunha
+,,,,,08:50 às 10:40,Tonya Azevedo Duarte
+,,,,SEX,07:55 às 08:50,Andrea Mendonca Gusmao Cunha
+,,,,,08:50 às 09:45,Luana Leandro Gois
+,10800.0,206.0,10.0,QUI,07:55 às 08:50,Samira Abdallah Hanna
+,,,,,08:50 às 10:40,Tonya Azevedo Duarte
+,,,,SEX,07:55 às 08:50,Gustavo Miranda Pires Santos
+,,,,,08:50 às 09:45,Luana Leandro Gois
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICS036 - FARMACODINÂMICA,10100.0,204.0,20.0,SEG,13:00 às 14:50,Camila Alexandrina Viana de Figueiredo F
+,,,,,14:50 às 16:40,Camila Alexandrina Viana de Figueiredo F
+,10200.0,204.0,20.0,SEG,13:00 às 14:50,Camila Alexandrina Viana de Figueiredo F
+,,,,QUA,13:00 às 14:50,Camila Alexandrina Viana de Figueiredo F
+,10300.0,204.0,20.0,SEG,13:00 às 14:50,Camila Alexandrina Viana de Figueiredo F
+,,,,QUA,14:50 às 16:40,Camila Alexandrina Viana de Figueiredo F
+,20400.0,281.0,30.0,QUI,18:30 às 20:20,Quiara Lovatti Alves
+,,,,,20:20 às 22:10,Quiara Lovatti Alves
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICS040 - FISIOLOGIA III-A,10100.0,208.0,15.0,SEG,13:00 às 14:50,Tania Tavares Rodriguez
+,,,,QUA,13:00 às 14:50,Tania Tavares Rodriguez
+,,,,,14:50 às 16:40,Tania Tavares Rodriguez
+,10200.0,208.0,15.0,SEG,13:00 às 14:50,Luciana Lyra Casais e Silva
+,,,,QUA,13:00 às 14:50,Tania Tavares Rodriguez
+,,,,,14:50 às 16:40,Luciana Lyra Casais e Silva
+,10300.0,208.0,15.0,SEG,13:00 às 14:50,Giselle Calasans de Souza Costa
+,,,,QUA,13:00 às 14:50,Tania Tavares Rodriguez
+,,,,,14:50 às 16:40,Giselle Calasans de Souza Costa
+,10400.0,208.0,15.0,SEG,13:00 às 14:50,Paula Cristina Alves Araujo
+,,,,QUA,13:00 às 14:50,Tania Tavares Rodriguez
+,,,,,14:50 às 16:40,Paula Cristina Alves Araujo
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICS043 - HISTOLOGIA E EMBRIOLOGIA DOS ANIMAIS DOMESTICOS,10100.0,206.0,15.0,QUA,07:00 às 08:50,Helio Gomes Souza
+,,,,QUI,10:40 às 12:30,Marcos Borges Ribeiro
+,10200.0,206.0,15.0,QUA,08:50 às 10:40,Helio Gomes Souza
+,,,,QUI,10:40 às 12:30,Marcos Borges Ribeiro
+,10300.0,206.0,15.0,QUA,10:40 às 12:30,Helio Gomes Souza
+,,,,QUI,10:40 às 12:30,Marcos Borges Ribeiro
+,10400.0,206.0,15.0,QUI,07:00 às 08:50,Helio Gomes Souza
+,,,,,10:40 às 12:30,Marcos Borges Ribeiro
+,10500.0,206.0,15.0,QUI,08:50 às 10:40,Helio Gomes Souza
+,,,,,10:40 às 12:30,Marcos Borges Ribeiro
+,20600.0,206.0,15.0,QUI,08:50 às 10:40,Marcos Borges Ribeiro
+,,,,,13:00 às 14:50,Helio Gomes Souza
+,20700.0,286.0,5.0,QUI,10:40 às 12:30,Helio Gomes Souza
+,,226.0,5.0,,,Helio Gomes Souza
+,,190.0,5.0,,,Helio Gomes Souza
+,,,,,13:00 às 14:50,Helio Gomes Souza
+,,226.0,5.0,,,Helio Gomes Souza
+,,286.0,5.0,,,Helio Gomes Souza
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICS045 - IMUNOLOGIA I,10100.0,226.0,5.0,SEG,13:00 às 13:55,Silvana Beutinger Marchioro
+,,219.0,5.0,,,Silvana Beutinger Marchioro
+,,226.0,5.0,,13:55 às 14:50,Silvana Beutinger Marchioro
+,,219.0,5.0,,,Silvana Beutinger Marchioro
+,,226.0,5.0,QUA,13:00 às 13:55,Robert Eduard Schaer
+,,219.0,5.0,,,Robert Eduard Schaer
+,,,,,13:55 às 14:50,Robert Eduard Schaer
+,,226.0,5.0,,,Robert Eduard Schaer
+,10200.0,206.0,10.0,SEG,13:00 às 13:55,Robert Eduard Schaer
+,,,,,13:55 às 14:50,Silvana Beutinger Marchioro
+,,,,QUA,13:00 às 13:55,Silvana Beutinger Marchioro
+,,,,,13:55 às 14:50,Robert Eduard Schaer
+,20300.0,208.0,30.0,TER,13:00 às 13:55,Robert Eduard Schaer
+,,,,,13:55 às 14:50,Robert Eduard Schaer
+,,,,QUI,13:00 às 13:55,Silvana Beutinger Marchioro
+,,,,,13:55 às 14:50,Silvana Beutinger Marchioro
+,20400.0,208.0,35.0,TER,13:00 às 13:55,Silvana Beutinger Marchioro
+,,,,,13:55 às 14:50,Robert Eduard Schaer
+,,,,QUI,13:00 às 13:55,Robert Eduard Schaer
+,,,,,13:55 às 14:50,Silvana Beutinger Marchioro
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICS046 - PARASITOLOGIA HUMANA I-A,10100.0,208.0,13.0,QUA,16:40 às 17:35,Daniela Luz Ambrosio Breisch
+,,,,SEX,13:00 às 14:50,Carina da Silva Pinheiro
+,,,,,14:50 às 15:45,Carina da Silva Pinheiro
+,10200.0,208.0,13.0,QUA,16:40 às 17:35,Daniela Luz Ambrosio Breisch
+,,,,SEX,13:00 às 14:50,Heloisa Cristina da Silva
+,,,,,14:50 às 15:45,Carina da Silva Pinheiro
+,10300.0,208.0,13.0,QUA,16:40 às 17:35,Daniela Luz Ambrosio Breisch
+,,,,SEX,13:00 às 14:50,Daniela Luz Ambrosio Breisch
+,,,,,14:50 às 15:45,Carina da Silva Pinheiro
+,10400.0,208.0,13.0,QUA,16:40 às 17:35,Daniela Luz Ambrosio Breisch
+,,,,SEX,13:00 às 14:50,Adriano Figueiredo Monte Alegre
+,,,,,14:50 às 15:45,Carina da Silva Pinheiro
+,10500.0,208.0,13.0,QUA,16:40 às 17:35,Daniela Luz Ambrosio Breisch
+,,,,SEX,14:50 às 15:45,Carina da Silva Pinheiro
+,,,,,15:45 às 17:35,Carina da Silva Pinheiro
+,10600.0,208.0,13.0,QUA,16:40 às 17:35,Daniela Luz Ambrosio Breisch
+,,,,SEX,14:50 às 15:45,Carina da Silva Pinheiro
+,,,,,15:45 às 17:35,Joao Carlos Marques Ponte
+,20700.0,209.0,3.0,QUA,13:00 às 14:50,Thiago Campanharo Bahiense
+,,207.0,8.0,,,Thiago Campanharo Bahiense
+,,209.0,3.0,,,Carina da Silva Pinheiro
+,,207.0,8.0,,,Carina da Silva Pinheiro
+,,209.0,3.0,,14:50 às 16:40,Thiago Campanharo Bahiense
+,,207.0,8.0,,,Thiago Campanharo Bahiense
+,20800.0,207.0,8.0,QUA,13:00 às 14:50,Thiago Campanharo Bahiense
+,,209.0,3.0,,,Thiago Campanharo Bahiense
+,,207.0,8.0,,,Carina da Silva Pinheiro
+,,209.0,3.0,,,Carina da Silva Pinheiro
+,,,,,14:50 às 16:40,Carina da Silva Pinheiro
+,,207.0,8.0,,,Carina da Silva Pinheiro
+,20900.0,209.0,4.0,QUA,13:00 às 14:50,Thiago Campanharo Bahiense
+,,207.0,7.0,,,Thiago Campanharo Bahiense
+,,209.0,4.0,,,Carina da Silva Pinheiro
+,,207.0,7.0,,,Carina da Silva Pinheiro
+,,209.0,4.0,,14:50 às 16:40,Joao Carlos Marques Ponte
+,,207.0,7.0,,,Joao Carlos Marques Ponte
+,21000.0,209.0,4.0,QUA,13:00 às 14:50,Thiago Campanharo Bahiense
+,,207.0,7.0,,,Thiago Campanharo Bahiense
+,,209.0,4.0,,,Carina da Silva Pinheiro
+,,207.0,7.0,,,Carina da Silva Pinheiro
+,,209.0,4.0,,14:50 às 16:40,Nicolaus Albert Borges Schriefer
+,,207.0,7.0,,,Nicolaus Albert Borges Schriefer
+,,209.0,4.0,,,Adriano Figueiredo Monte Alegre
+,,207.0,7.0,,,Adriano Figueiredo Monte Alegre
+,31100.0,226.0,2.0,QUI,13:00 às 14:50,Daniela Luz Ambrosio Breisch
+,,207.0,10.0,,,Daniela Luz Ambrosio Breisch
+,,226.0,2.0,,,Carina da Silva Pinheiro
+,,207.0,10.0,,,Carina da Silva Pinheiro
+,,,,,14:50 às 16:40,Daniela Luz Ambrosio Breisch
+,,226.0,2.0,,,Daniela Luz Ambrosio Breisch
+,,,,,,Carina da Silva Pinheiro
+,,207.0,10.0,,,Carina da Silva Pinheiro
+,31200.0,226.0,1.0,QUI,13:00 às 14:50,Daniela Luz Ambrosio Breisch
+,,280.0,1.0,,,Daniela Luz Ambrosio Breisch
+,,207.0,10.0,,,Daniela Luz Ambrosio Breisch
+,,226.0,1.0,,,Carina da Silva Pinheiro
+,,280.0,1.0,,,Carina da Silva Pinheiro
+,,207.0,10.0,,,Carina da Silva Pinheiro
+,,280.0,1.0,,14:50 às 16:40,Thiago Campanharo Bahiense
+,,207.0,10.0,,,Thiago Campanharo Bahiense
+,,226.0,1.0,,,Thiago Campanharo Bahiense
+,31300.0,280.0,1.0,QUI,13:00 às 14:50,Daniela Luz Ambrosio Breisch
+,,226.0,1.0,,,Daniela Luz Ambrosio Breisch
+,,207.0,10.0,,,Daniela Luz Ambrosio Breisch
+,,280.0,1.0,,,Carina da Silva Pinheiro
+,,226.0,1.0,,,Carina da Silva Pinheiro
+,,207.0,10.0,,,Carina da Silva Pinheiro
+,,280.0,1.0,,14:50 às 16:40,Joao Carlos Marques Ponte
+,,226.0,1.0,,,Joao Carlos Marques Ponte
+,,207.0,10.0,,,Joao Carlos Marques Ponte
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICS048 - FISIOLOGIA DO EXERCÍCIO,10100.0,222.0,15.0,SEG,08:50 às 10:40,Ana Quenia Gomes da Silva Allahdadi
+,,,,QUI,08:50 às 10:40,Ana Quenia Gomes da Silva Allahdadi
+,,,,,10:40 às 12:30,Rejane Conceicao Santana
+,10200.0,226.0,1.0,SEG,13:00 às 14:50,Ana Quenia Gomes da Silva Allahdadi
+,,222.0,15.0,,,Ana Quenia Gomes da Silva Allahdadi
+,,226.0,1.0,QUI,10:40 às 12:30,Rejane Conceicao Santana
+,,222.0,15.0,,,Rejane Conceicao Santana
+,,226.0,1.0,,13:00 às 14:50,Ana Quenia Gomes da Silva Allahdadi
+,,222.0,15.0,,,Ana Quenia Gomes da Silva Allahdadi
+,10300.0,226.0,1.0,SEG,14:50 às 16:40,Ana Quenia Gomes da Silva Allahdadi
+,,222.0,15.0,,,Ana Quenia Gomes da Silva Allahdadi
+,,226.0,1.0,QUI,10:40 às 12:30,Rejane Conceicao Santana
+,,222.0,15.0,,,Rejane Conceicao Santana
+,,226.0,1.0,,14:50 às 16:40,Ana Quenia Gomes da Silva Allahdadi
+,,222.0,15.0,,,Ana Quenia Gomes da Silva Allahdadi
+,10400.0,315.0,5.0,SEG,10:40 às 12:30,Ana Quenia Gomes da Silva Allahdadi
+,,207.0,10.0,,,Ana Quenia Gomes da Silva Allahdadi
+,,315.0,5.0,QUI,07:00 às 08:50,Ana Quenia Gomes da Silva Allahdadi
+,,207.0,10.0,,,Ana Quenia Gomes da Silva Allahdadi
+,,315.0,5.0,,10:40 às 12:30,Rejane Conceicao Santana
+,,207.0,10.0,,,Rejane Conceicao Santana
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICS050 - BIOQUIMICA I,10100.0,286.0,1.0,SEG,13:00 às 13:55,Elisangela de Jesus Campos
+,,208.0,14.0,,,Elisangela de Jesus Campos
+,,286.0,1.0,,13:55 às 17:35,Elisangela de Jesus Campos
+,,208.0,14.0,,,Elisangela de Jesus Campos
+,,286.0,1.0,TER,13:00 às 13:55,Elisangela de Jesus Campos
+,,208.0,14.0,,,Elisangela de Jesus Campos
+,,286.0,1.0,QUA,13:00 às 13:55,Danilo Barral de Araujo
+,,208.0,14.0,,,Danilo Barral de Araujo
+,,286.0,1.0,QUI,13:00 às 13:55,Danilo Barral de Araujo
+,,208.0,14.0,,,Danilo Barral de Araujo
+,10200.0,286.0,2.0,SEG,13:00 às 13:55,Elisangela de Jesus Campos
+,,208.0,14.0,,,Elisangela de Jesus Campos
+,,286.0,2.0,,13:55 às 17:35,Danilo Barral de Araujo
+,,208.0,14.0,,,Danilo Barral de Araujo
+,,286.0,2.0,TER,13:00 às 13:55,Elisangela de Jesus Campos
+,,208.0,14.0,,,Elisangela de Jesus Campos
+,,286.0,2.0,QUA,13:00 às 13:55,Danilo Barral de Araujo
+,,208.0,14.0,,,Danilo Barral de Araujo
+,,286.0,2.0,QUI,13:00 às 13:55,Danilo Barral de Araujo
+,,208.0,14.0,,,Danilo Barral de Araujo
+,10300.0,286.0,2.0,SEG,13:00 às 13:55,Elisangela de Jesus Campos
+,,208.0,14.0,,,Elisangela de Jesus Campos
+,,286.0,2.0,,13:55 às 17:35,Ana Rita Sokolonski Anton
+,,208.0,14.0,,,Ana Rita Sokolonski Anton
+,,286.0,2.0,TER,13:00 às 13:55,Elisangela de Jesus Campos
+,,208.0,14.0,,,Elisangela de Jesus Campos
+,,286.0,2.0,QUA,13:00 às 13:55,Danilo Barral de Araujo
+,,208.0,14.0,,,Danilo Barral de Araujo
+,,286.0,2.0,QUI,13:00 às 13:55,Danilo Barral de Araujo
+,,208.0,14.0,,,Danilo Barral de Araujo
+,10400.0,286.0,2.0,SEG,13:00 às 13:55,Elisangela de Jesus Campos
+,,208.0,14.0,,,Elisangela de Jesus Campos
+,,286.0,2.0,TER,13:00 às 13:55,Elisangela de Jesus Campos
+,,208.0,14.0,,,Elisangela de Jesus Campos
+,,286.0,2.0,,13:55 às 17:35,Elisangela de Jesus Campos
+,,208.0,14.0,,,Elisangela de Jesus Campos
+,,286.0,2.0,QUA,13:00 às 13:55,Danilo Barral de Araujo
+,,208.0,14.0,,,Danilo Barral de Araujo
+,,286.0,2.0,QUI,13:00 às 13:55,Danilo Barral de Araujo
+,,208.0,14.0,,,Danilo Barral de Araujo
+,10500.0,286.0,1.0,SEG,13:00 às 13:55,Elisangela de Jesus Campos
+,,208.0,14.0,,,Elisangela de Jesus Campos
+,,286.0,1.0,TER,13:00 às 13:55,Elisangela de Jesus Campos
+,,208.0,14.0,,,Elisangela de Jesus Campos
+,,286.0,1.0,,13:55 às 17:35,Danilo Barral de Araujo
+,,208.0,14.0,,,Danilo Barral de Araujo
+,,286.0,1.0,QUA,13:00 às 13:55,Danilo Barral de Araujo
+,,208.0,14.0,,,Danilo Barral de Araujo
+,,286.0,1.0,QUI,13:00 às 13:55,Danilo Barral de Araujo
+,,208.0,14.0,,,Danilo Barral de Araujo
+,10600.0,286.0,2.0,SEG,13:00 às 13:55,Elisangela de Jesus Campos
+,,208.0,14.0,,,Elisangela de Jesus Campos
+,,286.0,2.0,TER,13:00 às 13:55,Elisangela de Jesus Campos
+,,208.0,14.0,,,Elisangela de Jesus Campos
+,,286.0,2.0,QUA,13:00 às 13:55,Danilo Barral de Araujo
+,,208.0,14.0,,,Danilo Barral de Araujo
+,,286.0,2.0,,13:55 às 17:35,Ana Rita Sokolonski Anton
+,,208.0,14.0,,,Ana Rita Sokolonski Anton
+,,286.0,2.0,QUI,13:00 às 13:55,Danilo Barral de Araujo
+,,208.0,14.0,,,Danilo Barral de Araujo
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICS052 - BIOQUÍMICA III,10100.0,203.0,15.0,TER,07:55 às 09:45,Joana Paixao Monteiro Cunha
+,,,,,09:45 às 11:35,Joana Paixao Monteiro Cunha
+,10200.0,286.0,2.0,TER,07:55 às 09:45,Joana Paixao Monteiro Cunha
+,,203.0,13.0,,,Joana Paixao Monteiro Cunha
+,,286.0,2.0,QUA,07:55 às 09:45,Joana Paixao Monteiro Cunha
+,,203.0,13.0,,,Joana Paixao Monteiro Cunha
+,10300.0,286.0,2.0,TER,07:55 às 09:45,Joana Paixao Monteiro Cunha
+,,203.0,13.0,,,Joana Paixao Monteiro Cunha
+,,286.0,2.0,QUA,09:45 às 11:35,Joana Paixao Monteiro Cunha
+,,203.0,13.0,,,Joana Paixao Monteiro Cunha
+,10400.0,286.0,2.0,TER,07:55 às 09:45,Joana Paixao Monteiro Cunha
+,,203.0,13.0,,,Joana Paixao Monteiro Cunha
+,,286.0,2.0,QUA,07:55 às 09:45,Juliana Sacramento Mota de Souza
+,,203.0,13.0,,,Juliana Sacramento Mota de Souza
+,10500.0,286.0,2.0,TER,07:55 às 09:45,Joana Paixao Monteiro Cunha
+,,203.0,13.0,,,Joana Paixao Monteiro Cunha
+,,286.0,2.0,QUA,09:45 às 11:35,Juliana Sacramento Mota de Souza
+,,203.0,13.0,,,Juliana Sacramento Mota de Souza
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICS053 - BIOQUÍMICA BÁSICA PARA CIÊNCIAS BIOLÓGICAS,10100.0,202.0,15.0,SEG,13:00 às 14:50,Rosangela Gomes de Lima
+,,,,QUA,13:00 às 14:50,Rosangela Gomes de Lima
+,10200.0,202.0,15.0,SEG,13:00 às 14:50,Rosangela Gomes de Lima
+,,,,QUA,14:50 às 16:40,Rosangela Gomes de Lima
+,10300.0,286.0,5.0,SEG,13:00 às 14:50,Rosangela Gomes de Lima
+,,202.0,10.0,,,Rosangela Gomes de Lima
+,,286.0,5.0,QUA,16:40 às 18:30,Rosangela Gomes de Lima
+,,202.0,10.0,,,Rosangela Gomes de Lima
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICS054 - BIOQUIMICA V,10100.0,286.0,2.0,TER,08:50 às 10:40,Regiane Degan Favaro
+,,119.0,8.0,,,Regiane Degan Favaro
+,,286.0,2.0,,10:40 às 12:30,Regiane Degan Favaro
+,,119.0,8.0,,,Regiane Degan Favaro
+,,286.0,2.0,QUI,08:50 às 10:40,Regiane Degan Favaro
+,,119.0,8.0,,,Regiane Degan Favaro
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICS055 - BIOQUIMICA VETERINARIA I,10100.0,206.0,13.0,SEG,13:00 às 14:50,Max Jose Pimenta Lima
+,,,,,16:40 às 17:35,Max Jose Pimenta Lima
+,,,,QUA,16:40 às 18:30,Max Jose Pimenta Lima
+,10200.0,286.0,11.0,SEG,14:50 às 16:40,Max Jose Pimenta Lima
+,,206.0,5.0,,,Max Jose Pimenta Lima
+,,286.0,11.0,,16:40 às 17:35,Max Jose Pimenta Lima
+,,206.0,5.0,,,Max Jose Pimenta Lima
+,,286.0,11.0,QUA,16:40 às 18:30,Max Jose Pimenta Lima
+,,206.0,5.0,,,Max Jose Pimenta Lima
+,10300.0,206.0,13.0,SEG,16:40 às 17:35,Max Jose Pimenta Lima
+,,,,QUA,13:00 às 14:50,Max Jose Pimenta Lima
+,,,,,16:40 às 18:30,Max Jose Pimenta Lima
+,10400.0,206.0,13.0,SEG,16:40 às 17:35,Max Jose Pimenta Lima
+,,,,QUA,14:50 às 16:40,Max Jose Pimenta Lima
+,,,,,16:40 às 18:30,Max Jose Pimenta Lima
+,10500.0,206.0,13.0,SEG,16:40 às 17:35,Max Jose Pimenta Lima
+,,,,QUA,16:40 às 18:30,Max Jose Pimenta Lima
+,,,,SEX,13:00 às 14:50,Max Jose Pimenta Lima
+,10600.0,206.0,13.0,SEG,16:40 às 17:35,Max Jose Pimenta Lima
+,,,,QUA,16:40 às 18:30,Max Jose Pimenta Lima
+,,,,SEX,14:50 às 16:40,Max Jose Pimenta Lima
+,10700.0,206.0,12.0,SEG,16:40 às 17:35,Max Jose Pimenta Lima
+,,,,TER,13:00 às 14:50,Max Jose Pimenta Lima
+,,,,QUA,16:40 às 18:30,Max Jose Pimenta Lima
+,10800.0,206.0,12.0,SEG,16:40 às 17:35,Max Jose Pimenta Lima
+,,,,TER,14:50 às 16:40,Max Jose Pimenta Lima
+,,,,QUA,16:40 às 18:30,Max Jose Pimenta Lima
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICS056 - BIOQUIMICA VETERINARIA II,10100.0,206.0,15.0,TER,13:00 às 14:50,Silvia Lima Costa
+,,,,,16:40 às 17:35,Catia Suse de Oliveira Ribeiro
+,,,,QUI,16:40 às 18:30,Silvia Lima Costa
+,10200.0,286.0,8.0,TER,14:50 às 16:40,Catia Suse de Oliveira Ribeiro
+,,206.0,7.0,,,Catia Suse de Oliveira Ribeiro
+,,286.0,8.0,,16:40 às 17:35,Catia Suse de Oliveira Ribeiro
+,,206.0,7.0,,,Catia Suse de Oliveira Ribeiro
+,,286.0,8.0,QUI,16:40 às 18:30,Silvia Lima Costa
+,,206.0,7.0,,,Silvia Lima Costa
+,10300.0,206.0,15.0,TER,16:40 às 17:35,Catia Suse de Oliveira Ribeiro
+,,,,QUI,13:00 às 14:50,Catia Suse de Oliveira Ribeiro
+,,,,,16:40 às 18:30,Silvia Lima Costa
+,10400.0,206.0,15.0,TER,16:40 às 17:35,Catia Suse de Oliveira Ribeiro
+,,,,QUI,14:50 às 16:40,Catia Suse de Oliveira Ribeiro
+,,,,,16:40 às 18:30,Silvia Lima Costa
+,10500.0,206.0,15.0,TER,16:40 às 17:35,Catia Suse de Oliveira Ribeiro
+,,,,QUI,16:40 às 18:30,Silvia Lima Costa
+,,,,SEX,13:00 às 14:50,Catia Suse de Oliveira Ribeiro
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICS066 - BIOFISICA IV,10100.0,203.0,15.0,QUA,07:00 às 08:50,Vitor Antonio Fortuna
+,,,,,08:50 às 10:40,Vitor Antonio Fortuna
+,10200.0,203.0,15.0,QUA,07:00 às 08:50,Vitor Antonio Fortuna
+,,,,,10:40 às 12:30,Vitor Antonio Fortuna
+,10300.0,286.0,5.0,QUA,07:00 às 08:50,Vitor Antonio Fortuna
+,,203.0,10.0,,,Vitor Antonio Fortuna
+,,286.0,5.0,QUI,07:55 às 09:45,Vitor Antonio Fortuna
+,,203.0,10.0,,,Vitor Antonio Fortuna
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICS067 - BIOQUIMICA APLIC.NUTRICAO I,10100.0,207.0,15.0,QUI,07:55 às 10:40,Ravena Pereira do Nascimento
+,,,,,10:40 às 12:30,Ravena Pereira do Nascimento
+,10200.0,286.0,9.0,QUI,07:55 às 10:40,Ravena Pereira do Nascimento
+,,207.0,6.0,,,Ravena Pereira do Nascimento
+,,286.0,9.0,,10:40 às 12:30,Docente Substituto a Contratar
+,,207.0,6.0,,,Docente Substituto a Contratar
+,10300.0,207.0,15.0,QUI,07:55 às 10:40,Ravena Pereira do Nascimento
+,,,,,13:00 às 14:50,Ravena Pereira do Nascimento
+,10400.0,207.0,15.0,QUI,07:55 às 10:40,Ravena Pereira do Nascimento
+,,,,,13:00 às 14:50,Docente Substituto a Contratar
+,10500.0,207.0,15.0,QUI,07:55 às 10:40,Ravena Pereira do Nascimento
+,,,,,14:50 às 16:40,Ravena Pereira do Nascimento
+,10600.0,207.0,15.0,QUI,07:55 às 10:40,Ravena Pereira do Nascimento
+,,,,,14:50 às 16:40,Docente Substituto a Contratar
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICS068 - BIOQUIMICA APLIC.NUTRICAO II,10100.0,207.0,12.0,SEG,13:00 às 14:50,Joel Antonio Barbosa
+,,,,,14:50 às 16:40,Joel Antonio Barbosa
+,10200.0,207.0,12.0,SEG,14:50 às 16:40,Joel Antonio Barbosa
+,,,,TER,13:00 às 14:50,Joel Antonio Barbosa
+,10300.0,207.0,12.0,SEG,14:50 às 16:40,Joel Antonio Barbosa
+,,,,TER,14:50 às 16:40,Joel Antonio Barbosa
+,10400.0,207.0,12.0,SEG,14:50 às 16:40,Joel Antonio Barbosa
+,,,,TER,16:40 às 18:30,Joel Antonio Barbosa
+,10500.0,286.0,6.0,SEG,14:50 às 16:40,Joel Antonio Barbosa
+,,207.0,6.0,,,Joel Antonio Barbosa
+,,286.0,6.0,,16:40 às 18:30,Joel Antonio Barbosa
+,,207.0,6.0,,,Joel Antonio Barbosa
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICS070 - BIOQUÍMICA FUNDAMENTAL PARA FARMÁCIA,10100.0,286.0,2.0,QUI,13:00 às 14:50,Gyselle Chrystina Baccan
+,,204.0,10.0,,,Gyselle Chrystina Baccan
+,,286.0,2.0,,14:50 às 15:45,Gyselle Chrystina Baccan
+,,204.0,10.0,,,Gyselle Chrystina Baccan
+,10200.0,286.0,2.0,QUI,13:00 às 14:50,Gyselle Chrystina Baccan
+,,204.0,10.0,,,Gyselle Chrystina Baccan
+,,286.0,2.0,,15:45 às 16:40,Gyselle Chrystina Baccan
+,,204.0,10.0,,,Gyselle Chrystina Baccan
+,10300.0,286.0,2.0,QUI,13:00 às 14:50,Gyselle Chrystina Baccan
+,,204.0,10.0,,,Gyselle Chrystina Baccan
+,,286.0,2.0,,16:40 às 17:35,Gyselle Chrystina Baccan
+,,204.0,10.0,,,Gyselle Chrystina Baccan
+,10400.0,204.0,12.0,QUI,13:00 às 14:50,Gyselle Chrystina Baccan
+,,,,,17:35 às 18:30,Gyselle Chrystina Baccan
+,20500.0,286.0,2.0,TER,18:30 às 20:20,Gyselle Chrystina Baccan
+,,281.0,10.0,,,Gyselle Chrystina Baccan
+,,286.0,2.0,QUI,18:30 às 19:25,Rosangela Gomes de Lima
+,,281.0,10.0,,,Rosangela Gomes de Lima
+,20600.0,286.0,2.0,TER,18:30 às 20:20,Gyselle Chrystina Baccan
+,,281.0,10.0,,,Gyselle Chrystina Baccan
+,,286.0,2.0,QUI,19:25 às 20:20,Rosangela Gomes de Lima
+,,281.0,10.0,,,Rosangela Gomes de Lima
+,20700.0,286.0,2.0,TER,18:30 às 20:20,Gyselle Chrystina Baccan
+,,281.0,10.0,,,Gyselle Chrystina Baccan
+,,286.0,2.0,QUI,20:20 às 21:15,Rosangela Gomes de Lima
+,,281.0,10.0,,,Rosangela Gomes de Lima
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICS071 - BIOQUÍMICA METABÓLICA PARA FARMÁCIA,10000.0,286.0,5.0,TER,13:00 às 14:50,Luzimar Gonzaga Fernandez
+,,204.0,40.0,,,Luzimar Gonzaga Fernandez
+,,286.0,5.0,,,Regiane Degan Favaro
+,,204.0,40.0,,,Regiane Degan Favaro
+,,286.0,5.0,QUI,13:00 às 14:50,Regiane Degan Favaro
+,,204.0,40.0,,,Regiane Degan Favaro
+,20000.0,286.0,4.0,TER,14:50 às 16:40,Regiane Degan Favaro
+,,204.0,41.0,,,Regiane Degan Favaro
+,,286.0,4.0,QUI,14:50 às 16:40,Luzimar Gonzaga Fernandez
+,,204.0,41.0,,,Luzimar Gonzaga Fernandez
+,,286.0,4.0,,,Regiane Degan Favaro
+,,204.0,41.0,,,Regiane Degan Favaro
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICS073 - FUNDAMENTOS DE FONOAUDIOLOGIA,10000.0,226.0,3.0,QUA,13:00 às 14:50,Leda Maria Fonseca Bazzo
+,,210.0,30.0,,,Leda Maria Fonseca Bazzo
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICS076 - BIOFISICA V - APLICADA A FONOAUDIOLOGIA,10100.0,286.0,2.0,SEG,13:00 às 14:50,Marcia Barbosa da Silva
+,,210.0,13.0,,,Marcia Barbosa da Silva
+,,286.0,2.0,QUA,13:00 às 14:50,Marcia Barbosa da Silva
+,,210.0,13.0,,,Marcia Barbosa da Silva
+,10200.0,286.0,1.0,SEG,14:50 às 16:40,Marcia Barbosa da Silva
+,,210.0,14.0,,,Marcia Barbosa da Silva
+,,286.0,1.0,QUA,13:00 às 14:50,Marcia Barbosa da Silva
+,,210.0,14.0,,,Marcia Barbosa da Silva
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICS085 - SURDEZ E LINGUAGEM,10100.0,210.0,10.0,TER,13:00 às 15:45,Desiree de Vit Begrow
+,,,,,15:45 às 16:40,Desiree de Vit Begrow
+,10200.0,210.0,10.0,TER,13:00 às 15:45,Desiree de Vit Begrow
+,,,,QUI,13:00 às 13:55,Desiree de Vit Begrow
+,10300.0,210.0,10.0,TER,13:00 às 15:45,Desiree de Vit Begrow
+,,,,QUI,13:55 às 14:50,Desiree de Vit Begrow
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICS087 - FONOAUDIOLOGIA EDUCACIONAL,10100.0,210.0,16.0,QUA,13:00 às 14:50,Docente Substituto a Contratar
+,,,,,14:50 às 15:45,Docente Substituto a Contratar
+,10200.0,210.0,16.0,QUA,13:00 às 14:50,Docente Substituto a Contratar
+,,,,,15:45 às 16:40,Docente Substituto a Contratar
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICS098 - ETICA PROFISSIONAL,10000.0,226.0,5.0,QUA,14:50 às 16:40,Leda Maria Fonseca Bazzo
+,,210.0,20.0,,,Leda Maria Fonseca Bazzo
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICS105 - FARMACOLOGIA APLICADA À FONOAUDIOLOGIA,10000.0,210.0,15.0,QUI,13:00 às 14:50,Quiara Lovatti Alves
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICS459 - ACC: ACESSIBILIDADE E TECNOLOGIAS ASSISTIVAS,100.0,580.0,1.0,TER,13:00 às 14:50,Maria Clara Barretto de Freitas Melro Br
+,,501.0,5.0,,,Maria Clara Barretto de Freitas Melro Br
+,,384.0,1.0,,,Maria Clara Barretto de Freitas Melro Br
+,,313.0,2.0,,,Maria Clara Barretto de Freitas Melro Br
+,,286.0,1.0,,,Maria Clara Barretto de Freitas Melro Br
+,,226.0,5.0,,,Maria Clara Barretto de Freitas Melro Br
+,,205.0,2.0,,,Maria Clara Barretto de Freitas Melro Br
+,,203.0,1.0,,,Maria Clara Barretto de Freitas Melro Br
+,,197.0,1.0,,,Maria Clara Barretto de Freitas Melro Br
+,,188.0,2.0,,,Maria Clara Barretto de Freitas Melro Br
+,,187.0,2.0,,,Maria Clara Barretto de Freitas Melro Br
+,,512.0,1.0,,,Maria Clara Barretto de Freitas Melro Br
+,,186.0,1.0,,,Maria Clara Barretto de Freitas Melro Br
+,,102.0,2.0,,,Maria Clara Barretto de Freitas Melro Br
+,,580.0,1.0,CMB,00:00 às 00:00,Maria Clara Barretto de Freitas Melro Br
+,,512.0,1.0,,,Maria Clara Barretto de Freitas Melro Br
+,,501.0,5.0,,,Maria Clara Barretto de Freitas Melro Br
+,,384.0,1.0,,,Maria Clara Barretto de Freitas Melro Br
+,,313.0,2.0,,,Maria Clara Barretto de Freitas Melro Br
+,,286.0,1.0,,,Maria Clara Barretto de Freitas Melro Br
+,,226.0,5.0,,,Maria Clara Barretto de Freitas Melro Br
+,,205.0,2.0,,,Maria Clara Barretto de Freitas Melro Br
+,,203.0,1.0,,,Maria Clara Barretto de Freitas Melro Br
+,,197.0,1.0,,,Maria Clara Barretto de Freitas Melro Br
+,,188.0,2.0,,,Maria Clara Barretto de Freitas Melro Br
+,,187.0,2.0,,,Maria Clara Barretto de Freitas Melro Br
+,,186.0,1.0,,,Maria Clara Barretto de Freitas Melro Br
+,,102.0,2.0,,,Maria Clara Barretto de Freitas Melro Br
+,200.0,512.0,2.0,TER,14:50 às 16:40,Maria Clara Barretto de Freitas Melro Br
+,,384.0,1.0,,,Maria Clara Barretto de Freitas Melro Br
+,,382.0,1.0,,,Maria Clara Barretto de Freitas Melro Br
+,,313.0,2.0,,,Maria Clara Barretto de Freitas Melro Br
+,,286.0,1.0,,,Maria Clara Barretto de Freitas Melro Br
+,,205.0,2.0,,,Maria Clara Barretto de Freitas Melro Br
+,,197.0,1.0,,,Maria Clara Barretto de Freitas Melro Br
+,,188.0,2.0,,,Maria Clara Barretto de Freitas Melro Br
+,,187.0,2.0,,,Maria Clara Barretto de Freitas Melro Br
+,,186.0,1.0,,,Maria Clara Barretto de Freitas Melro Br
+,,185.0,2.0,,,Maria Clara Barretto de Freitas Melro Br
+,,107.0,1.0,,,Maria Clara Barretto de Freitas Melro Br
+,,105.0,1.0,,,Maria Clara Barretto de Freitas Melro Br
+,,104.0,1.0,,,Maria Clara Barretto de Freitas Melro Br
+,,102.0,2.0,,,Maria Clara Barretto de Freitas Melro Br
+,,883.0,3.0,,,Maria Clara Barretto de Freitas Melro Br
+,,101.0,2.0,,,Maria Clara Barretto de Freitas Melro Br
+,,883.0,3.0,CMB,00:00 às 00:00,Maria Clara Barretto de Freitas Melro Br
+,,384.0,1.0,,,Maria Clara Barretto de Freitas Melro Br
+,,382.0,1.0,,,Maria Clara Barretto de Freitas Melro Br
+,,313.0,2.0,,,Maria Clara Barretto de Freitas Melro Br
+,,286.0,1.0,,,Maria Clara Barretto de Freitas Melro Br
+,,205.0,2.0,,,Maria Clara Barretto de Freitas Melro Br
+,,197.0,1.0,,,Maria Clara Barretto de Freitas Melro Br
+,,188.0,2.0,,,Maria Clara Barretto de Freitas Melro Br
+,,187.0,2.0,,,Maria Clara Barretto de Freitas Melro Br
+,,186.0,1.0,,,Maria Clara Barretto de Freitas Melro Br
+,,185.0,2.0,,,Maria Clara Barretto de Freitas Melro Br
+,,107.0,1.0,,,Maria Clara Barretto de Freitas Melro Br
+,,105.0,1.0,,,Maria Clara Barretto de Freitas Melro Br
+,,104.0,1.0,,,Maria Clara Barretto de Freitas Melro Br
+,,512.0,2.0,,,Maria Clara Barretto de Freitas Melro Br
+,,102.0,2.0,,,Maria Clara Barretto de Freitas Melro Br
+,,101.0,2.0,,,Maria Clara Barretto de Freitas Melro Br
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSA02 - MORFOLOGIA HUMANA,10100.0,284.0,40.0,SEG,18:30 às 20:20,Marcos de Amorim Aquino
+,,226.0,4.0,,,Marcos de Amorim Aquino
+,,284.0,40.0,TER,18:30 às 20:20,Marcos de Amorim Aquino
+,,226.0,4.0,,,Marcos de Amorim Aquino
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSA04 - BIOSSEGURANÇA,10000.0,284.0,45.0,TER,20:20 às 22:10,Songeli Menezes Freire
+,20000.0,226.0,30.0,QUI,18:30 às 20:20,Songeli Menezes Freire
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSA05 - BIOESTATÍSTICA PLANEJAMENTO EXPERIMENTAL,10000.0,284.0,45.0,SEX,20:20 às 22:10,Gilson Correia de Carvalho
+,20000.0,222.0,45.0,QUA,13:00 às 14:50,Helena Franca Correia
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSA06 - FUNDAMENTOS DE BIOTECNOLOGIA,10000.0,284.0,45.0,SEG,20:20 às 22:10,Luis Gustavo Carvalho Pacheco
+,,,,,,Thiago Luiz de Paula Castro
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSA07 - BIOÉTICA,10000.0,286.0,3.0,QUI,20:20 às 22:10,Songeli Menezes Freire
+,,284.0,45.0,,,Songeli Menezes Freire
+,20000.0,286.0,30.0,TER,18:30 às 20:20,Songeli Menezes Freire
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSA08 - BIOLOGIA CELULAR VEGETAL,10000.0,286.0,4.0,QUI,18:30 às 20:20,Juliana Sacramento Mota de Souza
+,,284.0,32.0,,,Juliana Sacramento Mota de Souza
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSA09 - BIOINFORMÁTICA,10100.0,284.0,36.0,QUA,18:30 às 20:20,Vitor Hugo Moreau da Cunha
+,,,,,20:20 às 22:10,Vitor Hugo Moreau da Cunha
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSA10 - METODOLOGIA CIENTÍFICA,10000.0,284.0,45.0,SEX,18:30 às 20:20,Gilson Correia de Carvalho
+,20000.0,883.0,45.0,TER,14:50 às 16:40,Cesar Augusto Piedrahita Aguirre
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSA11 - HISTOLOGIA,10100.0,286.0,2.0,SEG,18:30 às 20:20,Deise Souza Vilas Boas
+,,284.0,15.0,,,Deise Souza Vilas Boas
+,,286.0,2.0,,20:20 às 22:10,Deise Souza Vilas Boas
+,,284.0,15.0,,,Deise Souza Vilas Boas
+,10200.0,286.0,2.0,SEG,18:30 às 20:20,Deise Souza Vilas Boas
+,,284.0,15.0,,,Deise Souza Vilas Boas
+,,286.0,2.0,,20:20 às 22:10,Marcio Cajazeira Aguiar
+,,284.0,15.0,,,Marcio Cajazeira Aguiar
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSA12 - BIOFÍSICA,10100.0,286.0,3.0,TER,18:30 às 20:20,Victor Diogenes Amaral da Silva
+,,284.0,12.0,,,Victor Diogenes Amaral da Silva
+,,286.0,3.0,,20:20 às 22:10,Victor Diogenes Amaral da Silva
+,,284.0,12.0,,,Victor Diogenes Amaral da Silva
+,10200.0,286.0,3.0,TER,16:40 às 18:30,Franciane Santos Marques
+,,284.0,12.0,,,Franciane Santos Marques
+,,286.0,3.0,,18:30 às 20:20,Victor Diogenes Amaral da Silva
+,,284.0,12.0,,,Victor Diogenes Amaral da Silva
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSA13 - BIOQUÍMICA,10100.0,284.0,12.0,TER,20:20 às 22:10,Daniele Takahashi Bernal
+,,,,QUI,18:30 às 20:20,Daniele Takahashi Bernal
+,10200.0,286.0,3.0,TER,20:20 às 22:10,Daniele Takahashi Bernal
+,,284.0,12.0,,,Daniele Takahashi Bernal
+,,286.0,3.0,QUI,20:20 às 22:10,Daniele Takahashi Bernal
+,,284.0,12.0,,,Daniele Takahashi Bernal
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSA14 - FISIOLOGIA COMPARADA,10100.0,286.0,6.0,QUI,18:30 às 20:20,Rejane Conceicao Santana
+,,284.0,30.0,,,Rejane Conceicao Santana
+,,286.0,6.0,,20:20 às 22:10,Rejane Conceicao Santana
+,,284.0,30.0,,,Rejane Conceicao Santana
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSA15 - PARASITOLOGIA APLICADA À BIOTECNOLOGIA,10100.0,286.0,5.0,SEX,18:30 às 19:25,Daniela Luz Ambrosio Breisch
+,,284.0,18.0,,,Daniela Luz Ambrosio Breisch
+,,286.0,5.0,,,Joao Carlos Marques Ponte
+,,284.0,18.0,,,Joao Carlos Marques Ponte
+,,286.0,5.0,,19:25 às 20:20,Joao Carlos Marques Ponte
+,,284.0,18.0,,,Joao Carlos Marques Ponte
+,10200.0,286.0,2.0,SEX,18:30 às 19:25,Daniela Luz Ambrosio Breisch
+,,284.0,18.0,,,Daniela Luz Ambrosio Breisch
+,,286.0,2.0,,,Joao Carlos Marques Ponte
+,,284.0,18.0,,,Joao Carlos Marques Ponte
+,,286.0,2.0,,19:25 às 20:20,Daniela Luz Ambrosio Breisch
+,,284.0,18.0,,,Daniela Luz Ambrosio Breisch
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSA17 - IMUNOLOGIA,10100.0,284.0,18.0,SEG,20:20 às 22:10,Lucas Pedreira de Carvalho
+,,226.0,5.0,,,Lucas Pedreira de Carvalho
+,,284.0,18.0,QUA,18:30 às 20:20,Lucas Pedreira de Carvalho
+,,226.0,5.0,,,Lucas Pedreira de Carvalho
+,10200.0,284.0,18.0,SEG,20:20 às 22:10,Lucas Pedreira de Carvalho
+,,,,QUA,20:20 às 22:10,Lucas Pedreira de Carvalho
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSA18 - GENÉTICA,10100.0,284.0,20.0,TER,16:40 às 18:30,Vitor Hugo Moreau da Cunha
+,,,,,18:30 às 20:20,Vitor Hugo Moreau da Cunha
+,10200.0,284.0,20.0,TER,18:30 às 20:20,Vitor Hugo Moreau da Cunha
+,,,,,20:20 às 22:10,Vitor Hugo Moreau da Cunha
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSA19 - EMBRIOLOGIA E CÉLULAS TRONCO,10000.0,286.0,5.0,QUA,20:20 às 22:10,Marcus Welby Borges Oliveira
+,,284.0,40.0,,,Marcus Welby Borges Oliveira
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSA20 - FARMACOLOGIA GERAL,10000.0,284.0,36.0,QUA,18:30 às 20:20,Ryan dos Santos Costa
+,,,,,20:20 às 22:10,Ryan dos Santos Costa
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSA22 - TÉCNICAS DE BIOLOGIA MOLECULAR,10100.0,284.0,18.0,SEG,18:30 às 20:20,Luis Gustavo Carvalho Pacheco
+,,,,QUA,18:30 às 20:20,Luis Gustavo Carvalho Pacheco
+,10200.0,284.0,18.0,SEG,18:30 às 20:20,Luis Gustavo Carvalho Pacheco
+,,,,QUA,20:20 às 22:10,Luis Gustavo Carvalho Pacheco
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSA23 - MÉTODOS ANALÍTICOS EM BIOTECNOLOGIA,10100.0,284.0,15.0,SEX,18:30 às 20:20,Asterio Ribeiro Pessoa Neto
+,,,,,20:20 às 22:10,Asterio Ribeiro Pessoa Neto
+,10200.0,284.0,15.0,SEX,16:40 às 18:30,Asterio Ribeiro Pessoa Neto
+,,,,,18:30 às 20:20,Asterio Ribeiro Pessoa Neto
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSA24 - BOAS PRÁTICAS DE FABRICAÇÃO,10000.0,284.0,45.0,QUI,20:20 às 22:10,Asterio Ribeiro Pessoa Neto
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSA25 - MICROBIOLOGIA INDUSTRIAL,10100.0,284.0,18.0,TER,18:30 às 20:20,Cesar Augusto Piedrahita Aguirre
+,,,,,20:20 às 22:10,Cesar Augusto Piedrahita Aguirre
+,10200.0,284.0,18.0,TER,18:30 às 20:20,Cesar Augusto Piedrahita Aguirre
+,,,,QUI,15:45 às 17:35,Cesar Augusto Piedrahita Aguirre
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSA26 - NANOTECNOLOGIA E BIOMATERIAIS,10100.0,284.0,18.0,SEX,15:45 às 17:35,Bruno da Fonseca dos Santos
+,,,,,18:30 às 20:20,Bruno da Fonseca dos Santos
+,10200.0,284.0,18.0,SEX,18:30 às 20:20,Bruno da Fonseca dos Santos
+,,,,,20:20 às 22:10,Bruno da Fonseca dos Santos
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSA27 - ENGENHARIA GENÉTICA,10000.0,284.0,32.0,TER,18:30 às 20:20,Thiago Luiz de Paula Castro
+,,,,,20:20 às 22:10,Thiago Luiz de Paula Castro
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSA28 - BIOTECNOLOGIA DOS ALIMENTOS,10100.0,284.0,32.0,SEG,20:20 às 22:10,Marcelo Andres Umsza Guez
+,,,,TER,20:20 às 22:10,Marcelo Andres Umsza Guez
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSA29 - IMUNODIAGNÓSTICO,10100.0,284.0,18.0,SEG,20:20 às 22:10,Ricardo Wagner Dias Portela
+,,,,TER,18:30 às 20:20,Ricardo Wagner Dias Portela
+,10200.0,284.0,18.0,SEG,20:20 às 22:10,Ricardo Wagner Dias Portela
+,,,,TER,20:20 às 22:10,Ricardo Wagner Dias Portela
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSA30 - BIOTECNOLOGIA VEGETAL,10100.0,286.0,1.0,SEG,18:30 às 20:20,Marta Bruno Loureiro
+,,284.0,14.0,,,Marta Bruno Loureiro
+,,286.0,1.0,QUI,18:30 às 20:20,Marta Bruno Loureiro
+,,284.0,14.0,,,Marta Bruno Loureiro
+,10200.0,286.0,2.0,SEG,18:30 às 20:20,Marta Bruno Loureiro
+,,284.0,13.0,,,Marta Bruno Loureiro
+,,286.0,2.0,QUI,20:20 às 22:10,Marta Bruno Loureiro
+,,284.0,13.0,,,Marta Bruno Loureiro
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSA31 - RADIOISÓTOPOS,10000.0,286.0,4.0,TER,18:30 às 20:20,Clarissa de Sampaio Schitine
+,,284.0,32.0,,,Clarissa de Sampaio Schitine
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSA32 - TECNOLOGIA DE DESENVOLVIMENTO DE VACINAS,10000.0,284.0,45.0,SEG,18:30 às 20:20,Ricardo Wagner Dias Portela
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSA33 - TECNOLOGIA DE PROCESSOS FERMENTATIVOS,10100.0,284.0,36.0,SEG,18:30 às 20:20,Fabio Alexandre Chinalia
+,,,,,20:20 às 22:10,Fabio Alexandre Chinalia
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSA34 - DESENVOLVIMENTO DE PRODUTOS E PROJETOS BIOTECNOLÓGICOS,10000.0,284.0,45.0,QUA,20:20 às 22:10,Asterio Ribeiro Pessoa Neto
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSA35 - CULTURA DE CÉLULAS E TECIDOS,10100.0,284.0,15.0,QUI,15:45 às 17:35,Andrea Mendonca Gusmao Cunha
+,,,,,18:30 às 20:20,Andrea Mendonca Gusmao Cunha
+,10200.0,284.0,15.0,QUI,18:30 às 20:20,Andrea Mendonca Gusmao Cunha
+,,,,,20:20 às 22:10,Andrea Mendonca Gusmao Cunha
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSA38 - CONTROLE DE QUALIDADE DE PROCESSOS E PRODUTOS,10000.0,284.0,45.0,QUA,15:45 às 17:35,Jorge Luis Nicoleti
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSA40 - TRABALHO DE CONCLUSÃO DE CURSO I,100.0,286.0,3.0,QUA,18:30 às 20:20,Andrea Mendonca Gusmao Cunha
+,,284.0,30.0,,,Andrea Mendonca Gusmao Cunha
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSA41 - ESTÁGIO SUPERVISIONADO,1.0,284.0,30.0,SEG,07:00 às 10:40,Marcelo Andres Umsza Guez
+,,,,TER,07:00 às 10:40,Marcelo Andres Umsza Guez
+,,,,QUA,07:00 às 10:40,Marcelo Andres Umsza Guez
+,,,,QUI,07:00 às 10:40,Marcelo Andres Umsza Guez
+,,,,CMB,00:00 às 00:00,Marcelo Andres Umsza Guez
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSA42 - TRABALHO DE CONCLUSÃO DE CURSO II,100.0,284.0,30.0,QUI,10:40 às 12:30,Jorge Luis Nicoleti
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSA43 - ANATOMIA I-A,10100.0,226.0,2.0,QUI,07:00 às 07:55,Maria Penha Oliveira Belem
+,,204.0,20.0,,,Maria Penha Oliveira Belem
+,,226.0,2.0,,07:55 às 09:45,Maria Penha Oliveira Belem
+,,204.0,20.0,,,Maria Penha Oliveira Belem
+,10200.0,226.0,2.0,QUI,07:00 às 07:55,Maria Penha Oliveira Belem
+,,204.0,20.0,,,Maria Penha Oliveira Belem
+,,226.0,2.0,,07:55 às 09:45,Laise Monteiro Campos Moraes
+,,204.0,20.0,,,Laise Monteiro Campos Moraes
+,10300.0,226.0,2.0,QUI,07:00 às 07:55,Maria Penha Oliveira Belem
+,,204.0,20.0,,,Maria Penha Oliveira Belem
+,,226.0,2.0,,09:45 às 11:35,Maria Penha Oliveira Belem
+,,204.0,20.0,,,Maria Penha Oliveira Belem
+,20400.0,226.0,1.0,SEX,13:00 às 13:55,Eliana dos Santos Camara Pereira
+,,202.0,15.0,,,Eliana dos Santos Camara Pereira
+,,226.0,1.0,,13:55 às 15:45,Eliana dos Santos Camara Pereira
+,,202.0,15.0,,,Eliana dos Santos Camara Pereira
+,20500.0,226.0,2.0,SEX,13:00 às 13:55,Eliana dos Santos Camara Pereira
+,,202.0,15.0,,,Eliana dos Santos Camara Pereira
+,,226.0,2.0,,15:45 às 17:35,Eliana dos Santos Camara Pereira
+,,202.0,15.0,,,Eliana dos Santos Camara Pereira
+,30600.0,286.0,5.0,SEX,18:30 às 19:25,Eliana dos Santos Camara Pereira
+,,281.0,30.0,,,Eliana dos Santos Camara Pereira
+,,280.0,15.0,,,Eliana dos Santos Camara Pereira
+,,286.0,5.0,,19:25 às 21:15,Eliana dos Santos Camara Pereira
+,,281.0,30.0,,,Eliana dos Santos Camara Pereira
+,,280.0,15.0,,,Eliana dos Santos Camara Pereira
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSA44 - HISTOLOGIA I-A,10100.0,286.0,5.0,QUI,13:00 às 13:55,Marcos Borges Ribeiro
+,,226.0,5.0,,,Marcos Borges Ribeiro
+,,286.0,5.0,SEX,13:00 às 14:50,Deboraci Brito Prates
+,,226.0,5.0,,,Deboraci Brito Prates
+,10200.0,204.0,10.0,QUI,13:55 às 14:50,Marcos Borges Ribeiro
+,,,,SEX,13:00 às 14:50,Deboraci Brito Prates
+,10300.0,204.0,10.0,QUI,14:50 às 15:45,Deboraci Brito Prates
+,,,,SEX,13:00 às 14:50,Deboraci Brito Prates
+,10400.0,204.0,10.0,QUI,15:45 às 16:40,Deboraci Brito Prates
+,,,,SEX,13:00 às 14:50,Deboraci Brito Prates
+,10500.0,204.0,10.0,QUI,16:40 às 17:35,Deboraci Brito Prates
+,,,,SEX,13:00 às 14:50,Deboraci Brito Prates
+,10600.0,204.0,10.0,SEX,13:00 às 14:50,Deboraci Brito Prates
+,,,,,14:50 às 15:45,Deboraci Brito Prates
+,10700.0,204.0,10.0,SEX,13:00 às 14:50,Deboraci Brito Prates
+,,,,,15:45 às 16:40,Deboraci Brito Prates
+,20800.0,281.0,10.0,TER,20:20 às 22:10,Deboraci Brito Prates
+,,,,QUI,18:30 às 19:25,Deboraci Brito Prates
+,20900.0,281.0,10.0,TER,20:20 às 22:10,Deboraci Brito Prates
+,,,,QUI,19:25 às 20:20,Deboraci Brito Prates
+,21000.0,281.0,10.0,TER,20:20 às 22:10,Deboraci Brito Prates
+,,,,QUI,20:20 às 21:15,Deboraci Brito Prates
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSA45 - FISIOLOGIA HUMANA I,10100.0,204.0,15.0,TER,07:00 às 08:50,Darizy Flavia Silva Amorim de Vasconcelo
+,,,,,08:50 às 10:40,Darizy Flavia Silva Amorim de Vasconcelo
+,,,,QUI,07:00 às 08:50,Luciana Lyra Casais e Silva
+,10200.0,204.0,15.0,TER,07:00 às 08:50,Darizy Flavia Silva Amorim de Vasconcelo
+,,,,,10:40 às 12:30,Darizy Flavia Silva Amorim de Vasconcelo
+,,,,QUI,07:00 às 08:50,Luciana Lyra Casais e Silva
+,10300.0,204.0,15.0,TER,07:00 às 08:50,Darizy Flavia Silva Amorim de Vasconcelo
+,,,,QUI,07:00 às 08:50,Luciana Lyra Casais e Silva
+,,,,,08:50 às 10:40,Luciana Lyra Casais e Silva
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSA46 - IMUNOLOGIA BÁSICA,10000.0,226.0,4.0,QUA,07:00 às 08:50,Robert Eduard Schaer
+,,207.0,15.0,,,Robert Eduard Schaer
+,,204.0,30.0,,,Robert Eduard Schaer
+,20000.0,226.0,3.0,QUA,07:00 às 08:50,Lucas Pedreira de Carvalho
+,,204.0,30.0,,,Lucas Pedreira de Carvalho
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSA47 - MICROBIOLOGIA BÁSICA,10000.0,226.0,4.0,SEG,13:00 às 14:50,Samira Abdallah Hanna
+,,204.0,45.0,,,Samira Abdallah Hanna
+,20000.0,226.0,4.0,SEG,14:50 às 16:40,Gustavo Miranda Pires Santos
+,,204.0,45.0,,,Gustavo Miranda Pires Santos
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSA48 - PARASITOLOGIA BÁSICA,10000.0,280.0,1.0,SEX,07:00 às 08:50,Nicolaus Albert Borges Schriefer
+,,226.0,5.0,,,Nicolaus Albert Borges Schriefer
+,,204.0,60.0,,,Nicolaus Albert Borges Schriefer
+,,202.0,4.0,,,Nicolaus Albert Borges Schriefer
+,,280.0,1.0,,,Heloisa Cristina da Silva
+,,226.0,5.0,,,Heloisa Cristina da Silva
+,,204.0,60.0,,,Heloisa Cristina da Silva
+,,202.0,4.0,,,Heloisa Cristina da Silva
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSA82 - CIÊNCIAS NATURAIS NO ENSINO FUINDAMENTAL,10100.0,312.0,14.0,QUA,07:00 às 08:50,Regiane Degan Favaro
+,,286.0,1.0,,,Regiane Degan Favaro
+,,312.0,14.0,,08:50 às 10:40,Regiane Degan Favaro
+,,286.0,1.0,,,Regiane Degan Favaro
+,10200.0,312.0,13.0,QUA,07:00 às 08:50,Regiane Degan Favaro
+,,286.0,2.0,,,Regiane Degan Favaro
+,,312.0,13.0,,10:40 às 12:30,Docente Substituto a Contratar
+,,286.0,2.0,,,Docente Substituto a Contratar
+,20300.0,385.0,12.0,TER,18:30 às 20:20,Docente Substituto a Contratar
+,,286.0,3.0,,,Docente Substituto a Contratar
+,,385.0,12.0,,20:20 às 22:10,Docente Substituto a Contratar
+,,286.0,3.0,,,Docente Substituto a Contratar
+,20400.0,385.0,12.0,TER,18:30 às 20:20,Docente Substituto a Contratar
+,,286.0,3.0,,,Docente Substituto a Contratar
+,,385.0,12.0,QUA,18:30 às 20:20,Docente Substituto a Contratar
+,,286.0,3.0,,,Docente Substituto a Contratar
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSA86 - ANATOMIA DE SISTEMAS,10100.0,226.0,1.0,QUA,13:55 às 15:45,Telma Sumie Masuko
+,,205.0,15.0,,,Telma Sumie Masuko
+,,226.0,1.0,QUI,07:00 às 08:50,Adelmir de Souza Machado
+,,205.0,15.0,,,Adelmir de Souza Machado
+,,226.0,1.0,SEX,08:50 às 10:40,Adelmir de Souza Machado
+,,205.0,15.0,,,Adelmir de Souza Machado
+,,226.0,1.0,,13:55 às 15:45,Adelmir de Souza Machado
+,,205.0,15.0,,,Adelmir de Souza Machado
+,10200.0,226.0,1.0,QUA,13:55 às 15:45,Telma Sumie Masuko
+,,205.0,15.0,,,Telma Sumie Masuko
+,,226.0,1.0,QUI,07:00 às 08:50,Adelmir de Souza Machado
+,,205.0,15.0,,,Adelmir de Souza Machado
+,,226.0,1.0,SEX,08:50 às 10:40,Marion Alves do Nascimento
+,,205.0,15.0,,,Marion Alves do Nascimento
+,,226.0,1.0,,13:55 às 15:45,Marion Alves do Nascimento
+,,205.0,15.0,,,Marion Alves do Nascimento
+,10300.0,226.0,1.0,QUA,13:55 às 15:45,Telma Sumie Masuko
+,,205.0,15.0,,,Telma Sumie Masuko
+,,226.0,1.0,QUI,07:00 às 08:50,Adelmir de Souza Machado
+,,205.0,15.0,,,Adelmir de Souza Machado
+,,226.0,1.0,SEX,08:50 às 10:40,Telma Sumie Masuko
+,,205.0,15.0,,,Telma Sumie Masuko
+,,226.0,1.0,,13:55 às 15:45,Telma Sumie Masuko
+,,205.0,15.0,,,Telma Sumie Masuko
+,10400.0,226.0,1.0,QUA,13:55 às 15:45,Telma Sumie Masuko
+,,205.0,15.0,,,Telma Sumie Masuko
+,,226.0,1.0,QUI,07:00 às 08:50,Adelmir de Souza Machado
+,,205.0,15.0,,,Adelmir de Souza Machado
+,,226.0,1.0,SEX,10:40 às 12:30,Adelmir de Souza Machado
+,,205.0,15.0,,,Adelmir de Souza Machado
+,,226.0,1.0,,15:45 às 17:35,Adelmir de Souza Machado
+,,205.0,15.0,,,Adelmir de Souza Machado
+,10500.0,226.0,1.0,QUA,13:55 às 15:45,Telma Sumie Masuko
+,,205.0,15.0,,,Telma Sumie Masuko
+,,226.0,1.0,QUI,07:00 às 08:50,Adelmir de Souza Machado
+,,205.0,15.0,,,Adelmir de Souza Machado
+,,226.0,1.0,SEX,10:40 às 12:30,Marion Alves do Nascimento
+,,205.0,15.0,,,Marion Alves do Nascimento
+,,226.0,1.0,,15:45 às 17:35,Marion Alves do Nascimento
+,,205.0,15.0,,,Marion Alves do Nascimento
+,10600.0,226.0,1.0,QUA,13:55 às 15:45,Telma Sumie Masuko
+,,205.0,15.0,,,Telma Sumie Masuko
+,,226.0,1.0,QUI,07:00 às 08:50,Adelmir de Souza Machado
+,,205.0,15.0,,,Adelmir de Souza Machado
+,,226.0,1.0,SEX,10:40 às 12:30,Telma Sumie Masuko
+,,205.0,15.0,,,Telma Sumie Masuko
+,,226.0,1.0,,15:45 às 17:35,Telma Sumie Masuko
+,,205.0,15.0,,,Telma Sumie Masuko
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSA91 - ESTUDO MORFOFUNCIONAL HUMANO,10000.0,222.0,45.0,SEG,14:50 às 16:40,Gabriela Botelho Martins Oliveira Souza
+,,,,QUI,13:00 às 14:50,Gabriela Botelho Martins Oliveira Souza
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSA92 - ANATOMIA APLICADA À FISIOTERAPIA,10100.0,226.0,2.0,SEG,16:40 às 17:35,Marcos de Amorim Aquino
+,,222.0,18.0,,,Marcos de Amorim Aquino
+,,226.0,2.0,TER,15:45 às 18:30,Marcos de Amorim Aquino
+,,222.0,18.0,,,Marcos de Amorim Aquino
+,10200.0,226.0,2.0,SEG,17:35 às 18:30,Marcos de Amorim Aquino
+,,222.0,18.0,,,Marcos de Amorim Aquino
+,,226.0,2.0,TER,15:45 às 18:30,Marcos de Amorim Aquino
+,,222.0,18.0,,,Marcos de Amorim Aquino
+,10300.0,226.0,1.0,TER,14:50 às 15:45,Marcos de Amorim Aquino
+,,222.0,18.0,,,Marcos de Amorim Aquino
+,,226.0,1.0,,15:45 às 18:30,Marcos de Amorim Aquino
+,,222.0,18.0,,,Marcos de Amorim Aquino
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSA93 - DEONTOLOGIA E ÉTICA EM FISIOTERAPIA,10000.0,226.0,4.0,QUI,07:55 às 09:45,Martha Moreira Cavalcante Castro
+,,222.0,45.0,,,Martha Moreira Cavalcante Castro
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSA95 - ANATOMIA APLICADA À FONOAUDIOLOGIA,10100.0,226.0,2.0,TER,13:00 às 14:50,Samuel Barbosa Camargo
+,,210.0,15.0,,,Samuel Barbosa Camargo
+,,226.0,2.0,,14:50 às 16:40,Juciele Valeria Ribeiro de Oliveira
+,,210.0,15.0,,,Juciele Valeria Ribeiro de Oliveira
+,10200.0,226.0,1.0,TER,13:00 às 14:50,Samuel Barbosa Camargo
+,,210.0,15.0,,,Samuel Barbosa Camargo
+,,226.0,1.0,,14:50 às 16:40,Samuel Barbosa Camargo
+,,210.0,15.0,,,Samuel Barbosa Camargo
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSA96 - HISTOLOGIA E EMBRIOLOGIA APLICADA À FONOAUDIOLOGIA,10100.0,226.0,3.0,SEG,13:00 às 14:50,Marcio Cajazeira Aguiar
+,,210.0,15.0,,,Marcio Cajazeira Aguiar
+,,226.0,3.0,,16:40 às 18:30,Marcio Cajazeira Aguiar
+,,210.0,15.0,,,Marcio Cajazeira Aguiar
+,10200.0,210.0,15.0,SEG,14:50 às 16:40,Marcio Cajazeira Aguiar
+,,,,,16:40 às 18:30,Marcio Cajazeira Aguiar
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSA97 - MICROBIOLOGIA II,10100.0,226.0,2.0,QUA,13:00 às 14:50,Monica Pereira Franca
+,,203.0,10.0,,,Monica Pereira Franca
+,,226.0,2.0,,14:50 às 15:45,Monica Pereira Franca
+,,203.0,10.0,,,Monica Pereira Franca
+,,226.0,2.0,QUI,08:50 às 09:45,Monica Pereira Franca
+,,203.0,10.0,,,Monica Pereira Franca
+,10200.0,226.0,2.0,QUA,13:00 às 14:50,Monica Pereira Franca
+,,203.0,10.0,,,Monica Pereira Franca
+,,226.0,2.0,,14:50 às 15:45,Lilia Ferreira de Moura Costa
+,,203.0,10.0,,,Lilia Ferreira de Moura Costa
+,,226.0,2.0,QUI,08:50 às 09:45,Lilia Ferreira de Moura Costa
+,,203.0,10.0,,,Lilia Ferreira de Moura Costa
+,10300.0,226.0,2.0,QUA,13:00 às 14:50,Monica Pereira Franca
+,,203.0,10.0,,,Monica Pereira Franca
+,,226.0,2.0,,15:45 às 16:40,Monica Pereira Franca
+,,203.0,10.0,,,Monica Pereira Franca
+,,226.0,2.0,QUI,09:45 às 10:40,Monica Pereira Franca
+,,203.0,10.0,,,Monica Pereira Franca
+,10400.0,226.0,2.0,QUA,13:00 às 14:50,Monica Pereira Franca
+,,203.0,10.0,,,Monica Pereira Franca
+,,226.0,2.0,,15:45 às 16:40,Lilia Ferreira de Moura Costa
+,,203.0,10.0,,,Lilia Ferreira de Moura Costa
+,,226.0,2.0,QUI,09:45 às 10:40,Lilia Ferreira de Moura Costa
+,,203.0,10.0,,,Lilia Ferreira de Moura Costa
+,10500.0,226.0,2.0,QUA,13:00 às 14:50,Monica Pereira Franca
+,,203.0,10.0,,,Monica Pereira Franca
+,,226.0,2.0,,16:40 às 17:35,Monica Pereira Franca
+,,203.0,10.0,,,Monica Pereira Franca
+,,226.0,2.0,QUI,10:40 às 11:35,Monica Pereira Franca
+,,203.0,10.0,,,Monica Pereira Franca
+,10600.0,226.0,2.0,QUA,13:00 às 14:50,Monica Pereira Franca
+,,203.0,10.0,,,Monica Pereira Franca
+,,226.0,2.0,,16:40 às 17:35,Lilia Ferreira de Moura Costa
+,,203.0,10.0,,,Lilia Ferreira de Moura Costa
+,,226.0,2.0,QUI,10:40 às 11:35,Lilia Ferreira de Moura Costa
+,,203.0,10.0,,,Lilia Ferreira de Moura Costa
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSA98 - IMUNOLOGIA BÁSICA II,10100.0,226.0,5.0,SEX,07:00 às 08:50,Silvana Beutinger Marchioro
+,,203.0,20.0,,,Silvana Beutinger Marchioro
+,,226.0,5.0,,08:50 às 09:45,Silvana Beutinger Marchioro
+,,203.0,20.0,,,Silvana Beutinger Marchioro
+,10200.0,203.0,25.0,SEX,07:00 às 08:50,Silvana Beutinger Marchioro
+,,,,,09:45 às 10:40,Silvana Beutinger Marchioro
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSA99 - FISIOLOGIA HUMANA BÁSICA,10100.0,210.0,15.0,QUA,14:50 às 16:40,Suzana Braga de Souza
+,,,,,16:40 às 18:30,Suzana Braga de Souza
+,10200.0,210.0,15.0,QUA,14:50 às 16:40,Suzana Braga de Souza
+,,,,,16:40 às 18:30,Paula Cristina Alves Araujo
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSB01 - AUDIÇÃO E SAÚDE,10000.0,226.0,3.0,SEX,13:00 às 14:50,Lays Freitas Silva
+,,222.0,3.0,,,Lays Freitas Silva
+,,210.0,30.0,,,Lays Freitas Silva
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSB02 - PROCESSOS DE AQUISIÇÃO E DESENV. DA COMUNICAÇÃO HUMANA,10100.0,226.0,2.0,SEX,14:50 às 16:40,Marcus Vinicius Borges Oliveira
+,,210.0,25.0,,,Marcus Vinicius Borges Oliveira
+,,226.0,2.0,,16:40 às 17:35,Marcus Vinicius Borges Oliveira
+,,210.0,25.0,,,Marcus Vinicius Borges Oliveira
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSB03 - FISIOLOGIA APLICADA À FONOAUDIOLOGIA,10100.0,210.0,28.0,QUI,14:50 às 16:40,Suzana Braga de Souza
+,,,,,16:40 às 18:30,Suzana Braga de Souza
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSB04 - ANATOMIA HUMANA APLICADA A ENFERMAGEM,10100.0,226.0,2.0,QUA,13:55 às 15:45,Thais Silva Peleteiro
+,,203.0,25.0,,,Thais Silva Peleteiro
+,,226.0,2.0,,15:45 às 17:35,Samuel Barbosa Camargo
+,,203.0,25.0,,,Samuel Barbosa Camargo
+,10200.0,226.0,2.0,QUA,13:55 às 15:45,Thais Silva Peleteiro
+,,203.0,25.0,,,Thais Silva Peleteiro
+,,226.0,2.0,,15:45 às 17:35,Thais Silva Peleteiro
+,,203.0,25.0,,,Thais Silva Peleteiro
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSB05 - FISIOLOGIA HUMANA APLICADA A ENFERMAGEM,10100.0,226.0,1.0,SEG,07:00 às 08:50,Monica Serra
+,,203.0,15.0,,,Monica Serra
+,,226.0,1.0,,08:50 às 10:40,Giselle Calasans de Souza Costa
+,,203.0,15.0,,,Giselle Calasans de Souza Costa
+,10200.0,226.0,1.0,SEG,07:00 às 08:50,Monica Serra
+,,203.0,15.0,,,Monica Serra
+,,226.0,1.0,,08:50 às 10:40,Rejane Conceicao Santana
+,,203.0,15.0,,,Rejane Conceicao Santana
+,10300.0,226.0,1.0,SEG,07:00 às 08:50,Monica Serra
+,,203.0,15.0,,,Monica Serra
+,,226.0,1.0,,10:40 às 12:30,Darizy Flavia Silva Amorim de Vasconcelo
+,,203.0,15.0,,,Darizy Flavia Silva Amorim de Vasconcelo
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSB06 - HISTOLOGIA HUMANA APLICADA A ENFERMAGEM,10100.0,203.0,13.0,TER,07:00 às 08:50,Marcos Borges Ribeiro
+,,,,,10:40 às 12:30,Marcos Borges Ribeiro
+,10200.0,226.0,3.0,TER,07:00 às 08:50,Marcio Cajazeira Aguiar
+,,203.0,12.0,,,Marcio Cajazeira Aguiar
+,,226.0,3.0,,10:40 às 12:30,Marcos Borges Ribeiro
+,,203.0,12.0,,,Marcos Borges Ribeiro
+,10300.0,203.0,13.0,TER,08:50 às 10:40,Marcos Borges Ribeiro
+,,,,,10:40 às 12:30,Marcos Borges Ribeiro
+,10400.0,226.0,3.0,TER,08:50 às 10:40,Marcio Cajazeira Aguiar
+,,203.0,12.0,,,Marcio Cajazeira Aguiar
+,,226.0,3.0,,10:40 às 12:30,Marcos Borges Ribeiro
+,,203.0,12.0,,,Marcos Borges Ribeiro
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSB07 - FARMACOLOGIA APLICADA À ENFERMAGEM I,10000.0,203.0,50.0,SEX,10:40 às 12:30,Ryan dos Santos Costa
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSB08 - SAÚDE VOCAL,10100.0,508.0,3.0,TER,14:50 às 16:40,Ingrid Sampaio Souza
+,,226.0,3.0,,,Ingrid Sampaio Souza
+,,210.0,29.0,,,Ingrid Sampaio Souza
+,,508.0,3.0,,16:40 às 17:35,Ingrid Sampaio Souza
+,,226.0,3.0,,,Ingrid Sampaio Souza
+,,210.0,29.0,,,Ingrid Sampaio Souza
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSB09 - METODOLOGIA CIENTÍFICA,10000.0,226.0,2.0,SEX,13:00 às 14:50,Franciana Cristina Cavalcante Nunes dos
+,,210.0,25.0,,,Franciana Cristina Cavalcante Nunes dos
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSB10 - LINGUAGEM E ALTERAÇÕES DA COMUNICAÇÃO ORAL,10100.0,210.0,15.0,SEG,13:00 às 14:50,Jamille da Costa Pereira
+,,,,TER,13:00 às 13:55,Melissa Catrini da Silva
+,10200.0,210.0,15.0,SEG,13:00 às 14:50,Jamille da Costa Pereira
+,,,,TER,13:55 às 14:50,Melissa Catrini da Silva
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSB11 - LINGUAGEM E TRANSTORNOS DE FALA NA INFÂNCIA,10100.0,210.0,16.0,TER,14:50 às 15:45,Maira Araujo de Oliva Gentil
+,,,,,15:45 às 17:35,Maira Araujo de Oliva Gentil
+,10200.0,210.0,15.0,TER,15:45 às 17:35,Maira Araujo de Oliva Gentil
+,,,,,17:35 às 18:30,Maira Araujo de Oliva Gentil
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSB12 - LINGUAGEM ESCRITA,10100.0,210.0,25.0,QUI,14:50 às 16:40,Docente Substituto a Contratar
+,,,,,16:40 às 17:35,Docente Substituto a Contratar
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSB13 - PATOLOGIA GERAL APLICADA À ENFERMAGEM,10100.0,203.0,15.0,QUI,08:50 às 10:40,Fulvio Borges Miguel
+,,,,,10:40 às 12:30,Fulvio Borges Miguel
+,10200.0,203.0,15.0,QUI,08:50 às 10:40,Fulvio Borges Miguel
+,,,,,10:40 às 12:30,Alena Ribeiro Alves Peixoto Medrado
+,10300.0,203.0,15.0,QUI,08:50 às 10:40,Fulvio Borges Miguel
+,,,,,10:40 às 12:30,Maria Clara Barretto de Freitas Melro Br
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSB14 - FARMACOLOGIA APLICADA A ENFERMAGEM II,10000.0,203.0,40.0,SEX,10:40 às 12:30,Tatiane de Oliveira Teixeira Muniz Carle
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSB15 - LINGUAGEM E ENVELHECIMENTO,10000.0,210.0,20.0,TER,14:50 às 16:40,Melissa Catrini da Silva
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSB16 - FLUÊNCIA,10000.0,210.0,30.0,QUA,16:40 às 18:30,Jamille da Costa Pereira
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSB18 - AUDIOLOGIA CLÍNICA,10100.0,210.0,10.0,QUI,09:45 às 11:35,Ana Paula Corona
+,,,,SEX,14:50 às 16:40,Ana Paula Corona
+,10200.0,210.0,10.0,QUI,13:00 às 14:50,Ana Paula Corona
+,,,,SEX,14:50 às 16:40,Ana Paula Corona
+,10300.0,210.0,10.0,SEX,13:00 às 14:50,Ana Paula Corona
+,,,,,14:50 às 16:40,Ana Paula Corona
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSB19 - AUDIOLOGIA INFANTIL,10000.0,210.0,30.0,SEX,16:40 às 18:30,Lays Freitas Silva
+,,,,,,Marcia da Silva Lopes
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSB20 - AVALIAÇÃO OBJETIVA DA AUDIÇÃO,10000.0,210.0,20.0,QUA,16:40 às 18:30,Marcia da Silva Lopes
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSB21 - PROCESSAMENTO AUDITIVO E TECNOLOGIA DE REABILITAÇÃO AUDITIVA,10000.0,210.0,20.0,TER,16:40 às 18:30,Marcia da Silva Lopes
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSB22 - AVALIAÇÃO E REABILITAÇÃO VESTIBULAR,10000.0,210.0,25.0,QUA,13:00 às 14:50,Tatiane Costa Meira
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSB23 - PARASITOLOGIA HUMANA III,10100.0,226.0,1.0,QUA,07:55 às 09:45,Adriano Figueiredo Monte Alegre
+,,203.0,12.0,,,Adriano Figueiredo Monte Alegre
+,,226.0,1.0,QUI,11:35 às 12:30,Adriano Figueiredo Monte Alegre
+,,203.0,12.0,,,Adriano Figueiredo Monte Alegre
+,,226.0,1.0,SEX,11:35 às 12:30,Joao Carlos Marques Ponte
+,,203.0,12.0,,,Joao Carlos Marques Ponte
+,10200.0,226.0,1.0,QUA,07:55 às 09:45,Joao Carlos Marques Ponte
+,,203.0,12.0,,,Joao Carlos Marques Ponte
+,,226.0,1.0,QUI,11:35 às 12:30,Adriano Figueiredo Monte Alegre
+,,203.0,12.0,,,Adriano Figueiredo Monte Alegre
+,,226.0,1.0,SEX,11:35 às 12:30,Joao Carlos Marques Ponte
+,,203.0,12.0,,,Joao Carlos Marques Ponte
+,10300.0,226.0,1.0,QUA,07:55 às 09:45,Nicolaus Albert Borges Schriefer
+,,203.0,12.0,,,Nicolaus Albert Borges Schriefer
+,,226.0,1.0,QUI,11:35 às 12:30,Adriano Figueiredo Monte Alegre
+,,203.0,12.0,,,Adriano Figueiredo Monte Alegre
+,,226.0,1.0,SEX,11:35 às 12:30,Joao Carlos Marques Ponte
+,,203.0,12.0,,,Joao Carlos Marques Ponte
+,10400.0,226.0,1.0,QUA,09:45 às 11:35,Adriano Figueiredo Monte Alegre
+,,203.0,12.0,,,Adriano Figueiredo Monte Alegre
+,,226.0,1.0,QUI,11:35 às 12:30,Adriano Figueiredo Monte Alegre
+,,203.0,12.0,,,Adriano Figueiredo Monte Alegre
+,,226.0,1.0,SEX,11:35 às 12:30,Joao Carlos Marques Ponte
+,,203.0,12.0,,,Joao Carlos Marques Ponte
+,10500.0,226.0,1.0,QUA,09:45 às 11:35,Nicolaus Albert Borges Schriefer
+,,203.0,12.0,,,Nicolaus Albert Borges Schriefer
+,,226.0,1.0,QUI,11:35 às 12:30,Adriano Figueiredo Monte Alegre
+,,203.0,12.0,,,Adriano Figueiredo Monte Alegre
+,,226.0,1.0,SEX,11:35 às 12:30,Joao Carlos Marques Ponte
+,,203.0,12.0,,,Joao Carlos Marques Ponte
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSB24 - CLÍNICA EM AUDIOLOGIA,100.0,210.0,10.0,QUA,07:55 às 11:35,Tatiane Costa Meira
+,200.0,210.0,10.0,QUA,13:00 às 16:40,Marcia da Silva Lopes
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSB25 - DISFONIAS FUNCIONAIS E ORGANOFUNCIONAIS,10100.0,210.0,30.0,TER,13:00 às 14:50,Maria Lucia Vaz Masson
+,,,,QUI,13:00 às 14:50,Maria Lucia Vaz Masson
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSB26 - DISFONIAS ORGÂNICAS,10100.0,210.0,20.0,QUA,13:00 às 13:55,Ingrid Sampaio Souza
+,,,,,13:55 às 14:50,Ingrid Sampaio Souza
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSB27 - FONONCOLOGIA,10100.0,210.0,30.0,SEG,14:50 às 15:45,Marilia Carvalho Sampaio
+,,,,,15:45 às 16:40,Marilia Carvalho Sampaio
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSB28 - VOZ PROFISSIONAL,10100.0,210.0,10.0,TER,16:40 às 18:30,Maria Francisca de Paula Soares
+,,,,QUI,14:50 às 16:40,Maria Francisca de Paula Soares
+,10200.0,210.0,10.0,TER,16:40 às 18:30,Maria Francisca de Paula Soares
+,,,,QUI,16:40 às 18:30,Maria Francisca de Paula Soares
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSB30 - MOTRICIDADE OROFACIAL NOS DISTÚRBIOS MIOFUNCIONAIS ORAIS I,10100.0,210.0,15.0,QUA,14:50 às 16:40,Michele Silva Mascarenhas Prata
+,,,,SEX,13:00 às 14:50,Michele Silva Mascarenhas Prata
+,10200.0,210.0,15.0,QUA,14:50 às 16:40,Michele Silva Mascarenhas Prata
+,,,,SEX,14:50 às 16:40,Michele Silva Mascarenhas Prata
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSB31 - MOTRICIDADE OROFACIAL NOS DISTURBIOS MIOFUNCIONAIS ORAIS II,10100.0,210.0,25.0,SEG,13:00 às 14:50,Mabile Francine Ferreira Silva
+,,,,,14:50 às 16:40,Mabile Francine Ferreira Silva
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSB32 - MOTRICIDADE OROFACIAL NAS REUROPATIAS INFANTIS,10100.0,210.0,20.0,SEX,13:55 às 15:45,Carla Steinberg
+,,,,,15:45 às 16:40,Carla Steinberg
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSB33 - FONOAUDIOLOGIA EM AMBIENTE HOSPITALAR,10000.0,226.0,2.0,TER,16:40 às 18:30,Tamires Aguiar Carvalho Borges
+,,210.0,24.0,,,Tamires Aguiar Carvalho Borges
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSB34 - MOTRICIDADE OROFACIAL NAS NEUROPATIAS EM ADULTOS,10100.0,210.0,10.0,SEG,13:00 às 14:50,Ana Caline Nobrega da Costa
+,,,,,14:50 às 16:40,Ana Caline Nobrega da Costa
+,10200.0,210.0,10.0,SEG,13:00 às 14:50,Ana Caline Nobrega da Costa
+,,,,TER,13:00 às 14:50,Tamires Aguiar Carvalho Borges
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSB35 - SAÚDE COLETIVA E FONOAUDIOLOGIA,10100.0,210.0,25.0,QUI,14:50 às 15:45,Vladimir Andrei Rodrigues Arce
+,,,,,15:45 às 17:35,Vladimir Andrei Rodrigues Arce
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSB36 - PRÁTICAS FONOAUDIOLÓGICAS I,10100.0,210.0,10.0,SEG,13:00 às 13:55,Vladimir Andrei Rodrigues Arce
+,,,,,13:55 às 14:50,Marcos Vinicius Ribeiro de Araujo
+,,,,,14:50 às 16:40,Franciana Cristina Cavalcante Nunes dos
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSB37 - PRÁTICAS FONOAUDIOLÓGICAS II,10100.0,210.0,10.0,SEG,07:55 às 08:50,Docente Substituto a Contratar
+,,,,,08:50 às 11:35,Docente Substituto a Contratar
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSB38 - ESTÁGIO EM SAÚDE COLETIVA I,1.0,210.0,5.0,QUA,07:55 às 11:35,Lays Freitas Silva
+,2.0,210.0,5.0,QUI,07:55 às 11:35,Luzia Poliana Anjos da Silva
+,3.0,210.0,4.0,SEX,07:55 às 11:35,Luzia Poliana Anjos da Silva
+,4.0,210.0,5.0,SEX,07:55 às 11:35,Lays Freitas Silva
+,5.0,210.0,5.0,QUI,13:00 às 16:40,Luzia Poliana Anjos da Silva
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSB39 - ESTÁGIO EM SAÚDE COLETIVA II,1.0,210.0,5.0,TER,07:55 às 11:35,Franciana Cristina Cavalcante Nunes dos
+,2.0,210.0,5.0,QUA,07:55 às 11:35,Vladimir Andrei Rodrigues Arce
+,3.0,210.0,5.0,QUI,07:55 às 11:35,Lays Freitas Silva
+,4.0,210.0,5.0,TER,13:00 às 16:40,Franciana Cristina Cavalcante Nunes dos
+,5.0,210.0,4.0,QUA,13:00 às 16:40,Marcos Vinicius Ribeiro de Araujo
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSB40 - ESTÁGIO EM AUDIOLOGIA I,1.0,210.0,2.0,SEG,07:00 às 12:30,Docente não informado pelo Departamento
+,,,,QUI,13:00 às 14:50,Tatiane Costa Meira
+,2.0,210.0,4.0,SEG,07:55 às 09:45,Tatiane Costa Meira
+,,,,TER,13:00 às 18:30,Ana Lucia Vieira de Freitas Borja
+,3.0,210.0,2.0,TER,07:00 às 12:30,Docente não informado pelo Departamento
+,,,,QUI,13:00 às 14:50,Melissa Catrini da Silva
+,4.0,210.0,4.0,SEG,07:55 às 09:45,Ana Paula Corona
+,,,,QUA,07:00 às 12:30,Docente não informado pelo Departamento
+,5.0,210.0,2.0,QUI,07:00 às 12:30,Docente não informado pelo Departamento
+,,,,,13:00 às 14:50,Lays Freitas Silva
+,6.0,210.0,2.0,QUI,13:00 às 14:50,Luciene da Cruz Fernandes
+,,,,SEX,07:00 às 12:30,Docente não informado pelo Departamento
+,8.0,210.0,2.0,SEG,07:55 às 09:45,Lays Freitas Silva
+,,,,TER,13:00 às 18:30,Docente não informado pelo Departamento
+,9.0,210.0,2.0,QUA,13:00 às 18:30,Docente não informado pelo Departamento
+,,,,QUI,13:00 às 14:50,Marcia da Silva Lopes
+,10.0,210.0,2.0,SEG,07:55 às 09:45,Ana Lucia Vieira de Freitas Borja
+,,,,QUI,13:00 às 18:30,Docente não informado pelo Departamento
+,11.0,210.0,2.0,SEG,07:55 às 09:45,Marcia da Silva Lopes
+,,,,SEX,13:00 às 18:30,Docente não informado pelo Departamento
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSB41 - ESTÁGIO EM AUDIOLOGIA II,1.0,210.0,1.0,TER,07:00 às 12:30,Docente não informado pelo Departamento
+,,,,SEX,14:50 às 16:40,Lays Freitas Silva
+,2.0,210.0,1.0,QUI,07:00 às 12:30,Docente não informado pelo Departamento
+,,,,SEX,14:50 às 16:40,Maira Araujo de Oliva Gentil
+,3.0,210.0,2.0,QUI,07:00 às 12:30,Docente não informado pelo Departamento
+,,,,SEX,14:50 às 16:40,Ana Lucia Vieira de Freitas Borja
+,4.0,210.0,1.0,SEX,07:00 às 12:30,Docente não informado pelo Departamento
+,,,,,14:50 às 16:40,Tatiane Costa Meira
+,5.0,210.0,1.0,SEG,13:00 às 18:30,Docente não informado pelo Departamento
+,,,,SEX,14:50 às 16:40,Jamille da Costa Pereira
+,6.0,210.0,2.0,SEG,13:00 às 18:30,Docente não informado pelo Departamento
+,,,,SEX,14:50 às 16:40,Marcia da Silva Lopes
+,7.0,210.0,1.0,TER,13:00 às 18:30,Docente não informado pelo Departamento
+,,,,SEX,14:50 às 16:40,Melissa Catrini da Silva
+,8.0,210.0,2.0,QUI,13:00 às 18:30,Docente não informado pelo Departamento
+,,,,SEX,14:50 às 16:40,Vladimir Andrei Rodrigues Arce
+,9.0,210.0,1.0,QUI,13:00 às 18:30,Docente não informado pelo Departamento
+,,,,SEX,14:50 às 16:40,Marcos Vinicius Ribeiro de Araujo
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSB42 - ESTÁGIO EM LINGUAGEM I,1.0,210.0,5.0,SEG,07:55 às 09:45,Maira Araujo de Oliva Gentil
+,,,,,09:45 às 11:35,Maira Araujo de Oliva Gentil
+,2.0,210.0,5.0,SEG,14:50 às 16:40,Jamille da Costa Pereira
+,,,,,16:40 às 18:30,Jamille da Costa Pereira
+,3.0,210.0,5.0,TER,13:00 às 14:50,Marcus Vinicius Borges Oliveira
+,,,,,14:50 às 16:40,Marcus Vinicius Borges Oliveira
+,4.0,210.0,5.0,QUI,13:00 às 14:50,Maira Araujo de Oliva Gentil
+,,,,,14:50 às 16:40,Maira Araujo de Oliva Gentil
+,5.0,210.0,5.0,SEG,07:55 às 09:45,Jamille da Costa Pereira
+,,,,,09:45 às 11:35,Jamille da Costa Pereira
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSB43 - ESTÁGIO EM LINGUAGEM II,2.0,210.0,5.0,TER,07:55 às 09:45,Jamille da Costa Pereira
+,,,,,09:45 às 11:35,Jamille da Costa Pereira
+,3.0,210.0,4.0,QUI,07:55 às 11:35,Melissa Catrini da Silva
+,4.0,210.0,4.0,SEX,07:55 às 11:35,Maira Araujo de Oliva Gentil
+,5.0,210.0,5.0,SEG,13:00 às 14:50,Desiree de Vit Begrow
+,,,,,14:50 às 16:40,Desiree de Vit Begrow
+,6.0,210.0,5.0,TER,13:00 às 14:50,Docente Substituto a Contratar
+,,,,,14:50 às 16:40,Docente Substituto a Contratar
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSB44 - ESTÁGIO EM LINGUAGEM III,1.0,210.0,1.0,SEG,07:00 às 09:45,Docente não informado pelo Departamento
+,,,,TER,17:35 às 18:30,Marcus Vinicius Borges Oliveira
+,2.0,210.0,1.0,SEG,09:45 às 12:30,Docente não informado pelo Departamento
+,,,,TER,17:35 às 18:30,Carla Steinberg
+,3.0,210.0,5.0,TER,07:00 às 09:45,Docente não informado pelo Departamento
+,,,,,17:35 às 18:30,Desiree de Vit Begrow
+,4.0,210.0,1.0,QUI,07:55 às 10:40,Docente não informado pelo Departamento
+,,,,,17:35 às 18:30,Carla Steinberg
+,5.0,210.0,5.0,QUI,17:35 às 18:30,Melissa Catrini da Silva
+,,,,SEX,09:45 às 12:30,Docente não informado pelo Departamento
+,6.0,210.0,1.0,TER,13:00 às 15:45,Docente não informado pelo Departamento
+,,,,QUI,17:35 às 18:30,Maira Araujo de Oliva Gentil
+,7.0,210.0,1.0,TER,15:45 às 18:30,Docente não informado pelo Departamento
+,,,,QUI,17:35 às 18:30,Marcus Vinicius Borges Oliveira
+,8.0,210.0,1.0,TER,17:35 às 18:30,Maria Lucia Vaz Masson
+,,,,QUI,13:00 às 15:45,Docente não informado pelo Departamento
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSB45 - ESTÁGIO EM MOTRICIDADE OROFACIAL I,1.0,210.0,4.0,TER,07:55 às 11:35,Tamires Aguiar Carvalho Borges
+,2.0,210.0,4.0,SEG,13:00 às 16:40,Michele Silva Mascarenhas Prata
+,3.0,210.0,5.0,QUI,13:00 às 14:50,Michele Silva Mascarenhas Prata
+,,,,,14:50 às 16:40,Michele Silva Mascarenhas Prata
+,4.0,210.0,5.0,SEX,13:00 às 14:50,Mabile Francine Ferreira Silva
+,,,,,14:50 às 16:40,Mabile Francine Ferreira Silva
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSB46 - ESTÁGIO EM MOTRICIDADE OROFACIAL II,1.0,210.0,4.0,TER,07:55 às 11:35,Ana Caline Nobrega da Costa
+,2.0,210.0,5.0,SEG,09:45 às 10:40,Mabile Francine Ferreira Silva
+,,,,QUA,09:45 às 12:30,Docente não informado pelo Departamento
+,3.0,210.0,5.0,SEG,10:40 às 11:35,Mabile Francine Ferreira Silva
+,,,,SEX,07:00 às 09:45,Docente não informado pelo Departamento
+,4.0,210.0,4.0,TER,13:00 às 16:40,Michele Silva Mascarenhas Prata
+,5.0,210.0,4.0,SEX,13:00 às 16:40,Tamires Aguiar Carvalho Borges
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSB47 - ESTÁGIO EM VOZ I,1.0,210.0,4.0,SEG,07:55 às 10:40,Maria Francisca de Paula Soares
+,,,,,10:40 às 11:35,Marilia Carvalho Sampaio
+,2.0,210.0,4.0,QUA,07:55 às 11:35,Ingrid Sampaio Souza
+,3.0,210.0,5.0,QUI,07:00 às 08:50,Ingrid Sampaio Souza
+,,,,,08:50 às 10:40,Ingrid Sampaio Souza
+,4.0,210.0,4.0,QUA,13:00 às 16:40,Maria Lucia Vaz Masson
+,5.0,210.0,4.0,QUI,13:00 às 16:40,Ingrid Sampaio Souza
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSB48 - ESTÁGIO EM VOZ II,1.0,210.0,5.0,SEG,16:40 às 17:35,Marilia Carvalho Sampaio
+,,,,QUA,07:00 às 09:45,Docente não informado pelo Departamento
+,2.0,210.0,2.0,SEG,16:40 às 17:35,Ingrid Sampaio Souza
+,,,,SEX,07:55 às 10:40,Docente não informado pelo Departamento
+,3.0,210.0,2.0,SEG,16:40 às 17:35,Maria Lucia Vaz Masson
+,,,,TER,13:00 às 15:45,Docente não informado pelo Departamento
+,4.0,210.0,5.0,SEG,16:40 às 17:35,Maria Francisca de Paula Soares
+,,,,QUA,13:00 às 15:45,Docente não informado pelo Departamento
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSB49 - ESTÁGIO EM FONOAUDIOLOGIA HOSPITALAR,1.0,210.0,1.0,SEG,07:55 às 10:40,Docente não informado pelo Departamento
+,,,,TER,14:50 às 15:45,Leda Maria Fonseca Bazzo
+,2.0,210.0,2.0,TER,07:55 às 10:40,Docente não informado pelo Departamento
+,,,,,14:50 às 15:45,Carla Steinberg
+,3.0,210.0,1.0,TER,07:55 às 10:40,Docente não informado pelo Departamento
+,,,,,14:50 às 15:45,Tamires Aguiar Carvalho Borges
+,4.0,210.0,1.0,TER,07:55 às 10:40,Docente não informado pelo Departamento
+,,,,,14:50 às 15:45,Ana Caline Nobrega da Costa
+,5.0,210.0,1.0,TER,07:55 às 10:40,Docente não informado pelo Departamento
+,,,,,14:50 às 15:45,Marilia Carvalho Sampaio
+,6.0,210.0,1.0,TER,14:50 às 15:45,Maria Francisca de Paula Soares
+,,,,SEX,07:55 às 10:40,Docente não informado pelo Departamento
+,7.0,210.0,2.0,TER,14:50 às 15:45,Ana Paula Corona
+,,,,SEX,07:55 às 10:40,Docente não informado pelo Departamento
+,8.0,210.0,4.0,SEX,07:55 às 11:35,Tamires Aguiar Carvalho Borges
+,9.0,210.0,1.0,TER,14:50 às 15:45,Tatiane Costa Meira
+,,,,QUA,13:00 às 15:45,Docente não informado pelo Departamento
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSB50 - PROJETO DE PESQUISA I,10100.0,210.0,25.0,SEX,14:50 às 15:45,Franciana Cristina Cavalcante Nunes dos
+,,,,,15:45 às 16:40,Franciana Cristina Cavalcante Nunes dos
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSB51 - PROJETO DE PESQUISA II,10100.0,210.0,12.0,SEX,08:50 às 09:45,Franciana Cristina Cavalcante Nunes dos
+,,,,,09:45 às 10:40,Franciana Cristina Cavalcante Nunes dos
+,10200.0,210.0,12.0,SEX,09:45 às 10:40,Franciana Cristina Cavalcante Nunes dos
+,,,,,10:40 às 11:35,Franciana Cristina Cavalcante Nunes dos
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSB52 - PESQUISA ORIENTADA,100.0,210.0,4.0,CMB,00:00 às 23:00,Ana Caline Nobrega da Costa
+,200.0,210.0,4.0,CMB,00:00 às 23:00,Ana Lucia Vieira de Freitas Borja
+,300.0,210.0,4.0,CMB,00:00 às 23:00,Ana Paula Corona
+,400.0,210.0,4.0,CMB,00:00 às 23:00,Carla Steinberg
+,500.0,210.0,4.0,CMB,00:00 às 23:00,Celia Regina Thome
+,600.0,210.0,4.0,CMB,00:00 às 23:00,Desiree de Vit Begrow
+,700.0,210.0,4.0,CMB,00:00 às 23:00,Elaine Cristina de Oliveira
+,800.0,210.0,4.0,CMB,00:00 às 23:00,Leda Maria Fonseca Bazzo
+,900.0,210.0,4.0,CMB,00:00 às 23:00,Luciene da Cruz Fernandes
+,1000.0,210.0,4.0,CMB,00:00 às 23:00,Mabile Francine Ferreira Silva
+,1100.0,210.0,4.0,CMB,00:00 às 23:00,Marcos Vinicius Ribeiro de Araujo
+,1200.0,210.0,4.0,CMB,00:00 às 23:00,Marcia da Silva Lopes
+,1300.0,210.0,4.0,CMB,00:00 às 23:00,Marcus Vinicius Borges Oliveira
+,1400.0,210.0,4.0,CMB,00:00 às 23:00,Maria Francisca de Paula Soares
+,1500.0,210.0,4.0,CMB,00:00 às 23:00,Maria Lucia Vaz Masson
+,1600.0,210.0,4.0,CMB,00:00 às 23:00,Marilia Carvalho Sampaio
+,1700.0,210.0,4.0,CMB,00:00 às 23:00,Melissa Catrini da Silva
+,1800.0,210.0,4.0,CMB,00:00 às 23:00,Vladimir Andrei Rodrigues Arce
+,1900.0,210.0,4.0,CMB,00:00 às 23:00,Tatiane Costa Meira
+,2000.0,210.0,2.0,CMB,00:00 às 23:00,Luzia Poliana Anjos da Silva
+,2100.0,210.0,2.0,CMB,00:00 às 23:00,Ingrid Sampaio Souza
+,2200.0,210.0,1.0,CMB,00:00 às 23:00,Liliane de Jesus Bittencourt
+,2300.0,210.0,2.0,CMB,00:00 às 23:00,Maira Araujo de Oliva Gentil
+,2400.0,210.0,2.0,CMB,00:00 às 23:00,Docente não informado pelo Departamento
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSB54 - TRABALHO DE CONCLUSÃO DE CURSO DE GRADUAÇÃO,100.0,210.0,4.0,CMB,00:00 às 23:00,Ana Caline Nobrega da Costa
+,200.0,210.0,5.0,CMB,00:00 às 23:00,Ana Lucia Vieira de Freitas Borja
+,300.0,210.0,4.0,CMB,00:00 às 23:00,Ana Paula Corona
+,400.0,210.0,4.0,CMB,00:00 às 23:00,Carla Steinberg
+,500.0,210.0,5.0,CMB,00:00 às 23:00,Celia Regina Thome
+,600.0,210.0,4.0,CMB,00:00 às 23:00,Desiree de Vit Begrow
+,700.0,210.0,4.0,CMB,00:00 às 23:00,Elaine Cristina de Oliveira
+,800.0,210.0,4.0,CMB,00:00 às 23:00,Leda Maria Fonseca Bazzo
+,900.0,210.0,4.0,CMB,00:00 às 23:00,Luciene da Cruz Fernandes
+,1000.0,210.0,4.0,CMB,00:00 às 23:00,Mabile Francine Ferreira Silva
+,1100.0,210.0,4.0,CMB,00:00 às 23:00,Marcos Vinicius Ribeiro de Araujo
+,1200.0,210.0,4.0,CMB,00:00 às 23:00,Marcia da Silva Lopes
+,1300.0,210.0,4.0,CMB,00:00 às 23:00,Marcus Vinicius Borges Oliveira
+,1400.0,210.0,4.0,CMB,00:00 às 23:00,Maria Francisca de Paula Soares
+,1500.0,210.0,4.0,CMB,00:00 às 23:00,Maria Lucia Vaz Masson
+,1600.0,210.0,4.0,CMB,00:00 às 23:00,Marilia Carvalho Sampaio
+,1700.0,210.0,4.0,CMB,00:00 às 23:00,Melissa Catrini da Silva
+,1800.0,210.0,4.0,CMB,00:00 às 23:00,Vladimir Andrei Rodrigues Arce
+,1900.0,210.0,4.0,CMB,00:00 às 23:00,Tatiane Costa Meira
+,2000.0,210.0,4.0,CMB,00:00 às 23:00,Luzia Poliana Anjos da Silva
+,2100.0,210.0,1.0,CMB,00:00 às 23:00,Marcos Alan Vieira Bittencourt
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSB55 - SEMINÁRIO INTERDISCIPLINAR EM FONOAUDIOLOGIA I,100.0,210.0,33.0,SEG,16:40 às 18:30,Marcos Vinicius Ribeiro de Araujo
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSB56 - SEMINÁRIO INTERDISICPLINAR EM FONOAUDIOLOGIA II,100.0,286.0,1.0,SEG,14:50 às 16:40,Leda Maria Fonseca Bazzo
+,,226.0,2.0,,,Leda Maria Fonseca Bazzo
+,,222.0,2.0,,,Leda Maria Fonseca Bazzo
+,,210.0,28.0,,,Leda Maria Fonseca Bazzo
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSB58 - SEMINÁRIO INTERDISCIPLINAR EM FONOAUDIOLOGIA IV,100.0,286.0,2.0,SEG,16:40 às 18:30,Leda Maria Fonseca Bazzo
+,,226.0,4.0,,,Leda Maria Fonseca Bazzo
+,,222.0,4.0,,,Leda Maria Fonseca Bazzo
+,,210.0,20.0,,,Leda Maria Fonseca Bazzo
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSB61 - BIOQUÍMICA APLICADA À FISIOTERAPIA,10100.0,286.0,2.0,TER,10:40 às 12:30,Isabela Cerqueira Barreto
+,,222.0,13.0,,,Isabela Cerqueira Barreto
+,,286.0,2.0,QUA,14:50 às 16:40,Isabela Cerqueira Barreto
+,,222.0,13.0,,,Isabela Cerqueira Barreto
+,10200.0,286.0,3.0,TER,13:00 às 14:50,Isabela Cerqueira Barreto
+,,222.0,12.0,,,Isabela Cerqueira Barreto
+,,286.0,3.0,QUA,14:50 às 16:40,Isabela Cerqueira Barreto
+,,222.0,12.0,,,Isabela Cerqueira Barreto
+,10300.0,286.0,1.0,QUA,14:50 às 16:40,Isabela Cerqueira Barreto
+,,222.0,14.0,,,Isabela Cerqueira Barreto
+,,286.0,1.0,,16:40 às 18:30,Isabela Cerqueira Barreto
+,,222.0,14.0,,,Isabela Cerqueira Barreto
+,10400.0,222.0,15.0,TER,14:50 às 16:40,Isabela Cerqueira Barreto
+,,,,QUA,14:50 às 16:40,Isabela Cerqueira Barreto
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSB79 - PSICOLOGIA APLICADA À FISIOTERAPIA,10000.0,226.0,4.0,QUI,09:45 às 11:35,Martha Moreira Cavalcante Castro
+,,222.0,45.0,,,Martha Moreira Cavalcante Castro
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSB80 - GENÉTICA HUMANA E EMBRIOLOGIA,10000.0,226.0,4.0,SEG,16:40 às 17:35,Gabriela Botelho Martins Oliveira Souza
+,,222.0,45.0,,,Gabriela Botelho Martins Oliveira Souza
+,,226.0,4.0,QUI,14:50 às 16:40,Gabriela Botelho Martins Oliveira Souza
+,,222.0,45.0,,,Gabriela Botelho Martins Oliveira Souza
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSB81 - NEUROANATOMIA APLICADA À FISIOTERAPIA,10100.0,226.0,2.0,SEG,13:00 às 14:50,Pedro Antonio Pereira de Jesus
+,,222.0,13.0,,,Pedro Antonio Pereira de Jesus
+,,226.0,2.0,TER,13:00 às 13:55,Pedro Antonio Pereira de Jesus
+,,222.0,13.0,,,Pedro Antonio Pereira de Jesus
+,10200.0,226.0,3.0,SEG,13:00 às 14:50,Pedro Antonio Pereira de Jesus
+,,222.0,12.0,,,Pedro Antonio Pereira de Jesus
+,,226.0,3.0,TER,13:00 às 13:55,Jamary Oliveira Filho
+,,222.0,12.0,,,Jamary Oliveira Filho
+,10300.0,222.0,20.0,SEG,13:00 às 14:50,Pedro Antonio Pereira de Jesus
+,,,,TER,13:55 às 14:50,Pedro Antonio Pereira de Jesus
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSB83 - INTERAÇÃO MICRORGANISMO-HOSPEDEIRO,10100.0,222.0,12.0,SEG,14:50 às 16:40,Alena Ribeiro Alves Peixoto Medrado
+,,,,TER,13:00 às 13:55,Alena Ribeiro Alves Peixoto Medrado
+,,,,,14:50 às 15:45,Alena Ribeiro Alves Peixoto Medrado
+,10200.0,222.0,12.0,SEG,14:50 às 16:40,Alena Ribeiro Alves Peixoto Medrado
+,,,,TER,13:00 às 13:55,Samira Abdallah Hanna
+,,,,,14:50 às 15:45,Alena Ribeiro Alves Peixoto Medrado
+,10300.0,222.0,12.0,SEG,14:50 às 16:40,Alena Ribeiro Alves Peixoto Medrado
+,,,,TER,13:55 às 14:50,Alena Ribeiro Alves Peixoto Medrado
+,,,,,14:50 às 15:45,Alena Ribeiro Alves Peixoto Medrado
+,10400.0,222.0,12.0,SEG,14:50 às 16:40,Alena Ribeiro Alves Peixoto Medrado
+,,,,TER,13:55 às 14:50,Samira Abdallah Hanna
+,,,,,14:50 às 15:45,Alena Ribeiro Alves Peixoto Medrado
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSB84 - BIOFÍSICA APLICADA À FISIOTERAPIA,10100.0,286.0,2.0,SEG,14:50 às 16:40,Clarissa de Sampaio Schitine
+,,222.0,13.0,,,Clarissa de Sampaio Schitine
+,,286.0,2.0,,16:40 às 17:35,Clarissa de Sampaio Schitine
+,,222.0,13.0,,,Clarissa de Sampaio Schitine
+,,286.0,2.0,TER,14:50 às 15:45,Clarissa de Sampaio Schitine
+,,222.0,13.0,,,Clarissa de Sampaio Schitine
+,10200.0,286.0,2.0,SEG,14:50 às 16:40,Clarissa de Sampaio Schitine
+,,222.0,13.0,,,Clarissa de Sampaio Schitine
+,,286.0,2.0,,17:35 às 18:30,Clarissa de Sampaio Schitine
+,,222.0,13.0,,,Clarissa de Sampaio Schitine
+,,286.0,2.0,TER,14:50 às 15:45,Clarissa de Sampaio Schitine
+,,222.0,13.0,,,Clarissa de Sampaio Schitine
+,10300.0,286.0,1.0,SEG,14:50 às 16:40,Clarissa de Sampaio Schitine
+,,222.0,14.0,,,Clarissa de Sampaio Schitine
+,,286.0,1.0,TER,14:50 às 15:45,Clarissa de Sampaio Schitine
+,,222.0,14.0,,,Clarissa de Sampaio Schitine
+,,286.0,1.0,,15:45 às 16:40,Clarissa de Sampaio Schitine
+,,222.0,14.0,,,Clarissa de Sampaio Schitine
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSB85 - FISIOLOGIA HUMANA BÁSICA,10100.0,883.0,18.0,TER,13:00 às 14:50,Giselle Calasans de Souza Costa
+,,,,,14:50 às 16:40,Giselle Calasans de Souza Costa
+,10200.0,883.0,17.0,TER,13:00 às 14:50,Giselle Calasans de Souza Costa
+,,,,,14:50 às 16:40,Paula Cristina Alves Araujo
+,10300.0,222.0,15.0,TER,13:00 às 14:50,Giselle Calasans de Souza Costa
+,,,,QUI,13:00 às 14:50,Giselle Calasans de Souza Costa
+,10400.0,222.0,15.0,TER,13:00 às 14:50,Giselle Calasans de Souza Costa
+,,,,QUI,14:50 às 16:40,Paula Cristina Alves Araujo
+,10500.0,222.0,15.0,TER,13:00 às 14:50,Giselle Calasans de Souza Costa
+,,,,QUI,10:40 às 12:30,Paula Cristina Alves Araujo
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSB86 - IMAGENOLOGIA E EXAMES COMPLEMENTARES,10100.0,222.0,15.0,QUA,13:55 às 14:50,Cristiano Sena da Conceicao
+,,,,,15:45 às 16:40,Cristiano Sena da Conceicao
+,10200.0,222.0,15.0,QUA,13:55 às 14:50,Cristiano Sena da Conceicao
+,,,,,16:40 às 17:35,Cristiano Sena da Conceicao
+,10300.0,222.0,15.0,QUA,13:55 às 14:50,Cristiano Sena da Conceicao
+,,,,,17:35 às 18:30,Cristiano Sena da Conceicao
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSB87 - CINESIOLOGIA I,10100.0,222.0,15.0,SEG,13:00 às 14:50,Iura Gonzalez Nogueira Alves
+,,,,QUI,13:00 às 14:50,Renata Santana da Silva Barbosa
+,10200.0,222.0,15.0,SEG,13:00 às 14:50,Iura Gonzalez Nogueira Alves
+,,,,QUI,14:50 às 16:40,Renata Santana da Silva Barbosa
+,10300.0,222.0,15.0,SEG,13:00 às 14:50,Iura Gonzalez Nogueira Alves
+,,,,QUI,16:40 às 18:30,Renata Santana da Silva Barbosa
+,20400.0,883.0,15.0,TER,13:00 às 14:50,Docente Substituto a Contratar
+,,,,,14:50 às 16:40,Docente Substituto a Contratar
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSB88 - ENVOLVIMENTO PRÁTICO ORIENTADO I,10100.0,222.0,15.0,QUA,14:50 às 15:45,Ana Lucia Barbosa Goes
+,,,,,15:45 às 16:40,Ana Lucia Barbosa Goes
+,10200.0,222.0,15.0,QUA,14:50 às 15:45,Ana Lucia Barbosa Goes
+,,,,,16:40 às 17:35,Ana Lucia Barbosa Goes
+,10300.0,222.0,15.0,QUA,14:50 às 15:45,Ana Lucia Barbosa Goes
+,,,,,17:35 às 18:30,Ana Lucia Barbosa Goes
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSB89 - BIOMECÂNICA,10100.0,222.0,15.0,QUA,08:50 às 11:35,Cristiano Sena da Conceicao
+,,,,QUI,08:50 às 09:45,Cristiano Sena da Conceicao
+,10200.0,222.0,15.0,QUA,08:50 às 11:35,Cristiano Sena da Conceicao
+,,,,QUI,09:45 às 10:40,Cristiano Sena da Conceicao
+,10300.0,222.0,15.0,QUA,08:50 às 11:35,Cristiano Sena da Conceicao
+,,,,QUI,10:40 às 11:35,Cristiano Sena da Conceicao
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSB90 - MOTRICIDADE E DESENVOLVIMENTO HUMANO,10000.0,226.0,4.0,SEG,14:50 às 16:40,Marion Alves do Nascimento
+,,222.0,45.0,,,Marion Alves do Nascimento
+,,226.0,4.0,QUI,13:00 às 14:50,Marion Alves do Nascimento
+,,222.0,45.0,,,Marion Alves do Nascimento
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSB91 - NEUROFISIOLOGIA APLICADA À FISIOTERAPIA,10000.0,222.0,45.0,TER,14:50 às 16:40,Suzana Braga de Souza
+,,,,,,Rejane Conceicao Santana
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSB92 - FISIOPATOLOGIA APLICADA,10000.0,222.0,35.0,SEG,13:00 às 14:50,Alena Ribeiro Alves Peixoto Medrado
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSB93 - CINESIOLOGIA II,10100.0,222.0,15.0,QUA,13:00 às 13:55,Karen Valadares Trippo
+,,,,QUI,15:45 às 18:30,Karen Valadares Trippo
+,10200.0,222.0,15.0,QUA,13:55 às 14:50,Karen Valadares Trippo
+,,,,QUI,15:45 às 18:30,Karen Valadares Trippo
+,10300.0,222.0,15.0,QUA,14:50 às 15:45,Karen Valadares Trippo
+,,,,QUI,15:45 às 18:30,Karen Valadares Trippo
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSB94 - ENVOLVIMENTO PRÁTICO ORIENTADO II,10100.0,222.0,15.0,SEX,13:00 às 13:55,Renata Santana da Silva Barbosa
+,,,,,13:55 às 14:50,Renata Santana da Silva Barbosa
+,10200.0,222.0,15.0,SEX,13:00 às 13:55,Renata Santana da Silva Barbosa
+,,,,,14:50 às 15:45,Renata Santana da Silva Barbosa
+,10300.0,222.0,15.0,SEX,13:00 às 13:55,Renata Santana da Silva Barbosa
+,,,,,15:45 às 16:40,Renata Santana da Silva Barbosa
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSB95 - FUNDAMENTOS DE FARMACOLOGIA,10000.0,222.0,45.0,SEX,08:50 às 10:40,Quiara Lovatti Alves
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+"ICSB96 - BASES, MÉTODOS E TÉCNICAS DE AVALIAÇÃO EM FISIOTERAPIA I",10100.0,222.0,15.0,SEG,10:40 às 12:30,Cristiano Sena da Conceicao
+,,,,TER,14:50 às 15:45,Cristiano Sena da Conceicao
+,,,,,17:35 às 18:30,Cristiano Sena da Conceicao
+,10200.0,222.0,15.0,SEG,10:40 às 12:30,Cristiano Sena da Conceicao
+,,,,TER,15:45 às 16:40,Cristiano Sena da Conceicao
+,,,,,17:35 às 18:30,Cristiano Sena da Conceicao
+,10300.0,222.0,15.0,SEG,10:40 às 12:30,Cristiano Sena da Conceicao
+,,,,TER,16:40 às 17:35,Cristiano Sena da Conceicao
+,,,,,17:35 às 18:30,Cristiano Sena da Conceicao
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSB97 - CINESIOTERAPIA,10100.0,222.0,15.0,TER,08:50 às 11:35,Jorge Henrique Santos Saldanha
+,,,,QUA,14:50 às 15:45,Kaliane Pamponet Prazeres Bomfim
+,10200.0,222.0,15.0,TER,08:50 às 11:35,Jorge Henrique Santos Saldanha
+,,,,QUA,15:45 às 16:40,Kaliane Pamponet Prazeres Bomfim
+,10300.0,222.0,15.0,TER,08:50 às 11:35,Jorge Henrique Santos Saldanha
+,,,,QUA,16:40 às 17:35,Kaliane Pamponet Prazeres Bomfim
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSB98 - FUNDAMENTOS DE ERGONOMIA,10000.0,222.0,45.0,TER,13:00 às 14:50,Jorge Henrique Santos Saldanha
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSB99 - ENVOLVIMENTO PRÁTICO ORIENTADO III,10100.0,222.0,15.0,QUA,08:50 às 10:40,Ana Lucia Barbosa Goes
+,,,,,10:40 às 12:30,Ana Lucia Barbosa Goes
+,10200.0,222.0,15.0,QUA,08:50 às 10:40,Ana Lucia Barbosa Goes
+,,,,QUI,13:00 às 14:50,Ana Lucia Barbosa Goes
+,10300.0,222.0,15.0,QUA,08:50 às 10:40,Ana Lucia Barbosa Goes
+,,,,QUI,14:50 às 16:40,Ana Lucia Barbosa Goes
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSC01 - FISIOTERAPIA PREVENTIVA,10100.0,222.0,15.0,QUI,07:55 às 08:50,Milena Maria Cordeiro de Almeida
+,,,,,08:50 às 09:45,Milena Maria Cordeiro de Almeida
+,10200.0,222.0,15.0,QUI,07:55 às 08:50,Milena Maria Cordeiro de Almeida
+,,,,,09:45 às 10:40,Milena Maria Cordeiro de Almeida
+,10300.0,222.0,15.0,QUI,07:55 às 08:50,Milena Maria Cordeiro de Almeida
+,,,,,10:40 às 11:35,Milena Maria Cordeiro de Almeida
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSC02 - ADMINISTRAÇÃO E PLANO DE NEGÓCIOS APLICADOS À FISIOTERAPIA,10000.0,226.0,4.0,TER,13:00 às 14:50,Kaliane Pamponet Prazeres Bomfim
+,,222.0,45.0,,,Kaliane Pamponet Prazeres Bomfim
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSC03 - FISIOTERAPIA EM ATENÇÃO BÁSICA DE SAÚDE,10000.0,222.0,45.0,TER,09:45 às 11:35,Milena Maria Cordeiro de Almeida
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSC04 - RECURSOS TERAPÊUTICOS MANUAIS,10100.0,222.0,15.0,QUA,15:45 às 16:40,Karen Valadares Trippo
+,,,,QUI,13:00 às 15:45,Karen Valadares Trippo
+,10200.0,222.0,15.0,QUA,16:40 às 17:35,Karen Valadares Trippo
+,,,,QUI,13:00 às 15:45,Karen Valadares Trippo
+,10300.0,222.0,15.0,QUA,17:35 às 18:30,Karen Valadares Trippo
+,,,,QUI,13:00 às 15:45,Karen Valadares Trippo
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+"ICSC05 - BASES, MÉTODOS E TÉCNICAS DE AVALIAÇÃO EM FISIOTERAPIA II",10000.0,222.0,45.0,QUA,10:40 às 12:30,Nildo Manoel da Silva Ribeiro
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSC06 - FISIOTERAPIA DERMATOFUNCIONAL,10100.0,222.0,15.0,QUA,13:55 às 14:50,Daniele Costa Borges Souza
+,,,,,14:50 às 15:45,Daniele Costa Borges Souza
+,10200.0,222.0,15.0,QUA,13:55 às 14:50,Daniele Costa Borges Souza
+,,,,,15:45 às 16:40,Daniele Costa Borges Souza
+,10300.0,222.0,15.0,QUA,13:55 às 14:50,Daniele Costa Borges Souza
+,,,,,16:40 às 17:35,Daniele Costa Borges Souza
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSC07 - FISIOTERAPIA APLICADA À CIRURGIA PLÁSTICA,10000.0,222.0,45.0,SEG,13:00 às 14:50,Adriana Saraiva Aragao dos Santos
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSC08 - FISIOTERAPIA APLICADA À GINECOLOGIA,10000.0,222.0,45.0,SEG,14:50 às 16:40,Adriana Saraiva Aragao dos Santos
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSC09 - ÓRTESE E PRÓTESE,10000.0,222.0,45.0,TER,14:50 às 16:40,Daniel Dominguez Ferraz
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSC10 - FISIOTERAPIA APLICADA À PNEUMOLOGIA,10100.0,222.0,15.0,SEG,14:50 às 16:40,Cassio Magalhaes da Silva e Silva
+,,,,QUA,13:00 às 14:50,Bruno Prata Martinez
+,10200.0,222.0,15.0,SEG,14:50 às 16:40,Cassio Magalhaes da Silva e Silva
+,,,,QUA,14:50 às 16:40,Bruno Prata Martinez
+,10300.0,222.0,15.0,SEG,14:50 às 16:40,Cassio Magalhaes da Silva e Silva
+,,,,QUA,16:40 às 18:30,Bruno Prata Martinez
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSC11 - FISIOTERAPIA APLICADA À NEUROLOGIA,10100.0,222.0,15.0,QUA,13:00 às 13:55,Nildo Manoel da Silva Ribeiro
+,,,,QUI,09:45 às 12:30,Nildo Manoel da Silva Ribeiro
+,10200.0,222.0,15.0,QUA,14:50 às 15:45,Nildo Manoel da Silva Ribeiro
+,,,,QUI,09:45 às 12:30,Nildo Manoel da Silva Ribeiro
+,10300.0,222.0,15.0,QUA,16:40 às 17:35,Nildo Manoel da Silva Ribeiro
+,,,,QUI,09:45 às 12:30,Nildo Manoel da Silva Ribeiro
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSC12 - FISIOTERAPIA APLICADA À PEDIATRIA,10100.0,222.0,9.0,QUI,13:00 às 15:45,Sarah Souza Pontes
+,,,,,15:45 às 16:40,Sarah Souza Pontes
+,10200.0,222.0,9.0,QUI,13:00 às 15:45,Sarah Souza Pontes
+,,,,,16:40 às 17:35,Sarah Souza Pontes
+,10300.0,222.0,9.0,QUI,13:00 às 15:45,Sarah Souza Pontes
+,,,,,17:35 às 18:30,Sarah Souza Pontes
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSC13 - ELETROTERMOFOTOTERAPIA,10100.0,222.0,15.0,TER,13:00 às 13:55,Cleber Luz Santos
+,,,,,13:55 às 14:50,Cleber Luz Santos
+,10200.0,222.0,15.0,TER,13:00 às 13:55,Cleber Luz Santos
+,,,,,14:50 às 15:45,Cleber Luz Santos
+,10300.0,222.0,15.0,TER,13:00 às 13:55,Cleber Luz Santos
+,,,,,15:45 às 16:40,Cleber Luz Santos
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSC14 - FISIOTERAPIA DESPORTIVA,10000.0,222.0,45.0,QUA,09:45 às 11:35,Daniela Dias da Silva Garzedin
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSC15 - FISIOTERAPIA CLÍNICA,10000.0,222.0,45.0,SEG,13:00 às 14:50,Cassio Magalhaes da Silva e Silva
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSC16 - FISIOTERAPIA APLICADA ÀS DISFUNÇÕES ANGIOLÓGICAS,10000.0,222.0,45.0,TER,16:40 às 18:30,Juliana Costa Santos
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSC17 - HIDROCINESIOTERAPIA,10100.0,222.0,15.0,SEX,13:00 às 13:55,Micheli Bernardone Saquetto
+,,,,,13:55 às 14:50,Micheli Bernardone Saquetto
+,10200.0,222.0,15.0,SEX,13:00 às 13:55,Micheli Bernardone Saquetto
+,,,,,14:50 às 15:45,Micheli Bernardone Saquetto
+,10300.0,222.0,15.0,SEX,13:00 às 13:55,Micheli Bernardone Saquetto
+,,,,,15:45 às 16:40,Micheli Bernardone Saquetto
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSC18 - FISIOTERAPIA APLICADA À OBSTETRÍCIA,10000.0,222.0,45.0,SEG,16:40 às 18:30,Adriana Saraiva Aragao dos Santos
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSC19 - FISIOTERAPIA EM COMUNIDADES,10100.0,222.0,15.0,QUA,07:55 às 08:50,Milena Maria Cordeiro de Almeida
+,,,,,10:40 às 11:35,Milena Maria Cordeiro de Almeida
+,10200.0,222.0,15.0,QUA,08:50 às 09:45,Milena Maria Cordeiro de Almeida
+,,,,,10:40 às 11:35,Milena Maria Cordeiro de Almeida
+,10300.0,222.0,15.0,QUA,09:45 às 10:40,Milena Maria Cordeiro de Almeida
+,,,,,10:40 às 11:35,Milena Maria Cordeiro de Almeida
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSC20 - FISIOTERAPIA APLICADA À CARDIOLOGIA,10100.0,222.0,10.0,TER,14:50 às 16:40,Juliana Costa Santos
+,,,,QUI,13:00 às 14:50,Juliana Costa Santos
+,10200.0,222.0,10.0,TER,14:50 às 16:40,Juliana Costa Santos
+,,,,QUI,14:50 às 16:40,Juliana Costa Santos
+,10300.0,222.0,10.0,TER,14:50 às 16:40,Juliana Costa Santos
+,,,,QUI,16:40 às 18:30,Juliana Costa Santos
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSC21 - FISIOTERAPIA APLICADA ÀS DISFUNÇÕES REUMATOLÓGICAS,10100.0,222.0,15.0,SEG,07:00 às 08:50,Cleber Luz Santos
+,,,,TER,16:40 às 18:30,Cleber Luz Santos
+,10200.0,222.0,15.0,SEG,08:50 às 10:40,Cleber Luz Santos
+,,,,TER,16:40 às 18:30,Cleber Luz Santos
+,10300.0,222.0,15.0,SEG,10:40 às 12:30,Cleber Luz Santos
+,,,,TER,16:40 às 18:30,Cleber Luz Santos
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSC22 - FISIOTERAPIA APLICADA À GERIATRIA,10100.0,222.0,15.0,TER,13:00 às 14:50,Daniel Dominguez Ferraz
+,,,,QUI,07:00 às 08:50,Sarah Souza Pontes
+,10200.0,222.0,15.0,TER,13:00 às 14:50,Daniel Dominguez Ferraz
+,,,,QUI,08:50 às 10:40,Sarah Souza Pontes
+,10300.0,222.0,15.0,TER,13:00 às 14:50,Daniel Dominguez Ferraz
+,,,,QUI,10:40 às 12:30,Sarah Souza Pontes
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSC23 - FISIOTERAPIA APLICADA À ORTOTRAUMATOLOGIA,10100.0,222.0,15.0,SEG,13:00 às 15:45,Daniela Dias da Silva Garzedin
+,,,,QUI,07:00 às 08:50,Daniela Dias da Silva Garzedin
+,10200.0,222.0,15.0,SEG,13:00 às 15:45,Daniela Dias da Silva Garzedin
+,,,,QUI,08:50 às 10:40,Daniela Dias da Silva Garzedin
+,10300.0,222.0,15.0,SEG,13:00 às 15:45,Daniela Dias da Silva Garzedin
+,,,,QUI,10:40 às 12:30,Daniela Dias da Silva Garzedin
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSC24 - ESTÁGIO CURRICULAR OBRIGATÓRIO I,1.0,222.0,5.0,CMB,00:00 às 23:00,Laisa Liane Paineiras Domingos
+,,,,,,Ana Lucia Barbosa Goes
+,,,,,,Adriana Saraiva Aragao dos Santos
+,,,,,,Renata Santana da Silva Barbosa
+,2.0,222.0,5.0,CMB,00:00 às 23:00,Laisa Liane Paineiras Domingos
+,,,,,,Iura Gonzalez Nogueira Alves
+,3.0,222.0,5.0,CMB,00:00 às 23:00,Laisa Liane Paineiras Domingos
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSC25 - TRABALHO DE CONCLUSÃO DE CURSO I,10000.0,226.0,2.0,SEX,10:40 às 12:30,Martha Moreira Cavalcante Castro
+,,222.0,23.0,,,Martha Moreira Cavalcante Castro
+,20000.0,226.0,2.0,SEX,10:40 às 12:30,Helena Franca Correia
+,,222.0,22.0,,,Helena Franca Correia
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSC26 - ESTÁGIO CURRICULAR OBRIGATÓRIO II,1.0,222.0,5.0,CMB,00:00 às 23:00,Kaliane Pamponet Prazeres Bomfim
+,,,,,,Martha Moreira Cavalcante Castro
+,,,,,,Bruno Prata Martinez
+,,,,,,Jorge Henrique Santos Saldanha
+,,,,,,Daniele Costa Borges Souza
+,2.0,222.0,5.0,CMB,00:00 às 23:00,Kaliane Pamponet Prazeres Bomfim
+,,,,,,Bruno Prata Martinez
+,,,,,,Jorge Henrique Santos Saldanha
+,,,,,,Matheus de Sales Santos
+,3.0,222.0,5.0,CMB,00:00 às 23:00,Cassio Magalhaes da Silva e Silva
+,,,,,,Achilles Motta Nunes
+,,,,,,Kaliane Pamponet Prazeres Bomfim
+,,,,,,Bruno Prata Martinez
+,,,,,,Jorge Henrique Santos Saldanha
+,4.0,222.0,5.0,CMB,00:00 às 23:00,Madlene de Oliveira Souza
+,,,,,,Juliana Costa Santos
+,,,,,,Bruno Prata Martinez
+,,,,,,Jorge Henrique Santos Saldanha
+,5.0,222.0,5.0,CMB,00:00 às 23:00,Bruno Prata Martinez
+,,,,,,Jorge Henrique Santos Saldanha
+,6.0,222.0,5.0,CMB,00:00 às 23:00,Bruno Prata Martinez
+,7.0,222.0,5.0,CMB,00:00 às 23:00,Bruno Prata Martinez
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSC27 - TRABALHO DE CONCLUSÃO DE CURSO II,100.0,222.0,15.0,SEX,07:00 às 10:40,Helena Franca Correia
+,200.0,222.0,15.0,SEX,07:00 às 10:40,Gabriela Botelho Martins Oliveira Souza
+,300.0,222.0,15.0,SEX,07:00 às 10:40,Martha Moreira Cavalcante Castro
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSC31 - ANTROPOLOGIA DA SAÚDE,10000.0,226.0,4.0,TER,07:55 às 11:35,Martha Moreira Cavalcante Castro
+,,222.0,45.0,,,Martha Moreira Cavalcante Castro
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSC32 - INFORMÁTICA APLICADA À FISIOTERAPIA,10100.0,222.0,15.0,QUI,08:50 às 10:40,Laisa Liane Paineiras Domingos
+,,,,,10:40 às 12:30,Laisa Liane Paineiras Domingos
+,10200.0,222.0,15.0,QUI,08:50 às 10:40,Laisa Liane Paineiras Domingos
+,,,,,14:50 às 16:40,Laisa Liane Paineiras Domingos
+,10300.0,222.0,15.0,QUI,08:50 às 10:40,Laisa Liane Paineiras Domingos
+,,,,,16:40 às 18:30,Laisa Liane Paineiras Domingos
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSC35 - VIROLOGIA MOLECULAR,10000.0,284.0,45.0,SEX,18:30 às 20:20,Silvia Ines Sardi
+,,,,,,Andrea Mendonca Gusmao Cunha
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSC36 - BIOQUÍMICA E FISIOLOGIA MOLECULAR VEGETAL,10000.0,286.0,4.0,SEG,20:20 às 22:10,Marta Bruno Loureiro
+,,284.0,30.0,,,Marta Bruno Loureiro
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSC37 - BIOQUÍMICA METABÓLICA PARA CIÊNCIAS BIOLÓGICAS,10100.0,286.0,3.0,QUA,13:00 às 13:55,Juliana Sacramento Mota de Souza
+,,280.0,2.0,,,Juliana Sacramento Mota de Souza
+,,202.0,5.0,,,Juliana Sacramento Mota de Souza
+,,286.0,3.0,,13:55 às 16:40,Docente Substituto a Contratar
+,,280.0,2.0,,,Docente Substituto a Contratar
+,,202.0,5.0,,,Docente Substituto a Contratar
+,,286.0,3.0,,,Juliana Sacramento Mota de Souza
+,,280.0,2.0,,,Juliana Sacramento Mota de Souza
+,,202.0,5.0,,,Juliana Sacramento Mota de Souza
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSC39 - ENZIMAS DE APLICAÇÃO INDUSTRIAL,10000.0,286.0,4.0,SEX,18:30 às 20:20,Daniele Takahashi Bernal
+,,284.0,30.0,,,Daniele Takahashi Bernal
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSC40 - BIOENERGIA E BIOMASSA,10000.0,286.0,5.0,QUI,18:30 às 20:20,Cesar Augusto Piedrahita Aguirre
+,,284.0,40.0,,,Cesar Augusto Piedrahita Aguirre
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSC41 - GESTÃO E EMPREENDEDORISMO,10000.0,286.0,5.0,QUI,18:30 às 20:20,Angela Machado Rocha
+,,284.0,40.0,,,Angela Machado Rocha
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSC42 - BIOTECNOLOGIA AMBIENTAL,10100.0,284.0,36.0,QUA,18:30 às 20:20,Fabio Alexandre Chinalia
+,,,,,20:20 às 22:10,Fabio Alexandre Chinalia
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+"ICSC43 - ADITIVOS, CONSERVANTES E PROMOTORES DE CRESCIMENTO",10000.0,286.0,5.0,TER,18:30 às 20:20,Marcelo Andres Umsza Guez
+,,284.0,40.0,,,Marcelo Andres Umsza Guez
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSC44 - BIOTECNOLOGIA DE SOLOS,10000.0,284.0,45.0,QUA,15:45 às 17:35,Gustavo Miranda Pires Santos
+,,226.0,1.0,,,Gustavo Miranda Pires Santos
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSC45 - PRODUTOS BIOATIVOS,10000.0,286.0,4.0,TER,18:30 às 20:20,Daniele Takahashi Bernal
+,,284.0,30.0,,,Daniele Takahashi Bernal
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSC47 - BIOTECNOLOGIA FORENSE,10000.0,286.0,5.0,QUA,15:45 às 17:35,Bruno da Fonseca dos Santos
+,,284.0,40.0,,,Bruno da Fonseca dos Santos
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSC48 - BIOTERISMO E MODELOS ANIMAIS,10000.0,284.0,45.0,TER,15:45 às 17:35,Ricardo Wagner Dias Portela
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSC49 - BIOTECNOLOGIA DE PRODUTOS NATURAIS,10000.0,284.0,45.0,QUI,14:50 às 16:40,Bruno da Fonseca dos Santos
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSC50 - INOVAÇÃO TECNOLÓGICA E PROPRIEDADE INTELECTUAL,10000.0,286.0,5.0,SEG,18:30 às 20:20,Angela Machado Rocha
+,,284.0,40.0,,,Angela Machado Rocha
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSC51 - TÓPICOS ESPECIAIS EM BIOTECNOLOGIA,10000.0,284.0,45.0,QUA,13:55 às 15:45,Bruno da Fonseca dos Santos
+,,226.0,1.0,,,Bruno da Fonseca dos Santos
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSC59 - INTRODUÇÃO À MODELAGEM DE SISTEMAS BIOLÓGICOS,10100.0,284.0,15.0,SEG,15:45 às 17:35,Gilson Correia de Carvalho
+,,,,QUI,15:45 às 17:35,Gilson Correia de Carvalho
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSC60 - ACCS: EMPREENDEDORISMO EM BIOTECNOLOGIA,100.0,284.0,15.0,CMB,00:00 às 23:00,Maria Clara Barretto de Freitas Melro Br
+,,,,,,Angela Machado Rocha
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSF11 - SAÚDE BASEADA EM EVIDÊNCIAS,10000.0,222.0,45.0,SEX,10:40 às 12:30,Iura Gonzalez Nogueira Alves
+,,,,CMB,00:00 às 00:00,Iura Gonzalez Nogueira Alves
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSF14 - BIOLOGIA CELULAR ANIMAL,10100.0,284.0,15.0,QUI,16:40 às 17:35,Marcus Welby Borges Oliveira
+,,,,,18:30 às 20:20,Marcus Welby Borges Oliveira
+,,,,,21:15 às 22:10,Marcus Welby Borges Oliveira
+,10200.0,284.0,15.0,QUI,17:35 às 18:30,Marcus Welby Borges Oliveira
+,,,,,18:30 às 20:20,Marcus Welby Borges Oliveira
+,,,,,21:15 às 22:10,Marcus Welby Borges Oliveira
+,10300.0,284.0,15.0,QUI,18:30 às 20:20,Marcus Welby Borges Oliveira
+,,,,,20:20 às 21:15,Marcus Welby Borges Oliveira
+,,,,,21:15 às 22:10,Marcus Welby Borges Oliveira
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSF16 - PRINCÍPIOS DE BIOLOGIA SINTÉTICA,10100.0,284.0,15.0,SEG,14:50 às 15:45,Thiago Luiz de Paula Castro
+,,,,,15:45 às 16:40,Thiago Luiz de Paula Castro
+,,,,,16:40 às 17:35,Thiago Luiz de Paula Castro
+,,,,,17:35 às 18:30,Luis Gustavo Carvalho Pacheco
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSF26 - INSTRUMENTAL DE PESQUISA,10000.0,226.0,4.0,QUA,08:50 às 12:30,Helena Franca Correia
+,,222.0,45.0,,,Helena Franca Correia
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSF36 - TÓPICOS AVANÇADOS EM VIROLOGIA APLICADA A SAÚDE PÚBLICA,10000.0,284.0,45.0,SEX,14:50 às 18:30,Andrea Mendonca Gusmao Cunha
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSF55 - INTRODUÇÃO A POLÍTICAS DE SAÚDE E ANTIRRACISMO,10000.0,325.0,10.0,TER,09:45 às 10:40,Marcos Vinicius Ribeiro de Araujo
+,,226.0,2.0,,,Marcos Vinicius Ribeiro de Araujo
+,,222.0,5.0,,,Marcos Vinicius Ribeiro de Araujo
+,,210.0,10.0,,,Marcos Vinicius Ribeiro de Araujo
+,,205.0,2.0,,,Marcos Vinicius Ribeiro de Araujo
+,,883.0,3.0,,,Marcos Vinicius Ribeiro de Araujo
+,,,,,10:40 às 11:35,Magali da Silva Almeida
+,,325.0,10.0,,,Magali da Silva Almeida
+,,226.0,2.0,,,Magali da Silva Almeida
+,,222.0,5.0,,,Magali da Silva Almeida
+,,210.0,10.0,,,Magali da Silva Almeida
+,,205.0,2.0,,,Magali da Silva Almeida
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSF57 - MARCADORES SANGUÍNEOS APLICADOS À FISIOLOGIA DOS ÓRGÃOS,10000.0,226.0,5.0,QUA,09:45 às 11:35,Alex Jose Leite Torres
+,,222.0,10.0,,,Alex Jose Leite Torres
+,,207.0,10.0,,,Alex Jose Leite Torres
+,,204.0,8.0,,,Alex Jose Leite Torres
+,,203.0,10.0,,,Alex Jose Leite Torres
+,,202.0,7.0,,,Alex Jose Leite Torres
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSF93 - MICROBIOLOGIA CLÍNICA AVANÇADA I,10000.0,286.0,4.0,CMB,00:00 às 23:00,Nilse Nelia Querino Santos
+,,205.0,40.0,,,Nilse Nelia Querino Santos
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSF98 - NEUROANATOMIA APLICADA À REABILITAÇÃO,10100.0,883.0,18.0,TER,07:00 às 08:50,Samuel Barbosa Camargo
+,,226.0,1.0,,,Samuel Barbosa Camargo
+,,883.0,18.0,,08:50 às 09:45,Samuel Barbosa Camargo
+,,226.0,1.0,,,Samuel Barbosa Camargo
+,10200.0,883.0,17.0,TER,07:00 às 08:50,Samuel Barbosa Camargo
+,,226.0,2.0,,,Samuel Barbosa Camargo
+,,883.0,17.0,,09:45 às 10:40,Samuel Barbosa Camargo
+,,226.0,2.0,,,Samuel Barbosa Camargo
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSF99 - HISTOLOGIA MÉDICA I,10100.0,226.0,1.0,CMB,00:00 às 23:00,Caroline Brandi Schlaepfer Sales
+,,205.0,19.0,,,Caroline Brandi Schlaepfer Sales
+,10200.0,226.0,1.0,CMB,00:00 às 23:00,Caroline Brandi Schlaepfer Sales
+,,205.0,19.0,,,Caroline Brandi Schlaepfer Sales
+,10300.0,226.0,1.0,CMB,00:00 às 23:00,Caroline Brandi Schlaepfer Sales
+,,205.0,19.0,,,Caroline Brandi Schlaepfer Sales
+,,226.0,1.0,,,Deise Souza Vilas Boas
+,,205.0,19.0,,,Deise Souza Vilas Boas
+,10400.0,205.0,20.0,CMB,00:00 às 23:00,Caroline Brandi Schlaepfer Sales
+,10500.0,205.0,20.0,CMB,00:00 às 23:00,Caroline Brandi Schlaepfer Sales
+,,,,,,Deise Souza Vilas Boas
+,10600.0,205.0,20.0,CMB,00:00 às 23:00,Caroline Brandi Schlaepfer Sales
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSG01 - ANATOMIA DE SISTEMAS I,10100.0,226.0,1.0,SEG,07:00 às 10:40,Thais Silva Peleteiro
+,,205.0,19.0,,,Thais Silva Peleteiro
+,,226.0,1.0,SEX,13:00 às 14:50,Juciele Valeria Ribeiro de Oliveira
+,,205.0,19.0,,,Juciele Valeria Ribeiro de Oliveira
+,10200.0,226.0,1.0,SEG,07:00 às 10:40,Juciele Valeria Ribeiro de Oliveira
+,,205.0,20.0,,,Juciele Valeria Ribeiro de Oliveira
+,,226.0,1.0,SEX,13:00 às 14:50,Juciele Valeria Ribeiro de Oliveira
+,,205.0,20.0,,,Juciele Valeria Ribeiro de Oliveira
+,10300.0,205.0,19.0,SEG,07:00 às 10:40,Paulo Raimundo Rosario Lopes
+,,,,SEX,13:00 às 14:50,Juciele Valeria Ribeiro de Oliveira
+,10400.0,226.0,1.0,SEG,13:00 às 16:40,Thais Silva Peleteiro
+,,205.0,19.0,,,Thais Silva Peleteiro
+,,226.0,1.0,SEX,13:00 às 14:50,Juciele Valeria Ribeiro de Oliveira
+,,205.0,19.0,,,Juciele Valeria Ribeiro de Oliveira
+,10500.0,205.0,20.0,SEG,13:00 às 16:40,Juciele Valeria Ribeiro de Oliveira
+,,,,SEX,13:00 às 14:50,Juciele Valeria Ribeiro de Oliveira
+,10600.0,226.0,1.0,SEG,13:00 às 16:40,Paulo Raimundo Rosario Lopes
+,,205.0,19.0,,,Paulo Raimundo Rosario Lopes
+,,226.0,1.0,SEX,13:00 às 14:50,Juciele Valeria Ribeiro de Oliveira
+,,205.0,19.0,,,Juciele Valeria Ribeiro de Oliveira
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSG02 - BIOQUÍMICA MÉDICA I,10100.0,226.0,2.0,TER,13:55 às 15:45,Maria de Fatima Dias Costa
+,,205.0,10.0,,,Maria de Fatima Dias Costa
+,,226.0,2.0,QUI,07:55 às 09:45,Juliana Sacramento Mota de Souza
+,,205.0,10.0,,,Juliana Sacramento Mota de Souza
+,10200.0,226.0,1.0,TER,13:55 às 15:45,Maria de Fatima Dias Costa
+,,205.0,11.0,,,Maria de Fatima Dias Costa
+,,226.0,1.0,QUI,07:55 às 09:45,Elisabete Freire Santos
+,,205.0,11.0,,,Elisabete Freire Santos
+,10300.0,226.0,2.0,TER,13:55 às 15:45,Maria de Fatima Dias Costa
+,,205.0,10.0,,,Maria de Fatima Dias Costa
+,,226.0,2.0,QUI,10:40 às 12:30,Juliana Sacramento Mota de Souza
+,,205.0,10.0,,,Juliana Sacramento Mota de Souza
+,10400.0,226.0,1.0,TER,13:55 às 15:45,Maria de Fatima Dias Costa
+,,205.0,11.0,,,Maria de Fatima Dias Costa
+,,226.0,1.0,QUI,10:40 às 12:30,Elisabete Freire Santos
+,,205.0,11.0,,,Elisabete Freire Santos
+,20500.0,226.0,2.0,TER,07:55 às 09:45,Juliana Sacramento Mota de Souza
+,,205.0,10.0,,,Juliana Sacramento Mota de Souza
+,,226.0,2.0,QUI,13:55 às 15:45,Maria de Fatima Dias Costa
+,,205.0,10.0,,,Maria de Fatima Dias Costa
+,20600.0,226.0,1.0,TER,07:55 às 09:45,Elisabete Freire Santos
+,,205.0,11.0,,,Elisabete Freire Santos
+,,226.0,1.0,QUI,13:55 às 15:45,Maria de Fatima Dias Costa
+,,205.0,11.0,,,Maria de Fatima Dias Costa
+,20700.0,226.0,2.0,TER,09:45 às 11:35,Juliana Sacramento Mota de Souza
+,,205.0,10.0,,,Juliana Sacramento Mota de Souza
+,,226.0,2.0,QUI,13:55 às 15:45,Maria de Fatima Dias Costa
+,,205.0,10.0,,,Maria de Fatima Dias Costa
+,20800.0,226.0,1.0,TER,09:45 às 11:35,Elisabete Freire Santos
+,,205.0,11.0,,,Elisabete Freire Santos
+,,226.0,1.0,QUI,13:55 às 15:45,Maria de Fatima Dias Costa
+,,205.0,11.0,,,Maria de Fatima Dias Costa
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSG03 - BIOFÍSICA III A,10100.0,205.0,15.0,SEG,07:00 às 08:50,Simone Garcia Macambira
+,,,,,08:50 às 09:45,Simone Garcia Macambira
+,10200.0,205.0,15.0,SEG,07:00 às 08:50,Simone Garcia Macambira
+,,,,,08:50 às 09:45,Marcia Barbosa da Silva
+,10300.0,205.0,15.0,SEG,07:00 às 08:50,Simone Garcia Macambira
+,,,,,09:45 às 10:40,Simone Garcia Macambira
+,10400.0,205.0,15.0,SEG,07:00 às 08:50,Simone Garcia Macambira
+,,,,,09:45 às 10:40,Marcia Barbosa da Silva
+,10500.0,205.0,15.0,SEG,07:00 às 08:50,Simone Garcia Macambira
+,,,,,10:40 às 11:35,Simone Garcia Macambira
+,10600.0,205.0,15.0,SEG,07:00 às 08:50,Simone Garcia Macambira
+,,,,,10:40 às 11:35,Clarissa de Sampaio Schitine
+,10700.0,205.0,15.0,SEG,07:00 às 08:50,Simone Garcia Macambira
+,,,,,11:35 às 12:30,Simone Garcia Macambira
+,10800.0,286.0,15.0,SEG,07:00 às 08:50,Simone Garcia Macambira
+,,,,,11:35 às 12:30,Clarissa de Sampaio Schitine
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSG04 - HISTOLOGIA MÉDICA II,10100.0,226.0,1.0,CMB,00:00 às 23:00,Alexandre Ribeiro do Espirito Santo
+,,205.0,17.0,,,Alexandre Ribeiro do Espirito Santo
+,10200.0,226.0,1.0,CMB,00:00 às 23:00,Alexandre Ribeiro do Espirito Santo
+,,205.0,17.0,,,Alexandre Ribeiro do Espirito Santo
+,,226.0,1.0,,,Caroline Brandi Schlaepfer Sales
+,,205.0,17.0,,,Caroline Brandi Schlaepfer Sales
+,10300.0,226.0,1.0,CMB,00:00 às 23:00,Alexandre Ribeiro do Espirito Santo
+,,205.0,17.0,,,Alexandre Ribeiro do Espirito Santo
+,10400.0,205.0,18.0,CMB,00:00 às 23:00,Alexandre Ribeiro do Espirito Santo
+,,,,,,Caroline Brandi Schlaepfer Sales
+,10500.0,205.0,17.0,CMB,00:00 às 23:00,Alexandre Ribeiro do Espirito Santo
+,10600.0,205.0,17.0,CMB,00:00 às 23:00,Alexandre Ribeiro do Espirito Santo
+,,,,,,Caroline Brandi Schlaepfer Sales
+,10700.0,205.0,17.0,CMB,00:00 às 23:00,Alexandre Ribeiro do Espirito Santo
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSG05 - NEUROANATOMIA HUMANA,10100.0,226.0,1.0,TER,08:50 às 09:45,Jamary Oliveira Filho
+,,205.0,15.0,,,Jamary Oliveira Filho
+,,226.0,1.0,QUI,09:45 às 12:30,Jamary Oliveira Filho
+,,205.0,15.0,,,Jamary Oliveira Filho
+,10200.0,226.0,1.0,TER,08:50 às 09:45,Jamary Oliveira Filho
+,,205.0,15.0,,,Jamary Oliveira Filho
+,,226.0,1.0,QUI,09:45 às 12:30,Pedro Antonio Pereira de Jesus
+,,205.0,15.0,,,Pedro Antonio Pereira de Jesus
+,10300.0,226.0,1.0,TER,08:50 às 09:45,Jamary Oliveira Filho
+,,205.0,15.0,,,Jamary Oliveira Filho
+,,226.0,1.0,QUI,09:45 às 12:30,Paulo Raimundo Rosario Lopes
+,,205.0,15.0,,,Paulo Raimundo Rosario Lopes
+,20400.0,226.0,1.0,TER,09:45 às 12:30,Jamary Oliveira Filho
+,,205.0,15.0,,,Jamary Oliveira Filho
+,,226.0,1.0,QUI,08:50 às 09:45,Jamary Oliveira Filho
+,,205.0,15.0,,,Jamary Oliveira Filho
+,20500.0,226.0,1.0,TER,09:45 às 12:30,Pedro Antonio Pereira de Jesus
+,,205.0,15.0,,,Pedro Antonio Pereira de Jesus
+,,226.0,1.0,QUI,08:50 às 09:45,Jamary Oliveira Filho
+,,205.0,15.0,,,Jamary Oliveira Filho
+,20600.0,226.0,1.0,TER,09:45 às 12:30,Paulo Raimundo Rosario Lopes
+,,205.0,15.0,,,Paulo Raimundo Rosario Lopes
+,,226.0,1.0,QUI,08:50 às 09:45,Jamary Oliveira Filho
+,,205.0,15.0,,,Jamary Oliveira Filho
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSG06 - FISIOLOGIA MÉDICA GERAL I A,10100.0,205.0,20.0,SEG,13:00 às 14:50,Luciana Mattos Barros Oliveira
+,,,,,14:50 às 16:40,Luciana Mattos Barros Oliveira
+,,,,QUA,08:50 às 10:40,Luciana Mattos Barros Oliveira
+,,,,,,Monica Serra
+,10200.0,205.0,20.0,SEG,13:00 às 14:50,Luciana Mattos Barros Oliveira
+,,,,,14:50 às 16:40,Monica Serra
+,,,,QUA,08:50 às 10:40,Luciana Mattos Barros Oliveira
+,,,,,,Monica Serra
+,10300.0,205.0,20.0,SEG,13:00 às 14:50,Luciana Mattos Barros Oliveira
+,,,,QUA,08:50 às 10:40,Luciana Mattos Barros Oliveira
+,,,,,,Monica Serra
+,,,,,10:40 às 12:30,Luciana Mattos Barros Oliveira
+,10400.0,205.0,20.0,SEG,13:00 às 14:50,Luciana Mattos Barros Oliveira
+,,,,QUA,08:50 às 10:40,Luciana Mattos Barros Oliveira
+,,,,,,Monica Serra
+,,,,,10:40 às 12:30,Monica Serra
+,10500.0,205.0,20.0,SEG,13:00 às 14:50,Luciana Mattos Barros Oliveira
+,,,,QUA,07:00 às 08:50,Luciana Mattos Barros Oliveira
+,,,,,08:50 às 10:40,Luciana Mattos Barros Oliveira
+,,,,,,Monica Serra
+,10600.0,205.0,20.0,SEG,13:00 às 14:50,Luciana Mattos Barros Oliveira
+,,,,QUA,07:00 às 08:50,Monica Serra
+,,,,,08:50 às 10:40,Luciana Mattos Barros Oliveira
+,,,,,,Monica Serra
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSG09 - BIOQUÍMICA MÉDICA II A,10000.0,205.0,15.0,SEG,13:00 às 14:50,George Oliveira Silva
+,20000.0,205.0,15.0,TER,07:00 às 08:50,George Oliveira Silva
+,30000.0,205.0,15.0,TER,10:40 às 12:30,George Oliveira Silva
+,40000.0,286.0,12.0,TER,08:50 às 10:40,George Oliveira Silva
+,,205.0,3.0,,,George Oliveira Silva
+,50000.0,205.0,15.0,TER,07:00 às 08:50,Maria Isabel Schinoni
+,60000.0,205.0,15.0,SEG,13:00 às 14:50,Maria Isabel Schinoni
+,70000.0,205.0,15.0,QUI,08:50 às 10:40,Maria Isabel Schinoni
+,80000.0,205.0,15.0,QUI,10:40 às 12:30,Maria Isabel Schinoni
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSG10 - FISIOLOGIA DOS ÓRGÃOS E SISTEMAS A,10100.0,205.0,20.0,TER,08:50 às 10:40,Samira Itana de Souza
+,,,,,10:40 às 12:30,Samira Itana de Souza
+,,,,QUI,08:50 às 10:40,Helton Estrela Ramos
+,10200.0,205.0,20.0,TER,08:50 às 10:40,Samira Itana de Souza
+,,,,,10:40 às 12:30,Helton Estrela Ramos
+,,,,QUI,08:50 às 10:40,Helton Estrela Ramos
+,10300.0,205.0,20.0,TER,08:50 às 10:40,Samira Itana de Souza
+,,,,QUI,08:50 às 10:40,Helton Estrela Ramos
+,,,,,10:40 às 12:30,Samira Itana de Souza
+,10400.0,205.0,20.0,TER,08:50 às 10:40,Samira Itana de Souza
+,,,,QUI,08:50 às 10:40,Helton Estrela Ramos
+,,,,,10:40 às 12:30,Helton Estrela Ramos
+,10500.0,205.0,20.0,TER,07:00 às 08:50,Samira Itana de Souza
+,,,,,08:50 às 10:40,Samira Itana de Souza
+,,,,QUI,08:50 às 10:40,Helton Estrela Ramos
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSG12 - PARASITOLOGIA HUMANA II A,10100.0,226.0,1.0,SEG,10:40 às 12:30,Nicolaus Albert Borges Schriefer
+,,205.0,11.0,,,Nicolaus Albert Borges Schriefer
+,,226.0,1.0,SEX,13:00 às 13:55,Joao Carlos Marques Ponte
+,,205.0,11.0,,,Joao Carlos Marques Ponte
+,,226.0,1.0,,,Nicolaus Albert Borges Schriefer
+,,205.0,11.0,,,Nicolaus Albert Borges Schriefer
+,10200.0,226.0,1.0,SEG,10:40 às 12:30,Adriano Figueiredo Monte Alegre
+,,205.0,11.0,,,Adriano Figueiredo Monte Alegre
+,,226.0,1.0,SEX,13:00 às 13:55,Joao Carlos Marques Ponte
+,,205.0,11.0,,,Joao Carlos Marques Ponte
+,,226.0,1.0,,,Nicolaus Albert Borges Schriefer
+,,205.0,11.0,,,Nicolaus Albert Borges Schriefer
+,10300.0,226.0,1.0,SEG,10:40 às 12:30,Daniela Luz Ambrosio Breisch
+,,205.0,11.0,,,Daniela Luz Ambrosio Breisch
+,,226.0,1.0,SEX,13:00 às 13:55,Joao Carlos Marques Ponte
+,,205.0,11.0,,,Joao Carlos Marques Ponte
+,,226.0,1.0,,,Nicolaus Albert Borges Schriefer
+,,205.0,11.0,,,Nicolaus Albert Borges Schriefer
+,10400.0,205.0,12.0,SEG,10:40 às 12:30,Joao Carlos Marques Ponte
+,,,,SEX,13:00 às 13:55,Joao Carlos Marques Ponte
+,,,,,,Nicolaus Albert Borges Schriefer
+,10500.0,226.0,1.0,SEG,14:50 às 16:40,Nicolaus Albert Borges Schriefer
+,,205.0,11.0,,,Nicolaus Albert Borges Schriefer
+,,226.0,1.0,SEX,13:00 às 13:55,Joao Carlos Marques Ponte
+,,205.0,11.0,,,Joao Carlos Marques Ponte
+,,226.0,1.0,,,Nicolaus Albert Borges Schriefer
+,,205.0,11.0,,,Nicolaus Albert Borges Schriefer
+,10600.0,226.0,1.0,SEG,14:50 às 16:40,Adriano Figueiredo Monte Alegre
+,,205.0,11.0,,,Adriano Figueiredo Monte Alegre
+,,226.0,1.0,SEX,13:00 às 13:55,Joao Carlos Marques Ponte
+,,205.0,11.0,,,Joao Carlos Marques Ponte
+,,226.0,1.0,,,Nicolaus Albert Borges Schriefer
+,,205.0,11.0,,,Nicolaus Albert Borges Schriefer
+,10700.0,226.0,1.0,SEG,14:50 às 16:40,Daniela Luz Ambrosio Breisch
+,,205.0,11.0,,,Daniela Luz Ambrosio Breisch
+,,226.0,1.0,SEX,13:00 às 13:55,Joao Carlos Marques Ponte
+,,205.0,11.0,,,Joao Carlos Marques Ponte
+,,226.0,1.0,,,Nicolaus Albert Borges Schriefer
+,,205.0,11.0,,,Nicolaus Albert Borges Schriefer
+,10800.0,205.0,11.0,SEG,14:50 às 16:40,Joao Carlos Marques Ponte
+,,,,SEX,13:00 às 13:55,Joao Carlos Marques Ponte
+,,,,,,Nicolaus Albert Borges Schriefer
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSG13 - FARMACOLOGIA I,10100.0,205.0,20.0,TER,07:55 às 08:50,Tatiane de Oliveira Teixeira Muniz Carle
+,,,,QUI,08:50 às 10:40,Camila Alexandrina Viana de Figueiredo F
+,10200.0,205.0,20.0,QUI,08:50 às 10:40,Camila Alexandrina Viana de Figueiredo F
+,,,,,10:40 às 11:35,Tatiane de Oliveira Teixeira Muniz Carle
+,10300.0,205.0,20.0,QUI,08:50 às 10:40,Camila Alexandrina Viana de Figueiredo F
+,,,,,11:35 às 12:30,Tatiane de Oliveira Teixeira Muniz Carle
+,10400.0,205.0,20.0,QUI,08:50 às 10:40,Camila Alexandrina Viana de Figueiredo F
+,,,,SEX,08:50 às 09:45,Tatiane de Oliveira Teixeira Muniz Carle
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSG14 - MICROBIOLOGIA V A,10100.0,205.0,10.0,QUA,13:55 às 14:50,Jailton de Azevedo Silva Junior
+,,,,QUI,14:50 às 16:40,Nilse Nelia Querino Santos
+,10200.0,205.0,10.0,QUA,13:55 às 14:50,Samira Abdallah Hanna
+,,,,QUI,14:50 às 16:40,Nilse Nelia Querino Santos
+,10300.0,205.0,10.0,QUA,14:50 às 15:45,Jailton de Azevedo Silva Junior
+,,,,QUI,14:50 às 16:40,Nilse Nelia Querino Santos
+,10400.0,205.0,10.0,QUA,14:50 às 15:45,Samira Abdallah Hanna
+,,,,QUI,14:50 às 16:40,Nilse Nelia Querino Santos
+,20500.0,205.0,10.0,QUI,13:55 às 14:50,Nilse Nelia Querino Santos
+,,,,,14:50 às 16:40,Luana Leandro Gois
+,20600.0,205.0,10.0,QUI,13:55 às 14:50,Luana Leandro Gois
+,,,,,14:50 às 16:40,Luana Leandro Gois
+,20700.0,205.0,10.0,QUI,14:50 às 16:40,Luana Leandro Gois
+,,,,,16:40 às 17:35,Nilse Nelia Querino Santos
+,20800.0,205.0,10.0,QUI,14:50 às 16:40,Luana Leandro Gois
+,,,,,16:40 às 17:35,Luana Leandro Gois
+,20900.0,205.0,10.0,QUI,13:00 às 13:55,Nilse Nelia Querino Santos
+,,,,,14:50 às 16:40,Luana Leandro Gois
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSG15 - FARMACOLOGIA II,10100.0,205.0,22.0,SEG,13:00 às 14:50,Eduardo Ponde de Sena
+,,,,QUA,13:00 às 13:55,Eduardo Ponde de Sena
+,10200.0,205.0,22.0,TER,08:50 às 10:40,Quiara Lovatti Alves
+,,,,QUA,13:00 às 13:55,Eduardo Ponde de Sena
+,10300.0,205.0,21.0,TER,10:40 às 12:30,Eduardo Ponde de Sena
+,,,,QUA,13:00 às 13:55,Eduardo Ponde de Sena
+,10400.0,205.0,20.0,TER,10:40 às 12:30,Tatiane de Oliveira Teixeira Muniz Carle
+,,,,QUA,13:00 às 13:55,Eduardo Ponde de Sena
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSG17 - PRINCÍPIOS FÍSICO-QUÍMICOS EM BIOPROCESSOS,10000.0,284.0,20.0,QUI,18:30 às 20:20,Jorge Luis Nicoleti
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSG18 - ANÁLISES QUÍMICAS EM BIOTECNOLOGIA,10100.0,284.0,30.0,SEX,16:40 às 18:30,Jorge Luis Nicoleti
+,,,,,18:30 às 20:20,Jorge Luis Nicoleti
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSG19 - QUÍMICA BIOTECNOLÓGICA,10100.0,286.0,3.0,QUA,18:30 às 20:20,Jorge Luis Nicoleti
+,,284.0,30.0,,,Jorge Luis Nicoleti
+,,286.0,3.0,,20:20 às 22:10,Jorge Luis Nicoleti
+,,284.0,30.0,,,Jorge Luis Nicoleti
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSG23 - FÍSICO-QUÍMICA APLICADA À BIOTECNOLOGIA,10000.0,284.0,45.0,TER,16:40 às 18:30,Jorge Luis Nicoleti
+,,,,CMB,00:00 às 00:00,Docente não informado pelo Departamento
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSG24 - MÉTODOS MATEMÁTICOS APLICADOS À BIOTECNOLOGIA,10000.0,286.0,3.0,CMB,00:00 às 23:00,Docente não informado pelo Departamento
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSG25 - QUÍMICA METABÓLICA,10000.0,286.0,4.0,QUA,16:40 às 18:30,Vitor Hugo Moreau da Cunha
+,,284.0,45.0,,,Vitor Hugo Moreau da Cunha
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+ICSG27 - BIOMATERIAIS EM APLICAÇÕES BIOMÉDICAS,100.0,226.0,2.0,TER,14:50 às 17:35,Fulvio Borges Miguel
+,,203.0,20.0,,,Fulvio Borges Miguel

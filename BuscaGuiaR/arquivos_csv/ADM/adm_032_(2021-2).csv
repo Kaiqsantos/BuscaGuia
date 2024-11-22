@@ -1,0 +1,983 @@
+"Disciplina","Turma","Coleg.","Vagas Ofe","Dia","Horário","Docente"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"ADM001 - INTRODUCÃO À  ADMINISTRACAO","010000","190","1","SEG","07:00 às 08:50","Ricardo Coutinho Mello"
+NA,NA,"515","1",NA,NA,"Ricardo Coutinho Mello"
+NA,NA,"387","1",NA,NA,"Ricardo Coutinho Mello"
+NA,NA,"313","1",NA,NA,"Ricardo Coutinho Mello"
+NA,NA,"327","1",NA,NA,"Ricardo Coutinho Mello"
+NA,NA,"116","20",NA,NA,"Ricardo Coutinho Mello"
+NA,NA,"387","1","CMB","00:00 às 00:00","Ricardo Coutinho Mello"
+NA,NA,"313","1",NA,NA,"Ricardo Coutinho Mello"
+NA,NA,"515","1",NA,NA,"Ricardo Coutinho Mello"
+NA,NA,"190","1",NA,NA,"Ricardo Coutinho Mello"
+NA,NA,"327","1",NA,NA,"Ricardo Coutinho Mello"
+NA,NA,"116","20",NA,NA,"Ricardo Coutinho Mello"
+NA,"020000","113","5","SEG","07:00 às 08:50","Carlos Cesar de Almeida Federico"
+NA,NA,"305","5",NA,NA,"Carlos Cesar de Almeida Federico"
+NA,NA,"207","15",NA,NA,"Carlos Cesar de Almeida Federico"
+NA,NA,"113","5","CMB","00:00 às 00:00","Carlos Cesar de Almeida Federico"
+NA,NA,"207","15",NA,NA,"Carlos Cesar de Almeida Federico"
+NA,NA,"305","5",NA,NA,"Carlos Cesar de Almeida Federico"
+NA,"030000","113","5","SEG","08:50 às 10:40","Ricardo Coutinho Mello"
+NA,NA,"112","15",NA,NA,"Ricardo Coutinho Mello"
+NA,NA,"327","5",NA,NA,"Ricardo Coutinho Mello"
+NA,NA,NA,NA,"CMB","00:00 às 00:00","Ricardo Coutinho Mello"
+NA,NA,"113","5",NA,NA,"Ricardo Coutinho Mello"
+NA,NA,"112","15",NA,NA,"Ricardo Coutinho Mello"
+NA,"040000","305","15","SEG","08:50 às 10:40","Carlos Cesar de Almeida Federico"
+NA,NA,"189","2",NA,NA,"Carlos Cesar de Almeida Federico"
+NA,NA,"387","2",NA,NA,"Carlos Cesar de Almeida Federico"
+NA,NA,"190","3",NA,NA,"Carlos Cesar de Almeida Federico"
+NA,NA,"286","3",NA,NA,"Carlos Cesar de Almeida Federico"
+NA,NA,"189","2","CMB","00:00 às 00:00","Carlos Cesar de Almeida Federico"
+NA,NA,"190","3",NA,NA,"Carlos Cesar de Almeida Federico"
+NA,NA,"286","3",NA,NA,"Carlos Cesar de Almeida Federico"
+NA,NA,"387","2",NA,NA,"Carlos Cesar de Almeida Federico"
+NA,NA,"305","15",NA,NA,"Carlos Cesar de Almeida Federico"
+NA,"050000","110","2","SEG","10:40 às 12:30","Paulo Soares Figueiredo"
+NA,NA,"382","5",NA,NA,"Paulo Soares Figueiredo"
+NA,NA,"286","3",NA,NA,"Paulo Soares Figueiredo"
+NA,NA,"308","5",NA,NA,"Paulo Soares Figueiredo"
+NA,NA,"189","5",NA,NA,"Paulo Soares Figueiredo"
+NA,NA,"304","30",NA,NA,"Paulo Soares Figueiredo"
+NA,NA,NA,NA,"CMB","00:00 às 00:00","Paulo Soares Figueiredo"
+NA,NA,"382","5",NA,NA,"Paulo Soares Figueiredo"
+NA,NA,"286","3",NA,NA,"Paulo Soares Figueiredo"
+NA,NA,"308","5",NA,NA,"Paulo Soares Figueiredo"
+NA,NA,"189","5",NA,NA,"Paulo Soares Figueiredo"
+NA,NA,"110","2",NA,NA,"Paulo Soares Figueiredo"
+NA,"060000","580","5","SEG","10:40 às 12:30","Antonio Sergio Araujo Fernandes"
+NA,NA,"305","10",NA,NA,"Antonio Sergio Araujo Fernandes"
+NA,NA,"304","25",NA,NA,"Antonio Sergio Araujo Fernandes"
+NA,NA,"515","5",NA,NA,"Antonio Sergio Araujo Fernandes"
+NA,NA,"387","5",NA,NA,"Antonio Sergio Araujo Fernandes"
+NA,NA,"580","5","CMB","00:00 às 00:00","Antonio Sergio Araujo Fernandes"
+NA,NA,"515","5",NA,NA,"Antonio Sergio Araujo Fernandes"
+NA,NA,"387","5",NA,NA,"Antonio Sergio Araujo Fernandes"
+NA,NA,"305","10",NA,NA,"Antonio Sergio Araujo Fernandes"
+NA,NA,"304","25",NA,NA,"Antonio Sergio Araujo Fernandes"
+NA,"070000","305","20","TER","20:20 às 22:10","Tania Moura Benevides"
+NA,NA,"304","5",NA,NA,"Tania Moura Benevides"
+NA,NA,"190","5",NA,NA,"Tania Moura Benevides"
+NA,NA,"284","3",NA,NA,"Tania Moura Benevides"
+NA,NA,"113","10",NA,NA,"Tania Moura Benevides"
+NA,NA,"286","2",NA,NA,"Tania Moura Benevides"
+NA,NA,"189","5",NA,NA,"Tania Moura Benevides"
+NA,NA,"113","10","CMB","00:00 às 00:00","Tania Moura Benevides"
+NA,NA,"304","5",NA,NA,"Tania Moura Benevides"
+NA,NA,"305","20",NA,NA,"Tania Moura Benevides"
+NA,NA,"284","3",NA,NA,"Tania Moura Benevides"
+NA,NA,"286","2",NA,NA,"Tania Moura Benevides"
+NA,NA,"190","5",NA,NA,"Tania Moura Benevides"
+NA,NA,"189","5",NA,NA,"Tania Moura Benevides"
+NA,"080000","304","20","SEG","18:30 às 20:20","Ana Rita Silva Sacramento"
+NA,NA,"380","30",NA,NA,"Ana Rita Silva Sacramento"
+NA,NA,NA,NA,"CMB","00:00 às 00:00","Ana Rita Silva Sacramento"
+NA,NA,"304","20",NA,NA,"Ana Rita Silva Sacramento"
+NA,"090000","380","54","QUA","20:20 às 22:10","Renata Alvarez Rossi"
+NA,NA,NA,NA,"CMB","00:00 às 00:00","Renata Alvarez Rossi"
+NA,"100000","387","5","TER","07:00 às 08:50","Joao Marcelo Pitia Barreto"
+NA,NA,"304","30",NA,NA,"Joao Marcelo Pitia Barreto"
+NA,NA,"207","15",NA,NA,"Joao Marcelo Pitia Barreto"
+NA,NA,"387","5","CMB","00:00 às 00:00","Joao Marcelo Pitia Barreto"
+NA,NA,"304","30",NA,NA,"Joao Marcelo Pitia Barreto"
+NA,NA,"207","15",NA,NA,"Joao Marcelo Pitia Barreto"
+NA,"110000","305","5","QUI","07:00 às 08:50","Monica de Aguiar Mac Allister da Silva"
+NA,NA,"303","10",NA,NA,"Monica de Aguiar Mac Allister da Silva"
+NA,NA,"304","30",NA,NA,"Monica de Aguiar Mac Allister da Silva"
+NA,NA,"286","5",NA,NA,"Monica de Aguiar Mac Allister da Silva"
+NA,NA,"303","10","CMB","00:00 às 00:00","Monica de Aguiar Mac Allister da Silva"
+NA,NA,"286","5",NA,NA,"Monica de Aguiar Mac Allister da Silva"
+NA,NA,"305","5",NA,NA,"Monica de Aguiar Mac Allister da Silva"
+NA,NA,"304","30",NA,NA,"Monica de Aguiar Mac Allister da Silva"
+NA,"120000","303","50","SEX","09:45 às 11:35","Constantino de Carvalho Oliveira Neto"
+NA,NA,NA,NA,"CMB","00:00 às 00:00","Constantino de Carvalho Oliveira Neto"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"ADM007 - COMUNICACAO I","010000","327","5","SEX","13:55 às 15:45","Guilherme Marback Neto"
+NA,NA,"380","10",NA,NA,"Guilherme Marback Neto"
+NA,NA,"382","10",NA,NA,"Guilherme Marback Neto"
+NA,NA,"308","10",NA,NA,"Guilherme Marback Neto"
+NA,NA,"304","10",NA,NA,"Guilherme Marback Neto"
+NA,NA,"190","5",NA,NA,"Guilherme Marback Neto"
+NA,NA,"382","10","CMB","00:00 às 00:00","Guilherme Marback Neto"
+NA,NA,"380","10",NA,NA,"Guilherme Marback Neto"
+NA,NA,"327","5",NA,NA,"Guilherme Marback Neto"
+NA,NA,"308","10",NA,NA,"Guilherme Marback Neto"
+NA,NA,"190","5",NA,NA,"Guilherme Marback Neto"
+NA,NA,"304","10",NA,NA,"Guilherme Marback Neto"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"ADM012 - ADMINISTRACAO","010100","105","20","SEG","13:00 às 14:50","Ivone Freire Costa"
+NA,NA,"102","5",NA,NA,"Ivone Freire Costa"
+NA,NA,"103","25",NA,NA,"Ivone Freire Costa"
+NA,NA,NA,NA,"QUA","13:00 às 14:50","Ivone Freire Costa"
+NA,NA,"105","20",NA,NA,"Ivone Freire Costa"
+NA,NA,"102","5",NA,NA,"Ivone Freire Costa"
+NA,"020200","104","30","SEG","14:50 às 16:40","Jose Celio Silveira Andrade"
+NA,NA,"106","10",NA,NA,"Jose Celio Silveira Andrade"
+NA,NA,"102","10",NA,NA,"Jose Celio Silveira Andrade"
+NA,NA,NA,NA,"CMB","00:00 às 00:00","Jose Celio Silveira Andrade"
+NA,NA,"106","10",NA,NA,"Jose Celio Silveira Andrade"
+NA,NA,"104","30",NA,NA,"Jose Celio Silveira Andrade"
+NA,"030300","327","5","SEG","18:30 às 20:20","Jose Celio Silveira Andrade"
+NA,NA,"190","5",NA,NA,"Jose Celio Silveira Andrade"
+NA,NA,"189","5",NA,NA,"Jose Celio Silveira Andrade"
+NA,NA,"188","10",NA,NA,"Jose Celio Silveira Andrade"
+NA,NA,"102","10",NA,NA,"Jose Celio Silveira Andrade"
+NA,NA,"107","15",NA,NA,"Jose Celio Silveira Andrade"
+NA,NA,"189","5","CMB","00:00 às 00:00","Jose Celio Silveira Andrade"
+NA,NA,"190","5",NA,NA,"Jose Celio Silveira Andrade"
+NA,NA,"188","10",NA,NA,"Jose Celio Silveira Andrade"
+NA,NA,"102","10",NA,NA,"Jose Celio Silveira Andrade"
+NA,NA,"107","15",NA,NA,"Jose Celio Silveira Andrade"
+NA,NA,"327","5",NA,NA,"Jose Celio Silveira Andrade"
+NA,"040400","188","5","TER","20:20 às 22:10","Ana Rita Silva Sacramento"
+NA,NA,"186","45",NA,NA,"Ana Rita Silva Sacramento"
+NA,NA,"188","5","CMB","00:00 às 00:00","Ana Rita Silva Sacramento"
+NA,NA,"186","45",NA,NA,"Ana Rita Silva Sacramento"
+NA,"050500","327","2","SEX","08:50 às 10:40","Sandro Coelho Moreira Pinto"
+NA,NA,"307","33",NA,NA,"Sandro Coelho Moreira Pinto"
+NA,NA,"284","5",NA,NA,"Sandro Coelho Moreira Pinto"
+NA,NA,"102","10",NA,NA,"Sandro Coelho Moreira Pinto"
+NA,NA,"327","2","CMB","00:00 às 00:00","Sandro Coelho Moreira Pinto"
+NA,NA,"102","10",NA,NA,"Sandro Coelho Moreira Pinto"
+NA,NA,"307","33",NA,NA,"Sandro Coelho Moreira Pinto"
+NA,NA,"284","5",NA,NA,"Sandro Coelho Moreira Pinto"
+NA,"060600","186","20","TER","18:30 às 20:20","Sandro Coelho Moreira Pinto"
+NA,NA,"105","15",NA,NA,"Sandro Coelho Moreira Pinto"
+NA,NA,"104","15",NA,NA,"Sandro Coelho Moreira Pinto"
+NA,NA,"105","15","CMB","00:00 às 00:00","Sandro Coelho Moreira Pinto"
+NA,NA,"104","15",NA,NA,"Sandro Coelho Moreira Pinto"
+NA,NA,"186","20",NA,NA,"Sandro Coelho Moreira Pinto"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"ADM149 - ESTRATEGIA ECONOMICA  DAS  EMPRESAS","010000","301","45","QUI","07:00 às 08:50","Antonio Francisco de Almeida da Silva Ju"
+NA,NA,NA,NA,"CMB","00:00 às 00:00","Antonio Francisco de Almeida da Silva Ju"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"ADM150 - ESTADO E SOCIEDADE","010000","301","45","QUA","10:40 às 12:30","Maria Elisabete Pereira dos Santos"
+NA,NA,"384","3",NA,NA,"Maria Elisabete Pereira dos Santos"
+NA,NA,NA,NA,"CMB","00:00 às 00:00","Maria Elisabete Pereira dos Santos"
+NA,NA,"301","45",NA,NA,"Maria Elisabete Pereira dos Santos"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"ADM154 - ELABORAÇÃO E ANÁLISE DE PROGRAMAS E PROJETOS","010100","384","2","SEG","08:50 às 10:40","Adriano Leal Bruni"
+NA,NA,"301","35",NA,NA,"Adriano Leal Bruni"
+NA,NA,"384","2","CMB","00:00 às 00:00","Adriano Leal Bruni"
+NA,NA,"301","35",NA,NA,"Adriano Leal Bruni"
+NA,"020200","384","3","SEG","18:30 às 20:20","Fernando Antonio de Melo Pereira"
+NA,NA,"301","35",NA,NA,"Fernando Antonio de Melo Pereira"
+NA,NA,"384","3","CMB","00:00 às 00:00","Fernando Antonio de Melo Pereira"
+NA,NA,"301","35",NA,NA,"Fernando Antonio de Melo Pereira"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"ADM170 - ADMINISTRACAO CONTABIL I","010000","327","5","SEG","08:50 às 10:40","Dilson Cerqueira da Silva"
+NA,NA,"301","25",NA,NA,"Dilson Cerqueira da Silva"
+NA,NA,"327","5","CMB","00:00 às 00:00","Dilson Cerqueira da Silva"
+NA,NA,"301","25",NA,NA,"Dilson Cerqueira da Silva"
+NA,"020000","387","2","SEG","10:40 às 12:30","Adriano Leal Bruni"
+NA,NA,"327","3",NA,NA,"Adriano Leal Bruni"
+NA,NA,"301","25",NA,NA,"Adriano Leal Bruni"
+NA,NA,"112","5",NA,NA,"Adriano Leal Bruni"
+NA,NA,"387","2","CMB","00:00 às 00:00","Adriano Leal Bruni"
+NA,NA,"327","3",NA,NA,"Adriano Leal Bruni"
+NA,NA,"301","25",NA,NA,"Adriano Leal Bruni"
+NA,NA,"112","5",NA,NA,"Adriano Leal Bruni"
+NA,"030000","327","5","SEX","08:50 às 10:40","Dilson Cerqueira da Silva"
+NA,NA,"313","5",NA,NA,"Dilson Cerqueira da Silva"
+NA,NA,"301","25",NA,NA,"Dilson Cerqueira da Silva"
+NA,NA,"190","5",NA,NA,"Dilson Cerqueira da Silva"
+NA,NA,"327","5","CMB","00:00 às 00:00","Dilson Cerqueira da Silva"
+NA,NA,"313","5",NA,NA,"Dilson Cerqueira da Silva"
+NA,NA,"301","25",NA,NA,"Dilson Cerqueira da Silva"
+NA,NA,"190","5",NA,NA,"Dilson Cerqueira da Silva"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"ADM171 - ELEMENTOS E ANALISES DE CUSTOS","010000","327","5","SEG","08:50 às 10:40","Cleide Dantas Carneiro"
+NA,NA,"305","18",NA,NA,"Cleide Dantas Carneiro"
+NA,NA,"301","2",NA,NA,"Cleide Dantas Carneiro"
+NA,NA,"116","10",NA,NA,"Cleide Dantas Carneiro"
+NA,NA,"112","15",NA,NA,"Cleide Dantas Carneiro"
+NA,NA,"327","5","CMB","00:00 às 00:00","Cleide Dantas Carneiro"
+NA,NA,"305","18",NA,NA,"Cleide Dantas Carneiro"
+NA,NA,"301","2",NA,NA,"Cleide Dantas Carneiro"
+NA,NA,"116","10",NA,NA,"Cleide Dantas Carneiro"
+NA,NA,"112","15",NA,NA,"Cleide Dantas Carneiro"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"ADM172 - ADMINISTRACAO FINANCEIRA I","010000","387","5","QUA","07:00 às 08:50","Antonio Francisco de Almeida da Silva Ju"
+NA,NA,"304","10",NA,NA,"Antonio Francisco de Almeida da Silva Ju"
+NA,NA,"301","20",NA,NA,"Antonio Francisco de Almeida da Silva Ju"
+NA,NA,"387","5","CMB","00:00 às 00:00","Antonio Francisco de Almeida da Silva Ju"
+NA,NA,"304","10",NA,NA,"Antonio Francisco de Almeida da Silva Ju"
+NA,NA,"301","20",NA,NA,"Antonio Francisco de Almeida da Silva Ju"
+NA,"020000","380","10","QUA","08:50 às 10:40","Roberto Brazileiro Paixao"
+NA,NA,"304","10",NA,NA,"Roberto Brazileiro Paixao"
+NA,NA,"301","20",NA,NA,"Roberto Brazileiro Paixao"
+NA,NA,"380","10","CMB","00:00 às 00:00","Roberto Brazileiro Paixao"
+NA,NA,"304","10",NA,NA,"Roberto Brazileiro Paixao"
+NA,NA,"301","20",NA,NA,"Roberto Brazileiro Paixao"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"ADM173 - ADMINISTRACAO MERCADOLOGICA I","010000","314","15","QUI","10:40 às 12:30","Sergio Ricardo Goes Oliveira"
+NA,NA,"301","20",NA,NA,"Sergio Ricardo Goes Oliveira"
+NA,NA,"314","15","CMB","00:00 às 00:00","Sergio Ricardo Goes Oliveira"
+NA,NA,"301","20",NA,NA,"Sergio Ricardo Goes Oliveira"
+NA,"020000","387","10","TER","18:30 às 20:20","Luciana Alves Rodas Vera"
+NA,NA,"301","25",NA,NA,"Luciana Alves Rodas Vera"
+NA,NA,"387","10","CMB","00:00 às 00:00","Luciana Alves Rodas Vera"
+NA,NA,"301","25",NA,NA,"Luciana Alves Rodas Vera"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"ADM174 - ADMINISTRACAO DA PRODUCAO  I","010000","301","40","SEG","07:00 às 08:50","Paulo Soares Figueiredo"
+NA,NA,NA,NA,"CMB","00:00 às 00:00","Paulo Soares Figueiredo"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"ADM175 - ADMINISTRAÇÃO ESTRATÉGICA","010000","301","45","TER","08:50 às 10:40","Sergio Ricardo Goes Oliveira"
+NA,NA,NA,NA,"CMB","00:00 às 00:00","Sergio Ricardo Goes Oliveira"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"ADM177 - ADMINISTRACAO FINANCEIRA II","010000","304","5","SEG","08:50 às 10:40","Antonio Carlos Peixoto de Magalhaes Juni"
+NA,NA,"301","40",NA,NA,"Antonio Carlos Peixoto de Magalhaes Juni"
+NA,NA,"304","5","QUA","08:50 às 10:40","Antonio Carlos Peixoto de Magalhaes Juni"
+NA,NA,"301","40",NA,NA,"Antonio Carlos Peixoto de Magalhaes Juni"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"ADM179 - ADMINISTRACAO MERCADOLOGICA  II","010000","301","25","SEG","10:40 às 12:30","Rodrigo Ladeira"
+NA,NA,"185","10",NA,NA,"Rodrigo Ladeira"
+NA,NA,"301","25","QUA","10:40 às 12:30","Rodrigo Ladeira"
+NA,NA,"185","10",NA,NA,"Rodrigo Ladeira"
+NA,"020000","301","25","TER","18:30 às 20:20","Rodrigo Ladeira"
+NA,NA,"185","10",NA,NA,"Rodrigo Ladeira"
+NA,NA,"301","25","QUI","18:30 às 20:20","Rodrigo Ladeira"
+NA,NA,"185","10",NA,NA,"Rodrigo Ladeira"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"ADM180 - COMERCIO EXTERIOR","010000","384","3","SEG","07:55 às 10:40","Rodrigo Ladeira"
+NA,NA,"314","15",NA,NA,"Rodrigo Ladeira"
+NA,NA,"301","30",NA,NA,"Rodrigo Ladeira"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"ADM181 - ADMINISTRACAO DA PRODUCAO  II","010000","301","45","QUA","08:50 às 10:40","Felipe Tumenas Marques"
+NA,NA,NA,NA,"CMB","00:00 às 00:00","Felipe Tumenas Marques"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"ADM188 - REDAÇÃO EMPRESARIAL","010000","327","5","SEX","08:50 às 10:40","Karine Conceição de Oliveira"
+NA,NA,"314","15",NA,NA,"Karine Conceição de Oliveira"
+NA,NA,"301","20",NA,NA,"Karine Conceição de Oliveira"
+NA,NA,"327","5","CMB","00:00 às 00:00","Karine Conceição de Oliveira"
+NA,NA,"314","15",NA,NA,"Karine Conceição de Oliveira"
+NA,NA,"301","20",NA,NA,"Karine Conceição de Oliveira"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"ADM200 - INTRODUCAO A  ADMINISTRACAO","010000","314","52","TER","10:40 às 12:30","Floriano Barboza Silva"
+NA,NA,NA,NA,"CMB","00:00 às 00:00","Floriano Barboza Silva"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"ADM202 - COMUNICAÇÃO","010000","301","50","QUA","07:00 às 08:50","Fabio Almeida Ferreira"
+NA,NA,NA,NA,"CMB","00:00 às 00:00","Fabio Almeida Ferreira"
+NA,"020000","301","50","QUI","10:40 às 12:30","Constantino de Carvalho Oliveira Neto"
+NA,NA,NA,NA,"CMB","00:00 às 00:00","Constantino de Carvalho Oliveira Neto"
+NA,"030000","327","5","SEG","08:50 às 10:40","Ernani Coelho Neto"
+NA,NA,"314","15",NA,NA,"Ernani Coelho Neto"
+NA,NA,"313","5",NA,NA,"Ernani Coelho Neto"
+NA,NA,"301","10",NA,NA,"Ernani Coelho Neto"
+NA,NA,"286","2",NA,NA,"Ernani Coelho Neto"
+NA,NA,"190","3",NA,NA,"Ernani Coelho Neto"
+NA,NA,"327","5","CMB","00:00 às 00:00","Ernani Coelho Neto"
+NA,NA,"314","15",NA,NA,"Ernani Coelho Neto"
+NA,NA,"313","5",NA,NA,"Ernani Coelho Neto"
+NA,NA,"301","10",NA,NA,"Ernani Coelho Neto"
+NA,NA,"286","2",NA,NA,"Ernani Coelho Neto"
+NA,NA,"190","3",NA,NA,"Ernani Coelho Neto"
+NA,"040000","387","5","SEG","18:30 às 20:20","Constantino de Carvalho Oliveira Neto"
+NA,NA,"327","7",NA,NA,"Constantino de Carvalho Oliveira Neto"
+NA,NA,"314","5",NA,NA,"Constantino de Carvalho Oliveira Neto"
+NA,NA,"301","20",NA,NA,"Constantino de Carvalho Oliveira Neto"
+NA,NA,"189","3",NA,NA,"Constantino de Carvalho Oliveira Neto"
+NA,NA,"387","5","CMB","00:00 às 00:00","Constantino de Carvalho Oliveira Neto"
+NA,NA,"327","7",NA,NA,"Constantino de Carvalho Oliveira Neto"
+NA,NA,"314","5",NA,NA,"Constantino de Carvalho Oliveira Neto"
+NA,NA,"301","20",NA,NA,"Constantino de Carvalho Oliveira Neto"
+NA,NA,"189","3",NA,NA,"Constantino de Carvalho Oliveira Neto"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"ADM203 - INFORMÁTICA APLICADA À ADMINISTRAÇÃO","010000","301","35","QUI","07:00 às 08:50","Isabel Sartori"
+NA,NA,NA,NA,"CMB","00:00 às 00:00","Isabel Sartori"
+NA,"020000","314","3","QUI","08:50 às 10:40","Rodrigo Muller"
+NA,NA,"301","35",NA,NA,"Rodrigo Muller"
+NA,NA,"314","3","CMB","00:00 às 00:00","Rodrigo Muller"
+NA,NA,"301","35",NA,NA,"Rodrigo Muller"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"ADM204 - PESQUISA APLICADA À ADMINISTRAÇÃO","010100","301","35","TER","07:00 às 08:50","Denise Ribeiro de Almeida"
+NA,NA,NA,NA,"QUI","07:00 às 08:50","Denise Ribeiro de Almeida"
+NA,"020200","301","35","TER","08:50 às 10:40","Denise Ribeiro de Almeida"
+NA,NA,NA,NA,"QUI","08:50 às 10:40","Denise Ribeiro de Almeida"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"ADM211 - MÉTODOS QUANTITATIVOS APLICADOS À ADMINISTRAÇÃO","010100","189","5","QUI","08:50 às 10:40","Jair Sampaio Soares Junior"
+NA,NA,"301","25",NA,NA,"Jair Sampaio Soares Junior"
+NA,NA,NA,NA,"CMB","00:00 às 00:00","Jair Sampaio Soares Junior"
+NA,NA,"189","5",NA,NA,"Jair Sampaio Soares Junior"
+NA,"020200","301","25","SEX","18:30 às 20:20","Fernando Antonio de Melo Pereira"
+NA,NA,"189","5",NA,NA,"Fernando Antonio de Melo Pereira"
+NA,NA,"301","25","CMB","00:00 às 00:00","Fernando Antonio de Melo Pereira"
+NA,NA,"189","5",NA,NA,"Fernando Antonio de Melo Pereira"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"ADM214 - ORGANIZACAO E  RELACOES DO TRABALHO","010000","314","3","SEG","07:00 às 08:50","Diva Ester Okazaki Rowe"
+NA,NA,"313","3",NA,NA,"Diva Ester Okazaki Rowe"
+NA,NA,"301","40",NA,NA,"Diva Ester Okazaki Rowe"
+NA,NA,"189","3",NA,NA,"Diva Ester Okazaki Rowe"
+NA,NA,"313","3","CMB","00:00 às 00:00","Diva Ester Okazaki Rowe"
+NA,NA,"301","40",NA,NA,"Diva Ester Okazaki Rowe"
+NA,NA,"189","3",NA,NA,"Diva Ester Okazaki Rowe"
+NA,NA,"314","3",NA,NA,"Diva Ester Okazaki Rowe"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"ADM218 - ABORDAGEM SÓCIO POLÍTICA DAS ORGANIZAÇÕES","010000","384","3","QUI","10:40 às 12:30","Renata Alvarez Rossi"
+NA,NA,"189","2",NA,NA,"Renata Alvarez Rossi"
+NA,NA,"327","3",NA,NA,"Renata Alvarez Rossi"
+NA,NA,"314","3",NA,NA,"Renata Alvarez Rossi"
+NA,NA,"301","25",NA,NA,"Renata Alvarez Rossi"
+NA,NA,"384","3","CMB","00:00 às 00:00","Renata Alvarez Rossi"
+NA,NA,"327","3",NA,NA,"Renata Alvarez Rossi"
+NA,NA,"314","3",NA,NA,"Renata Alvarez Rossi"
+NA,NA,"301","25",NA,NA,"Renata Alvarez Rossi"
+NA,NA,"189","2",NA,NA,"Renata Alvarez Rossi"
+NA,"020000","327","5","SEX","10:40 às 12:30","Renata Alvarez Rossi"
+NA,NA,"314","3",NA,NA,"Renata Alvarez Rossi"
+NA,NA,"301","25",NA,NA,"Renata Alvarez Rossi"
+NA,NA,"327","5","CMB","00:00 às 00:00","Renata Alvarez Rossi"
+NA,NA,"314","3",NA,NA,"Renata Alvarez Rossi"
+NA,NA,"301","25",NA,NA,"Renata Alvarez Rossi"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"ADM221 - ESTÁGIO CURRICULAR","000001","301","20","QUI","18:30 às 20:20","Guilherme Marback Neto"
+NA,NA,NA,NA,"CMB","00:00 às 00:00","Guilherme Marback Neto"
+NA,"000002","301","20","QUI","07:00 às 08:50","Guilherme Marback Neto"
+NA,NA,NA,NA,"CMB","00:00 às 00:00","Guilherme Marback Neto"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"ADM222 - GESTAO DE PESSOAS","010000","314","5","SEG","08:50 às 10:40","Diva Ester Okazaki Rowe"
+NA,NA,"301","30",NA,NA,"Diva Ester Okazaki Rowe"
+NA,NA,"314","5","CMB","00:00 às 00:00","Diva Ester Okazaki Rowe"
+NA,NA,"301","30",NA,NA,"Diva Ester Okazaki Rowe"
+NA,"020000","314","5","QUA","07:00 às 08:50","Daniela Campos Bahia Moscon"
+NA,NA,"301","30",NA,NA,"Daniela Campos Bahia Moscon"
+NA,NA,"314","5","CMB","00:00 às 00:00","Daniela Campos Bahia Moscon"
+NA,NA,"301","30",NA,NA,"Daniela Campos Bahia Moscon"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"ADM223 - ESTUDOS ANTROPOLÓGICOS DAS ORGANIZAÇÕES","010000","314","5","QUA","08:50 às 10:40","Ariadne Scalfoni Rigo"
+NA,NA,"301","25",NA,NA,"Ariadne Scalfoni Rigo"
+NA,NA,"314","5","CMB","00:00 às 00:00","Ariadne Scalfoni Rigo"
+NA,NA,"301","25",NA,NA,"Ariadne Scalfoni Rigo"
+NA,"020000","580","5","QUI","08:50 às 10:40","Ariadne Scalfoni Rigo"
+NA,NA,"314","3",NA,NA,"Ariadne Scalfoni Rigo"
+NA,NA,"301","25",NA,NA,"Ariadne Scalfoni Rigo"
+NA,NA,"580","5","CMB","00:00 às 00:00","Ariadne Scalfoni Rigo"
+NA,NA,"314","3",NA,NA,"Ariadne Scalfoni Rigo"
+NA,NA,"301","25",NA,NA,"Ariadne Scalfoni Rigo"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"ADM224 - TCC - TRABALHO DE CONCLUSÃO DE CURSO","000100","301","100","CMB","00:00 às 23:00","Docente não informado pelo Departamento"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"ADM226 - GESTAO DE CUSTOS I","010000","387","3","QUA","07:00 às 08:50","Cleide Dantas Carneiro"
+NA,NA,"314","3",NA,NA,"Cleide Dantas Carneiro"
+NA,NA,"301","40",NA,NA,"Cleide Dantas Carneiro"
+NA,NA,"387","3","CMB","00:00 às 00:00","Cleide Dantas Carneiro"
+NA,NA,"314","3",NA,NA,"Cleide Dantas Carneiro"
+NA,NA,"301","40",NA,NA,"Cleide Dantas Carneiro"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"ADM227 - ORCAMENTO E FINANCAS PUBLICAS","010000","301","45","SEG","07:00 às 08:50","Ana Rita Silva Sacramento"
+NA,NA,NA,NA,"CMB","00:00 às 00:00","Ana Rita Silva Sacramento"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"ADM228 - TÉCNICAS SECRETARIAIS I","010000","314","52","TER","08:50 às 10:40","Rodrigo Muller"
+NA,NA,NA,NA,"CMB","00:00 às 00:00","Rodrigo Muller"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"ADM229 - TÉCNICAS SECRETARIAIS II","010000","314","30","QUI","08:50 às 10:40","Karine Conceição de Oliveira"
+NA,NA,NA,NA,"CMB","00:00 às 00:00","Karine Conceição de Oliveira"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"ADM235 - PANORAMA SOCIO - POLITICO NO BRASIL E NO MUNDO","010000","327","10","SEG","08:50 às 10:40","Andre Luis Nascimento dos Santos"
+NA,NA,"314","12",NA,NA,"Andre Luis Nascimento dos Santos"
+NA,NA,"301","10",NA,NA,"Andre Luis Nascimento dos Santos"
+NA,NA,"327","10","CMB","00:00 às 00:00","Andre Luis Nascimento dos Santos"
+NA,NA,"314","12",NA,NA,"Andre Luis Nascimento dos Santos"
+NA,NA,"301","10",NA,NA,"Andre Luis Nascimento dos Santos"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"ADM240 - GESTAO CONTABIL PARA SECRETARIOS","010000","380","5","QUA","08:50 às 10:40","Cleide Dantas Carneiro"
+NA,NA,"314","20",NA,NA,"Cleide Dantas Carneiro"
+NA,NA,"305","5",NA,NA,"Cleide Dantas Carneiro"
+NA,NA,"304","5",NA,NA,"Cleide Dantas Carneiro"
+NA,NA,"380","5","CMB","00:00 às 00:00","Cleide Dantas Carneiro"
+NA,NA,"314","20",NA,NA,"Cleide Dantas Carneiro"
+NA,NA,"305","5",NA,NA,"Cleide Dantas Carneiro"
+NA,NA,"304","5",NA,NA,"Cleide Dantas Carneiro"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"ADM244 - GESTAO SECRETARIAL I","010000","327","10","SEX","08:50 às 10:40","Karine Freitas Souza"
+NA,NA,"314","20",NA,NA,"Karine Freitas Souza"
+NA,NA,"327","10","CMB","00:00 às 00:00","Karine Freitas Souza"
+NA,NA,"314","20",NA,NA,"Karine Freitas Souza"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"ADM245 - GESTAO SECRETARIAL II","010000","314","30","QUA","08:50 às 10:40","Barbara Maria Dultra Pereira"
+NA,NA,NA,NA,"CMB","00:00 às 00:00","Barbara Maria Dultra Pereira"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"ADM254 - GESTÃO CULTURAL","010000","327","5","SEX","07:55 às 11:35","Eduardo Paes Barreto Davel"
+NA,NA,"314","3",NA,NA,"Eduardo Paes Barreto Davel"
+NA,NA,"301","35",NA,NA,"Eduardo Paes Barreto Davel"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"ADMB80 - ADMINISTRAÇÃO POLÍTICA","010000","301","30","QUI","08:50 às 09:45","Elizabeth Matos Ribeiro"
+NA,NA,NA,NA,"CMB","00:00 às 00:00","Elizabeth Matos Ribeiro"
+NA,"020000","384","3","QUA","18:30 às 20:20","Luiza Reis Teixeira"
+NA,NA,"301","30",NA,NA,"Luiza Reis Teixeira"
+NA,NA,"384","3","CMB","00:00 às 00:00","Luiza Reis Teixeira"
+NA,NA,"301","30",NA,NA,"Luiza Reis Teixeira"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"ADMB81 - ÉTICA EMPRESARIAL RESPONSABILIDADE SOCIAL","010000","301","35","QUA","18:30 às 20:20","Andrea Cardoso Ventura"
+NA,NA,"190","3",NA,NA,"Andrea Cardoso Ventura"
+NA,NA,"301","35","CMB","00:00 às 00:00","Andrea Cardoso Ventura"
+NA,NA,"190","3",NA,NA,"Andrea Cardoso Ventura"
+NA,"020000","384","3","QUA","10:40 às 12:30","Andrea Cardoso Ventura"
+NA,NA,"301","35",NA,NA,"Andrea Cardoso Ventura"
+NA,NA,"384","3","CMB","00:00 às 00:00","Andrea Cardoso Ventura"
+NA,NA,"301","35",NA,NA,"Andrea Cardoso Ventura"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"ADMC99 - INFORMÁTICA  I","010100","327","5","QUI","10:40 às 12:30","Rodrigo Muller"
+NA,NA,"314","20",NA,NA,"Rodrigo Muller"
+NA,NA,"327","5","CMB","00:00 às 00:00","Rodrigo Muller"
+NA,NA,"314","20",NA,NA,"Rodrigo Muller"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"ADMD02 - PLANEJAMENTO EMPRESARIAL","010000","387","10","TER","10:40 às 12:30","Sergio Ricardo Goes Oliveira"
+NA,NA,"327","10",NA,NA,"Sergio Ricardo Goes Oliveira"
+NA,NA,"314","20",NA,NA,"Sergio Ricardo Goes Oliveira"
+NA,NA,"387","10","CMB","00:00 às 00:00","Sergio Ricardo Goes Oliveira"
+NA,NA,"327","10",NA,NA,"Sergio Ricardo Goes Oliveira"
+NA,NA,"314","20",NA,NA,"Sergio Ricardo Goes Oliveira"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"ADMD03 - INFORMÁTICA  II","010100","314","20","TER","08:50 às 10:40","Silvio Vanderlei Araujo Sousa"
+NA,NA,"190","5",NA,NA,"Silvio Vanderlei Araujo Sousa"
+NA,NA,"314","20","CMB","00:00 às 00:00","Silvio Vanderlei Araujo Sousa"
+NA,NA,"190","5",NA,NA,"Silvio Vanderlei Araujo Sousa"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"ADMD04 - METODOLOGIA DA PESQUISA","010100","327","10","QUI","08:50 às 10:40","Claudiani Waiandt"
+NA,NA,"314","15",NA,NA,"Claudiani Waiandt"
+NA,NA,"301","10",NA,NA,"Claudiani Waiandt"
+NA,NA,"327","10","CMB","00:00 às 00:00","Claudiani Waiandt"
+NA,NA,"314","15",NA,NA,"Claudiani Waiandt"
+NA,NA,"301","10",NA,NA,"Claudiani Waiandt"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"ADMD05 - INFORMÁTICA  III - AUTOMAÇÃO DE ESCRITÓRIOS","010000","314","20","TER","10:40 às 12:30","Silvio Vanderlei Araujo Sousa"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"ADMD06 - TRABALHO DE CONCLUSÃO DE CURSO","010000","314","20","CMB","00:00 às 23:00","Docente não informado pelo Departamento"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"ADMD07 - EMPREENDEDORISMO","010000","387","5","QUA","10:40 às 12:30","Karine Conceição de Oliveira"
+NA,NA,"314","20",NA,NA,"Karine Conceição de Oliveira"
+NA,NA,"301","20",NA,NA,"Karine Conceição de Oliveira"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"ADMD08 - SISTEMAS DE INFORMAÇÕES GERENCIAIS  I","010100","387","10","TER","18:30 às 20:20","Ernani Marques dos Santos"
+NA,NA,"327","10",NA,NA,"Ernani Marques dos Santos"
+NA,NA,"314","10",NA,NA,"Ernani Marques dos Santos"
+NA,NA,"190","5",NA,NA,"Ernani Marques dos Santos"
+NA,NA,"387","10","CMB","00:00 às 00:00","Ernani Marques dos Santos"
+NA,NA,"327","10",NA,NA,"Ernani Marques dos Santos"
+NA,NA,"314","10",NA,NA,"Ernani Marques dos Santos"
+NA,NA,"190","5",NA,NA,"Ernani Marques dos Santos"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"ADMD09 - ESTÁGIO CURRICULAR SUPERVISIONADO","000100","314","12","TER","08:50 às 10:40","Ana Cristina Muniz Decia"
+NA,NA,NA,NA,"CMB","00:00 às 00:00","Ana Cristina Muniz Decia"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"ADME99 - ECONOMIA DA INOVAÇÃO","010000","387","4","SEG","18:30 às 20:20","Isabel Sartori"
+NA,NA,"195","40",NA,NA,"Isabel Sartori"
+NA,NA,"387","4","CMB","00:00 às 00:00","Isabel Sartori"
+NA,NA,"195","40",NA,NA,"Isabel Sartori"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"ADMF01 - SISTEMAS DE APOIO À DECISÃO","010000","195","40","SEG","18:30 às 21:15","Jair Sampaio Soares Junior"
+NA,NA,NA,NA,"CMB","00:00 às 00:00","Jair Sampaio Soares Junior"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"ADMF12 - TRABALHO DE CONCLUSÃO DE CURSO I","010000","384","7","CMB","00:00 às 23:00","Docente não informado pelo Departamento"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"ADMF13 - GESTÃO DE ORGANIZAÇÕES ASSOCIATIVAS E EMPREEND.SOLIDÁRIOS","010000","387","3","TER","18:30 às 20:20","Genauto Carvalho de Franca Filho"
+NA,NA,"327","2",NA,NA,"Genauto Carvalho de Franca Filho"
+NA,NA,"325","5",NA,NA,"Genauto Carvalho de Franca Filho"
+NA,NA,"314","5",NA,NA,"Genauto Carvalho de Franca Filho"
+NA,NA,"313","2",NA,NA,"Genauto Carvalho de Franca Filho"
+NA,NA,"307","2",NA,NA,"Genauto Carvalho de Franca Filho"
+NA,NA,"306","3",NA,NA,"Genauto Carvalho de Franca Filho"
+NA,NA,"305","3",NA,NA,"Genauto Carvalho de Franca Filho"
+NA,NA,"384","7",NA,NA,"Genauto Carvalho de Franca Filho"
+NA,NA,"304","5",NA,NA,"Genauto Carvalho de Franca Filho"
+NA,NA,"301","13",NA,NA,"Genauto Carvalho de Franca Filho"
+NA,NA,"384","7","CMB","00:00 às 00:00","Genauto Carvalho de Franca Filho"
+NA,NA,"327","2",NA,NA,"Genauto Carvalho de Franca Filho"
+NA,NA,"325","5",NA,NA,"Genauto Carvalho de Franca Filho"
+NA,NA,"314","5",NA,NA,"Genauto Carvalho de Franca Filho"
+NA,NA,"313","2",NA,NA,"Genauto Carvalho de Franca Filho"
+NA,NA,"307","2",NA,NA,"Genauto Carvalho de Franca Filho"
+NA,NA,"306","3",NA,NA,"Genauto Carvalho de Franca Filho"
+NA,NA,"305","3",NA,NA,"Genauto Carvalho de Franca Filho"
+NA,NA,"304","5",NA,NA,"Genauto Carvalho de Franca Filho"
+NA,NA,"387","3",NA,NA,"Genauto Carvalho de Franca Filho"
+NA,NA,"301","13",NA,NA,"Genauto Carvalho de Franca Filho"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"ADMF50 - POLÍTICAS PÚBLICAS E GESTÃO GOVERNAMENTAL","010000","314","3","SEG","08:50 às 10:40","Antonio Sergio Araujo Fernandes"
+NA,NA,"301","25",NA,NA,"Antonio Sergio Araujo Fernandes"
+NA,NA,"314","3","CMB","00:00 às 00:00","Antonio Sergio Araujo Fernandes"
+NA,NA,"301","25",NA,NA,"Antonio Sergio Araujo Fernandes"
+NA,"020000","384","3","QUI","08:50 às 10:40","Luiza Reis Teixeira"
+NA,NA,"301","25",NA,NA,"Luiza Reis Teixeira"
+NA,NA,"384","3","CMB","00:00 às 00:00","Luiza Reis Teixeira"
+NA,NA,"301","25",NA,NA,"Luiza Reis Teixeira"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"ADMF51 - GESTÃO AMBIENTAL E CONSUMO CONSCIENTE NAS ORGANIZAÇÕES","010000","327","4","TER","10:40 às 12:30","Maria Elisabete Pereira dos Santos"
+NA,NA,"314","4",NA,NA,"Maria Elisabete Pereira dos Santos"
+NA,NA,"305","4",NA,NA,"Maria Elisabete Pereira dos Santos"
+NA,NA,"301","25",NA,NA,"Maria Elisabete Pereira dos Santos"
+NA,NA,"202","4",NA,NA,"Maria Elisabete Pereira dos Santos"
+NA,NA,"113","4",NA,NA,"Maria Elisabete Pereira dos Santos"
+NA,NA,"327","4","CMB","00:00 às 00:00","Maria Elisabete Pereira dos Santos"
+NA,NA,"314","4",NA,NA,"Maria Elisabete Pereira dos Santos"
+NA,NA,"305","4",NA,NA,"Maria Elisabete Pereira dos Santos"
+NA,NA,"301","25",NA,NA,"Maria Elisabete Pereira dos Santos"
+NA,NA,"202","4",NA,NA,"Maria Elisabete Pereira dos Santos"
+NA,NA,"113","4",NA,NA,"Maria Elisabete Pereira dos Santos"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"ADMF52 - HABILIDADES  E COMPETÊNCIAS DO ADMINISTRADOR","010000","301","50","SEG","07:00 às 08:50","Sandro Coelho Moreira Pinto"
+NA,"020000","301","50","SEX","07:00 às 08:50","Raimundo Santos Leal"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"ADMF53 - SEMINÁRIOS  DE PRÁTICAS DE GESTÃO I","000100","301","35","QUA","10:40 às 12:30","Joao Marcelo Pitia Barreto"
+NA,"000200","314","2","SEX","07:00 às 08:50","Joao Marcelo Pitia Barreto"
+NA,NA,"301","35",NA,NA,"Joao Marcelo Pitia Barreto"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"ADMF54 - ESTUDOS ORGANIZACIONAIS I","010000","301","50","TER","08:50 às 10:40","Grace Kelly Marques Rodrigues"
+NA,NA,NA,NA,"CMB","00:00 às 00:00","Grace Kelly Marques Rodrigues"
+NA,"020000","301","50","QUA","10:40 às 12:30","Grace Kelly Marques Rodrigues"
+NA,NA,NA,NA,"CMB","00:00 às 00:00","Grace Kelly Marques Rodrigues"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"ADMF55 - ESTUDOS ORGANIZACIONAIS II","010000","301","30","TER","07:00 às 08:50","Raimundo Santos Leal"
+NA,NA,NA,NA,"CMB","00:00 às 00:00","Raimundo Santos Leal"
+NA,"020000","314","5","TER","08:50 às 10:40","Raimundo Santos Leal"
+NA,NA,"301","30",NA,NA,"Raimundo Santos Leal"
+NA,NA,"314","5","CMB","00:00 às 00:00","Raimundo Santos Leal"
+NA,NA,"301","30",NA,NA,"Raimundo Santos Leal"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"ADMF56 - INICIAÇÃO CIENTÍFICA","010000","301","50","TER","08:50 às 09:45","Monica de Aguiar Mac Allister da Silva"
+NA,NA,NA,NA,"CMB","00:00 às 00:00","Monica de Aguiar Mac Allister da Silva"
+NA,"020000","301","50","TER","10:40 às 11:35","Monica de Aguiar Mac Allister da Silva"
+NA,NA,NA,NA,"CMB","00:00 às 00:00","Monica de Aguiar Mac Allister da Silva"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"ADMF58 - PLANEJAMENTO E CONTROLE DE OPERAÇÕES","010000","301","35","QUA","18:30 às 20:20","Felipe Tumenas Marques"
+NA,NA,NA,NA,"CMB","00:00 às 00:00","Felipe Tumenas Marques"
+NA,"020000","301","35","QUA","10:40 às 12:30","Felipe Tumenas Marques"
+NA,NA,NA,NA,"CMB","00:00 às 00:00","Felipe Tumenas Marques"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"ADMF59 - SISTEMAS DE INFORM GERENCIAIS PARA TOMADA DE DECISÕES","010100","301","25","TER","14:50 às 16:40","Ernani Marques dos Santos"
+NA,NA,"190","5",NA,NA,"Ernani Marques dos Santos"
+NA,NA,"301","25","CMB","00:00 às 00:00","Ernani Marques dos Santos"
+NA,NA,"190","5",NA,NA,"Ernani Marques dos Santos"
+NA,"020200","301","25","TER","10:40 às 12:30","Maria Carolina Santos de Souza"
+NA,NA,"190","5",NA,NA,"Maria Carolina Santos de Souza"
+NA,NA,"301","25","CMB","00:00 às 00:00","Maria Carolina Santos de Souza"
+NA,NA,"190","5",NA,NA,"Maria Carolina Santos de Souza"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"ADMF60 - GESTÃO DE PESSOAS II","010000","301","30","QUA","18:30 às 20:20","Tania Moura Benevides"
+NA,NA,NA,NA,"CMB","00:00 às 00:00","Tania Moura Benevides"
+NA,"020000","301","30","QUA","08:50 às 10:40","Daniela Campos Bahia Moscon"
+NA,NA,NA,NA,"CMB","00:00 às 00:00","Daniela Campos Bahia Moscon"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"ADMF64 - TRABALHO DE CONCLUSÃO DE CURSO II","000100","384","7","CMB","00:00 às 23:00","Docente não informado pelo Departamento"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"ADMF65 - INDUSTRIAS CRIATIVAS","010100","384","1","SEX","08:50 às 09:45","Fabio Almeida Ferreira"
+NA,NA,"314","5",NA,NA,"Fabio Almeida Ferreira"
+NA,NA,"301","25",NA,NA,"Fabio Almeida Ferreira"
+NA,NA,"384","1","CMB","00:00 às 00:00","Fabio Almeida Ferreira"
+NA,NA,"314","5",NA,NA,"Fabio Almeida Ferreira"
+NA,NA,"301","25",NA,NA,"Fabio Almeida Ferreira"
+NA,"020200","387","2","QUA","18:30 às 19:25","Fabio Almeida Ferreira"
+NA,NA,"384","3",NA,NA,"Fabio Almeida Ferreira"
+NA,NA,"327","3",NA,NA,"Fabio Almeida Ferreira"
+NA,NA,"314","3",NA,NA,"Fabio Almeida Ferreira"
+NA,NA,"301","25",NA,NA,"Fabio Almeida Ferreira"
+NA,NA,NA,NA,"CMB","00:00 às 00:00","Fabio Almeida Ferreira"
+NA,NA,"387","2",NA,NA,"Fabio Almeida Ferreira"
+NA,NA,"384","3",NA,NA,"Fabio Almeida Ferreira"
+NA,NA,"327","3",NA,NA,"Fabio Almeida Ferreira"
+NA,NA,"314","3",NA,NA,"Fabio Almeida Ferreira"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"ADMF72 - SEMINÁRIOS DE PRÁTICAS DE GESTÃO II","000100","301","45","SEG","10:40 às 12:30","Ariadne Scalfoni Rigo"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"ADMF73 - SEMINÁRIOS DE PRÁTICAS DE GESTÃO III","000100","301","30","TER","08:50 às 10:40","Maria Carolina Santos de Souza"
+NA,"000200","301","30","SEG","18:30 às 20:20","Maria Carolina Santos de Souza"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"ADMJ85 - ACCS: INOVAÇÃO EM PEQUENAS E MÉDIAS EMPRESAS","010100","387","5","QUI","13:55 às 16:40","Joao Marcelo Pitia Barreto"
+NA,NA,"382","5",NA,NA,"Joao Marcelo Pitia Barreto"
+NA,NA,"327","5",NA,NA,"Joao Marcelo Pitia Barreto"
+NA,NA,"314","5",NA,NA,"Joao Marcelo Pitia Barreto"
+NA,NA,"308","5",NA,NA,"Joao Marcelo Pitia Barreto"
+NA,NA,"301","15",NA,NA,"Joao Marcelo Pitia Barreto"
+NA,NA,"387","5","CMB","00:00 às 00:00","Joao Marcelo Pitia Barreto"
+NA,NA,"382","5",NA,NA,"Joao Marcelo Pitia Barreto"
+NA,NA,"327","5",NA,NA,"Joao Marcelo Pitia Barreto"
+NA,NA,"314","5",NA,NA,"Joao Marcelo Pitia Barreto"
+NA,NA,"308","5",NA,NA,"Joao Marcelo Pitia Barreto"
+NA,NA,"301","15",NA,NA,"Joao Marcelo Pitia Barreto"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"ADMJ86 - ACCS: POLÍTICAS PÚBLICAS DE CUIDADOS PARA AS DIVERSIDADES","010100","875","1","QUA","18:30 às 20:20","Edgilson Tavares de Araujo"
+NA,NA,"581","1",NA,NA,"Edgilson Tavares de Araujo"
+NA,NA,"515","1",NA,NA,"Edgilson Tavares de Araujo"
+NA,NA,"503","1",NA,NA,"Edgilson Tavares de Araujo"
+NA,NA,"401","2",NA,NA,"Edgilson Tavares de Araujo"
+NA,NA,"387","3",NA,NA,"Edgilson Tavares de Araujo"
+NA,NA,"384","2",NA,NA,"Edgilson Tavares de Araujo"
+NA,NA,"383","2",NA,NA,"Edgilson Tavares de Araujo"
+NA,NA,"327","1",NA,NA,"Edgilson Tavares de Araujo"
+NA,NA,"314","2",NA,NA,"Edgilson Tavares de Araujo"
+NA,NA,"313","3",NA,NA,"Edgilson Tavares de Araujo"
+NA,NA,"312","3",NA,NA,"Edgilson Tavares de Araujo"
+NA,NA,"309","1",NA,NA,"Edgilson Tavares de Araujo"
+NA,NA,"308","1",NA,NA,"Edgilson Tavares de Araujo"
+NA,NA,"307","1",NA,NA,"Edgilson Tavares de Araujo"
+NA,NA,"306","2",NA,NA,"Edgilson Tavares de Araujo"
+NA,NA,"301","2",NA,NA,"Edgilson Tavares de Araujo"
+NA,NA,"286","4",NA,NA,"Edgilson Tavares de Araujo"
+NA,NA,"283","3",NA,NA,"Edgilson Tavares de Araujo"
+NA,NA,"325","4",NA,NA,"Edgilson Tavares de Araujo"
+NA,NA,"226","1",NA,NA,"Edgilson Tavares de Araujo"
+NA,NA,"222","1",NA,NA,"Edgilson Tavares de Araujo"
+NA,NA,"210","2",NA,NA,"Edgilson Tavares de Araujo"
+NA,NA,"385","1",NA,NA,"Edgilson Tavares de Araujo"
+NA,NA,"207","2",NA,NA,"Edgilson Tavares de Araujo"
+NA,NA,"203","1",NA,NA,"Edgilson Tavares de Araujo"
+NA,NA,"190","1",NA,NA,"Edgilson Tavares de Araujo"
+NA,NA,"506","2",NA,NA,"Edgilson Tavares de Araujo"
+NA,NA,"189","1",NA,NA,"Edgilson Tavares de Araujo"
+NA,NA,"187","1",NA,NA,"Edgilson Tavares de Araujo"
+NA,NA,"101","1",NA,NA,"Edgilson Tavares de Araujo"
+NA,NA,"008","6",NA,NA,"Edgilson Tavares de Araujo"
+NA,NA,"875","1","CMB","00:00 às 00:00","Edgilson Tavares de Araujo"
+NA,NA,"581","1",NA,NA,"Edgilson Tavares de Araujo"
+NA,NA,"515","1",NA,NA,"Edgilson Tavares de Araujo"
+NA,NA,"503","1",NA,NA,"Edgilson Tavares de Araujo"
+NA,NA,"401","2",NA,NA,"Edgilson Tavares de Araujo"
+NA,NA,"387","3",NA,NA,"Edgilson Tavares de Araujo"
+NA,NA,"384","2",NA,NA,"Edgilson Tavares de Araujo"
+NA,NA,"383","2",NA,NA,"Edgilson Tavares de Araujo"
+NA,NA,"327","1",NA,NA,"Edgilson Tavares de Araujo"
+NA,NA,"314","2",NA,NA,"Edgilson Tavares de Araujo"
+NA,NA,"313","3",NA,NA,"Edgilson Tavares de Araujo"
+NA,NA,"312","3",NA,NA,"Edgilson Tavares de Araujo"
+NA,NA,"309","1",NA,NA,"Edgilson Tavares de Araujo"
+NA,NA,"308","1",NA,NA,"Edgilson Tavares de Araujo"
+NA,NA,"307","1",NA,NA,"Edgilson Tavares de Araujo"
+NA,NA,"306","2",NA,NA,"Edgilson Tavares de Araujo"
+NA,NA,"301","2",NA,NA,"Edgilson Tavares de Araujo"
+NA,NA,"286","4",NA,NA,"Edgilson Tavares de Araujo"
+NA,NA,"283","3",NA,NA,"Edgilson Tavares de Araujo"
+NA,NA,"325","4",NA,NA,"Edgilson Tavares de Araujo"
+NA,NA,"226","1",NA,NA,"Edgilson Tavares de Araujo"
+NA,NA,"222","1",NA,NA,"Edgilson Tavares de Araujo"
+NA,NA,"210","2",NA,NA,"Edgilson Tavares de Araujo"
+NA,NA,"385","1",NA,NA,"Edgilson Tavares de Araujo"
+NA,NA,"207","2",NA,NA,"Edgilson Tavares de Araujo"
+NA,NA,"203","1",NA,NA,"Edgilson Tavares de Araujo"
+NA,NA,"190","1",NA,NA,"Edgilson Tavares de Araujo"
+NA,NA,"506","2",NA,NA,"Edgilson Tavares de Araujo"
+NA,NA,"189","1",NA,NA,"Edgilson Tavares de Araujo"
+NA,NA,"187","1",NA,NA,"Edgilson Tavares de Araujo"
+NA,NA,"101","1",NA,NA,"Edgilson Tavares de Araujo"
+NA,NA,"008","6",NA,NA,"Edgilson Tavares de Araujo"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"ADMJ87 - MARKETING DIGITAL","010000","387","5","SEG","18:30 às 20:20","Luciana Alves Rodas Vera"
+NA,NA,"314","5",NA,NA,"Luciana Alves Rodas Vera"
+NA,NA,"301","40",NA,NA,"Luciana Alves Rodas Vera"
+NA,NA,"387","5","CMB","00:00 às 00:00","Luciana Alves Rodas Vera"
+NA,NA,"314","5",NA,NA,"Luciana Alves Rodas Vera"
+NA,NA,"301","40",NA,NA,"Luciana Alves Rodas Vera"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"ADMJ88 - EXCEL AVANÇADO","010000","314","6","TER","08:50 às 09:45","Roberto Brazileiro Paixao"
+NA,NA,"301","30",NA,NA,"Roberto Brazileiro Paixao"
+NA,NA,"314","6","CMB","00:00 às 00:00","Roberto Brazileiro Paixao"
+NA,NA,"301","30",NA,NA,"Roberto Brazileiro Paixao"
+NA,"020000","384","3","TER","09:45 às 10:40","Roberto Brazileiro Paixao"
+NA,NA,"301","30",NA,NA,"Roberto Brazileiro Paixao"
+NA,NA,"384","3","CMB","00:00 às 00:00","Roberto Brazileiro Paixao"
+NA,NA,"301","30",NA,NA,"Roberto Brazileiro Paixao"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"ADMJ89 - GESTÃO DESPORTIVA E SUSTENTABILIDADE","010000","515","2","QUI","19:25 às 20:20","Dilson Cerqueira da Silva"
+NA,NA,"384","2",NA,NA,"Dilson Cerqueira da Silva"
+NA,NA,"315","10",NA,NA,"Dilson Cerqueira da Silva"
+NA,NA,"314","1",NA,NA,"Dilson Cerqueira da Silva"
+NA,NA,"301","35",NA,NA,"Dilson Cerqueira da Silva"
+NA,NA,"515","2","CMB","00:00 às 00:00","Dilson Cerqueira da Silva"
+NA,NA,"384","2",NA,NA,"Dilson Cerqueira da Silva"
+NA,NA,"315","10",NA,NA,"Dilson Cerqueira da Silva"
+NA,NA,"314","1",NA,NA,"Dilson Cerqueira da Silva"
+NA,NA,"301","35",NA,NA,"Dilson Cerqueira da Silva"
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,NA,NA,NA
+"ADMJ90 - GESTÃO DE EMPREENDIMENTOS EM TEMPOS DE PANDEMIA","010100","314","5","SEX","09:45 às 10:40","Silvio Vanderlei Araujo Sousa"
+NA,NA,"301","40",NA,NA,"Silvio Vanderlei Araujo Sousa"
+NA,NA,"314","5","CMB","00:00 às 00:00","Silvio Vanderlei Araujo Sousa"
+NA,NA,"301","40",NA,NA,"Silvio Vanderlei Araujo Sousa"
